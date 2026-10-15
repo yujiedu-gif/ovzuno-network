@@ -17,7 +17,7 @@
   short_name: Crypto
   url: https://crypto.ovzuno.com/
   accent: crypto
-  asset: crypto
+  asset: crypto-usd
   label: Infrastructure and payments
   description: Technical clarity on stablecoins, payment rails, wallets, custody, DeFi infrastructure, security, and compliance technology.
   audience: Builders, payment teams, operators, and decision-makers evaluating crypto infrastructure.

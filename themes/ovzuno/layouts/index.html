@@ -21,7 +21,7 @@
           </svg>
           <div class="network-map__core" aria-hidden="true"><span>ovzuno</span><small>publishing network</small></div>
           <a class="network-node network-node--ai network-motion" href="https://aiinfra.ovzuno.com/" aria-label="Visit OvZuno AI Infrastructure"><img src="{{ "brand/emblem-ai-infrastructure.svg" | relURL }}" alt=""><span>AI Infrastructure</span></a>
-          <a class="network-node network-node--crypto network-motion" href="https://crypto.ovzuno.com/" aria-label="Visit OvZuno Crypto"><img src="{{ "brand/emblem-crypto.svg" | relURL }}" alt=""><span>Crypto</span></a>
+          <a class="network-node network-node--crypto network-motion" href="https://crypto.ovzuno.com/" aria-label="Visit OvZuno Crypto"><img src="{{ "brand/emblem-crypto-usd.svg" | relURL }}" alt=""><span>Crypto</span></a>
           <a class="network-node network-node--workplace network-motion" href="https://workplace.ovzuno.com/" aria-label="Visit OvZuno Workplace"><img src="{{ "brand/emblem-workplace.svg" | relURL }}" alt=""><span>Workplace</span></a>
         </div>
       </div>
@@ -101,7 +101,7 @@
       </div>
     </section>
   {{ else }}
-    {{ $emblemAsset := cond (eq .Site.Params.siteKey "aiinfra") "ai-infrastructure" .Site.Params.siteKey }}
+    {{ $emblemAsset := cond (eq .Site.Params.siteKey "aiinfra") "ai-infrastructure" (cond (eq .Site.Params.siteKey "crypto") "crypto-usd" .Site.Params.siteKey) }}
     <section class="vertical-hero">
       <div class="vertical-hero__grid" aria-hidden="true"></div>
       <div class="shell vertical-hero__inner">

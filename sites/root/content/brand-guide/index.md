@@ -37,5 +37,5 @@ Warm cream, beige, and large warm-gray surfaces are not part of the interface pa
 - [Crypto lockup](/brand/ovzuno-crypto.svg)
 - [Workplace lockup](/brand/ovzuno-workplace.svg)
 - [AI Infrastructure emblem](/brand/emblem-ai-infrastructure.svg)
-- [Crypto emblem](/brand/emblem-crypto.svg)
+- [Crypto emblem](/brand/emblem-crypto-usd.svg)
 - [Workplace emblem](/brand/emblem-workplace.svg)
