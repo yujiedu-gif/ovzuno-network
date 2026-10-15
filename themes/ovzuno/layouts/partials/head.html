@@ -15,6 +15,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="{{ "brand/favicon.svg" | relURL }}" type="image/svg+xml">
+{{ if and .IsHome (eq .Site.Params.siteKey "root") }}<link rel="preload" as="image" href="{{ "images/ovzuno-hero-datacenter.jpg" | relURL }}" fetchpriority="high">{{ end }}
 {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
 {{ partial "schema.html" . }}
