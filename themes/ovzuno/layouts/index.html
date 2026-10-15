@@ -11,18 +11,18 @@
             <a class="button-link button-link--quiet" href="{{ "editorial-standards/" | relURL }}">Our editorial standards <span aria-hidden="true">→</span></a>
           </div>
         </div>
-        <div class="network-map" aria-hidden="true">
-          <svg class="network-map__lines" viewBox="0 0 560 500" role="presentation">
+        <div class="network-map">
+          <svg class="network-map__lines" viewBox="0 0 560 500" aria-hidden="true">
             <circle class="network-motion network-map__orbit network-map__orbit--outer" cx="280" cy="250" r="190"/>
             <circle class="network-motion network-map__orbit network-map__orbit--inner" cx="280" cy="250" r="112"/>
             <path class="network-map__path network-map__path--ai" d="M280 250L166 115"/>
             <path class="network-map__path network-map__path--crypto" d="M280 250L430 198"/>
             <path class="network-map__path network-map__path--workplace" d="M280 250L304 419"/>
           </svg>
-          <div class="network-map__core"><span>ovzuno</span><small>publishing network</small></div>
-          <div class="network-node network-node--ai network-motion"><img src="{{ "brand/emblem-ai-infrastructure.svg" | relURL }}" alt=""><span>AI Infrastructure</span></div>
-          <div class="network-node network-node--crypto network-motion"><img src="{{ "brand/emblem-crypto.svg" | relURL }}" alt=""><span>Crypto</span></div>
-          <div class="network-node network-node--workplace network-motion"><img src="{{ "brand/emblem-workplace.svg" | relURL }}" alt=""><span>Workplace</span></div>
+          <div class="network-map__core" aria-hidden="true"><span>ovzuno</span><small>publishing network</small></div>
+          <a class="network-node network-node--ai network-motion" href="https://aiinfra.ovzuno.com/" aria-label="Visit OvZuno AI Infrastructure"><img src="{{ "brand/emblem-ai-infrastructure.svg" | relURL }}" alt=""><span>AI Infrastructure</span></a>
+          <a class="network-node network-node--crypto network-motion" href="https://crypto.ovzuno.com/" aria-label="Visit OvZuno Crypto"><img src="{{ "brand/emblem-crypto.svg" | relURL }}" alt=""><span>Crypto</span></a>
+          <a class="network-node network-node--workplace network-motion" href="https://workplace.ovzuno.com/" aria-label="Visit OvZuno Workplace"><img src="{{ "brand/emblem-workplace.svg" | relURL }}" alt=""><span>Workplace</span></a>
         </div>
       </div>
     </section>
