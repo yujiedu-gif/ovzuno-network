@@ -1,0 +1,5 @@
+name = "OvZuno"
+license = "All rights reserved"
+description = "Shared editorial theme for the OvZuno publishing network"
+min_version = "0.146.0"
+

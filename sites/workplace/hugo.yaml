@@ -1,0 +1,32 @@
+baseURL: https://workplace.ovzuno.com/
+languageCode: en-us
+title: OvZuno Workplace
+theme: ovzuno
+disableKinds: [RSS, sitemap, taxonomy, term]
+enableRobotsTXT: false
+disableHugoGeneratorInject: true
+
+params:
+  siteKey: workplace
+  publicationName: Workplace
+  prelaunch: true
+  description: Focused knowledge about unified communications, collaboration, contact centers, workplace agents, and workflow automation.
+  heroTitle: Technology for how modern teams communicate and work.
+  heroLead: Practical coverage of the platforms and operating choices that shape collaboration, customer conversations, and automated work.
+  scopeStatement: We cover workplace systems and operations—not generic career advice, human-resources commentary, or office lifestyle content.
+  footerStatement: Focused knowledge about communications, collaboration, agents, and automated work.
+  topics:
+    - name: Communications
+      description: Unified communications, meetings, voice, messaging, interoperability, administration, and enterprise deployment choices.
+    - name: Customer conversations
+      description: Contact center architecture, channels, routing, quality, workforce tooling, analytics, and AI-assisted service operations.
+    - name: Agents and automation
+      description: Workplace agents, workflow orchestration, integrations, governance, measurement, and human oversight.
+
+menus:
+  main:
+    - {name: Home, pageRef: /, weight: 10}
+    - {name: Topics, pageRef: /topics, weight: 20}
+    - {name: Articles, pageRef: /articles, weight: 30}
+    - {name: About, pageRef: /about, weight: 40}
+

@@ -1,0 +1,97 @@
+{{ define "main" }}
+  {{ if eq .Site.Params.siteKey "root" }}
+    <section class="network-hero">
+      <div class="network-hero__art" aria-hidden="true">
+        <span class="network-hero__orbit network-hero__orbit--one"></span>
+        <span class="network-hero__orbit network-hero__orbit--two"></span>
+        <span class="network-hero__beam"></span>
+        <span class="network-hero__node"></span>
+      </div>
+      <div class="shell network-hero__inner">
+        <div class="network-hero__copy">
+          <p class="eyebrow">B2B technology publisher</p>
+          <h1>Focused publications for complex technology markets.</h1>
+          <p class="hero__lead">OvZuno creates independent, practical technology knowledge for builders, operators, and decision-makers.</p>
+        </div>
+      </div>
+    </section>
+    <section class="network-summary" aria-label="Publishing network summary">
+      <div class="shell network-summary__grid">
+        <div class="network-summary__metric"><strong>03</strong><span>focused technology<br>publications</span></div>
+        <div><h2>Clear signal for people working in fast-moving technology markets.</h2><p>Each publication has a defined audience and subject boundary. New fields appear only when they can support an independent body of useful work.</p></div>
+      </div>
+    </section>
+    <section class="publication-directory shell" aria-labelledby="publications-heading">
+      <aside class="publication-directory__nav">
+        <p class="eyebrow">Technology markets</p>
+        <nav aria-label="Publication directory">
+          {{ range $index, $publication := .Site.Data.publications }}<a href="#publication-{{ .accent }}"><span>0{{ add $index 1 }}</span>{{ .short_name }}</a>{{ end }}
+        </nav>
+      </aside>
+      <div class="publication-directory__content">
+        <header>
+          <p class="eyebrow">Our publications</p>
+          <h2 id="publications-heading">Specialist coverage, organized by field.</h2>
+        </header>
+        {{ range $index, $publication := .Site.Data.publications }}
+          <article class="publication-row publication-row--{{ .accent }}" id="publication-{{ .accent }}">
+            <div class="publication-row__number">0{{ add $index 1 }}</div>
+            <div>
+              <span class="publication-row__label">{{ .label }}</span>
+              <h3>{{ .short_name }}</h3>
+              <p>{{ .description }}</p>
+              <ul>{{ range .topics }}<li>{{ . }}</li>{{ end }}</ul>
+            </div>
+            <a href="{{ .url }}" aria-label="Visit {{ .name }}">Visit <span aria-hidden="true">↗</span></a>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+    <section class="principles-band">
+      <div class="shell principles-grid">
+        <div><p class="eyebrow">Editorial foundation</p><h2>Useful before promotional.</h2></div>
+        <div class="principle"><span>01</span><h3>Focused scope</h3><p>Every publication states what it covers and what it deliberately leaves out.</p></div>
+        <div class="principle"><span>02</span><h3>Checkable sources</h3><p>Claims should be traceable to primary documentation or clearly identified evidence.</p></div>
+        <div class="principle"><span>03</span><h3>Visible relationships</h3><p>Commercial support is disclosed without handing editorial conclusions to a partner.</p></div>
+      </div>
+    </section>
+  {{ else }}
+    <section class="vertical-hero">
+      <div class="vertical-hero__grid" aria-hidden="true"></div>
+      <div class="shell vertical-hero__inner">
+        <div class="vertical-hero__copy">
+          <p class="eyebrow">An OvZuno publication</p>
+          <h1>{{ .Site.Params.heroTitle }}</h1>
+          <p class="hero__lead">{{ .Site.Params.heroLead }}</p>
+        </div>
+      </div>
+    </section>
+    <section class="network-summary network-summary--vertical">
+      <div class="shell network-summary__grid">
+        <div class="network-summary__metric"><strong>03</strong><span>defined coverage<br>areas</span></div>
+        <div><h2>A narrower field, covered with depth.</h2><p>{{ .Site.Params.scopeStatement }}</p></div>
+      </div>
+    </section>
+    <section class="topic-directory shell" aria-labelledby="coverage-heading">
+      <div class="topic-directory__intro">
+        <p class="eyebrow">Coverage map</p>
+        <h2 id="coverage-heading">The areas this publication will explain.</h2>
+        <span class="prelaunch-note">Publication in development · Editorial framework online</span>
+      </div>
+      <div class="topic-directory__list">
+        {{ range $index, $topic := .Site.Params.topics }}
+          <article class="topic-row">
+            <span class="topic-row__number">0{{ add $index 1 }}</span>
+            <div><h3>{{ $topic.name }}</h3><p>{{ $topic.description }}</p></div>
+          </article>
+        {{ end }}
+      </div>
+    </section>
+    <section class="launch-panel shell">
+      <p class="eyebrow">Before publication</p>
+      <h2>We are building the editorial foundation first.</h2>
+      <p>No placeholder stories, artificial popularity signals, or empty article feeds. The publication will open for indexing only after its first three topic clusters meet our launch standard.</p>
+      <a class="text-link" href="{{ "editorial-standards/" | relURL }}">Read the editorial standards <span aria-hidden="true">→</span></a>
+    </section>
+  {{ end }}
+{{ end }}

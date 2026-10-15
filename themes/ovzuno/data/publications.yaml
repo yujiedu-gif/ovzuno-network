@@ -1,0 +1,31 @@
+- name: OvZuno AI Infrastructure
+  short_name: AI Infrastructure
+  url: https://aiinfra.ovzuno.com/
+  accent: ai
+  label: Compute to production
+  description: Clear reporting and practical knowledge about training, inference, GPU cloud, model APIs, deployment, cost, and observability.
+  topics:
+    - Training infrastructure
+    - Inference systems
+    - GPU cloud
+- name: OvZuno Crypto
+  short_name: Crypto
+  url: https://crypto.ovzuno.com/
+  accent: crypto
+  label: Infrastructure and payments
+  description: Technical clarity on stablecoins, payment rails, wallets, custody, DeFi infrastructure, security, and compliance technology.
+  topics:
+    - Stablecoins
+    - Payment rails
+    - Security and custody
+- name: OvZuno Workplace
+  short_name: Workplace
+  url: https://workplace.ovzuno.com/
+  accent: workplace
+  label: Technology for modern work
+  description: Focused coverage of communications, collaboration, contact centers, workplace agents, and workflow automation.
+  topics:
+    - Unified communications
+    - Collaboration
+    - Workflow automation
+

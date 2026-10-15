@@ -1,0 +1,34 @@
+baseURL: https://ovzuno.com/
+languageCode: en-us
+title: OvZuno | B2B Technology Publisher
+theme: ovzuno
+disableKinds: [RSS, sitemap, taxonomy, term]
+enableRobotsTXT: false
+disableHugoGeneratorInject: true
+
+params:
+  siteKey: root
+  prelaunch: true
+  description: OvZuno is a B2B technology publisher creating focused publications on AI infrastructure, crypto, and workplace technology.
+  footerStatement: Focused publications for complex technology markets, built around clear scope, checkable sources, and visible relationships.
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: Publications
+      pageRef: /publications
+      weight: 20
+    - name: About
+      pageRef: /about
+      weight: 30
+    - name: Standards
+      pageRef: /editorial-standards
+      weight: 40
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+

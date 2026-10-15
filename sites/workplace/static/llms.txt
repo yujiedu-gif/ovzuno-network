@@ -1,0 +1,10 @@
+# OvZuno Workplace
+
+Focused technical publication about unified communications, collaboration, contact centers, workplace agents, and workflow automation.
+
+Publisher: https://ovzuno.com/
+Editorial standards: https://workplace.ovzuno.com/editorial-standards/
+Disclosure: https://workplace.ovzuno.com/publication-disclosure/
+Contact: editor@ovzuno.com
+Status: pre-launch; pages are not intended for search indexing.
+

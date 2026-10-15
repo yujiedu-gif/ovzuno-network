@@ -1,0 +1,10 @@
+# OvZuno Crypto
+
+Focused technical publication about crypto infrastructure, stablecoins, payments, wallets, custody, security, and compliance technology.
+
+Publisher: https://ovzuno.com/
+Editorial standards: https://crypto.ovzuno.com/editorial-standards/
+Disclosure: https://crypto.ovzuno.com/publication-disclosure/
+Contact: editor@ovzuno.com
+Status: pre-launch; pages are not intended for search indexing.
+

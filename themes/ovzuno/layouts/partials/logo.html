@@ -1,0 +1,11 @@
+{{ $compact := .compact | default false }}
+<span class="brand-mark" aria-hidden="true">
+  <svg viewBox="0 0 48 48" focusable="false">
+    <path class="brand-mark__arc" d="M35.7 8.9A18.5 18.5 0 0 0 9.2 17.2"/>
+    <path class="brand-mark__arc" d="M12.3 39.1A18.5 18.5 0 0 0 38.8 30.8"/>
+    <path class="brand-mark__z" d="M14.5 16.5h19L14.5 31.5h19"/>
+    <circle class="brand-mark__node" cx="40" cy="14" r="3"/>
+  </svg>
+</span>
+{{ if not $compact }}<span class="brand-word">ovzuno</span>{{ end }}
+

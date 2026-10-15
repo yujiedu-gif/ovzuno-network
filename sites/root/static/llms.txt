@@ -1,0 +1,15 @@
+# OvZuno
+
+OvZuno is a B2B technology publisher creating focused publications for builders, operators, and technology decision-makers.
+
+Publications:
+- AI Infrastructure: https://aiinfra.ovzuno.com/
+- Crypto: https://crypto.ovzuno.com/
+- Workplace: https://workplace.ovzuno.com/
+
+Editorial standards: https://ovzuno.com/editorial-standards/
+Publication disclosure: https://ovzuno.com/publication-disclosure/
+Contact: editor@ovzuno.com
+
+Status: pre-launch; pages are not intended for search indexing.
+

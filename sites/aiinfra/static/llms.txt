@@ -1,0 +1,10 @@
+# OvZuno AI Infrastructure
+
+Focused technical publication about AI training infrastructure, inference, GPU cloud, model APIs, deployment, cost, scaling, and observability.
+
+Publisher: https://ovzuno.com/
+Editorial standards: https://aiinfra.ovzuno.com/editorial-standards/
+Disclosure: https://aiinfra.ovzuno.com/publication-disclosure/
+Contact: editor@ovzuno.com
+Status: pre-launch; pages are not intended for search indexing.
+

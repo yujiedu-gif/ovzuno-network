@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Pre-launch: indexing is controlled by page-level and HTTP noindex directives.
+

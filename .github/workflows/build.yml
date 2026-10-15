@@ -1,0 +1,19 @@
+name: Build and validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.146.0"
+          extended: true
+      - run: chmod +x scripts/*.sh
+      - run: ./scripts/build-all.sh
+

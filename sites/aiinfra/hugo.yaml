@@ -1,0 +1,32 @@
+baseURL: https://aiinfra.ovzuno.com/
+languageCode: en-us
+title: OvZuno AI Infrastructure
+theme: ovzuno
+disableKinds: [RSS, sitemap, taxonomy, term]
+enableRobotsTXT: false
+disableHugoGeneratorInject: true
+
+params:
+  siteKey: aiinfra
+  publicationName: AI Infrastructure
+  prelaunch: true
+  description: Practical knowledge about AI training, inference, GPU cloud, model APIs, deployment, cost, scaling, and observability.
+  heroTitle: AI infrastructure, from compute to production.
+  heroLead: Practical explanations for the people building, operating, and evaluating the systems behind training and inference.
+  scopeStatement: We focus on the infrastructure beneath production AI—not consumer tool roundups, prompt collections, or general AI headlines.
+  footerStatement: Focused knowledge about the systems beneath training, inference, and production AI.
+  topics:
+    - name: Training infrastructure
+      description: Compute architecture, clusters, networking, storage, orchestration, and the operating constraints behind model training.
+    - name: Inference and serving
+      description: Runtime design, model APIs, deployment patterns, latency, throughput, observability, and production reliability.
+    - name: GPU cloud economics
+      description: Capacity, utilization, performance tradeoffs, cost models, and the practical questions behind infrastructure selection.
+
+menus:
+  main:
+    - {name: Home, pageRef: /, weight: 10}
+    - {name: Topics, pageRef: /topics, weight: 20}
+    - {name: Articles, pageRef: /articles, weight: 30}
+    - {name: About, pageRef: /about, weight: 40}
+

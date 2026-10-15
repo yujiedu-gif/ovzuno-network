@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="OvZuno — focused technology publications">
+  <rect width="1200" height="630" fill="#122033"/>
+  <path d="M0 492h1200M850 0v630" stroke="#26374d"/>
+  <g transform="translate(90 80) scale(2.25)" fill="none" stroke="#90aaff" stroke-linecap="round" stroke-linejoin="round"><path d="M35.7 8.9A18.5 18.5 0 0 0 9.2 17.2M12.3 39.1A18.5 18.5 0 0 0 38.8 30.8" stroke-width="4"/><path d="M14.5 16.5h19L14.5 31.5h19" stroke-width="3.2"/><circle cx="40" cy="14" r="3" fill="#90aaff" stroke="none"/></g>
+  <text x="90" y="260" fill="#fff" font-family="Georgia,serif" font-size="96" letter-spacing="-4">Focused publications</text>
+  <text x="90" y="365" fill="#fff" font-family="Georgia,serif" font-size="96" letter-spacing="-4">for complex markets.</text>
+  <text x="90" y="548" fill="#90aaff" font-family="Arial,sans-serif" font-size="31" font-weight="600">ovzuno</text>
+  <text x="875" y="548" fill="#aeb9c8" font-family="monospace" font-size="18">B2B TECHNOLOGY PUBLISHER</text>
+</svg>
+

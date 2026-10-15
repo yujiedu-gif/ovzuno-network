@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article class="page-shell shell">
+  <header class="page-header">
+    <p class="eyebrow">{{ .Params.kicker | default "OvZuno" }}</p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p>{{ . }}</p>{{ end }}
+  </header>
+  <div class="prose">{{ .Content }}</div>
+</article>
+{{ end }}
+

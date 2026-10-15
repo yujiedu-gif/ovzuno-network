@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ $authorKey := .Params.author | default "editorial_team" }}
+{{ $author := index .Site.Data.authors $authorKey }}
+<article class="article-shell shell">
+  <header class="article-header">
+    <p class="eyebrow">{{ .Params.content_type | default "Article" }}</p>
+    <h1>{{ .Title }}</h1>
+    <p class="article-deck">{{ .Description }}</p>
+    <div class="article-meta">
+      <span>By <a href="{{ $author.url }}">{{ $author.name }}</a></span>
+      <span>Published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></span>
+      {{ with .Params.lastmod }}<span>Updated <time datetime="{{ time.AsTime . | time.Format "2006-01-02" }}">{{ time.AsTime . | time.Format "January 2, 2006" }}</time></span>{{ end }}
+    </div>
+    {{ with .Params.disclosure }}<aside class="article-disclosure"><strong>Disclosure</strong><p>{{ . }}</p></aside>{{ end }}
+  </header>
+  <div class="article-layout">
+    <aside class="article-rail">
+      {{ with .Params.topics }}<p class="eyebrow">Topics</p>{{ range . }}<span>{{ . }}</span>{{ end }}{{ end }}
+    </aside>
+    <div class="prose article-body">
+      {{ .Content }}
+      {{ with .Params.sources }}
+        <section class="article-sources" aria-labelledby="sources-heading">
+          <h2 id="sources-heading">Sources and references</h2>
+          <ol>{{ range . }}<li><a href="{{ .url }}" rel="noopener">{{ .title }}</a>{{ with .publisher }} — {{ . }}{{ end }}</li>{{ end }}</ol>
+        </section>
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}
+

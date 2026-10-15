@@ -1,0 +1,32 @@
+baseURL: https://crypto.ovzuno.com/
+languageCode: en-us
+title: OvZuno Crypto
+theme: ovzuno
+disableKinds: [RSS, sitemap, taxonomy, term]
+enableRobotsTXT: false
+disableHugoGeneratorInject: true
+
+params:
+  siteKey: crypto
+  publicationName: Crypto
+  prelaunch: true
+  description: Clear technical knowledge about crypto infrastructure, stablecoins, payments, wallets, custody, security, and compliance technology.
+  heroTitle: Crypto infrastructure and payments, clearly explained.
+  heroLead: Technical knowledge about the rails, systems, safeguards, and operating choices behind digital-asset products.
+  scopeStatement: We cover infrastructure and payment technology—not token promotion, trading signals, price predictions, or investment advice.
+  footerStatement: Technical clarity on crypto infrastructure, payment rails, custody, and security.
+  topics:
+    - name: Stablecoins and payments
+      description: Issuance models, reserves, settlement, payment flows, integrations, and the infrastructure connecting digital value to commerce.
+    - name: Wallets and custody
+      description: Key management, account architecture, custody models, recovery, operational controls, and user-facing tradeoffs.
+    - name: Security and compliance
+      description: Smart-contract risk, transaction monitoring, identity controls, policy requirements, and infrastructure resilience.
+
+menus:
+  main:
+    - {name: Home, pageRef: /, weight: 10}
+    - {name: Topics, pageRef: /topics, weight: 20}
+    - {name: Articles, pageRef: /articles, weight: 30}
+    - {name: About, pageRef: /about, weight: 40}
+

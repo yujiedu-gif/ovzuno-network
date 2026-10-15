@@ -1,0 +1,28 @@
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <section>
+      <a class="brand brand--footer" href="{{ .Site.Home.RelPermalink }}">
+        {{ partial "logo.html" (dict "compact" false) }}
+      </a>
+      <p>{{ .Site.Params.footerStatement }}</p>
+      {{ if ne .Site.Params.siteKey "root" }}<a class="network-link" href="https://ovzuno.com/publications/">An OvZuno publication</a>{{ end }}
+    </section>
+    <nav aria-label="Publication links">
+      <h2>Publication</h2>
+      <a href="{{ "about/" | relURL }}">About</a>
+      <a href="{{ "editorial-standards/" | relURL }}">Editorial standards</a>
+      <a href="{{ "publication-disclosure/" | relURL }}">Publication disclosure</a>
+    </nav>
+    <nav aria-label="Information links">
+      <h2>Information</h2>
+      <a href="{{ "contact/" | relURL }}">Contact</a>
+      <a href="{{ "privacy/" | relURL }}">Privacy</a>
+      <a href="{{ "terms/" | relURL }}">Terms</a>
+    </nav>
+  </div>
+  <div class="shell footer-bottom">
+    <span>© {{ now.Year }} OvZuno</span>
+    <span>Independent technology knowledge, clearly scoped.</span>
+  </div>
+</footer>
+
