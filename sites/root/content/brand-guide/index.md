@@ -16,13 +16,16 @@ Maintain clear space around the logo equal to at least half the height of the ci
 
 ## Color
 
-- Paper: `#F7F5EF`
+- Paper: `#FFFFFF`
+- Cool surface: `#F4F7FA`
 - Ink: `#122033`
 - Cobalt: `#2D5BFF`
 - Muted: `#647083`
 - Rule: `#D8DCE3`
 
 AI Infrastructure uses blue-cyan, Crypto uses copper-orange, and Workplace uses teal only as supporting accents. The master wordmark remains consistent.
+
+Warm cream, beige, and large warm-gray surfaces are not part of the interface palette. Publication pages use white, cool gray, and ink blue so technical diagrams and editorial content retain a clean, neutral canvas.
 
 ## Files
 
@@ -33,4 +36,6 @@ AI Infrastructure uses blue-cyan, Crypto uses copper-orange, and Workplace uses 
 - [AI Infrastructure lockup](/brand/ovzuno-ai-infrastructure.svg)
 - [Crypto lockup](/brand/ovzuno-crypto.svg)
 - [Workplace lockup](/brand/ovzuno-workplace.svg)
-
+- [AI Infrastructure emblem](/brand/emblem-ai-infrastructure.svg)
+- [Crypto emblem](/brand/emblem-crypto.svg)
+- [Workplace emblem](/brand/emblem-workplace.svg)

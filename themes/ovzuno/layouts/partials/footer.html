@@ -1,28 +1,61 @@
 <footer class="site-footer">
-  <div class="shell footer-grid">
-    <section>
+  <div class="shell footer-grid{{ if eq .Site.Params.siteKey "root" }} footer-grid--network{{ end }}">
+    <section class="footer-profile">
       <a class="brand brand--footer" href="{{ .Site.Home.RelPermalink }}">
         {{ partial "logo.html" (dict "compact" false) }}
       </a>
       <p>{{ .Site.Params.footerStatement }}</p>
       {{ if ne .Site.Params.siteKey "root" }}<a class="network-link" href="https://ovzuno.com/publications/">An OvZuno publication</a>{{ end }}
     </section>
-    <nav aria-label="Publication links">
-      <h2>Publication</h2>
-      <a href="{{ "about/" | relURL }}">About</a>
-      <a href="{{ "editorial-standards/" | relURL }}">Editorial standards</a>
-      <a href="{{ "publication-disclosure/" | relURL }}">Publication disclosure</a>
-    </nav>
-    <nav aria-label="Information links">
-      <h2>Information</h2>
-      <a href="{{ "contact/" | relURL }}">Contact</a>
-      <a href="{{ "privacy/" | relURL }}">Privacy</a>
-      <a href="{{ "terms/" | relURL }}">Terms</a>
-    </nav>
+
+    {{ if eq .Site.Params.siteKey "root" }}
+      <nav aria-label="OvZuno publications">
+        <h2>Publications</h2>
+        {{ range .Site.Data.publications }}<a href="{{ .url }}">{{ .short_name }}</a>{{ end }}
+      </nav>
+      <nav aria-label="About OvZuno links">
+        <h2>About OvZuno</h2>
+        <a href="{{ "about/" | relURL }}">About</a>
+        <a href="{{ "publications/" | relURL }}">Publication network</a>
+        <a href="{{ "brand-guide/" | relURL }}">Brand guide</a>
+      </nav>
+      <nav aria-label="Editorial links">
+        <h2>Editorial</h2>
+        <a href="{{ "editorial-standards/" | relURL }}">Editorial standards</a>
+        <a href="{{ "publication-disclosure/" | relURL }}">Publication disclosure</a>
+      </nav>
+      <nav aria-label="Legal links">
+        <h2>Legal</h2>
+        <a href="{{ "privacy/" | relURL }}">Privacy</a>
+        <a href="{{ "terms/" | relURL }}">Terms</a>
+      </nav>
+      <nav aria-label="Contact links">
+        <h2>Contact</h2>
+        <a href="{{ "contact/" | relURL }}">Contact the editor</a>
+        <a href="mailto:editor@ovzuno.com">editor@ovzuno.com</a>
+      </nav>
+    {{ else }}
+      <nav aria-label="Publication links">
+        <h2>Publication</h2>
+        <a href="{{ "about/" | relURL }}">About</a>
+        <a href="{{ "topics/" | relURL }}">Topics</a>
+        <a href="{{ "articles/" | relURL }}">Articles</a>
+      </nav>
+      <nav aria-label="Editorial links">
+        <h2>Editorial</h2>
+        <a href="{{ "editorial-standards/" | relURL }}">Editorial standards</a>
+        <a href="{{ "publication-disclosure/" | relURL }}">Publication disclosure</a>
+      </nav>
+      <nav aria-label="Information links">
+        <h2>Information</h2>
+        <a href="{{ "contact/" | relURL }}">Contact</a>
+        <a href="{{ "privacy/" | relURL }}">Privacy</a>
+        <a href="{{ "terms/" | relURL }}">Terms</a>
+      </nav>
+    {{ end }}
   </div>
   <div class="shell footer-bottom">
     <span>© {{ now.Year }} OvZuno</span>
     <span>Independent technology knowledge, clearly scoped.</span>
   </div>
 </footer>
-

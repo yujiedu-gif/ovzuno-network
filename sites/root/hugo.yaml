@@ -26,9 +26,11 @@ menus:
     - name: Standards
       pageRef: /editorial-standards
       weight: 40
+    - name: Contact
+      pageRef: /contact
+      weight: 50
 
 markup:
   goldmark:
     renderer:
       unsafe: false
-

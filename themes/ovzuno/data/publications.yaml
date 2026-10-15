@@ -2,30 +2,44 @@
   short_name: AI Infrastructure
   url: https://aiinfra.ovzuno.com/
   accent: ai
+  asset: ai-infrastructure
   label: Compute to production
   description: Clear reporting and practical knowledge about training, inference, GPU cloud, model APIs, deployment, cost, and observability.
+  audience: Infrastructure engineers, ML platform teams, technical leaders, and teams operating models in production.
+  excludes: General AI news, prompt collections, and consumer tool roundups.
   topics:
     - Training infrastructure
     - Inference systems
     - GPU cloud
+    - Model APIs
+    - Deployment and observability
 - name: OvZuno Crypto
   short_name: Crypto
   url: https://crypto.ovzuno.com/
   accent: crypto
+  asset: crypto
   label: Infrastructure and payments
   description: Technical clarity on stablecoins, payment rails, wallets, custody, DeFi infrastructure, security, and compliance technology.
+  audience: Builders, payment teams, operators, and decision-makers evaluating crypto infrastructure.
+  excludes: Price predictions, trading signals, and investment promotion.
   topics:
     - Stablecoins
     - Payment rails
+    - Wallet infrastructure
     - Security and custody
+    - Compliance technology
 - name: OvZuno Workplace
   short_name: Workplace
   url: https://workplace.ovzuno.com/
   accent: workplace
+  asset: workplace
   label: Technology for modern work
   description: Focused coverage of communications, collaboration, contact centers, workplace agents, and workflow automation.
+  audience: IT leaders, workplace technology teams, operations leaders, and communication platform owners.
+  excludes: General HR advice, careers content, workplace lifestyle, and office furniture.
   topics:
     - Unified communications
     - Collaboration
+    - Contact center technology
+    - Workplace AI agents
     - Workflow automation
-
