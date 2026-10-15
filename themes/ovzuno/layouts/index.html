@@ -35,38 +35,24 @@
     </section>
 
     <section class="publication-directory shell" id="network" aria-labelledby="publications-heading">
-      <aside class="publication-directory__nav">
-        <p class="eyebrow">Explore the network</p>
-        <nav aria-label="Publication directory">
-          {{ range $index, $publication := .Site.Data.publications }}<a href="#publication-{{ .accent }}"><span>0{{ add $index 1 }}</span>{{ .short_name }}</a>{{ end }}
-        </nav>
-      </aside>
-      <div class="publication-directory__content">
-        <header class="reveal-block">
-          <p class="eyebrow">Our publications</p>
-          <h2 id="publications-heading">Specialist coverage, organized by field.</h2>
-          <p>Every title has its own editorial remit, audience, and visual signal while sharing the same publishing standards.</p>
-        </header>
-        {{ range $index, $publication := .Site.Data.publications }}
-          <details class="publication-panel publication-panel--{{ .accent }} reveal-block" id="publication-{{ .accent }}" open>
-            <summary>
-              <span class="publication-panel__number">0{{ add $index 1 }}</span>
-              <span class="publication-panel__identity"><img src="{{ printf "brand/emblem-%s.svg" .asset | relURL }}" alt=""><span><small>{{ .label }}</small><strong>{{ .short_name }}</strong></span></span>
-              <span class="publication-panel__toggle" aria-hidden="true"></span>
-            </summary>
-            <div class="publication-panel__body">
-              <div class="publication-panel__main">
-                <p class="publication-panel__description">{{ .description }}</p>
-                <div class="publication-panel__meta"><span>For</span><p>{{ .audience }}</p></div>
-                <div class="publication-panel__meta"><span>Boundary</span><p>{{ .excludes }}</p></div>
-              </div>
-              <div class="publication-panel__topics">
-                <span>Core coverage</span>
-                <ul>{{ range .topics }}<li>{{ . }}</li>{{ end }}</ul>
-              </div>
-              <a class="publication-panel__visit" href="{{ .url }}" aria-label="Visit {{ .name }}">Visit publication <span aria-hidden="true">↗</span></a>
+      <header class="publication-directory__heading reveal-block">
+        <p class="eyebrow">Our publications</p>
+        <h2 id="publications-heading">Specialist coverage, organized by field.</h2>
+        <p>Every title has its own editorial remit, audience, and visual signal while sharing the same publishing standards.</p>
+      </header>
+      <div class="publication-showcase">
+        {{ range $publication := .Site.Data.publications }}
+          <article class="publication-tile publication-tile--{{ .accent }} reveal-block" id="publication-{{ .accent }}">
+            <div class="publication-tile__identity"><img src="{{ printf "brand/emblem-%s.svg" .asset | relURL }}" alt=""><span><small>{{ .label }}</small><strong>{{ .short_name }}</strong></span></div>
+            <p class="publication-tile__description">{{ .description }}</p>
+            <div class="publication-tile__meta"><span>For</span><p>{{ .audience }}</p></div>
+            <div class="publication-tile__meta"><span>Boundary</span><p>{{ .excludes }}</p></div>
+            <div class="publication-tile__topics">
+              <span>Core coverage</span>
+              <ul>{{ range .topics }}<li>{{ . }}</li>{{ end }}</ul>
             </div>
-          </details>
+            <a class="publication-tile__visit" href="{{ .url }}" aria-label="Visit {{ .name }}">Visit publication <span aria-hidden="true">↗</span></a>
+          </article>
         {{ end }}
       </div>
     </section>

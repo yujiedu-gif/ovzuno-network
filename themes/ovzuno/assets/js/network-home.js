@@ -29,17 +29,4 @@
     revealItems.forEach((item) => item.classList.add("is-revealed"));
   }
 
-  const panels = [...document.querySelectorAll(".publication-panel")];
-  const compact = window.matchMedia("(max-width: 850px)");
-  let wasCompact = false;
-  const setPanelMode = () => {
-    if (compact.matches && !wasCompact) {
-      panels.forEach((panel, index) => { panel.open = index === 0; });
-    } else if (!compact.matches) {
-      panels.forEach((panel) => { panel.open = true; });
-    }
-    wasCompact = compact.matches;
-  };
-  setPanelMode();
-  compact.addEventListener?.("change", setPanelMode);
 })();
