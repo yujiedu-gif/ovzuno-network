@@ -1,7 +1,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{ if .Site.Params.prelaunch }}<meta name=robots content="noindex,follow,noarchive">{{ end }}
-{{ $title := cond .IsHome .Site.Title (printf "%s | %s" .Title .Site.Title) }}
+{{ $homeTitle := .Site.Params.seoTitle | default .Site.Title }}
+{{ $title := cond .IsHome $homeTitle (printf "%s | %s" .Title .Site.Title) }}
 {{ $description := .Description | default .Params.description | default .Site.Params.description }}
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $description }}">

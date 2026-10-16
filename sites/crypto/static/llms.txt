@@ -1,10 +1,9 @@
 # OvZuno Crypto
 
-Focused technical publication about crypto infrastructure, stablecoins, payments, wallets, custody, security, and compliance technology.
+Independent technical publication about crypto payment infrastructure, stablecoin settlement, self-custodial wallets, crypto cards, PayFi, security, and compliance.
 
 Publisher: https://ovzuno.com/
 Editorial standards: https://crypto.ovzuno.com/editorial-standards/
 Disclosure: https://crypto.ovzuno.com/publication-disclosure/
 Contact: editor@ovzuno.com
 Status: pre-launch; pages are not intended for search indexing.
-

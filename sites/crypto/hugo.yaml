@@ -10,18 +10,29 @@ params:
   siteKey: crypto
   publicationName: Crypto
   prelaunch: true
-  description: Clear technical knowledge about crypto infrastructure, stablecoins, payments, wallets, custody, security, and compliance technology.
-  heroTitle: Crypto infrastructure and payments, clearly explained.
-  heroLead: Technical knowledge about the rails, systems, safeguards, and operating choices behind digital-asset products.
-  scopeStatement: We cover infrastructure and payment technology—not token promotion, trading signals, price predictions, or investment advice.
-  footerStatement: Technical clarity on crypto infrastructure, payment rails, custody, and security.
+  seoTitle: OvZuno Crypto | Crypto Payments, Stablecoins and Wallet Infrastructure
+  description: Independent technical coverage of crypto payments, stablecoin settlement, self-custodial wallets, crypto cards, PayFi, security, and compliance.
+  heroTitle: Crypto payment infrastructure, clearly explained.
+  heroLead: OvZuno Crypto explains the systems, payment rails, safeguards, and operating decisions behind crypto products for builders, operators, merchants, and business decision-makers.
+  scopeStatement: We cover payment and operating infrastructure without token promotion, trading signals, price predictions, investment advice, or undisclosed client marketing.
+  footerStatement: Independent technical coverage of crypto payments, stablecoin settlement, wallets, cards, security, and compliance.
   topics:
-    - name: Stablecoins and payments
-      description: Issuance models, reserves, settlement, payment flows, integrations, and the infrastructure connecting digital value to commerce.
-    - name: Wallets and custody
-      description: Key management, account architecture, custody models, recovery, operational controls, and user-facing tradeoffs.
+    - name: Crypto payments and merchant infrastructure
+      description: Gateways, processors, APIs, checkout, settlement, refunds, reconciliation, and merchant integration.
+    - name: Stablecoins and settlement
+      description: Issuance models, reserves, payment flows, cross-border settlement, liquidity, redemption, USDC, and USDT.
+    - name: Wallets, custody and key management
+      description: Self-custody, MPC, multisig, recovery, signing, access controls, and wallet infrastructure.
+    - name: Blockchain foundations for payments
+      description: Finality, confirmations, fees, signatures, smart contracts, and the concepts required to understand payment systems.
     - name: Security and compliance
-      description: Smart-contract risk, transaction monitoring, identity controls, policy requirements, and infrastructure resilience.
+      description: Smart-contract risk, transaction monitoring, fraud controls, identity requirements, and operational resilience.
+    - name: Crypto cards and spending rails
+      description: Card funding, authorization, conversion, settlement, refunds, limits, and stablecoin spending flows.
+    - name: Cross-chain interoperability
+      description: Bridges, messaging, liquidity, wrapped assets, finality, reconciliation, and cross-chain risk.
+    - name: PayFi, DeFi and agentic payments
+      description: Programmable payment flows, PayFi infrastructure, automated stablecoin payments, and agent transaction controls.
 
 menus:
   main:
@@ -29,4 +40,3 @@ menus:
     - {name: Topics, pageRef: /topics, weight: 20}
     - {name: Articles, pageRef: /articles, weight: 30}
     - {name: About, pageRef: /about, weight: 40}
-

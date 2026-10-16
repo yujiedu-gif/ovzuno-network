@@ -1,5 +1,4 @@
 ---
 title: OvZuno Crypto
-description: Clear technical knowledge about crypto infrastructure, stablecoins, payments, wallets, custody, security, and compliance technology.
+description: Independent technical coverage of crypto payments, stablecoin settlement, self-custodial wallets, crypto cards, PayFi, security, and compliance.
 ---
-
