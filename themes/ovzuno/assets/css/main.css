@@ -111,3 +111,6 @@
 /* Keep long highlighted code inside the article column on narrow screens. */
 .article-body{min-width:0}
 .article-body .highlight,.article-body pre{max-width:100%;overflow-x:auto}
+
+/* Preserve wide comparison tables without widening the mobile document. */
+.article-body table{display:block;width:100%;max-width:100%;overflow-x:auto;border-collapse:collapse;-webkit-overflow-scrolling:touch}
