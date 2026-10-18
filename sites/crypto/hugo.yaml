@@ -6,6 +6,9 @@ disableKinds: [RSS, sitemap, taxonomy, term]
 enableRobotsTXT: false
 disableHugoGeneratorInject: true
 
+frontmatter:
+  lastmod: [lastmod, modified]
+
 params:
   siteKey: crypto
   publicationName: Crypto
