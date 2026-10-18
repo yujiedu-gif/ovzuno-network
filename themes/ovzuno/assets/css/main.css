@@ -107,3 +107,7 @@
   .footer-grid--network{grid-template-columns:1fr 1fr}.footer-grid--network .footer-profile{grid-column:1/-1}
 }
 @media(prefers-reduced-motion:reduce){.network-motion,.network-map__path{animation:none!important}.js .reveal-block{opacity:1;transform:none;transition:none}.site-header,.site-header__inner,.button-link,.network-node img,.network-node span,.publication-tile__identity>img,.vertical-hero__emblem img{transition:none}.network-node:hover img,.network-node:focus-visible img,.publication-tile:hover .publication-tile__identity>img,.publication-tile:focus-within .publication-tile__identity>img,.vertical-hero__emblem:hover img{transform:none}}
+
+/* Keep long highlighted code inside the article column on narrow screens. */
+.article-body{min-width:0}
+.article-body .highlight,.article-body pre{max-width:100%;overflow-x:auto}
