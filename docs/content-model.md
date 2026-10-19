@@ -29,4 +29,4 @@ Every article owns one `owned_question`. `primary_keyword` records the approved 
 
 Only set `lastmod` after a substantive, verified update. Partner-supported work requires both `partner` and a plain-language `disclosure`. One article has one canonical publication; related publications link to it rather than republishing it.
 
-Each source may set `sponsored: true`. Ordinary editorial citations use `rel="noopener"`; sponsored or materially influenced sources use `rel="sponsored nofollow noopener"`.
+Each source may set `sponsored: true`. External editorial citations use `rel="nofollow noopener noreferrer"`; sponsored or materially influenced sources add `sponsored` to that relationship value.
