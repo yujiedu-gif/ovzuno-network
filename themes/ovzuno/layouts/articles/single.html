@@ -22,7 +22,7 @@
       {{ with .Params.sources }}
         <section class="article-sources" aria-labelledby="sources-heading">
           <h2 id="sources-heading">Sources and references</h2>
-          <ol>{{ range . }}<li><a href="{{ .url }}" rel="{{ if .sponsored }}sponsored nofollow {{ end }}noopener">{{ .title }}</a>{{ with .publisher }} — {{ . }}{{ end }}</li>{{ end }}</ol>
+          <ol>{{ range . }}<li><a href="{{ .url }}" rel="{{ if .sponsored }}sponsored {{ end }}nofollow noopener noreferrer">{{ .title }}</a>{{ with .publisher }} — {{ . }}{{ end }}</li>{{ end }}</ol>
         </section>
       {{ end }}
     </div>

@@ -1,17 +1,17 @@
 # OvZuno publishing network
 
-OvZuno is a pre-launch B2B technology publishing network built as four Hugo sites from one repository.
+OvZuno is a B2B technology publishing network built as four Hugo sites from one repository. Crypto is the first live publication; the parent publisher, AI Infrastructure, and Workplace remain in pre-launch mode.
 
 ## Sites
 
-| Site | Canonical URL | Cloudflare Pages project |
-| --- | --- | --- |
-| Parent publisher | `https://ovzuno.com/` | `ovzuno-main` |
-| AI Infrastructure | `https://aiinfra.ovzuno.com/` | `ovzuno-aiinfra` |
-| Crypto | `https://crypto.ovzuno.com/` | `ovzuno-crypto` |
-| Workplace | `https://workplace.ovzuno.com/` | `ovzuno-workplace` |
+| Site | Canonical URL | Cloudflare Pages project | Indexing state |
+| --- | --- | --- | --- |
+| Parent publisher | `https://ovzuno.com/` | `ovzuno-main` | Pre-launch (`noindex`) |
+| AI Infrastructure | `https://aiinfra.ovzuno.com/` | `ovzuno-aiinfra` | Pre-launch (`noindex`) |
+| Crypto | `https://crypto.ovzuno.com/` | `ovzuno-crypto` | Published |
+| Workplace | `https://workplace.ovzuno.com/` | `ovzuno-workplace` | Pre-launch (`noindex`) |
 
-All four sites are intentionally pre-launch. Every HTML page emits `noindex,follow,noarchive`, Cloudflare serves the matching `X-Robots-Tag`, and sitemap/RSS generation is disabled.
+Pre-launch sites emit `noindex,follow,noarchive`, serve the matching `X-Robots-Tag`, and do not generate a sitemap. The Crypto publication emits indexable HTML, a public `robots.txt`, and its own sitemap.
 
 ## Local development
 
@@ -35,4 +35,3 @@ Do not remove pre-launch controls until a publication meets the editorial launch
 ## Brand files
 
 Production SVG logos, favicon source, lockups, and the two unused exploration concepts are stored in `themes/ovzuno/static/brand/`. See [Brand guide](/brand-guide/) on the parent site for usage rules.
-

@@ -107,8 +107,8 @@
     <section class="topic-directory shell" aria-labelledby="coverage-heading">
       <div class="topic-directory__intro">
         <p class="eyebrow">Coverage map</p>
-        <h2 id="coverage-heading">The areas this publication will explain.</h2>
-        <span class="prelaunch-note">Publication in development · Editorial framework online</span>
+        <h2 id="coverage-heading">The areas this publication {{ if .Site.Params.prelaunch }}will explain{{ else }}explains{{ end }}.</h2>
+        {{ if .Site.Params.prelaunch }}<span class="prelaunch-note">Publication in development · Editorial framework online</span>{{ end }}
       </div>
       <div class="topic-directory__list">
         {{ range $topic := .Site.Params.topics }}
@@ -118,11 +118,24 @@
         {{ end }}
       </div>
     </section>
-    <section class="launch-panel shell">
-      <p class="eyebrow">Before publication</p>
-      <h2>We are building the editorial foundation first.</h2>
-      <p>No placeholder stories, artificial popularity signals, or empty article feeds. The publication will open for indexing only after its first three topic clusters meet our launch standard.</p>
-      <a class="text-link" href="{{ "editorial-standards/" | relURL }}">Read the editorial standards <span aria-hidden="true">→</span></a>
-    </section>
+    {{ if .Site.Params.prelaunch }}
+      <section class="launch-panel shell">
+        <p class="eyebrow">Before publication</p>
+        <h2>We are building the editorial foundation first.</h2>
+        <p>No placeholder stories, artificial popularity signals, or empty article feeds. The publication will open for indexing only after its first three topic clusters meet our launch standard.</p>
+        <a class="text-link" href="{{ "editorial-standards/" | relURL }}">Read the editorial standards <span aria-hidden="true">→</span></a>
+      </section>
+    {{ else }}
+      {{ $articles := where .Site.RegularPages "Section" "articles" }}
+      {{ if $articles }}
+        <section class="section shell" aria-labelledby="latest-heading">
+          <div class="section-heading"><h2 id="latest-heading">Latest articles</h2><p>Evidence-bound explanations of crypto systems, operations, and infrastructure.</p></div>
+          <div class="article-list article-list--home">
+            {{ range first 6 $articles.ByDate.Reverse }}<a href="{{ .RelPermalink }}"><span>{{ .Params.content_type }}</span><h2>{{ .Title }}</h2><p>{{ .Description }}</p></a>{{ end }}
+          </div>
+          <p><a class="text-link" href="{{ "articles/" | relURL }}">View all articles <span aria-hidden="true">→</span></a></p>
+        </section>
+      {{ end }}
+    {{ end }}
   {{ end }}
 {{ end }}
