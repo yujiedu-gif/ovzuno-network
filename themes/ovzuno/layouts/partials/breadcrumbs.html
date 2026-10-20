@@ -1,0 +1,17 @@
+{{- if and (eq .Site.Params.siteKey "crypto") (not .IsHome) -}}
+  {{- $items := partial "breadcrumb-data.html" . -}}
+  {{- $last := sub (len $items) 1 -}}
+  <nav class="breadcrumbs shell" aria-label="Breadcrumb">
+    <ol>
+      {{- range $index, $item := $items }}
+        <li>
+          {{- if eq $index $last -}}
+            <span aria-current="page">{{ $item.name }}</span>
+          {{- else -}}
+            <a href="{{ $item.url }}">{{ $item.name }}</a>
+          {{- end -}}
+        </li>
+      {{- end }}
+    </ol>
+  </nav>
+{{- end -}}
