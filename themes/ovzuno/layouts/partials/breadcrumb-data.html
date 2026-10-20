@@ -1,0 +1,16 @@
+{{- $items := slice (dict "name" "Home" "url" .Site.Home.Permalink) -}}
+{{- if and .IsPage (eq .Section "articles") -}}
+  {{- $items = $items | append (dict "name" "Articles" "url" ("articles/" | absURL)) -}}
+  {{- $items = $items | append (dict "name" .Title "url" .Permalink) -}}
+{{- else if and .IsSection (eq .Section "articles") -}}
+  {{- $paginator := .Paginator -}}
+  {{- if gt $paginator.PageNumber 1 -}}
+    {{- $items = $items | append (dict "name" "Articles" "url" ("articles/" | absURL)) -}}
+    {{- $items = $items | append (dict "name" (printf "Page %d" $paginator.PageNumber) "url" ($paginator.URL | absURL)) -}}
+  {{- else -}}
+    {{- $items = $items | append (dict "name" "Articles" "url" .Permalink) -}}
+  {{- end -}}
+{{- else -}}
+  {{- $items = $items | append (dict "name" .Title "url" .Permalink) -}}
+{{- end -}}
+{{- return $items -}}
