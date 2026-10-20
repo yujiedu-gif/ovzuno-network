@@ -6,10 +6,15 @@ disableKinds: [RSS, taxonomy, term]
 enableRobotsTXT: true
 disableHugoGeneratorInject: true
 
+pagination:
+  pagerSize: 24
+  path: page
+
 frontmatter:
   lastmod: [lastmod, modified]
 
 params:
+  articlePagination: true
   siteKey: crypto
   publicationName: Crypto
   prelaunch: false
