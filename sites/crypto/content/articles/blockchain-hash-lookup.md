@@ -20,9 +20,9 @@ A **blockchain hash lookup** uses a transaction or block identifier to retrieve 
 
 A hash is a value used as an identifier for data. In a lookup, you provide the identifier so a search service can locate an associated record. The identifier is not the record itself, and its meaning depends on what was hashed and which network’s records are being searched.
 
-A **transaction hash** refers to a transaction record; a **block hash** refers to a block record. These are different lookup targets. A draft proposal for blockchain-reference URIs describes common explorer lookup objects as transactions by hash and blocks by hash or height, alongside addresses. The proposal does not establish that all services use identical reference formats. [claim_bip_explorer_objects]
+A **transaction hash** refers to a transaction record; a **block hash** refers to a block record. These are different lookup targets. A draft proposal for blockchain-reference URIs describes common explorer lookup objects as transactions by hash and blocks by hash or height, alongside addresses. The proposal does not establish that all services use identical reference formats. [source](<https://bitcoin.org/bip/122/>)
 
-The transaction record may include information about the transaction’s inputs and outputs. For example, in Bitcoin, an outpoint identifies a specific output of a prior transaction using that transaction’s hash and the output’s index. This is a Bitcoin-specific structure, not a universal description of transactions on every blockchain. [claim_bitcoin_outpoint]
+The transaction record may include information about the transaction’s inputs and outputs. For example, in Bitcoin, an outpoint identifies a specific output of a prior transaction using that transaction’s hash and the output’s index. This is a Bitcoin-specific structure, not a universal description of transactions on every blockchain. [source](<https://developer.bitcoin.org/reference/transactions.html>)
 
 A hash lookup retrieves an associated record; it does not decode a person’s identity or explain the transaction’s purpose. Those questions require evidence beyond the identifier and the record it locates.
 
@@ -36,7 +36,7 @@ Finally, use the complete identifier as provided. If the value is mistyped or in
 
 ## What a transaction or block result may show
 
-A transaction lookup may return the transaction record and related details that the network or lookup service makes available. The exact fields and labels depend on the chain and the service. Bitcoin’s transaction model, for instance, represents a non-coinbase input as spending a specific prior output, while new outputs remain unspent until a later input spends them. That model helps explain how Bitcoin transaction records can relate to earlier records, but it should not be generalized to account-based chains or every other network. [claim_bitcoin_utxo_flow]
+A transaction lookup may return the transaction record and related details that the network or lookup service makes available. The exact fields and labels depend on the chain and the service. Bitcoin’s transaction model, for instance, represents a non-coinbase input as spending a specific prior output, while new outputs remain unspent until a later input spends them. That model helps explain how Bitcoin transaction records can relate to earlier records, but it should not be generalized to account-based chains or every other network. [source](<https://developer.bitcoin.org/devguide/transactions.html>)
 
 A block lookup may locate a block record, while a transaction lookup may locate a transaction associated with a block. The available evidence here supports distinguishing those lookup targets, not asserting a universal list of fields that every result will display. Field names, the way assets are represented, and the details returned can differ across protocols and services.
 
@@ -44,7 +44,7 @@ In general, treat a displayed field as information supplied by the relevant chai
 
 ## How to interpret a lookup result carefully
 
-A transaction record becomes part of a blockchain’s shared ledger through a process involving cryptographic authorization, validation under that network’s rules, grouping into a block, and a consensus decision. This describes a high-level lifecycle; specific checks, block structures, consensus, and finality rules differ by network. [claim_nist_transaction_consensus]
+A transaction record becomes part of a blockchain’s shared ledger through a process involving cryptographic authorization, validation under that network’s rules, grouping into a block, and a consensus decision. This describes a high-level lifecycle; specific checks, block structures, consensus, and finality rules differ by network. [source](<https://csrc.nist.gov/pubs/ir/8202/final>)
 
 Accordingly, a result can support that a record is present in the chain data being queried. It does not, by itself, identify the person who controlled an address or explain the purpose of a transfer. The hash is a reference to data, not a statement of identity or intent.
 
@@ -52,7 +52,7 @@ Be careful with status terms. Their meaning can depend on the network and the lo
 
 ## Privacy and safety limits
 
-A lookup concerns an identifier and its associated record; it is not a way to establish a real-world identity from the hash alone. On Bitcoin, the record structure can expose links between a transaction input and a specific prior output. Interpreting those links as evidence about a person or the person’s purpose would go beyond what that structure establishes. [claim_bitcoin_outpoint]
+A lookup concerns an identifier and its associated record; it is not a way to establish a real-world identity from the hash alone. On Bitcoin, the record structure can expose links between a transaction input and a specific prior output. Interpreting those links as evidence about a person or the person’s purpose would go beyond what that structure establishes. [source](<https://developer.bitcoin.org/reference/transactions.html>)
 
 Keep the lookup separate from access credentials. A hash identifies a record; it is not evidence in the allowed technical descriptions of a credential that authorizes spending or account access. Do not treat a transaction or block identifier as a substitute for a secret or as proof that someone has control of an address.
 

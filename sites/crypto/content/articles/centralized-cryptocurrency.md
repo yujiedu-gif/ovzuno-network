@@ -22,7 +22,7 @@ A cryptocurrency system can include a network and separate services that interac
 
 This distinction prevents a common analytical mistake: assuming that one visible operator controls every activity connected to a system. Instead, ask what authority that operator has, what it cannot control, and what other components are required for the service to work. Those answers may vary across custody, processing, access, and governance.
 
-Some systems deliberately combine components with different control arrangements. A Layer 2 solution, for example, may derive some security from Ethereum’s Layer 1 consensus rather than operating only under a separate validator set. That statement does not settle how a particular Layer 2 system handles governance, access, or operations: the exact guarantee depends on its proof, data-availability, settlement, governance, and exit mechanisms. (claim_l2_derives_l1_security)
+Some systems deliberately combine components with different control arrangements. A Layer 2 solution, for example, may derive some security from Ethereum’s Layer 1 consensus rather than operating only under a separate validator set. That statement does not settle how a particular Layer 2 system handles governance, access, or operations: the exact guarantee depends on its proof, data-availability, settlement, governance, and exit mechanisms. ([source](<https://ethereum.org/developers/docs/scaling/>))
 
 The point is not to force every system into a binary category. A precise description says which component or responsibility is centralized, which is distributed, and where evidence is incomplete.
 
@@ -32,7 +32,7 @@ A function-by-function map helps distinguish technical responsibilities from ser
 
 **Custody and key control.** Ask who controls the private keys that authorize activity. Key control and network validation are separate matters: a key holder may rely on a network operated by other participants, and a network record does not by itself identify the person, organization, device, or service controlling a key. The same broad distinction applies when evaluating whether a service’s custody arrangements are separate from its transaction-processing role.
 
-**Transaction processing.** Identify who receives an instruction, what component evaluates or executes it, and which party can decline to process it. A centralized exchange can provide near-real-time trading after assets are deposited, but this is a description of a service-provider model, not a universal feature of cryptocurrency protocols. Performance and liquidity vary by venue, asset pair, and market conditions. (claim_bis_cex_fast_internal_trading)
+**Transaction processing.** Identify who receives an instruction, what component evaluates or executes it, and which party can decline to process it. A centralized exchange can provide near-real-time trading after assets are deposited, but this is a description of a service-provider model, not a universal feature of cryptocurrency protocols. Performance and liquidity vary by venue, asset pair, and market conditions. ([source](<https://www.bis.org/publ/work1227.pdf>))
 
 The practical question is where a decision takes effect. A service may decide whether to accept an instruction through its own systems, while a blockchain applies its protocol rules to transactions submitted to the network. These are different decision points; one should not be confused with the other.
 
@@ -46,7 +46,7 @@ The comparison is about how decisions are made and enforced. A centralized arran
 
 Decentralization may differ across governance, validation, custody, and access. A network can distribute validation while a connected service concentrates custody or access. Likewise, a centrally operated service can interact with a network whose history is maintained through a distributed process. These examples are conceptual distinctions, not statements about every service or network.
 
-Bitcoin’s original proof-of-work design provides one example of protocol-level rules: when competing histories exist, nodes treat the valid chain with the greatest cumulative proof of work as the selected history. Nodes still enforce consensus rules; accumulated work does not make an invalid block valid. This describes a rule for selecting network history, not who controls a separate wallet, application, or service connected to the network. (claim_compare_pow_chain)
+Bitcoin’s original proof-of-work design provides one example of protocol-level rules: when competing histories exist, nodes treat the valid chain with the greatest cumulative proof of work as the selected history. Nodes still enforce consensus rules; accumulated work does not make an invalid block valid. This describes a rule for selecting network history, not who controls a separate wallet, application, or service connected to the network. ([source](<https://bitcoin.org/bitcoin.pdf>))
 
 For a useful comparison, name the function and then identify the decision-maker and enforcement mechanism. “Distributed validation” does not establish distributed custody. “Centralized access” does not establish that an operator controls the network. Keep each conclusion limited to the component supported by the available evidence.
 

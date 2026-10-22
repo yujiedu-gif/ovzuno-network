@@ -18,23 +18,23 @@ NFT finance means using a non-fungible token in a financial arrangement—for ex
 
 ## What “NFT finance” means
 
-A non-fungible token, or NFT, is a distinct token recorded under a smart contract. On Ethereum, an NFT contract can record ownership by associating a unique token identifier with an address. That record identifies who holds the token according to the contract; it does not automatically establish ownership of associated artwork, physical property, or other rights. (claim_eth_nft_ownership)
+A non-fungible token, or NFT, is a distinct token recorded under a smart contract. On Ethereum, an NFT contract can record ownership by associating a unique token identifier with an address. That record identifies who holds the token according to the contract; it does not automatically establish ownership of associated artwork, physical property, or other rights. ([source](<https://ethereum.org/nft/>))
 
-In this article, “NFT finance” means financial arrangements that use an NFT as part of how value, access, or a claim is transferred or managed. Financial tokenization more broadly refers to representing financial assets and liabilities on programmable digital ledgers, but a token record alone does not settle the legal or economic meaning of what it represents. (claim_imf_tokenized_finance_definition)
+In this article, “NFT finance” means financial arrangements that use an NFT as part of how value, access, or a claim is transferred or managed. Financial tokenization more broadly refers to representing financial assets and liabilities on programmable digital ledgers, but a token record alone does not settle the legal or economic meaning of what it represents. ([source](<https://www.imf.org/en/publications/imf-notes/issues/2026/04/01/tokenized-finance-574921>))
 
-The term covers different arrangements rather than a single protocol or product. The NFT may be the item offered in a transaction, a record associated with another claim, or a component in a broader asset lifecycle. Tokenization can support platform-based intermediation across an asset’s lifecycle, but whether a particular arrangement works as intended depends on its design and supporting terms. (claim_cpmi_lifecycle)
+The term covers different arrangements rather than a single protocol or product. The NFT may be the item offered in a transaction, a record associated with another claim, or a component in a broader asset lifecycle. Tokenization can support platform-based intermediation across an asset’s lifecycle, but whether a particular arrangement works as intended depends on its design and supporting terms. ([source](<https://www.bis.org/publications/tokenisation-context-money-and-other-assets-concepts-and-implications-central-banks>))
 
 ## How NFTs can be used in financial arrangements
 
 One possible arrangement is NFT-backed lending: a borrower offers an NFT as collateral, meaning property pledged to support an obligation. The arrangement would need to specify what happens if the borrower does not meet the agreed conditions, including whether and how the token can be transferred. The existence of an NFT does not itself create a loan, establish a collateral value, or set those terms.
 
-NFTs may also be connected to a payment, an access entitlement, or a claim to revenue. Those connections are not inherent in the token. For example, NFT technology may support management, transfer, or licensing workflows for intellectual-property rights when valid terms and authorized rights holders are present. The token alone does not verify that the person who created or transferred it had authority to grant those rights. (claim_nft_ip_support_role)
+NFTs may also be connected to a payment, an access entitlement, or a claim to revenue. Those connections are not inherent in the token. For example, NFT technology may support management, transfer, or licensing workflows for intellectual-property rights when valid terms and authorized rights holders are present. The token alone does not verify that the person who created or transferred it had authority to grant those rights. ([source](<https://www.copyright.gov/policy/nft-study/Joint-USPTO-USCO-Report-on-NFTs-and-Intellectual-Property.pdf>))
 
 A useful way to assess a described arrangement is to separate its moving parts: the token record, any agreement among participants, and any asset or service outside the blockchain. The token can be transferred under the contract’s rules, while a separate agreement may define a payment, repayment obligation, or other claim. Those components should not be treated as interchangeable.
 
 ## What NFT ownership does—and does not—establish
 
-An NFT’s ownership record can identify the address associated with a token under the contract. It does not necessarily transfer copyright or the associated physical or digital asset. Any rights that do transfer depend on applicable law and valid contracts, licenses, or other governing terms. (claim_nft_ip_separation)
+An NFT’s ownership record can identify the address associated with a token under the contract. It does not necessarily transfer copyright or the associated physical or digital asset. Any rights that do transfer depend on applicable law and valid contracts, licenses, or other governing terms. ([source](<https://www.copyright.gov/policy/nft-study/Joint-USPTO-USCO-Report-on-NFTs-and-Intellectual-Property.pdf>))
 
 That distinction matters for financial arrangements. A lender or other participant needs to know whether the NFT itself is the only thing being transferred or whether separate rights or obligations are also part of the deal. A token transfer can update the on-chain ownership record without, by itself, proving that an off-chain promise is enforceable.
 
@@ -44,7 +44,7 @@ Nor does ownership establish a willing buyer, a realizable price, or a way to re
 
 If an NFT is used as collateral, its uncertain or changing value can affect whether it is adequate for a particular arrangement. The token’s transferability also does not guarantee that a transfer will produce proceeds or satisfy an obligation. The actual consequences depend on the stated terms and on how the parties and relevant systems carry them out.
 
-Technical records and external rights also have different boundaries. A blockchain can record token ownership and transfers, while rights in associated content or property may depend on separate agreements and applicable law. Tokenization does not, on its own, prove the quality of the represented asset or establish legal title or enforceability. (claim_imf_tokenized_finance_definition)
+Technical records and external rights also have different boundaries. A blockchain can record token ownership and transfers, while rights in associated content or property may depend on separate agreements and applicable law. Tokenization does not, on its own, prove the quality of the represented asset or establish legal title or enforceability. ([source](<https://www.imf.org/en/publications/imf-notes/issues/2026/04/01/tokenized-finance-574921>))
 
 The relevant risks are therefore arrangement-specific. A reader may need to understand who holds the token, which parties have obligations, what conditions permit transfer, and what external rights are claimed. This definition does not establish the legal, tax, or regulatory treatment of any particular NFT arrangement.
 

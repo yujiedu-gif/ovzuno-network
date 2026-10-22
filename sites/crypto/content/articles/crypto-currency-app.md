@@ -14,7 +14,7 @@ owned_question: "What infrastructure components and exchange connections may sit
 risk_level: "medium"
 ---
 
-A crypto currency app is a user-facing interface, not a guarantee about who provides its trading, market data, or custody. Behind the screen, an app may connect to an exchange or other service for order handling, account information, or asset movement; the actual arrangement must be verified product by product. The key is to distinguish what the interface displays from what an external provider does and who controls the assets. [claim_provider_wallet_boundary]
+A crypto currency app is a user-facing interface, not a guarantee about who provides its trading, market data, or custody. Behind the screen, an app may connect to an exchange or other service for order handling, account information, or asset movement; the actual arrangement must be verified product by product. The key is to distinguish what the interface displays from what an external provider does and who controls the assets. [source](<https://eips.ethereum.org/EIPS/eip-1193>)
 
 ## What a crypto currency app does—and what the term can mean
 
@@ -22,7 +22,7 @@ A crypto currency app is a user-facing interface, not a guarantee about who prov
 
 Possible functions include displaying information, letting a user request a trade, or showing account details. These are examples of functions an app might offer, not a universal feature set. The app’s interface is one part of the service: another provider may supply the market connection, custody, payment processing, or other function. Product-specific documentation is needed to identify those boundaries.
 
-A wallet connection is not necessarily a custody arrangement. For example, the Ethereum provider model defines an interface through which an application can access a client, while a wallet separately manages keys and signing. That distinction is specific to the provider model described by EIP-1193; other app architectures can differ. [claim_provider_wallet_boundary]
+A wallet connection is not necessarily a custody arrangement. For example, the Ethereum provider model defines an interface through which an application can access a client, while a wallet separately manages keys and signing. That distinction is specific to the provider model described by EIP-1193; other app architectures can differ. [source](<https://eips.ethereum.org/EIPS/eip-1193>)
 
 ## The infrastructure path from app action to market activity
 
@@ -30,7 +30,7 @@ A useful way to understand an app is to follow a user action through its possibl
 
 1. **Interface:** The screen collects an instruction or displays information.
 2. **Application service:** A backend may validate or process a request and communicate with other services. The precise responsibilities depend on the product.
-3. **Connectivity:** The app or its service may communicate with an exchange, custodian, wallet, or another provider. Some provider-specific systems document a server-created session token that binds destination-wallet information to a purchase session without exposing backend API credentials in the browser. This illustrates one integration pattern, not a general requirement or guarantee of security. [claim_secure_session_token]
+3. **Connectivity:** The app or its service may communicate with an exchange, custodian, wallet, or another provider. Some provider-specific systems document a server-created session token that binds destination-wallet information to a purchase session without exposing backend API credentials in the browser. This illustrates one integration pattern, not a general requirement or guarantee of security. [source](<https://github.com/coinbase/onramp-demo-app>)
 4. **External service:** A venue or provider may handle trading, custody, or another operation under its own design and terms.
 5. **Status returned to the interface:** The app may show information from an external service. A displayed status should not be assumed to prove that an order executed or that a transfer settled unless the product defines what that status means.
 
@@ -48,7 +48,7 @@ Market data, order submission, and execution confirmation are therefore distinct
 
 Custody concerns who controls access to assets or the keys used to authorize transactions. A third-party service may manage keys on behalf of customers, while another design may leave key management with the user. If an app supports custody, identify the responsible entity and the documented arrangement; the interface alone cannot answer this.
 
-Also map dependencies beyond the app itself. These may include an exchange account, a wallet, an identity or payment service, and other infrastructure providers. A provider-specific example of a kiosk flow in Australia includes selecting an asset and amount, accepting disclosures, completing phone and identity checks, scanning a wallet QR code, inserting cash, confirming the transaction, and receiving cryptocurrency. That is one operator’s documented flow, not a universal app process. [claim_documented_purchase_flow]
+Also map dependencies beyond the app itself. These may include an exchange account, a wallet, an identity or payment service, and other infrastructure providers. A provider-specific example of a kiosk flow in Australia includes selecting an asset and amount, accepting disclosures, completing phone and identity checks, scanning a wallet QR code, inserting cash, confirming the transaction, and receiving cryptocurrency. That is one operator’s documented flow, not a universal app process. [source](<https://coinflip.tech/en-AU/bitcoin-atm>)
 
 For each dependency, check which party is responsible for access, transaction processing, and user support. If the app claims to protect keys or accounts, request product-specific documentation describing the controls, incident handling, and recovery process, including their limitations. The evidence available for this article does not support a general conclusion about any app’s security, recovery options, audit status, or service continuity. Treat those as questions to resolve, not properties implied by the category.
 

@@ -35,7 +35,7 @@ A generic intent-based payment can be understood as a sequence of distinct respo
 
 Consider a hypothetical user who wants a specified recipient to receive a specified amount by a stated deadline. A solver might propose a route that appears to meet those conditions. The system would then need to execute the route and establish that the recipient received the required amount within the permitted conditions. This example illustrates the concept only; it does not describe a particular protocol or live transaction.
 
-Some cross-chain designs use relayers that provide funds on a destination chain before later reimbursement, with periodic rebalancing to keep chain pools sufficiently funded. That is one documented implementation pattern, not a general definition of intents or a feature of every intent system. (claim_crosschain_relayer_liquidity)
+Some cross-chain designs use relayers that provide funds on a destination chain before later reimbursement, with periodic rebalancing to keep chain pools sufficiently funded. That is one documented implementation pattern, not a general definition of intents or a feature of every intent system. ([source](<https://docs.across.to/guides/concepts/intent-lifecycle>))
 
 ## The conditions that make an intent usable
 
@@ -54,9 +54,9 @@ Clear bounds also help distinguish a candidate route from an acceptable one. A s
 
 A **solver** is an actor or service that searches for, constructs, or submits a way to fulfill an intent, depending on the system. Some designs may involve multiple potential solvers or different selection and verification arrangements. The term does not imply that every system uses competition, a particular incentive model, or the same trust assumptions.
 
-A solver’s proposal is not equivalent to settlement. Execution can depend on the underlying transactions and the rules of the relevant network or application. For example, an Ethereum transaction authorization commits the sender to fields such as the destination, value, optional input data, nonce, and fee limits before the signed instruction is broadcast. (claim_transaction_fields) That is a description of Ethereum transaction authorization, not a universal format for intent systems.
+A solver’s proposal is not equivalent to settlement. Execution can depend on the underlying transactions and the rules of the relevant network or application. For example, an Ethereum transaction authorization commits the sender to fields such as the destination, value, optional input data, nonce, and fee limits before the signed instruction is broadcast. ([source](<https://ethereum.org/developers/docs/transactions/>)) That is a description of Ethereum transaction authorization, not a universal format for intent systems.
 
-A system also needs a way to evaluate whether the resulting state satisfies the request. That may involve protocol rules, application logic, or other verification mechanisms; the exact arrangement is implementation-specific. Cryptography is a broad discipline serving goals such as confidentiality, integrity, and source authentication, but any particular primitive addresses only some of those goals. (claim_cryptography_scope) Therefore, the presence of cryptographic components alone does not establish that a system’s full fulfillment process is secure or that a user’s requested outcome will occur.
+A system also needs a way to evaluate whether the resulting state satisfies the request. That may involve protocol rules, application logic, or other verification mechanisms; the exact arrangement is implementation-specific. Cryptography is a broad discipline serving goals such as confidentiality, integrity, and source authentication, but any particular primitive addresses only some of those goals. ([source](<https://csrc.nist.gov/glossary/term/cryptography>)) Therefore, the presence of cryptographic components alone does not establish that a system’s full fulfillment process is secure or that a user’s requested outcome will occur.
 
 ## Where intent-based design can fit in crypto payment flows
 

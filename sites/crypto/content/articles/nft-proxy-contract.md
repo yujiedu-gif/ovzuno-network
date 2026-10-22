@@ -20,7 +20,7 @@ An NFT proxy contract is an on-chain entry point that can route calls to separat
 
 A proxy separates an address used to interact with a contract from code that supplies some or all of its behavior. In an NFT system, the proxy may act as the collection’s interaction point, while a separate implementation contains logic for functions called through it. A proxy can therefore make the implementation and the user-facing contract address distinct parts of the architecture.
 
-That distinction should not be confused with the NFT’s own token rules. For example, the ERC-4907 extension describes a time-limited user role separate from the NFT owner. An application must recognize and enforce that user role; the extension does not create a legal lease by itself. Proxy architecture does not inherently provide this feature or any other particular NFT function. Whether such behavior exists depends on the contracts and interfaces in use. [claim_nft_owner_user_roles]
+That distinction should not be confused with the NFT’s own token rules. For example, the ERC-4907 extension describes a time-limited user role separate from the NFT owner. An application must recognize and enforce that user role; the extension does not create a legal lease by itself. Proxy architecture does not inherently provide this feature or any other particular NFT function. Whether such behavior exists depends on the contracts and interfaces in use. [source](<https://eips.ethereum.org/EIPS/eip-4907>)
 
 A proxy label also does not tell a reader whether an implementation conforms to a particular token standard, which metadata it exposes, or how an application presents a token. Those questions require examining the relevant implementation and project documentation rather than inferring functionality from the presence of a proxy.
 
@@ -48,7 +48,7 @@ The token record and the logic that acts on it are also different architectural 
 
 Start by asking where calls enter, which code supplies the behavior, and what state the code reads or changes. For designs using delegatecall, examine how state is held in the proxy’s context and how a new implementation is expected to interact with it. Compatibility cannot be inferred from an implementation’s name or from the fact that a proxy is present.
 
-Proxy-based upgradeable contracts require careful handling of initialization and compatible storage layouts across implementations. Problems with those constraints can lead to takeover or corrupted state. This is a general technical risk, not evidence that any particular NFT project has experienced it. When reviewing a specific system, look for its documented upgrade process and evidence about how it addresses those constraints. [claim_upgrade_constraints]
+Proxy-based upgradeable contracts require careful handling of initialization and compatible storage layouts across implementations. Problems with those constraints can lead to takeover or corrupted state. This is a general technical risk, not evidence that any particular NFT project has experienced it. When reviewing a specific system, look for its documented upgrade process and evidence about how it addresses those constraints. [source](<https://docs.openzeppelin.com/upgrades-plugins/writing-upgradeable>)
 
 Next, identify the entity or mechanism that can approve an implementation change. Review documentation and deployed contract details for the authority and the permissions it exercises. Do not infer the existence of a delay, multisignature arrangement, or governance process unless reliable, project-specific evidence establishes it. If a project describes multiple keys, determine what those keys authorize rather than treating the number of keys as a complete account of the control structure.
 
@@ -56,7 +56,7 @@ Finally, distinguish a security claim from a description of architecture. A prox
 
 ## What a proxy does not establish about digital ownership
 
-A proxy explains a possible arrangement of contract addresses and logic; it does not settle what a token holder owns or may do with associated artwork, media, or services. The token record, referenced content, and any linked rights are separate matters. A time-limited user role, for example, is a contract-level usage mechanism whose recognition by applications does not itself make it a legal lease. [claim_nft_owner_user_roles]
+A proxy explains a possible arrangement of contract addresses and logic; it does not settle what a token holder owns or may do with associated artwork, media, or services. The token record, referenced content, and any linked rights are separate matters. A time-limited user role, for example, is a contract-level usage mechanism whose recognition by applications does not itself make it a legal lease. [source](<https://eips.ethereum.org/EIPS/eip-4907>)
 
 Nor does proxy architecture establish metadata or media availability, a license, copyright, legal ownership, or compliance. These are not conclusions that follow from how calls are routed. A reader evaluating rights or other claims beyond contract mechanics must consult the relevant project terms and applicable sources rather than rely on the presence of a proxy.
 

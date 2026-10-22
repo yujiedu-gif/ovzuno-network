@@ -18,7 +18,7 @@ In a proof-of-work blockchain, a miner builds a candidate block and repeatedly h
 
 ## What mining means in a proof-of-work blockchain
 
-Mining is the work of preparing a proposed block and searching for a proof that meets a network-defined condition. Proof of work is one component used for Sybil resistance and block-author selection; it works alongside validation, networking, incentives, and a fork-choice rule. It is therefore not the entire consensus process, and mining does not describe every blockchain. [claim_eth_pow_component]
+Mining is the work of preparing a proposed block and searching for a proof that meets a network-defined condition. Proof of work is one component used for Sybil resistance and block-author selection; it works alongside validation, networking, incentives, and a fork-choice rule. It is therefore not the entire consensus process, and mining does not describe every blockchain. [source](<https://ethereum.org/developers/docs/consensus-mechanisms>)
 
 The distinction between proposing and validating is central. A miner constructs a candidate and searches for a qualifying proof. Other nodes check whether the candidate follows the network’s rules. Proof of work cannot make an invalid block valid: a candidate may satisfy the hash target and still fail other protocol checks.
 
@@ -26,25 +26,25 @@ The following steps use Bitcoin’s documented mining process to make the mechan
 
 ## How miners build a candidate block
 
-Before searching for a proof, mining software needs information about the block it is trying to build. In Bitcoin, the `getblocktemplate` interface provides information needed to construct a coinbase transaction and inspect a proposed set of block transactions. The miner uses that information to form a candidate; this does not mean every transaction awaiting inclusion will appear in the block. [claim_getblocktemplate_work]
+Before searching for a proof, mining software needs information about the block it is trying to build. In Bitcoin, the `getblocktemplate` interface provides information needed to construct a coinbase transaction and inspect a proposed set of block transactions. The miner uses that information to form a candidate; this does not mean every transaction awaiting inclusion will appear in the block. [source](<https://developer.bitcoin.org/devguide/mining.html>)
 
 The candidate includes transactions and the data needed to identify its place in the chain and support the proof search. The proposed set of transactions can change, and the protocol determines which block structures and transactions are valid. Candidate construction is therefore constrained by network rules, not just by a miner’s preferred transaction list.
 
-Once assembled, the candidate supplies the data over which the proof-of-work search operates. In Bitcoin, the miner varies a nonce in the block and hashes the resulting header, looking for a result that meets the network’s target condition. The nonce is a changeable input to the search; it does not itself certify that the candidate’s transactions or structure are valid. [claim_bitcoin_pow_search]
+Once assembled, the candidate supplies the data over which the proof-of-work search operates. In Bitcoin, the miner varies a nonce in the block and hashes the resulting header, looking for a result that meets the network’s target condition. The nonce is a changeable input to the search; it does not itself certify that the candidate’s transactions or structure are valid. [source](<https://bitcoin.org/bitcoin.pdf>)
 
 This separation helps clarify what the mining step proves. The search tests whether the candidate data produces a hash meeting a numerical condition. It does not decide whether each transaction is authorized or whether the full block complies with all rules. Those questions remain part of independent validation.
 
 ## How proof of work selects a block
 
-For Bitcoin, a block-header hash must be at or below the current target threshold to meet the proof-of-work requirement. Mining software repeatedly tries variations of the candidate data, including a changed nonce, and checks the resulting hash against that threshold. A hash that passes makes the candidate eligible to be proposed; it is not, by itself, a guarantee that the block will become accepted history. [claim_bitcoin_pow_search]
+For Bitcoin, a block-header hash must be at or below the current target threshold to meet the proof-of-work requirement. Mining software repeatedly tries variations of the candidate data, including a changed nonce, and checks the resulting hash against that threshold. A hash that passes makes the candidate eligible to be proposed; it is not, by itself, a guarantee that the block will become accepted history. [source](<https://bitcoin.org/bitcoin.pdf>)
 
-The target is network-specific and can change. On Bitcoin mainnet, the proof-of-work target is adjusted after each 2,016-block difficulty period using block-header timestamps and consensus rules. This adjustment interval is a Bitcoin-specific rule, not a general schedule for all proof-of-work systems. [claim_bitcoin_difficulty_period]
+The target is network-specific and can change. On Bitcoin mainnet, the proof-of-work target is adjusted after each 2,016-block difficulty period using block-header timestamps and consensus rules. This adjustment interval is a Bitcoin-specific rule, not a general schedule for all proof-of-work systems. [source](<https://developer.bitcoin.org/devguide/block_chain.html>)
 
 After a qualifying result is found, the miner can propose the candidate to the network. The proof supplies evidence that the candidate satisfies Bitcoin’s work condition, but the network still needs to check the block and its contents. The proof search and the rule checks are related parts of block acceptance, not interchangeable ones.
 
 ## How nodes verify and accept a mined block
 
-When a proposed block reaches a node, that node checks it against the applicable protocol rules rather than accepting it solely because the miner reports a qualifying hash. For Ethereum, as a separate example of independent node checking, a node receiving a proposed block checks the block and re-executes its transactions to verify the resulting state change before accepting it. This illustrates the general distinction between block proposal and verification, but Ethereum’s execution details are not Bitcoin mining rules. [claim_ethereum_block_reexecution]
+When a proposed block reaches a node, that node checks it against the applicable protocol rules rather than accepting it solely because the miner reports a qualifying hash. For Ethereum, as a separate example of independent node checking, a node receiving a proposed block checks the block and re-executes its transactions to verify the resulting state change before accepting it. This illustrates the general distinction between block proposal and verification, but Ethereum’s execution details are not Bitcoin mining rules. [source](<https://ethereum.org/developers/docs/blocks/>)
 
 The evidence available here supports a specific Bitcoin target-search process and a separate Ethereum example of node verification. It does not establish a complete, uniform validation checklist for every proof-of-work blockchain. Each network’s protocol specifies its own block structure, transaction checks, and acceptance behavior; those details require network-specific evidence.
 

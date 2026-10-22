@@ -26,7 +26,7 @@ The key distinction is between the abbreviation and the underlying system. A phr
 
 ## Does Bitcoin use proof of stake?
 
-No. Bitcoin’s base protocol uses proof of work, not proof of stake. When valid competing histories exist, Bitcoin nodes treat the valid chain with the greatest cumulative proof of work as the selected history. Nodes still enforce consensus rules, so accumulated work does not make an invalid block valid. [claim_bitcoin_pow_history]
+No. Bitcoin’s base protocol uses proof of work, not proof of stake. When valid competing histories exist, Bitcoin nodes treat the valid chain with the greatest cumulative proof of work as the selected history. Nodes still enforce consensus rules, so accumulated work does not make an invalid block valid. [source](<https://bitcoin.org/bitcoin.pdf>)
 
 At a basic level, Bitcoin miners perform computational work as part of block production. This is different from a model in which stake influences consensus participation or weight. The distinction answers the terminology question without describing every technical step in mining or validation.
 
@@ -34,9 +34,9 @@ This answer concerns Bitcoin’s base protocol. It does not establish the consen
 
 ## Proof of stake and proof of work, briefly distinguished
 
-**Proof of work (PoW)** is a computational mechanism used in block production. In the general model, a publishing node is selected through a problem that is difficult to solve but straightforward for other nodes to verify. The process consumes computational cycles and time. Bitcoin’s chain-selection approach uses cumulative proof of work when valid histories compete. [claim_nist_pow_definition] [claim_bitcoin_pow_history]
+**Proof of work (PoW)** is a computational mechanism used in block production. In the general model, a publishing node is selected through a problem that is difficult to solve but straightforward for other nodes to verify. The process consumes computational cycles and time. Bitcoin’s chain-selection approach uses cumulative proof of work when valid histories compete. [source](<https://csrc.nist.gov/glossary/term/Proof_of_work_consensus_model>) [source](<https://bitcoin.org/bitcoin.pdf>)
 
-**Proof of stake (PoS)** is a general model in which cryptocurrency is committed as stake, with stake influencing a participant’s consensus weight. The details—including selection, delegation, custody, rewards, penalties, and withdrawal rules—depend on the protocol. The abbreviation alone does not explain how any particular proof-of-stake system operates. [claim_compare_pos_stake]
+**Proof of stake (PoS)** is a general model in which cryptocurrency is committed as stake, with stake influencing a participant’s consensus weight. The details—including selection, delegation, custody, rewards, penalties, and withdrawal rules—depend on the protocol. The abbreviation alone does not explain how any particular proof-of-stake system operates. [source](<https://csrc.nist.gov/glossary/term/proof_of_stake_consensus_model>)
 
 These terms name different consensus approaches, not interchangeable labels. The distinction here is deliberately limited: Bitcoin’s base protocol uses proof of work, while proof of stake describes a model involving committed stake and protocol-defined consensus participation. This is not a comparison of which design is better or a guide to any network’s operational rules.
 

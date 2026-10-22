@@ -20,7 +20,7 @@ risk_level: "medium"
 
 Here, *utility* means a concrete role in how a protocol or application operates—not a prediction about an asset’s economic prospects. A project’s stated purpose is a claim to examine; the description alone does not establish that the function exists, is available, or works as described.
 
-The function may belong to the asset, the protocol, or an application built on the protocol. These are different layers. Ethereum’s native cryptocurrency, ether, is part of the protocol’s market for computation. That describes a protocol role; it does not establish that every application on Ethereum requires ether for every action or that holding ether produces a particular outcome. [claim_eth_native_currency]
+The function may belong to the asset, the protocol, or an application built on the protocol. These are different layers. Ethereum’s native cryptocurrency, ether, is part of the protocol’s market for computation. That describes a protocol role; it does not establish that every application on Ethereum requires ether for every action or that holding ether produces a particular outcome. [source](<https://ethereum.org/developers/docs/intro-to-ethereum/>)
 
 A documented function describes what a system is designed to do under specified rules. It does not demonstrate how often people use it, whether use will persist, or whether the asset has a particular price or future performance. Those are separate questions and require separate evidence.
 
@@ -30,9 +30,9 @@ This distinction also helps prevent a common reasoning error: treating the exist
 
 Begin with the operation, not the label. Ask whether the protocol itself uses the asset or whether an application accepts it as part of a feature. Identify the component that performs the action and the rules that determine when the asset is involved. Do not call an asset “required” unless evidence supports that condition for the particular action and system.
 
-Smart contracts offer a useful example of the distinction. An Ethereum smart contract has persistent state and executable functions at an onchain address, and it can emit events for applications to process. The contract’s functions define onchain behavior; an application may provide an interface for users to access or interpret that behavior. [claim_eth_contract_state]
+Smart contracts offer a useful example of the distinction. An Ethereum smart contract has persistent state and executable functions at an onchain address, and it can emit events for applications to process. The contract’s functions define onchain behavior; an application may provide an interface for users to access or interpret that behavior. [source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>)
 
-Contracts can also call or reuse independent onchain components through public interfaces. This is called *composability*: one contract or application can combine functions supplied by another component. Such connections can create dependencies. The fact that one contract has a documented function does not establish that every connected component or service is available, or that a complete workflow shares the same properties as the contract itself. [claim_composability_dependencies]
+Contracts can also call or reuse independent onchain components through public interfaces. This is called *composability*: one contract or application can combine functions supplied by another component. Such connections can create dependencies. The fact that one contract has a documented function does not establish that every connected component or service is available, or that a complete workflow shares the same properties as the contract itself. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)
 
 A practical map separates three questions:
 
@@ -62,7 +62,7 @@ If sources conflict or omit an important condition, do not resolve the gap by as
 
 ## When a stated function depends on other parties
 
-A function may rely on more than the asset and its protocol. An application can combine onchain contracts with a frontend interface, and composability can introduce dependencies on other onchain components. These layers have different roles: a contract supplies programmed behavior, while an application or connected component can affect how users access or combine that behavior. [claim_eth_contract_state] [claim_composability_dependencies]
+A function may rely on more than the asset and its protocol. An application can combine onchain contracts with a frontend interface, and composability can introduce dependencies on other onchain components. These layers have different roles: a contract supplies programmed behavior, while an application or connected component can affect how users access or combine that behavior. [source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>) [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)
 
 For each dependency, ask what it does and whether the claim concerns protocol rules or a service feature. If an application is needed to reach a contract function, its interface is not the same thing as the protocol function. If a function calls another contract, record that connection instead of assuming the caller operates independently.
 

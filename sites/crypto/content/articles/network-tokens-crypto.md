@@ -20,13 +20,13 @@ For builders and operators, a “network token” is a descriptive term for a cr
 
 A network token is best understood through its relationship to a network and the functions the protocol assigns to it. The phrase is descriptive, not a guarantee of one technical or legal classification. The evidence here does not establish “network token” as a universally standardized category, so readers should not treat the label as a protocol specification.
 
-Protocol terminology is more precise than a broad label. For example, Ethereum’s documentation identifies ether as Ethereum’s native cryptocurrency and describes it as part of the protocol’s market for computation. That supports a specific statement about Ethereum—not a rule that every network token serves the same purpose. (claim_eth_native_currency)
+Protocol terminology is more precise than a broad label. For example, Ethereum’s documentation identifies ether as Ethereum’s native cryptocurrency and describes it as part of the protocol’s market for computation. That supports a specific statement about Ethereum—not a rule that every network token serves the same purpose. ([source](<https://ethereum.org/developers/docs/intro-to-ethereum/>))
 
 ## How a network token can function within a protocol
 
-A protocol may assign a token one or more operational roles. But those roles must be verified for the specific network. The available evidence supports Ethereum’s characterization of ether as its native cryptocurrency and its role in the protocol’s computation market; it does not support generalizing a complete list of fee, staking, consensus, or governance functions to network tokens as a class. (claim_eth_native_currency)
+A protocol may assign a token one or more operational roles. But those roles must be verified for the specific network. The available evidence supports Ethereum’s characterization of ether as its native cryptocurrency and its role in the protocol’s computation market; it does not support generalizing a complete list of fee, staking, consensus, or governance functions to network tokens as a class. ([source](<https://ethereum.org/developers/docs/intro-to-ethereum/>))
 
-Governance is also protocol-specific. A DAO, or decentralized autonomous organization, can use proposals, voting, delegation, token-based membership, share-based membership, reputation, or multisignature execution. That range of models does not show that any particular token automatically grants a vote or other governance right. To determine whether a token has such a role, inspect the relevant organization’s rules and execution path. (claim_dao_governance_models)
+Governance is also protocol-specific. A DAO, or decentralized autonomous organization, can use proposals, voting, delegation, token-based membership, share-based membership, reputation, or multisignature execution. That range of models does not show that any particular token automatically grants a vote or other governance right. To determine whether a token has such a role, inspect the relevant organization’s rules and execution path. ([source](<https://ethereum.org/dao/>))
 
 Nor does a token’s association with a network establish that the protocol requires it for every operation. The role must be described in the protocol’s own documentation, and any separate application-level use should be identified as such.
 
@@ -38,9 +38,9 @@ A network association alone does not prove backing, redemption rights, governanc
 
 ## Why network-token roles vary
 
-Protocols have different designs and responsibilities. Hyperledger Fabric, for example, coordinates organizations, certificate authorities, peers, orderers, channels, policies, ledgers, smart contracts, and client applications. That description illustrates a permissioned-network architecture; it does not establish that every blockchain uses the same components or assigns them the same roles. (claim_fabric_component_roles)
+Protocols have different designs and responsibilities. Hyperledger Fabric, for example, coordinates organizations, certificate authorities, peers, orderers, channels, policies, ledgers, smart contracts, and client applications. That description illustrates a permissioned-network architecture; it does not establish that every blockchain uses the same components or assigns them the same roles. ([source](<https://hyperledger-fabric.readthedocs.io/en/latest/network/network.html>))
 
-Likewise, a bridge coordinates token, message, data, or contract-call activity between otherwise isolated blockchain environments. The existence of that coordination does not make an asset’s function on one network identical to its function on another. (claim_bridges_connect_ledgers)
+Likewise, a bridge coordinates token, message, data, or contract-call activity between otherwise isolated blockchain environments. The existence of that coordination does not make an asset’s function on one network identical to its function on another. ([source](<https://ethereum.org/developers/docs/bridges>))
 
 Labels can therefore obscure important differences. One protocol may document an asset as central to a particular network function, while another may use similar terminology for a different arrangement. The name is a prompt to investigate—not a substitute for checking the design.
 
@@ -49,7 +49,7 @@ Labels can therefore obscure important differences. One protocol may document an
 Use this short checklist:
 
 1. **Confirm the network association.** Identify the protocol the documentation names, rather than relying on a token name or informal description.
-2. **Read the protocol’s description of the asset’s role.** Look for a specific documented function. For Ethereum, the cited documentation identifies ether as its native cryptocurrency and part of the market for computation; do not extend that finding to other networks. (claim_eth_native_currency)
+2. **Read the protocol’s description of the asset’s role.** Look for a specific documented function. For Ethereum, the cited documentation identifies ether as its native cryptocurrency and part of the market for computation; do not extend that finding to other networks. ([source](<https://ethereum.org/developers/docs/intro-to-ethereum/>))
 3. **Separate protocol behavior from other uses.** If a third-party application or service uses the asset, verify that use independently. A protocol-level description does not establish how a separate provider operates.
 4. **Check claims individually.** Fees, yields, security, recovery, availability, compliance, regulation, and tax treatment each require current, relevant evidence. The evidence used for this definition does not establish those claims for any particular token or jurisdiction.
 5. **Do not infer value or suitability.** A protocol role, by itself, does not establish safety, economic value, or investment suitability.

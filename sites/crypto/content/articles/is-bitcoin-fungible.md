@@ -26,7 +26,7 @@ The word “bitcoin” can refer to the network’s asset or to amounts recorded
 
 ## Is bitcoin fungible at the protocol level?
 
-The careful answer is that bitcoin has fungible features, but protocol-level validity is not the same as universal interchangeability. Bitcoin transactions use digital signatures to authorize transfers through a chain of signed ownership records. That authorization mechanism describes how a transfer is supported; it does not establish that every unit has an identical provenance or that an outside service must accept it. **[claim_bitcoin_signatures]**
+The careful answer is that bitcoin has fungible features, but protocol-level validity is not the same as universal interchangeability. Bitcoin transactions use digital signatures to authorize transfers through a chain of signed ownership records. That authorization mechanism describes how a transfer is supported; it does not establish that every unit has an identical provenance or that an outside service must accept it. **[source](<https://bitcoin.org/bitcoin.pdf>)**
 
 A network’s technical rules and an intermediary’s policies answer different questions. Protocol validation concerns whether a transaction meets the applicable network rules. An acceptance decision concerns whether a particular service or organization is willing to handle an asset or transaction under its own arrangements. The allowed evidence does not provide a complete account of Bitcoin’s transaction-validation rules, nor does it establish acceptance practices for any particular intermediary. Those details should not be inferred from the fact that a transaction is technically valid.
 
@@ -44,7 +44,7 @@ This distinction also prevents a common overstatement: transaction history does 
 
 Protocol validity is a technical question about whether a transaction follows network rules. Acceptance is a decision by an intermediary or other organization about whether it will handle that transaction. Legal or regulatory treatment is a separate question, and the evidence allowed for this article does not establish any jurisdiction-specific rule about bitcoin, transaction history, taxes, or compliance.
 
-A technical record should not be treated as proof of every right or claim someone may associate with an asset. More generally, a digital ledger record about an asset and its owner does not, by itself, determine legal title, enforceability, or the quality of the represented asset. **[claim_cpmi_token_definition]** This is a general limitation on interpreting records, not a legal conclusion about bitcoin or any particular holder.
+A technical record should not be treated as proof of every right or claim someone may associate with an asset. More generally, a digital ledger record about an asset and its owner does not, by itself, determine legal title, enforceability, or the quality of the represented asset. **[source](<https://www.bis.org/publications/tokenisation-context-money-and-other-assets-concepts-and-implications-central-banks>)** This is a general limitation on interpreting records, not a legal conclusion about bitcoin or any particular holder.
 
 For that reason, “valid on the network,” “accepted by a service,” and “legally treated in a particular way” should not be used as if they meant the same thing. Establishing a legal or tax answer would require current, jurisdiction-specific evidence beyond the material supporting this definition.
 

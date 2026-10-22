@@ -18,9 +18,9 @@ risk_level: "medium"
 
 ## What “DeFi staking rates” means
 
-A staking rate is a measure used to describe rewards associated with committing cryptocurrency to a protocol process. In a general proof-of-stake model, cryptocurrency committed as stake can influence a participant’s consensus weight. The details—including selection, delegation, custody, rewards, penalties, and withdrawals—are protocol-specific, so the word “staking” does not identify one universal arrangement. Interpret a rate in the context of the particular protocol and position it describes. [claim_pos_stake]
+A staking rate is a measure used to describe rewards associated with committing cryptocurrency to a protocol process. In a general proof-of-stake model, cryptocurrency committed as stake can influence a participant’s consensus weight. The details—including selection, delegation, custody, rewards, penalties, and withdrawals—are protocol-specific, so the word “staking” does not identify one universal arrangement. Interpret a rate in the context of the particular protocol and position it describes. [source](<https://csrc.nist.gov/glossary/term/proof_of_stake_consensus_model>)
 
-The term also appears in contexts that involve different arrangements. For example, Ethereum validator participation uses ETH deposited as slashable economic collateral. Third-party staking products can add custody, smart-contract, operator, and legal risks that are outside the base protocol. This is a mechanism-specific example, not a rule for every product described as staking. [claim_compare_eth_collateral]
+The term also appears in contexts that involve different arrangements. For example, Ethereum validator participation uses ETH deposited as slashable economic collateral. Third-party staking products can add custody, smart-contract, operator, and legal risks that are outside the base protocol. This is a mechanism-specific example, not a rule for every product described as staking. [source](<https://ethereum.org/developers/docs/consensus-mechanisms/pos/>)
 
 Staking rewards should not automatically be treated as lending interest or liquidity-pool fees. Those labels refer to different ways a position may generate returns. A product may combine mechanisms, but its rate label alone does not establish which activities apply. Start by identifying what the position does with the asset and which activity produces the stated reward.
 
@@ -28,7 +28,7 @@ Staking rewards should not automatically be treated as lending interest or liqui
 
 A rate may be shown as an annualized percentage: a way to express a reward measure in annual terms even when the underlying observation covers a shorter period. Annualizing a measurement is a calculation convention, not evidence that the observed reward will continue for a year. A rate based on an estimate or a past observation is also distinct from rewards actually received over a completed period.
 
-A **nominal** or estimated rate describes a stated measure before all realized outcomes are known. **Realized rewards** are the rewards actually received over a specified period under the relevant rules and conditions. For Ethereum validator incentives, correct participation can receive rewards; inactivity can mean missed rewards or penalties; and specified conflicting proposals or attestations can lead to slashing. Those protocol rules illustrate why a quoted reward measure should not be read as a result every position will receive. [claim_compare_eth_penalties]
+A **nominal** or estimated rate describes a stated measure before all realized outcomes are known. **Realized rewards** are the rewards actually received over a specified period under the relevant rules and conditions. For Ethereum validator incentives, correct participation can receive rewards; inactivity can mean missed rewards or penalties; and specified conflicting proposals or attestations can lead to slashing. Those protocol rules illustrate why a quoted reward measure should not be read as a result every position will receive. [source](<https://ethereum.org/developers/docs/consensus-mechanisms/pos/rewards-and-penalties/>)
 
 The unit matters, too. A rate expressed in the staked asset describes a quantity of that asset; a figure expressed in another currency also depends on how the reward asset is valued in that currency. These are different measures, and neither makes future rewards or their value fixed.
 
@@ -36,9 +36,9 @@ A quoted figure may leave calculation choices unstated. The observation period, 
 
 ## What can change a DeFi staking rate
 
-Protocol rules are a primary consideration. Proof-of-stake systems use committed cryptocurrency to influence consensus participation or weight, but selection, reward, penalty, and withdrawal rules vary by protocol. A displayed rate therefore needs to be interpreted against the rules of the mechanism it describes. [claim_pos_stake]
+Protocol rules are a primary consideration. Proof-of-stake systems use committed cryptocurrency to influence consensus participation or weight, but selection, reward, penalty, and withdrawal rules vary by protocol. A displayed rate therefore needs to be interpreted against the rules of the mechanism it describes. [source](<https://csrc.nist.gov/glossary/term/proof_of_stake_consensus_model>)
 
-Where rewards depend on validator activity, the distinction between participation outcomes can also matter. Ethereum’s protocol distinguishes rewards for correct participation, missed rewards or penalties for inactivity, and slashing for specified conflicting behavior. These are Ethereum-specific mechanics; they do not establish a universal rate or predict what a particular position will receive. [claim_compare_eth_penalties]
+Where rewards depend on validator activity, the distinction between participation outcomes can also matter. Ethereum’s protocol distinguishes rewards for correct participation, missed rewards or penalties for inactivity, and slashing for specified conflicting behavior. These are Ethereum-specific mechanics; they do not establish a universal rate or predict what a particular position will receive. [source](<https://ethereum.org/developers/docs/consensus-mechanisms/pos/rewards-and-penalties/>)
 
 The amount of eligible stake, reward schedules, and changes to protocol parameters may also be relevant to a rate shown for a particular system. However, the evidence here does not establish a universal formula for how those factors affect rates across protocols. Nor does it support a general numerical estimate of the effect of incentive programs or parameter changes. Check the specific protocol’s rules and the source’s calculation method rather than assuming that a rate will move in a predictable direction.
 
@@ -48,7 +48,7 @@ Finally, reward quantity and reward value are separate. A display in the staked 
 
 A rate alone does not establish the amount or timing of future rewards, whether an estimate will persist, or the future value of reward assets. It describes a measure with particular assumptions and a time window—not a guaranteed outcome.
 
-Nor does a rate give a complete account of a staking arrangement. For example, Ethereum validator participation uses slashable ETH collateral, and third-party staking products can add custody, smart-contract, and operator risks beyond base-protocol staking. These details apply to the mechanisms described, not automatically to every service or protocol that uses the word “staking.” A single rate does not explain which risks apply to a specific position. [claim_compare_eth_collateral]
+Nor does a rate give a complete account of a staking arrangement. For example, Ethereum validator participation uses slashable ETH collateral, and third-party staking products can add custody, smart-contract, and operator risks beyond base-protocol staking. These details apply to the mechanisms described, not automatically to every service or protocol that uses the word “staking.” A single rate does not explain which risks apply to a specific position. [source](<https://ethereum.org/developers/docs/consensus-mechanisms/pos/>)
 
 This article defines the term and explains how to interpret a rate measure. It does not compare protocols, assess a particular staking position, or recommend an investment.
 

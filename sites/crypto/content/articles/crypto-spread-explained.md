@@ -52,13 +52,13 @@ The absolute and percentage measures answer slightly different questions. The ab
 
 ## Why spreads can widen or narrow
 
-Liquidity is not just the presence of a bid and an ask. It can reflect the time and expense of buying or selling, including spread, transaction cost, price impact, and immediacy. It is multidimensional and changes with transaction size and market conditions. [claim_market_liquidity_dimensions]
+Liquidity is not just the presence of a bid and an ask. It can reflect the time and expense of buying or selling, including spread, transaction cost, price impact, and immediacy. It is multidimensional and changes with transaction size and market conditions. [source](<https://www.bis.org/speeches/20160502-market-and-funding-liquidity-overview>)
 
 Order depth is useful context for interpreting a quote. The displayed bid and ask describe prices at the top of the market, but a reader also needs to consider how much is available at those prices. If an order is larger than the amount available near the top quote, the price for the full quantity may differ from that displayed level. A spread calculation does not show the amount of available depth.
 
 Volatility, trading activity, and differences between venues or market conditions may influence the bid and ask. These are possible influences, not reliable rules for predicting the next quote. A spread may change as market conditions change, but a displayed gap does not establish when or how it will move. Nor does it guarantee a particular execution price.
 
-Market structure matters as well. In one example, an automated market-maker liquidity provider contributes assets to a pool and can receive a share of trading fees while bearing inventory and adverse-selection risk. Pool formulas, fee tiers, price ranges, and loss allocation vary by protocol and position. [claim_bis_amm_liquidity] This example illustrates that quotes and swap outcomes can arise from a pool mechanism rather than a conventional order book; it should not be treated as a universal account of crypto trading venues.
+Market structure matters as well. In one example, an automated market-maker liquidity provider contributes assets to a pool and can receive a share of trading fees while bearing inventory and adverse-selection risk. Pool formulas, fee tiers, price ranges, and loss allocation vary by protocol and position. [source](<https://www.bis.org/publ/work1227.pdf>) This example illustrates that quotes and swap outcomes can arise from a pool mechanism rather than a conventional order book; it should not be treated as a universal account of crypto trading venues.
 
 Because the percentage spread uses a reference price, the same absolute gap can correspond to different percentages at different price levels. This is a mathematical consequence of the denominator, not evidence that one quote is more executable or that a market is more liquid. Keeping both the absolute figure and percentage convention visible helps avoid reading a percentage in isolation.
 
@@ -70,7 +70,7 @@ These terms describe different parts of a transaction. The spread calculation co
 
 For this reason, a spread should not be presented as the complete cost of a transaction. A transaction’s cost may involve the quoted gap, applicable charges, and differences between expected and realized execution, depending on the specific transaction and service. The details of fees and execution depend on the relevant venue, product, and order conditions; do not infer them from the spread alone.
 
-A quoted conversion estimate is another distinct item. For example, an onramp quote API can return estimated conversion outcomes for combinations of source amount, destination cryptocurrency, network, fees, and rate before the user enters the purchase flow. The estimate is time-sensitive, and final availability and execution can change before completion. [claim_onramp_quote] Such an estimate is not the same thing as a bid-ask spread: it may incorporate multiple quoted inputs, while the spread formula specifically compares a bid and an ask.
+A quoted conversion estimate is another distinct item. For example, an onramp quote API can return estimated conversion outcomes for combinations of source amount, destination cryptocurrency, network, fees, and rate before the user enters the purchase flow. The estimate is time-sensitive, and final availability and execution can change before completion. [source](<https://docs.stripe.com/api/crypto/onramp_quotes>) Such an estimate is not the same thing as a bid-ask spread: it may incorporate multiple quoted inputs, while the spread formula specifically compares a bid and an ask.
 
 ## How to interpret a quoted spread
 

@@ -20,9 +20,9 @@ For readers tracing proof-of-work proceeds, a crypto mining payout can mean eith
 
 The word “payout” can describe a protocol-level reward or a pool-level participant payment. A block reward is value governed by the network’s rules for block production. A pool payout is a distribution the pool makes according to its own method and terms. The pool’s payment is not a separate reward issued directly by the blockchain to every participant.
 
-Bitcoin illustrates the network-level work involved. In Bitcoin’s proof-of-work design, mining software constructs and proposes a candidate block. The search for proof of work varies a nonce in the block until its resulting hash meets the network’s target condition. This is a Bitcoin-specific explanation, not a specification for all proof-of-work networks. [claim_bitcoin_pow_search]
+Bitcoin illustrates the network-level work involved. In Bitcoin’s proof-of-work design, mining software constructs and proposes a candidate block. The search for proof of work varies a nonce in the block until its resulting hash meets the network’s target condition. This is a Bitcoin-specific explanation, not a specification for all proof-of-work networks. [source](<https://bitcoin.org/bitcoin.pdf>)
 
-A candidate block is not the same thing as an accepted block, and a participant’s pool accounting is not the same thing as block production. For pool accounting, a pool can track shares: work that meets a pool’s target but usually does not meet the harder network target. Shares can measure contributed work, but a share by itself is not a network-valid block. [claim_bitcoin_pool_shares]
+A candidate block is not the same thing as an accepted block, and a participant’s pool accounting is not the same thing as block production. For pool accounting, a pool can track shares: work that meets a pool’s target but usually does not meet the harder network target. Shares can measure contributed work, but a share by itself is not a network-valid block. [source](<https://developer.bitcoin.org/devguide/mining.html>)
 
 This distinction matters when reading a mining dashboard or payment record. A number representing shares or an allocation under pool rules should not automatically be described as a blockchain reward already paid to the participant.
 
@@ -38,7 +38,7 @@ Nor should a Bitcoin example be treated as a universal description of proof of w
 
 ## How a mining pool allocates proceeds
 
-A mining pool groups participants’ work and records contributions according to the pool’s system. In the Bitcoin pool example supported here, shares meet a pool target that is usually easier than the network target. Because a share usually is not a network-valid block, its primary role in this account is measurement: the pool can use shares to measure contributed work. [claim_bitcoin_pool_shares]
+A mining pool groups participants’ work and records contributions according to the pool’s system. In the Bitcoin pool example supported here, shares meet a pool target that is usually easier than the network target. Because a share usually is not a network-valid block, its primary role in this account is measurement: the pool can use shares to measure contributed work. [source](<https://developer.bitcoin.org/devguide/mining.html>)
 
 The pool’s accounting sits between work measurement and participant distribution. It is separate from the protocol’s rule for recognizing a valid block. The network does not thereby issue a separate block reward to each participant for each share; the pool’s own terms govern how it uses contribution records when allocating proceeds.
 
@@ -48,7 +48,7 @@ It also helps to distinguish three possible records: the network-level proceeds 
 
 ## Why payout timing and amount can vary
 
-At the pool level, the allocation can depend on how the pool measures work and applies its stated distribution method. Shares and network-valid blocks are different measures: a share may satisfy the pool target without satisfying the network target. That difference explains why a record of participant work does not, by itself, show that the participant produced a block accepted by the network. [claim_bitcoin_pool_shares]
+At the pool level, the allocation can depend on how the pool measures work and applies its stated distribution method. Shares and network-valid blocks are different measures: a share may satisfy the pool target without satisfying the network target. That difference explains why a record of participant work does not, by itself, show that the participant produced a block accepted by the network. [source](<https://developer.bitcoin.org/devguide/mining.html>)
 
 Timing also cannot be reduced to one event. Network rules govern block eligibility; pool records measure participant work; and pool terms determine how allocations are handled. The allowed evidence does not provide current confirmation or settlement requirements for a named network, or a payment schedule for any named pool. It cannot support a promised time to credit or send funds. Check both sources for the specific case rather than inferring timing from the word “payout.”
 
@@ -60,7 +60,7 @@ Accordingly, this explainer does not estimate earnings, compare providers, or as
 
 First, identify the type of figure being reviewed. Is it a protocol-level reward associated with a block, a pool record of contributed work, a pool allocation, or funds reported as sent or received? These terms describe different stages and should not be treated as interchangeable.
 
-Next, consult the current documentation for the relevant network. Verify its block-production and reward rules, and check how it handles transaction fees before describing them as part of proceeds. The Bitcoin nonce-and-target example is not evidence that another network uses the same mechanism or reward terms. [claim_bitcoin_pow_search]
+Next, consult the current documentation for the relevant network. Verify its block-production and reward rules, and check how it handles transaction fees before describing them as part of proceeds. The Bitcoin nonce-and-target example is not evidence that another network uses the same mechanism or reward terms. [source](<https://bitcoin.org/bitcoin.pdf>)
 
 Then consult the particular pool’s published documentation for its share measurement and distribution method. Check the conditions relevant to the record being interpreted, including eligibility, deductions, thresholds, and timing. The evidence here does not establish values or practices that apply to every pool, so do not fill gaps with assumptions.
 

@@ -14,13 +14,13 @@ owned_question: "What is a crypto token contract address, and how can it be dist
 risk_level: "medium"
 ---
 
-A crypto token contract address identifies a deployed token-related contract on a particular blockchain network. It is not the token’s ticker symbol, and it is not necessarily a wallet destination: on Ethereum, a smart contract has code and data at an on-chain address, while a token symbol is only a label and does not, by itself, identify the contract or network. (claim_eth_contract_state)
+A crypto token contract address identifies a deployed token-related contract on a particular blockchain network. It is not the token’s ticker symbol, and it is not necessarily a wallet destination: on Ethereum, a smart contract has code and data at an on-chain address, while a token symbol is only a label and does not, by itself, identify the contract or network. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>))
 
 ## What a crypto token contract address identifies
 
-A smart contract is a program deployed to a blockchain. On Ethereum, the contract’s code and data are associated with a specific on-chain address. For a token, that address points to the contract that implements token-related behavior and maintains its associated state on that network. (claim_eth_contract_state)
+A smart contract is a program deployed to a blockchain. On Ethereum, the contract’s code and data are associated with a specific on-chain address. For a token, that address points to the contract that implements token-related behavior and maintains its associated state on that network. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>))
 
-The address identifies the contract, not a person, a project’s real-world operator, or an individual token unit. In standards that let one contract manage multiple token types, for example, a token ID distinguishes a type within the contract; the contract address and token ID therefore serve different roles. ERC-1155 is one Ethereum standard that supports multiple token types under one contract, including configurations that are fungible, non-fungible, or semi-fungible. (claim_erc1155_multitoken)
+The address identifies the contract, not a person, a project’s real-world operator, or an individual token unit. In standards that let one contract manage multiple token types, for example, a token ID distinguishes a type within the contract; the contract address and token ID therefore serve different roles. ERC-1155 is one Ethereum standard that supports multiple token types under one contract, including configurations that are fungible, non-fungible, or semi-fungible. ([source](<https://eips.ethereum.org/EIPS/eip-1155>))
 
 This description is specific to Ethereum and Ethereum-compatible contract models. Other blockchain networks can use different account, address, and token designs, so “token contract address” should not be assumed to describe every network identically.
 
@@ -28,19 +28,19 @@ This description is specific to Ethereum and Ethereum-compatible contract models
 
 These references answer different questions:
 
-- **Contract address:** Which deployed contract is being referenced on a particular network? On Ethereum, a contract address locates code and state. (claim_eth_contract_state)
-- **Wallet address:** Where is an account or asset destination identified? Address meaning and account design depend on the blockchain. For example, Monero’s stealth-address mechanism lets a sender create a one-time destination address, illustrating that address functions differ across protocols. (claim_monero_stealth_address)
+- **Contract address:** Which deployed contract is being referenced on a particular network? On Ethereum, a contract address locates code and state. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>))
+- **Wallet address:** Where is an account or asset destination identified? Address meaning and account design depend on the blockchain. For example, Monero’s stealth-address mechanism lets a sender create a one-time destination address, illustrating that address functions differ across protocols. ([source](<https://web.getmonero.org/resources/moneropedia/stealthaddress.html>))
 - **Token symbol:** What short, human-readable label is used for a token? A symbol is a name-like label, not a substitute for the network and contract identifier.
 
 A wallet may display tokens associated with contracts, but that does not make the token contract address the same thing as the wallet’s address. The first identifies a contract; the second refers to an account or destination under the relevant network’s rules. A ticker can help people refer to an asset in conversation, but it is not enough, on its own, to specify which contract is meant.
 
 ## Why the network matters
 
-An address must be interpreted in network context. The same string of characters should not be treated as a universal identifier across blockchains: the network determines which ledger and address rules give that string meaning. Ethereum’s contract-address description applies to Ethereum; it should not be silently extended to other networks with different designs. (claim_eth_contract_state)
+An address must be interpreted in network context. The same string of characters should not be treated as a universal identifier across blockchains: the network determines which ledger and address rules give that string meaning. Ethereum’s contract-address description applies to Ethereum; it should not be silently extended to other networks with different designs. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>))
 
 Some networks or environments may use similar-looking address formats. Appearance alone is therefore not proof that two addresses refer to the same contract or asset. Keep the network name attached to the address when discussing or recording it, and avoid treating a token’s name or symbol as if it supplied the missing network context.
 
-This distinction also matters for data services. For example, an API that indexes blockchain data may cover multiple supported EVM chains, but that coverage is an attribute of that API and its configuration—not evidence that an address has the same meaning on every network. (claim_explorer_endpoint_coverage)
+This distinction also matters for data services. For example, an API that indexes blockchain data may cover multiple supported EVM chains, but that coverage is an attribute of that API and its configuration—not evidence that an address has the same meaning on every network. ([source](<https://docs.etherscan.io/introduction>))
 
 ## What an address can—and cannot—tell you
 

@@ -18,9 +18,9 @@ In a spending context, “crypto money” is an informal phrase for crypto asset
 
 ## What “crypto money” means in a spending context
 
-In the technical blockchain-network sense used here, cryptocurrency is a digital asset, credit, or unit that can be cryptographically transferred between users of a blockchain network. The phrase “crypto money” applies that idea to a possible spending use. It is descriptive, not a single technical category that establishes how an asset works or what status it has. [claim_nist_crypto_definition]
+In the technical blockchain-network sense used here, cryptocurrency is a digital asset, credit, or unit that can be cryptographically transferred between users of a blockchain network. The phrase “crypto money” applies that idea to a possible spending use. It is descriptive, not a single technical category that establishes how an asset works or what status it has. [source](<https://csrc.nist.gov/glossary/term/Cryptocurrency>)
 
-A wallet is also separate from the asset. It is used to generate, manage, store, or use asymmetric keys and blockchain addresses. So, when someone says they are paying with crypto money, the phrase may refer to the value being used, while the wallet is one tool that can help manage or use it. [claim_nist_wallet_keys]
+A wallet is also separate from the asset. It is used to generate, manage, store, or use asymmetric keys and blockchain addresses. So, when someone says they are paying with crypto money, the phrase may refer to the value being used, while the wallet is one tool that can help manage or use it. [source](<https://csrc.nist.gov/glossary/term/wallet>)
 
 A payment instrument is a way to initiate or present a payment; a payment service may perform additional functions in the payment process. Neither term names the underlying crypto asset. Keeping these parts separate helps avoid assuming that a familiar app or card determines what asset is involved or how a recipient is paid.
 
@@ -36,7 +36,7 @@ The distinction matters in everyday language: saying “I paid with crypto” do
 
 At a broad level, a payer may transfer a crypto asset directly, or an intermediary service may handle conversion or payment processing. These are possible patterns, not a universal sequence. The asset a recipient accepts, the form in which the recipient receives value, and the services involved can vary by arrangement.
 
-A blockchain transfer and a merchant’s payment process are different layers. The blockchain is a record-keeping system; in general, blockchain systems use validation and conflict-resolution rules to maintain a shared transaction history. Participation, consensus, privacy, finality, and governance vary across systems. That general description does not specify how a merchant or payment service handles a purchase. [claim_nist_wallet_keys]
+A blockchain transfer and a merchant’s payment process are different layers. The blockchain is a record-keeping system; in general, blockchain systems use validation and conflict-resolution rules to maintain a shared transaction history. Participation, consensus, privacy, finality, and governance vary across systems. That general description does not specify how a merchant or payment service handles a purchase. [source](<https://csrc.nist.gov/glossary/term/wallet>)
 
 For a reader, the practical point is to identify which layer a description concerns. A statement about an asset says what value is involved. A statement about a wallet or payment instrument concerns how a user interacts with that value. A statement about a processor or recipient concerns the services and arrangements around the purchase. Do not treat those statements as interchangeable or assume that one describes every step.
 

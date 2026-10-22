@@ -22,7 +22,7 @@ A reserve is bitcoin that a person or organization says it is setting aside for 
 
 That makes it useful to separate the label from the facts behind it. An asset label or interface name alone does not establish applicable protocol rules, legal rights, backing, or recovery conditions. Those points require evidence about the specific arrangement, rather than an inference from the word “reserve.”
 
-The term also does not automatically mean that the bitcoin is held for redemption by someone else. For comparison, a typical fiat-reserve-backed stablecoin model uses offchain reserve assets to support issuance: tokens are minted after an issuer receives collateral and burned after redemption. That specific model should not be assumed to apply to bitcoin holdings merely because they are called a reserve. (claim_fiat_issue_redeem)
+The term also does not automatically mean that the bitcoin is held for redemption by someone else. For comparison, a typical fiat-reserve-backed stablecoin model uses offchain reserve assets to support issuance: tokens are minted after an issuer receives collateral and burned after redemption. That specific model should not be assumed to apply to bitcoin holdings merely because they are called a reserve. ([source](<https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8408.pdf>))
 
 ## Protocol-level reserve concepts versus organizational holdings
 
@@ -37,12 +37,12 @@ These distinctions prevent three different statements from being treated as inte
 A useful comparison starts with the arrangement’s structure rather than the label. Ask:
 
 - **Who is the holder, and what is the stated purpose?** Identify the person or organization said to hold the bitcoin. Look for a policy explaining why it is designated as a reserve and what uses are permitted.
-- **Who controls access?** Determine who controls the relevant keys and who can authorize transfers. In a self-custody model, the user controls and is responsible for the private keys and recovery material needed to access the assets. (claim_sec_self_custody_responsibility)
+- **Who controls access?** Determine who controls the relevant keys and who can authorize transfers. In a self-custody model, the user controls and is responsible for the private keys and recovery material needed to access the assets. ([source](<https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/crypto-asset-custody-basics-retail-investors-investor-bulletin-0>))
 - **What are the custody and recovery arrangements?** Check whether the holder manages access directly or relies on another party, and whether documentation explains access restrictions and recovery. The word “reserve” does not answer these operational questions.
 - **What policy and oversight apply?** Look for who makes decisions, how authority is assigned, and what disclosures explain the arrangement. A description of policy is different from evidence that a stated holding or control arrangement exists.
 - **Are there related claims or rights?** Ask whether another party has a claim against the holder or the assets, and what documentation supports that relationship. Do not infer that the assets are segregated, redeemable, or available to a third party just from the reserve label.
 
-For global stablecoin arrangements, Financial Stability Board recommendations identify disclosure topics that include governance, reserve composition and custody, legal claims, redemption rights, operations, and risk management. Those recommendations are policy guidance for the arrangements they describe, not proof that a particular reserve meets them or a universal disclosure rule. (claim_fsb_rights_disclosure)
+For global stablecoin arrangements, Financial Stability Board recommendations identify disclosure topics that include governance, reserve composition and custody, legal claims, redemption rights, operations, and risk management. Those recommendations are policy guidance for the arrangements they describe, not proof that a particular reserve meets them or a universal disclosure rule. ([source](<https://www.fsb.org/uploads/P170723-3.pdf>))
 
 These questions help distinguish a reserve designation from ordinary holdings while avoiding the assumption that every reserve has the same controls or purpose. The relevant details depend on the holder and the arrangement.
 

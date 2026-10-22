@@ -18,7 +18,7 @@ A proof of work consensus protocol helps a blockchain network select among compe
 
 ## What a proof of work consensus protocol coordinates
 
-A blockchain network needs a way to handle competing histories—for example, when participants receive different proposed blocks or branches. A proof of work consensus protocol combines a computational hurdle for publishing blocks with a rule for selecting a history. In the general model, the hurdle is hard to solve but straightforward for other nodes to verify, and solving it consumes time, energy, and computational cycles. [claim_nist_pow_definition] [claim_pow_resource]
+A blockchain network needs a way to handle competing histories—for example, when participants receive different proposed blocks or branches. A proof of work consensus protocol combines a computational hurdle for publishing blocks with a rule for selecting a history. In the general model, the hurdle is hard to solve but straightforward for other nodes to verify, and solving it consumes time, energy, and computational cycles. [source](<https://csrc.nist.gov/glossary/term/Proof_of_work_consensus_model>) [source](<https://csrc.nist.gov/glossary/term/Proof_of_work_consensus_model>)
 
 “Consensus” in this context concerns how participants coordinate over which valid block history to follow. It does not mean every participant necessarily sees the same information or reaches agreement at precisely the same time. Proof of work is one part of a network’s rules. It is distinct from transaction validation, and different networks can define their own proof requirements and chain-selection rules.
 
@@ -26,7 +26,7 @@ Mining is the process of searching for qualifying work and proposing a block und
 
 ## How miners propose blocks through proof of work
 
-A miner forms a candidate block from transaction data and other block information. It then performs repeated hash computations, varying permitted data in search of a result that satisfies the network’s target. This repeated search is the work; the result is intended to be easier to check than it was to find. [claim_mining_repeated_hashing] [claim_nist_pow_definition]
+A miner forms a candidate block from transaction data and other block information. It then performs repeated hash computations, varying permitted data in search of a result that satisfies the network’s target. This repeated search is the work; the result is intended to be easier to check than it was to find. [source](<https://nvlpubs.nist.gov/nistpubs/ir/2018/nist.ir.8202.pdf>) [source](<https://csrc.nist.gov/glossary/term/Proof_of_work_consensus_model>)
 
 When a miner finds a qualifying result, it can announce its candidate block to the network. That announcement is a proposal, not a declaration that all nodes must accept it. The candidate still has to meet the network’s block and transaction rules, and other participants evaluate it under their own validation process.
 
@@ -44,7 +44,7 @@ Protocol details matter. The general proof-of-work model describes a costly-to-f
 
 Two valid blocks may extend the same prior history, creating competing branches. Nodes can learn about those branches in different orders. The protocol’s chain-selection rule provides a way to resolve that disagreement as additional blocks are produced.
 
-In Bitcoin’s original proof-of-work design, nodes select the valid chain representing the greatest cumulative proof of work when histories compete. Work does not override validity: nodes still enforce transaction and block rules before treating a history as valid. This is a Bitcoin-specific description, not a universal formula for every proof-of-work network. [claim_compare_pow_chain]
+In Bitcoin’s original proof-of-work design, nodes select the valid chain representing the greatest cumulative proof of work when histories compete. Work does not override validity: nodes still enforce transaction and block rules before treating a history as valid. This is a Bitcoin-specific description, not a universal formula for every proof-of-work network. [source](<https://bitcoin.org/bitcoin.pdf>)
 
 As a branch accumulates more work, replacing its accepted history requires producing competing work and catching up under the relevant rules. This gives the chain-selection process a way to resist conflicting histories, but it does not establish an absolute guarantee that a particular block can never be displaced. The significance of additional blocks depends on the network’s protocol and operating conditions; the general mechanism does not provide a universal confirmation threshold.
 
@@ -52,7 +52,7 @@ Difficulty is not the focus here. It is related to the work target, but its para
 
 ## What proof of work secures—and what it does not
 
-Proof of work makes producing a competing history costly because that history must satisfy the network’s work requirements. In Bitcoin’s design, the accepted proof-of-work chain represents the greatest pool of cumulative work, so replacing accepted history requires rebuilding work and catching up. [claim_compare_pow_chain]
+Proof of work makes producing a competing history costly because that history must satisfy the network’s work requirements. In Bitcoin’s design, the accepted proof-of-work chain represents the greatest pool of cumulative work, so replacing accepted history requires rebuilding work and catching up. [source](<https://bitcoin.org/bitcoin.pdf>)
 
 This security model has boundaries. Work alone does not validate transactions, guarantee that every node has received the same information, or make a block immune to reorganization. The protocol depends on nodes enforcing validity rules and applying the network’s chain-selection mechanism. The general proof-of-work definition also does not quantify when an attack would succeed or establish a fixed security threshold for all networks.
 

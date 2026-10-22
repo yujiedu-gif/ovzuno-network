@@ -20,13 +20,13 @@ risk_level: "medium"
 
 The phrase describes a concept: an internet service might use an NFT record to identify a digital item or help determine whether an address has a particular role. The phrase is not itself a technical standard, and it does not specify how any one service connects tokens to content, access, or other systems.
 
-“Web3,” a related but broader term, also has no single rigid definition. It is commonly used as a catch-all for a user-owned, decentralized vision of the internet. One foundation’s stated vision emphasizes open protocols, user control, interoperability, and less dependence on centralized intermediaries. Those are principles of that vision, not guaranteed features of every NFT or online service. (claim_web3_not_rigid; claim_web3_foundation_scope)
+“Web3,” a related but broader term, also has no single rigid definition. It is commonly used as a catch-all for a user-owned, decentralized vision of the internet. One foundation’s stated vision emphasizes open protocols, user control, interoperability, and less dependence on centralized intermediaries. Those are principles of that vision, not guaranteed features of every NFT or online service. ([source](<https://ethereum.org/web3/>); [source](<https://web3.foundation/manifesto>))
 
 For a builder, operator, or decision-maker, the practical question is therefore not whether a service uses the phrase “NFT internet.” It is what the NFT record does in that specific system, what information or content is held elsewhere, and which service recognizes the record.
 
 ## How an NFT relates to an online item
 
-A blockchain can maintain a shared history of transactions under network rules. Published records cannot simply be changed during normal operation, but this does not mean every record proves the correctness of off-chain information or guarantees continued access to an external item. (claim_nist_shared_ledger)
+A blockchain can maintain a shared history of transactions under network rules. Published records cannot simply be changed during normal operation, but this does not mean every record proves the correctness of off-chain information or guarantees continued access to an external item. ([source](<https://csrc.nist.gov/pubs/ir/8202/final>))
 
 An NFT-based service may connect a token record to information about a digital item. The record, the referenced item, and the service that displays or uses it are distinct parts of the arrangement. A record may help an application identify a token, while content or other details may depend on systems beyond that record. The precise connection depends on the particular implementation; the general idea of an NFT internet does not prescribe one storage or service design.
 
@@ -42,13 +42,13 @@ These layers may be linked by an application, but they are not interchangeable. 
 
 In a technical sense, a service may use an NFT record to identify a holder or a digital item. That statement concerns how the service treats the record; it should not automatically be read as a claim that the holder owns every related file, work, or right.
 
-A token can be associated with an access role, but the service must recognize and enforce that role. For example, ERC-4907 adds a time-limited user role separate from the NFT owner, with an expiration time that can end usage permission without transferring ownership. This illustrates a technical mechanism, not a universal capability or a legal conclusion: whether an application honors the role depends on that application’s implementation. (claim_nft_owner_user_roles)
+A token can be associated with an access role, but the service must recognize and enforce that role. For example, ERC-4907 adds a time-limited user role separate from the NFT owner, with an expiration time that can end usage permission without transferring ownership. This illustrates a technical mechanism, not a universal capability or a legal conclusion: whether an application honors the role depends on that application’s implementation. ([source](<https://eips.ethereum.org/EIPS/eip-4907>))
 
 Access, continued availability, and transferability are therefore separate questions. A record may remain on a blockchain while an external service or item it refers to is handled elsewhere. Likewise, a transfer recognized by one system does not establish that a separate service will accept the new holder or continue an entitlement. The relevant implementation and terms determine those outcomes; the phrase “NFT internet” does not guarantee them.
 
 ## Where NFT-based records fit in internet services
 
-An online service can use records from a blockchain as one input to its own processes. For example, the broader Baseline Protocol reference architecture coordinates multiple private systems of record using messaging, cryptography, proofs, and a consensus-controlled state machine while keeping business data in those systems. This is one architecture, not a description of every NFT service. Its implementations choose their own state machine, privacy method, governance, messaging, and operational controls; the specification does not make every implementation trustless. (claim_baseline_private_records)
+An online service can use records from a blockchain as one input to its own processes. For example, the broader Baseline Protocol reference architecture coordinates multiple private systems of record using messaging, cryptography, proofs, and a consensus-controlled state machine while keeping business data in those systems. This is one architecture, not a description of every NFT service. Its implementations choose their own state machine, privacy method, governance, messaging, and operational controls; the specification does not make every implementation trustless. ([source](<https://docs.oasis-open.org/ethereum/baseline/baseline-core/v1.0/baseline-core-v1.0-part1.html>))
 
 This example helps clarify a general boundary: a blockchain record can participate in a larger workflow without replacing every external system involved. A service may need to connect its application logic and records with other systems, and any access or entitlement still depends on how the relevant service interprets the information and on the terms that apply.
 

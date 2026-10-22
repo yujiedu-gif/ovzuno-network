@@ -20,7 +20,7 @@ A cryptographic token is a digitally represented item that a software system han
 
 “Cryptographic token” is a broad technical phrase, not one universal format. In software, a token may represent information or a permission that another component checks. The term does not by itself say who issued it, what data it contains, how long it remains usable, or which rules govern it. Those details belong to the particular protocol or implementation.
 
-Cryptography is a discipline that applies methods to information-security goals such as confidentiality, data integrity, source authentication, and non-repudiation. A particular cryptographic operation generally serves only some of those goals rather than providing all of them at once. The word “token” does not identify which mechanism, if any, a system uses. [claim_cryptography_scope]
+Cryptography is a discipline that applies methods to information-security goals such as confidentiality, data integrity, source authentication, and non-repudiation. A particular cryptographic operation generally serves only some of those goals rather than providing all of them at once. The word “token” does not identify which mechanism, if any, a system uses. [source](<https://csrc.nist.gov/glossary/term/cryptography>)
 
 This makes phrases such as “cryptographically protected” incomplete as security descriptions. A technical review needs to establish which data is protected, what the verifier checks, and what a successful check demonstrates. The system’s name or label is not a substitute for that explanation.
 
@@ -44,9 +44,9 @@ The practical question is therefore not simply, “Is the token valid?” It is,
 
 A cryptographic token can refer broadly to a software mechanism for representing or checking data or permissions. It does not necessarily refer to an asset on a blockchain. A blockchain crypto token is associated with a blockchain system, whose protocol and implementation define how the token is represented or managed. The terms can overlap in everyday usage, but they describe different boundaries: one is a broad technical phrase, and the other specifies a blockchain context.
 
-Blockchain systems also have native assets and token implementations that should not be collapsed into a single definition. For example, ETH is Ethereum’s native cryptocurrency and part of the protocol’s market for computation. [claim_eth_native_currency] That does not make “cryptographic token” a synonym for cryptocurrency, or imply that every software token has financial value.
+Blockchain systems also have native assets and token implementations that should not be collapsed into a single definition. For example, ETH is Ethereum’s native cryptocurrency and part of the protocol’s market for computation. [source](<https://ethereum.org/developers/docs/intro-to-ethereum/>) That does not make “cryptographic token” a synonym for cryptocurrency, or imply that every software token has financial value.
 
-A specific token standard is narrower still. ERC-1155, for example, allows one contract to manage multiple token types, including fungible, non-fungible, and semi-fungible configurations, with single and batch transfers. [claim_erc1155_multitoken] This is a description of one standard, not a general account of every cryptographic token or every blockchain token.
+A specific token standard is narrower still. ERC-1155, for example, allows one contract to manage multiple token types, including fungible, non-fungible, and semi-fungible configurations, with single and batch transfers. [source](<https://eips.ethereum.org/EIPS/eip-1155>) This is a description of one standard, not a general account of every cryptographic token or every blockchain token.
 
 Keeping these terms separate helps prevent category errors. A software credential should not be assumed to be a blockchain asset merely because cryptography is involved. Conversely, a blockchain token’s behavior should not be inferred from the broad phrase “cryptographic token.” Readers looking for crypto-asset categories, comparisons between coins and tokens, or token-standard details need those narrower discussions.
 
@@ -54,7 +54,7 @@ Keeping these terms separate helps prevent category errors. A software credentia
 
 Start by determining what the token represents: data, a permission, or another kind of item. Then identify who creates it, who presents it, which component verifies it, and which protocol or application rules define acceptable behavior. The key question is how the system connects its verification result to an action.
 
-Next, examine the cryptographic claim precisely. Identify the operation being used and the security property it is intended to support. Ask what input the verifier checks, what it returns, and what that result does not establish. Cryptography includes different methods for different information-security goals; a broad claim about cryptographic protection does not tell you which goals a particular design addresses. [claim_cryptography_scope]
+Next, examine the cryptographic claim precisely. Identify the operation being used and the security property it is intended to support. Ask what input the verifier checks, what it returns, and what that result does not establish. Cryptography includes different methods for different information-security goals; a broad claim about cryptographic protection does not tell you which goals a particular design addresses. [source](<https://csrc.nist.gov/glossary/term/cryptography>)
 
 A practical review checklist includes:
 

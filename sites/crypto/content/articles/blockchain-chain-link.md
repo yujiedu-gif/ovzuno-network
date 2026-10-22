@@ -18,7 +18,7 @@ risk_level: "medium"
 
 ## What “blockchain chain link” can mean
 
-In informal descriptive wording, a “chain link” may refer to a connection between blockchain networks. Such a connection can coordinate token, message, data, or contract-call activity between otherwise isolated blockchain environments. The destination chain changes only after its bridge-side logic accepts the relevant cross-chain message or transfer condition. [claim_bridges_connect_ledgers]
+In informal descriptive wording, a “chain link” may refer to a connection between blockchain networks. Such a connection can coordinate token, message, data, or contract-call activity between otherwise isolated blockchain environments. The destination chain changes only after its bridge-side logic accepts the relevant cross-chain message or transfer condition. [source](<https://ethereum.org/developers/docs/bridges>)
 
 This is a broad description, not the name of a single standard or mechanism. The phrase itself does not say what information or activity is being coordinated, which networks are involved, or how a receiving system determines that an event on another network should be accepted. It also does not establish that a particular pair of networks is compatible or actually connected.
 
@@ -26,13 +26,13 @@ The wording can be ambiguous because “link” is an ordinary descriptive word,
 
 ## How blockchains can connect
 
-A cross-chain connection coordinates activity between separate blockchain environments; it does not mean that their records become one shared ledger. Blockchain systems maintain records under their own rules, and those systems can differ in participation, consensus, privacy, and finality. [claim_nist_shared_ledger]
+A cross-chain connection coordinates activity between separate blockchain environments; it does not mean that their records become one shared ledger. Blockchain systems maintain records under their own rules, and those systems can differ in participation, consensus, privacy, and finality. [source](<https://csrc.nist.gov/pubs/ir/8202/final>)
 
-A connection might coordinate tokens, messages, data, or contract calls. These are different kinds of activity, so a statement that two networks are “linked” leaves important details unanswered. It does not, by itself, explain what crosses between them or what the receiving network does with it. [claim_bridges_connect_ledgers]
+A connection might coordinate tokens, messages, data, or contract calls. These are different kinds of activity, so a statement that two networks are “linked” leaves important details unanswered. It does not, by itself, explain what crosses between them or what the receiving network does with it. [source](<https://ethereum.org/developers/docs/bridges>)
 
-For token transfers, the underlying asset is not physically carried from one ledger to another. Instead, mechanisms can coordinate value across chains through actions such as locking, releasing, minting, burning, or swapping. The accounting and redemption path depend on the design, so the general phrase “chain link” should not be treated as an explanation of a particular transfer process. [claim_assets_not_physically_moved]
+For token transfers, the underlying asset is not physically carried from one ledger to another. Instead, mechanisms can coordinate value across chains through actions such as locking, releasing, minting, burning, or swapping. The accounting and redemption path depend on the design, so the general phrase “chain link” should not be treated as an explanation of a particular transfer process. [source](<https://ethereum.org/developers/docs/scaling/sidechains/>)
 
-The word *bridge* is commonly associated with cross-chain coordination, but “link” alone does not prove that a bridge is involved. Nor does it specify how a bridge operates. Separately, an oracle can connect off-chain data or services to an on-chain smart contract so contract logic can act on external information. That is a related concept, but it is not a universal description of connections between blockchain networks. [claim_bridges_connect_ledgers] [claim_oracle_external_input] [claim_oracle_bridge]
+The word *bridge* is commonly associated with cross-chain coordination, but “link” alone does not prove that a bridge is involved. Nor does it specify how a bridge operates. Separately, an oracle can connect off-chain data or services to an on-chain smart contract so contract logic can act on external information. That is a related concept, but it is not a universal description of connections between blockchain networks. [source](<https://ethereum.org/developers/docs/bridges>) [source](<https://docs.chain.link/getting-started/conceptual-overview>) [source](<https://docs.chain.link/getting-started/conceptual-overview>)
 
 These distinctions help prevent a broad phrase from being mistaken for a technical explanation. If a source says networks are linked, look for what activity is coordinated and which system accepts the relevant information or transfer condition. Without those details, the phrase names a general idea rather than a defined implementation.
 

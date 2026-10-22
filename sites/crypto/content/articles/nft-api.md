@@ -32,9 +32,9 @@ Read the documentation as the boundary of what the integration can rely on. Look
 
 Check whether the documentation explains absent metadata, unavailable media, and the meaning of ownership-related fields. Also look for stated timestamps, indexing status, or freshness limitations. If the documentation does not define when a value was updated, avoid describing it as current. If it does not specify what an ownership field represents, do not turn that field into an unqualified assertion about ownership.
 
-The Etherscan API documents indexed endpoint families for balances, transactions, token transfers, contract source, logs, gas, statistics, and address metadata across supported EVM chains. This is an example of documented endpoint coverage, not proof that every NFT field or every network is available through that API. Check the specific documentation for the API and endpoint you plan to use. [claim_explorer_endpoint_coverage]
+The Etherscan API documents indexed endpoint families for balances, transactions, token transfers, contract source, logs, gas, statistics, and address metadata across supported EVM chains. This is an example of documented endpoint coverage, not proof that every NFT field or every network is available through that API. Check the specific documentation for the API and endpoint you plan to use. [source](<https://docs.etherscan.io/introduction>)
 
-An API may also return lower-level records rather than application-ready NFT objects. Ethereum JSON-RPC exposes protocol-oriented blocks, transactions, receipts, state queries, and contract logs rather than a universal application entity model. That distinction matters when planning how your application will transform returned records into fields its interface can use. [claim_rpc_raw_records]
+An API may also return lower-level records rather than application-ready NFT objects. Ethereum JSON-RPC exposes protocol-oriented blocks, transactions, receipts, state queries, and contract logs rather than a universal application entity model. That distinction matters when planning how your application will transform returned records into fields its interface can use. [source](<https://ethereum.org/developers/docs/apis/json-rpc/>)
 
 The available evidence does not establish universal authentication methods, pagination conventions, rate limits, error codes, or NFT data coverage. Treat each of those as a documentation check, not as a general property of APIs. If the documentation leaves a question unanswered, record the limitation and avoid building user-facing behavior that assumes an answer.
 
@@ -51,7 +51,7 @@ An internal model might distinguish a token identifier, a collection label, an o
 
 Do not collapse different uncertainties into one generic “not found” state. A field may be absent, malformed, unsupported by the endpoint, or unavailable because a request failed. Those conditions have different meanings for the user and for maintenance. A clear application can show that information is unavailable without implying that the underlying NFT or record does not exist.
 
-Ownership needs particular care. The evidence here does not define a universal NFT ownership endpoint or establish that a returned field represents current legal ownership. Use only the semantics the API documents and describe the result accordingly. One example of a distinct ownership-related concept is ERC-4907: it adds a time-limited user role separate from the NFT owner, with an expiration time; applications must recognize and enforce that role. [claim_nft_owner_user_roles]
+Ownership needs particular care. The evidence here does not define a universal NFT ownership endpoint or establish that a returned field represents current legal ownership. Use only the semantics the API documents and describe the result accordingly. One example of a distinct ownership-related concept is ERC-4907: it adds a time-limited user role separate from the NFT owner, with an expiration time; applications must recognize and enforce that role. [source](<https://eips.ethereum.org/EIPS/eip-4907>)
 
 ## Handle API failures, stale data, and refreshes
 
@@ -75,7 +75,7 @@ Document the API and endpoints used, network and standard assumptions, field map
 
 ## Keep NFT data retrieval separate from payments and transactions
 
-An NFT API integration may retrieve or index data without providing the mechanisms to purchase or transfer an NFT. On Ethereum, an EIP-1193 provider is a minimal request-and-event interface for application access to Ethereum through a client; the wallet separately manages keys and signing. That distinction illustrates why a data API, an application interface, and a wallet signing path should not be treated as the same component. [claim_provider_wallet_boundary]
+An NFT API integration may retrieve or index data without providing the mechanisms to purchase or transfer an NFT. On Ethereum, an EIP-1193 provider is a minimal request-and-event interface for application access to Ethereum through a client; the wallet separately manages keys and signing. That distinction illustrates why a data API, an application interface, and a wallet signing path should not be treated as the same component. [source](<https://eips.ethereum.org/EIPS/eip-1193>)
 
 This guide covers read-only retrieval and display. Transaction execution requires separate design beyond the scope of this walkthrough, and checkout, payment confirmation, refunds, and reconciliation are not part of this integration. If an application later adds those capabilities, treat them as separate workflows rather than assuming that an NFT data endpoint supplies them.
 

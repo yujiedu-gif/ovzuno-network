@@ -18,7 +18,7 @@ risk_level: "medium"
 
 ## What “NFT without fees” can mean
 
-An NFT, or non-fungible token, is represented in part by a token record. Minting creates a token record and initial ownership under a smart contract’s rules. That description explains the record created; it does not specify who pays the transaction cost or whether a separate service charge applies. [claim_nft_minting]
+An NFT, or non-fungible token, is represented in part by a token record. Minting creates a token record and initial ownership under a smart contract’s rules. That description explains the record created; it does not specify who pays the transaction cost or whether a separate service charge applies. [source](<https://ethereum.org/nft/>)
 
 A no-fee claim can refer to different things. It may describe a user-facing charge for one action, a network transaction cost, or a separate charge imposed by a service. These categories should not be treated as interchangeable. A statement that a user pays no network fee, for example, would not by itself establish that a service charge is waived as well.
 
@@ -28,7 +28,7 @@ A displayed zero can describe only the user’s immediate charge. It does not es
 
 ## Where NFT transaction costs arise
 
-Creating a token, transferring it, and interacting with a contract are separate actions. The implementation and network determine what each action involves. On Ethereum, contract deployment and execution are constrained by gas; contracts also cannot directly retrieve offchain facts without an oracle mechanism. This makes the network and contract relevant when determining what a particular NFT flow does and which actions it entails. [claim_eth_gas_and_oracles]
+Creating a token, transferring it, and interacting with a contract are separate actions. The implementation and network determine what each action involves. On Ethereum, contract deployment and execution are constrained by gas; contracts also cannot directly retrieve offchain facts without an oracle mechanism. This makes the network and contract relevant when determining what a particular NFT flow does and which actions it entails. [source](<https://ethereum.org/developers/docs/smart-contracts/>)
 
 For a creator or developer, “Is minting free?” is therefore incomplete. Ask whether the claim covers only creation, or also a later transfer and any additional contract interaction. A service might describe one step as free without making the same statement about the next step. Do not infer broader coverage from a narrow claim.
 
@@ -44,7 +44,7 @@ A service may also defer a charge or pass costs through another part of its arra
 
 Conditions can also affect who qualifies for a sponsored or deferred arrangement. The service documentation is the place to check for eligibility, limits, exclusions, and any later charges. The evidence available for this explainer does not establish the conditions of a particular service, so none should be presumed.
 
-The network’s permission model is a separate issue. Networks can distinguish permissionless participation from permissioned access, and real systems may restrict some activities while leaving others open. That classification does not identify who pays for an NFT transaction or establish that a user’s charge is waived. [claim_nist_permission_models]
+The network’s permission model is a separate issue. Networks can distinguish permissionless participation from permissioned access, and real systems may restrict some activities while leaving others open. That classification does not identify who pays for an NFT transaction or establish that a user’s charge is waived. [source](<https://csrc.nist.gov/pubs/ir/8202/final>)
 
 ## How to assess a no-fee NFT flow
 

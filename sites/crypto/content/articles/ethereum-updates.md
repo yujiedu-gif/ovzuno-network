@@ -18,7 +18,7 @@ risk_level: "medium"
 
 ## What “Ethereum updates” can mean
 
-Ethereum documentation treats protocol concepts, clients, nodes, networks, accounts, and transactions as distinct technical layers. That distinction matters because “update” is often used for several different things. [claim_kw_37d3b671bb9f68fe_01]
+Ethereum documentation treats protocol concepts, clients, nodes, networks, accounts, and transactions as distinct technical layers. That distinction matters because “update” is often used for several different things. [source](<https://ethereum.org/en/developers/docs/>)
 
 A **protocol change** concerns rules or behavior defined for the network. A **client release** is a software release that implements protocol responsibilities. **Ecosystem news** is a broad category for announcements that may concern projects, applications, or organizations without changing Ethereum’s protocol or client software.
 
@@ -26,9 +26,9 @@ A single notice can mention more than one category. For example, it could descri
 
 ## How protocol changes relate to implementation
 
-A protocol specification describes rules and behavior. A proposal or specification can provide evidence about what is being considered or defined, but the document’s existence does not by itself establish that a change has been adopted or activated. Ethereum documentation distinguishes protocol concepts from client software, networks, and other technical layers. [claim_kw_37d3b671bb9f68fe_01]
+A protocol specification describes rules and behavior. A proposal or specification can provide evidence about what is being considered or defined, but the document’s existence does not by itself establish that a change has been adopted or activated. Ethereum documentation distinguishes protocol concepts from client software, networks, and other technical layers. [source](<https://ethereum.org/en/developers/docs/>)
 
-Client software implements defined responsibilities. Ethereum nodes require execution and consensus client software, and each implements specified responsibilities. This helps explain why software releases and protocol rules are related but not identical: the protocol describes expected behavior, while client software provides an implementation of those responsibilities. [claim_kw_37d3b671bb9f68fe_02]
+Client software implements defined responsibilities. Ethereum nodes require execution and consensus client software, and each implements specified responsibilities. This helps explain why software releases and protocol rules are related but not identical: the protocol describes expected behavior, while client software provides an implementation of those responsibilities. [source](<https://ethereum.org/en/developers/docs/nodes-and-clients/>)
 
 To follow a claim, trace its scope: identify the rule or behavior being discussed, check the relevant proposal or specification, then check the client documentation and network-specific documentation for any implementation or activation claim. Do not treat a proposal, planned date, or software release as proof of a completed network change unless the applicable documentation supports that conclusion.
 
@@ -50,7 +50,7 @@ This distinction is about terminology, not an operational instruction to upgrade
 
 Match the source to the claim. For a protocol claim, look for the relevant official proposal or specification and its stated status. For a client-release claim, check the named implementation’s official release information. For an activation claim, check documentation that identifies the relevant network and explicitly describes the status. A date or plan should not be treated as a completed event without supporting evidence.
 
-Record the scope of the notice as you read it: which network, proposal or specification, client, version, and status does it name? Ethereum documentation treats these as separate technical layers, so keeping them separate helps prevent a statement about one client from being mistaken for a universal network statement. [claim_kw_37d3b671bb9f68fe_01]
+Record the scope of the notice as you read it: which network, proposal or specification, client, version, and status does it name? Ethereum documentation treats these as separate technical layers, so keeping them separate helps prevent a statement about one client from being mistaken for a universal network statement. [source](<https://ethereum.org/en/developers/docs/>)
 
 Also distinguish a change’s stated purpose from its demonstrated effect. A notice might describe intended behavior, implementation support, or a planned activation; those statements do not all establish the same thing. Where documentation does not establish whether a change is active or which network it affects, leave that point unresolved rather than inferring an answer.
 
