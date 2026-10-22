@@ -38,7 +38,7 @@ For technical details, inspect the documentation for the specific product or con
 
 Security statements require separate evidence. If a project publishes an audit or incident disclosure, read what system and version it covers, when it was produced, and what limitations it states. The evidence available here contains no Opyn-specific audit or incident information. Even when an audit is available, its existence alone should not be presented as a guarantee that a system is secure.
 
-The same source-checking discipline applies to technical infrastructure more broadly. For example, a documented software framework can establish that it is modular without establishing that a particular application separates execution, consensus, settlement, and data availability into distinct security layers (<code>claim_sdk_not_layer_split</code>). That kind of general point does not verify anything about Opyn; project-specific claims still require project-specific evidence.
+The same source-checking discipline applies to technical infrastructure more broadly. For example, a documented software framework can establish that it is modular without establishing that a particular application separates execution, consensus, settlement, and data availability into distinct security layers. That kind of general point does not verify anything about Opyn; project-specific claims still require project-specific evidence.
 
 ## What this identification does not establish
 
