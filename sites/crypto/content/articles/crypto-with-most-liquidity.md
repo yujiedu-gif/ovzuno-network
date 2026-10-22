@@ -28,6 +28,8 @@ A network’s architecture or stated ethos also cannot settle the question of wh
 
 Without dated, comparable evidence for the same asset and clearly defined markets, naming a winner would overstate what the comparison establishes. A useful result may be a set of market-specific observations rather than a universal ranking.
 
+For the separate builder task of assessing whether liquidity can actually be reached across networks, see [high liquidity crypto in cross-chain applications](/articles/high-liquidity-crypto/).
+
 ## What crypto liquidity measures capture
 
 Trading volume describes activity during a stated period. It can help show where trading occurred, but volume alone does not establish how much a new order can trade at a particular price. To interpret a volume figure, disclose its source, market coverage, asset representation, and observation window. A figure from one venue or period should not silently stand in for another.

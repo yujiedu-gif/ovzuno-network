@@ -26,6 +26,8 @@ Reachability does not show how much can be executed, at what price, or with what
 
 A useful evaluation begins by separating three ideas: liquidity held at a venue, liquidity a route can access, and a transaction that has actually completed. The first describes where assets are available for activity; the second describes a possible connection; the third is an outcome of the route’s execution and settlement rules. Treating these as interchangeable can make a system appear to have deeper or more dependable access than its design establishes.
 
+For the related reader task of comparing liquidity measures across venues and periods, see [how to assess a “most liquid crypto” claim](/articles/crypto-with-most-liquidity/).
+
 ## Why liquidity can remain fragmented between chains
 
 Separate networks maintain separate records and execution environments. A bridge can coordinate token or message activity between them, but it does not turn their records into one shared pool. Cross-chain bridges can introduce additional smart-contract security risks, costs, and delays; this finding should not be generalized into a claim that every bridge implementation has identical risks. [claim_bis_bridge_fragmentation_risk]
