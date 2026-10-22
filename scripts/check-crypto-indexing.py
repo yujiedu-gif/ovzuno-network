@@ -62,6 +62,14 @@ def check():
     urls = [node.text for node in root.findall("s:url/s:loc", namespace)]
     assert len(urls) <= 50_000, "Crypto sitemap exceeds 50,000 URLs"
     assert len(urls) == len(set(urls)), "Crypto sitemap contains duplicate URLs"
+    dated_urls = {
+        node.findtext("s:loc", namespaces=namespace): node.findtext("s:lastmod", namespaces=namespace)
+        for node in root.findall("s:url", namespace)
+        if node.find("s:lastmod", namespace) is not None
+    }
+    assert dated_urls == {f"{BASE_URL}/": "2026-10-22"}, (
+        "Crypto sitemap must expose lastmod only for the updated homepage"
+    )
     urls = set(urls)
 
     robots = (OUTPUT / "robots.txt").read_text()
@@ -69,6 +77,10 @@ def check():
     assert "Disallow:" not in robots, "Crypto robots.txt blocks crawling"
     headers = (OUTPUT / "_headers").read_text().lower()
     assert "x-robots-tag" not in headers, "Crypto response headers contain an indexing rule"
+    homepage = (OUTPUT / "index.html").read_text()
+    assert 'google-site-verification content="b7r3vC-jyKOhULZ_WRnsqyVdkwN0JgSI10dtLTYw248"' in homepage, (
+        "Crypto homepage is missing its Search Console verification tag"
+    )
 
     for source in article_files:
         slug = source.stem
