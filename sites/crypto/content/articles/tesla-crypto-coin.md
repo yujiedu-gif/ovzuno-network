@@ -3,8 +3,6 @@ title: "Tesla crypto coin: how to verify token and mining claims"
 description: "Learn how to verify what “tesla crypto coin” refers to, assess claims of Tesla affiliation, and distinguish token identity from mining or consensus evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

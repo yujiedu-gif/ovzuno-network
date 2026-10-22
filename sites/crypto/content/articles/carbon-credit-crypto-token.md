@@ -3,8 +3,6 @@ title: "Carbon credit crypto token: how tokenization relates to the underlying c
 description: "Learn how a carbon credit crypto token may represent an underlying credit, how issuance and retirement are documented, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["tokenized carbon credit", "carbon credit tokenization", "carbon registry", "retirement of carbon credits", "on-chain carbon credit"]

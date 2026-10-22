@@ -3,8 +3,6 @@ title: "Venezuela Crypto Mining: Meaning and Proof-of-Work Basics"
 description: "Venezuela crypto mining refers to proof-of-work activity associated with the country. Learn what miners do and what the phrase does—and does not—mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["crypto mining venezuela"]

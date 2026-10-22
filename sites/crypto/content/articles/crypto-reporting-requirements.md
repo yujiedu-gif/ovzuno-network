@@ -3,8 +3,6 @@ title: "Crypto reporting requirements: roles, triggers, and jurisdictional scope
 description: "Explore crypto reporting requirements by actor, activity, and jurisdiction, and learn what to verify with qualified legal or tax advisers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

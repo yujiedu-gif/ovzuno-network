@@ -3,8 +3,6 @@ title: "xrpl smart contracts: capabilities, environments, and caveats"
 description: "Explore xrpl smart contracts by separating XRP Ledger native features from Hooks and EVM-compatible environments, with scope, status, and verification caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["XRPL Hooks", "XRP Ledger programmability", "XRPL EVM sidechain"]

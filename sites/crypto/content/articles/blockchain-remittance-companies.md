@@ -3,8 +3,6 @@ title: "Blockchain remittance companies: how cross-border transfers work"
 description: "Learn how blockchain remittance companies connect funding, blockchain settlement, and recipient payout, and which operational limits shape a transfer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain remittance", "cross-border payments", "stablecoin transfers"]

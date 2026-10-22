@@ -3,8 +3,6 @@ title: "blockchain france: Meaning, Uses, and Context"
 description: "Understand blockchain france as a technology topic, distinguish the underlying system from its uses, and identify which France-specific rules require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["block chain france"]

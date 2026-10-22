@@ -3,8 +3,6 @@ title: "CME Crypto: How Its Market Infrastructure Differs from Spot Exchanges"
 description: "Learn what CME crypto market infrastructure refers to, how derivatives differ from spot trading, and which product and access details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Invoicing: Workflows, Records, and Reporting Considerations"
 description: "Learn how crypto invoicing can represent amounts due, document payments, and support reconciliation, plus which local tax and reporting rules to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto invoice"]

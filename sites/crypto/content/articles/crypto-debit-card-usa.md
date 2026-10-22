@@ -3,8 +3,6 @@ title: "Crypto debit card usa: US eligibility, payment flow, and what to verify"
 description: "Learn how a crypto debit card usa product may handle eligibility, conversion, payments, fees, and tax reporting, plus what US readers should verify before applying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto debit card"]

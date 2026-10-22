@@ -3,8 +3,6 @@ title: "Cryptocurrency brokers: roles, execution models, and infrastructure"
 description: "Learn how cryptocurrency brokers may connect customers to crypto markets, how execution models differ, and what infrastructure and risk details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto broker", "brokerage model", "order routing"]

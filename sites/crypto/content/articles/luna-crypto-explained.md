@@ -3,8 +3,6 @@ title: "Luna crypto explained: the Terra asset and protocol context"
 description: "Luna crypto explained: understand the Terra ecosystem context, distinguish the token from the protocol, and check which details may change over time."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["luna crypto"]

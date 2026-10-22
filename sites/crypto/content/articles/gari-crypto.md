@@ -3,8 +3,6 @@ title: "GARI Crypto: Role, Ecosystem Context, and What to Verify"
 description: "Learn what GARI crypto refers to in the Chingari ecosystem, how to assess claims about its role, and which technical details to verify from primary materials."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

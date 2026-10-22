@@ -3,8 +3,6 @@ title: "Blockchain logging: meaning and how it differs from on-chain records"
 description: "Blockchain logging means capturing events about blockchain software and operations. Learn how these logs differ from transactions recorded on-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain log in"]

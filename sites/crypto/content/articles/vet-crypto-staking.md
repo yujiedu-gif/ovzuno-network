@@ -3,8 +3,6 @@ title: "Vet crypto staking: a due-diligence checklist"
 description: "Vet crypto staking with a neutral checklist covering validator operations, custody, delegation terms, protocol risks, exit mechanics, and disclosures to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Hidden crypto miner: signs of unauthorized cryptocurrency mining"
 description: "Learn what a hidden crypto miner is, which device symptoms may warrant investigation, and how to distinguish suspected unauthorized mining from ordinary resource use"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["unauthorized cryptocurrency mining", "cryptojacking"]

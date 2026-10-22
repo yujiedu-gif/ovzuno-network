@@ -3,8 +3,6 @@ title: "Digital Asset Inventory: What to Record for NFTs"
 description: "Learn what a digital asset inventory can record for NFTs, including token identifiers, associated media, rights, control evidence, and scope limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["digital assets inventory"]

@@ -3,8 +3,6 @@ title: "Whats crypto? A plain-language definition and spending context"
 description: "Learn whats crypto means, how digital assets relate to blockchain networks, and why card spending may involve separate payment and conversion processes."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["what s crypto"]

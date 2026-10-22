@@ -3,8 +3,6 @@ title: "nestjs blockchain: How NestJS Fits into a Blockchain Backend"
 description: "Learn how nestjs blockchain integrations fit into a backend, including service boundaries, node-provider communication, transaction handling, and security checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["NestJS blockchain integration", "blockchain application backend"]

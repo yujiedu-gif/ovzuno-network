@@ -3,8 +3,6 @@ title: "Please explain NFT: what the token represents"
 description: "Please explain NFT in plain language: learn what an NFT token records, how it may point to a digital item, and why that may not transfer rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

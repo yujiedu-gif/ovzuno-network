@@ -3,8 +3,6 @@ title: "Salt Crypto: What a Cryptographic Salt Does in Wallet Security"
 description: "Learn what salt crypto means in password-based security, how salts support key derivation, and why a salt alone does not protect a wallet."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto salt"]

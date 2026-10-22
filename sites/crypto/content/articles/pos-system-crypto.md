@@ -3,8 +3,6 @@ title: "Pos system crypto: how staking and validators support consensus"
 description: "Learn how a pos system crypto network uses staked assets and validators to coordinate consensus, including validator duties, protocol rules, and key risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

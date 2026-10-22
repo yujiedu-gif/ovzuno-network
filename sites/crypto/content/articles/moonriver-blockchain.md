@@ -3,8 +3,6 @@ title: "Moonriver blockchain: purpose, architecture, and ecosystem"
 description: "Learn what the Moonriver blockchain is, how it relates to Kusama, and which design features and limitations matter when evaluating its role."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

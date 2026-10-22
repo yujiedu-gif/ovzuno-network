@@ -3,8 +3,6 @@ title: "NFT Website Meaning: What the Term Describes"
 description: "Understand NFT website meaning, common site functions, and why a website alone does not establish ownership, copyright, or rights to associated content."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft website"]

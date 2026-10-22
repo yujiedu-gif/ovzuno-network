@@ -3,8 +3,6 @@ title: "Algo Crypto: What “Algo” Means in Blockchain Consensus"
 description: "Understand what algo crypto can mean, how consensus algorithms differ from mining, and why an asset ticker should not be confused with a protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["algorithmic consensus", "proof of work", "proof of stake", "consensus mechanism"]

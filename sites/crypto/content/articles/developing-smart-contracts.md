@@ -3,8 +3,6 @@ title: "Developing smart contracts: a platform-neutral workflow"
 description: "A platform-neutral guide to developing smart contracts, from defining requirements and designing behavior to testing, security review, and deployment readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

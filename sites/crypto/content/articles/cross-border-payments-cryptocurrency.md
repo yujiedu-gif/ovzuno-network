@@ -3,8 +3,6 @@ title: "Cross Border Payments Cryptocurrency: Stablecoin Settlement Explained"
 description: "See how stablecoins can support cross border payments cryptocurrency flows, from funding and transfer to redemption, with settlement dependencies and risks explained"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["cross border payment cryptocurrency"]

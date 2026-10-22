@@ -3,8 +3,6 @@ title: "Front running smart contract risks: transaction ordering and mitigations
 description: "Learn how transaction visibility and ordering can expose a front running smart contract workflow, and compare broad mitigations with their trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["transaction ordering", "MEV", "commit-reveal scheme", "transaction slippage"]

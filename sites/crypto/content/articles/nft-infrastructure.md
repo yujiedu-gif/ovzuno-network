@@ -3,8 +3,6 @@ title: "NFT infrastructure: components, layers, and how they work"
 description: "Explore NFT infrastructure from smart contracts and blockchain records to metadata, content storage, and access tools, including key dependencies and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT standards", "smart contracts", "metadata storage", "blockchain networks"]

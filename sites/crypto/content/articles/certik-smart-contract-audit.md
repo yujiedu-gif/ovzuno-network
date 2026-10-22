@@ -3,8 +3,6 @@ title: "Certik smart contract audit: scope, findings, and limitations"
 description: "Learn what a certik smart contract audit can examine, how to interpret reported findings, and why audit scope and remediation do not guarantee security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract security audit", "audit findings", "audit report"]

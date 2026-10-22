@@ -3,8 +3,6 @@ title: "MEX crypto exchange: identify the venue and verify its infrastructure"
 description: "Learn how to disambiguate “MEX crypto exchange” and what operator, market, and jurisdiction evidence to verify before assessing its infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

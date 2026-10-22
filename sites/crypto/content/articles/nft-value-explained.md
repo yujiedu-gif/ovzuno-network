@@ -3,8 +3,6 @@ title: "NFT value explained: meaning, rights, and valuation factors"
 description: "NFT value explained: learn what an NFT’s value refers to, how rights and utility differ from the token, and why perceived value can vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft value"]

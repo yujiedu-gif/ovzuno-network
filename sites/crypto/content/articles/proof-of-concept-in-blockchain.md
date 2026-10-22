@@ -3,8 +3,6 @@ title: "Proof of Concept in Blockchain: Scope and Evaluation"
 description: "Learn how to scope a proof of concept in blockchain for a payment use case, test key assumptions, assess evidence, and identify what a prototype cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof concept in blockchain"]

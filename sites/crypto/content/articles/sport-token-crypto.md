@@ -3,8 +3,6 @@ title: "Sport Token Crypto: Meaning, Functions, and Blockchain Design"
 description: "Learn what sport token crypto can mean, how sports-related tokens may function on blockchains, and why rights depend on each token’s design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

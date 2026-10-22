@@ -3,8 +3,6 @@ title: "OP crypto: What the Term Means in Crypto-Card Spending Contexts"
 description: "Learn how to interpret OP crypto references in crypto-card spending, what context can clarify the term, and which claims need verification before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

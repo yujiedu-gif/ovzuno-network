@@ -3,8 +3,6 @@ title: "How to Evaluate a Stablecoin Payment Platform for Settlement Workflows"
 description: "Assess a stablecoin payment platform by mapping settlement flows, integrations, controls, operational dependencies, and risks before comparing provider claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["stablecoins_settlement"]
 tags: []

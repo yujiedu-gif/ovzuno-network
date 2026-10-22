@@ -3,8 +3,6 @@ title: "XEN Crypto: Protocol Design, Token Distribution, and Risks"
 description: "Learn what XEN Crypto is, how its protocol describes XEN token distribution, and what to verify about deployments, documentation, and interaction risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

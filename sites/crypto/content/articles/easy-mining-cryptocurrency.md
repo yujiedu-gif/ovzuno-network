@@ -3,8 +3,6 @@ title: "Easy mining cryptocurrency: what makes mining accessible?"
 description: "Learn what easy mining cryptocurrency can mean, how hardware and network conditions shape accessibility, and why ease alone does not establish profitability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

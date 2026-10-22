@@ -3,8 +3,6 @@ title: "leash crypto: What the Token Is and Its Ecosystem Role"
 description: "Learn what leash crypto refers to, how project materials describe its role, and which token details readers should verify in current documentation and on-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

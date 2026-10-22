@@ -3,8 +3,6 @@ title: "Kaspa smart contracts: architecture, execution, and what to verify"
 description: "Kaspa smart contracts explained: distinguish base-layer transaction capabilities from separate execution systems, and learn what developers should verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

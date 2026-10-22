@@ -3,8 +3,6 @@ title: "Web3 Layer 1: Meaning, Core Functions, and Scaling Context"
 description: "Learn what web3 layer 1 means, which core functions a Layer 1 blockchain performs, and how its role relates to scaling in Web3 systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

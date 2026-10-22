@@ -3,8 +3,6 @@ title: "CBDC Smart Contract: How Programmable Logic May Fit a Digital Currency"
 description: "Learn what a cbdc smart contract is, where programmable logic may fit in a central bank digital currency system, and what design trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "DeFi mining pool: meaning, mechanics, and key distinctions"
 description: "Learn what a DeFi mining pool may refer to, how liquidity-mining incentives differ from proof-of-work pools, and which risks and terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["DeFi liquidity mining", "liquidity mining incentives", "proof-of-work mining pool"]

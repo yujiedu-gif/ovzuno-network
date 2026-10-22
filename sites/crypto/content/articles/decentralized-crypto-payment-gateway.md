@@ -3,8 +3,6 @@ title: "Decentralized Crypto Payment Gateway: Architecture and Trade-Offs"
 description: "Understand how a decentralized crypto payment gateway handles payment flows, which functions may rely on intermediaries, and what trade-offs operators should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

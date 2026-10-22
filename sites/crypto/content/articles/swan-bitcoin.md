@@ -3,8 +3,6 @@ title: "Swan Bitcoin: What the Name Refers To"
 description: "Learn what swan bitcoin refers to, how it differs from the Bitcoin network and bitcoin as an asset, and which provider details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

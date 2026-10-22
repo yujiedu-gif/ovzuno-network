@@ -3,8 +3,6 @@ title: "Crypto Liquidity Provider: An Exchange Evaluation Framework"
 description: "Evaluate a crypto liquidity provider by examining integration, execution, operational controls, resilience, and due-diligence evidence before making a decision."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["exchange_market_infrastructure"]
 tags: ["liquidity provider crypto"]

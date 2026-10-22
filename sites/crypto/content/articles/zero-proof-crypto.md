@@ -3,8 +3,6 @@ title: "Zero proof crypto: How private claim verification works"
 description: "Zero proof crypto explained: learn how zero-knowledge proofs can verify identity-related claims without disclosing underlying information, and what tradeoffs to"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

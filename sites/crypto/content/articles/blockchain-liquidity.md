@@ -3,8 +3,6 @@ title: "Blockchain liquidity: meaning, factors, and payment context"
 description: "Learn what blockchain liquidity means for payments and asset transfers, how it differs from network capacity, and which factors shape practical availability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

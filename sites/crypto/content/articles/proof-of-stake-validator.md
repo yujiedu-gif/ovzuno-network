@@ -3,8 +3,6 @@ title: "Proof of Stake Validator: Role, Duties, and Network Participation"
 description: "Learn what a proof of stake validator does, how stake relates to consensus participation, and why duties and risks vary across blockchain protocols."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake validator"]

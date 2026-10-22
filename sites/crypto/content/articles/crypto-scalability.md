@@ -3,8 +3,6 @@ title: "Crypto Scalability: What It Means and How to Evaluate It"
 description: "Understand crypto scalability as a system property: examine capacity, demand, costs, decentralization, and security without relying on throughput alone."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

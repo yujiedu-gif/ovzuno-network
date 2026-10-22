@@ -3,8 +3,6 @@ title: "Custom smart contract: purpose, design choices, and considerations"
 description: "Learn what a custom smart contract does, how a use case shapes its on-chain logic, and which dependencies, limitations, and review steps matter before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

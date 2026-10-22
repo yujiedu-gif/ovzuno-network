@@ -3,8 +3,6 @@ title: "Layer 2 protocols blockchain: how their designs work"
 description: "Explore how layer 2 protocols blockchain connect execution, data availability, and settlement to a base layer, and where their designs differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

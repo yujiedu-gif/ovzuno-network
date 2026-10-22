@@ -3,8 +3,6 @@ title: "NFT Fashion Marketplace: How Digital Items and Ownership Records Relate"
 description: "Learn how an nft fashion marketplace connects fashion-related digital items to blockchain records, and what to check about the item, token, and rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["fashion nft marketplace"]

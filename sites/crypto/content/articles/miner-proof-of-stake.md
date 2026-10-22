@@ -3,8 +3,6 @@ title: "Miner Proof of Stake: What the Term Means for Validators"
 description: "Learn what “miner proof of stake” means, whether it names a distinct role, and how validators handle block proposals, attestations, and consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["miner proof stake"]

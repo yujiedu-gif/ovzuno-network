@@ -3,8 +3,6 @@ title: "Crypto mining simple explanation: how proof of work supports a blockchai
 description: "Crypto mining simple explanation of how proof-of-work miners check candidate transactions, compete to propose blocks, and help a network agree."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

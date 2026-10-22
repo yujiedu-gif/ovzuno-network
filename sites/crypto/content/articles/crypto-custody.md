@@ -3,8 +3,6 @@ title: "Crypto custody: institutional controls for treasury risk assessment"
 description: "Assess crypto custody controls for institutional treasury operations, including key governance, transaction authorization, continuity planning, and oversight."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: []

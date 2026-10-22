@@ -3,8 +3,6 @@ title: "NFT Sports Memorabilia: What the Token Represents"
 description: "Learn how nft sports memorabilia links a blockchain token to sports collectibles, and why media, copyright, physical ownership, and access rights can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

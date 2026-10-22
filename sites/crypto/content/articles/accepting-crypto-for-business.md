@@ -3,8 +3,6 @@ title: "Accepting crypto for business: operational decisions to assess"
 description: "A neutral overview of accepting crypto for business, covering payment flow, settlement, accounting, customer support, and risk questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["accepting crypto business"]

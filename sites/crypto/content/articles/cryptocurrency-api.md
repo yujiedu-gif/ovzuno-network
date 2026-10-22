@@ -3,8 +3,6 @@ title: "Cryptocurrency API: A Practical Integration Guide"
 description: "Learn how to assess and integrate a cryptocurrency API for payment workflows, including capabilities, authentication, transaction states, error handling, and testing"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

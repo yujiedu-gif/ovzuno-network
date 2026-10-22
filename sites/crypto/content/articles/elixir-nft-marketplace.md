@@ -3,8 +3,6 @@ title: "Elixir NFT Marketplace: What It Is and What to Verify"
 description: "Learn what the elixir nft marketplace refers to, how a marketplace can facilitate NFT transactions, and what to verify about networks, ownership, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

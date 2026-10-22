@@ -3,8 +3,6 @@ title: "NiceHash Crypto Mining: How the Hashpower Marketplace Works"
 description: "Learn how NiceHash crypto mining connects hashpower buyers and sellers, how it relates to mining pools and proof-of-work, and what to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

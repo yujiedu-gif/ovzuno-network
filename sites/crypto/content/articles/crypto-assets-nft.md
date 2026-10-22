@@ -3,8 +3,6 @@ title: "Crypto assets NFT: what ownership records do and do not establish"
 description: "Learn what crypto assets NFT can mean, how an NFT relates to digital content, and why token control does not by itself establish broader rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "Anonymous crypto card: what privacy does the label actually offer?"
 description: "Learn what an anonymous crypto card may mean, which identity and payment records can remain visible, and what rules and provider terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

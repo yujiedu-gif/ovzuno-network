@@ -3,8 +3,6 @@ title: "How to Implement a Web3 Development Platform for a Smart-Contract Dapp"
 description: "Learn how to implement a web3 development platform for a smart-contract dapp, from mapping requirements and architecture to testing, deployment, and operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

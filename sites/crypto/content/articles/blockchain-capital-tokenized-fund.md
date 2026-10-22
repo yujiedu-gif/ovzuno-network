@@ -3,8 +3,6 @@ title: "Blockchain Capital Tokenized Fund: How Fund Interests Can Be Represented
 description: "Learn how a blockchain capital tokenized fund can represent fund interests, record ownership, and support administration, plus the limits of on-chain records."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

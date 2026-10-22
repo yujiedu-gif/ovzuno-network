@@ -3,8 +3,6 @@ title: "openzeppelin erc721 contract: Structure and Implementation Choices"
 description: "Learn how an openzeppelin erc721 contract is structured, which implementation choices matter, and what developers should verify before adapting or deploying it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["OpenZeppelin Contracts", "ERC-721 implementation", "NFT smart contract"]

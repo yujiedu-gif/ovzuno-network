@@ -3,8 +3,6 @@ title: "Crypto exchange comparison: a buyer’s infrastructure checklist"
 description: "Use this crypto exchange comparison framework to assess infrastructure, custody, connectivity, controls, and evidence before a business procurement decision."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto exchanges comparison", "crypto exchange"]

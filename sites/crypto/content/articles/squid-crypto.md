@@ -3,8 +3,6 @@ title: "Squid crypto: what the name refers to and how to verify it"
 description: "Learn what Squid crypto may refer to, how to distinguish similarly named projects or assets, and which identifiers and claims to verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

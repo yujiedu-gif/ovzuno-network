@@ -3,8 +3,6 @@ title: "Solidity la gi? A plain-language guide to the smart-contract language"
 description: "Solidity la gi? Learn what this programming language is, how developers use it to create smart contracts, and how code reaches a blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

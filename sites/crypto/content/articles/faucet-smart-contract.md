@@ -3,8 +3,6 @@ title: "Faucet Smart Contract: Roles, Controls, and Limitations"
 description: "Learn what a faucet smart contract does, how funding and distribution controls fit together, and why eligibility, rate limits, and off-chain services matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

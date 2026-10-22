@@ -3,8 +3,6 @@ title: "Banxa crypto: role in payment flows and what businesses should verify"
 description: "Learn how Banxa crypto may fit into a crypto payment flow and what businesses should verify about services, jurisdictions, compliance, fees, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

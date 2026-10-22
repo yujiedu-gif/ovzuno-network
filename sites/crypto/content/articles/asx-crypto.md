@@ -3,8 +3,6 @@ title: "ASX crypto: what the phrase means in exchange infrastructure"
 description: "Learn what “ASX crypto” may refer to, how the Australian Securities Exchange differs from crypto trading venues, and which product claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

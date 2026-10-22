@@ -3,8 +3,6 @@ title: "Crypto Market Maker Companies: Services, Models, and Due Diligence"
 description: "Learn how crypto market maker companies differ in services and operating models, and what evidence to review when assessing scope, incentives, conflicts, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

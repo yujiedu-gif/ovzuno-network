@@ -3,8 +3,6 @@ title: "Tangem Crypto: How the Card-Based Wallet Approach Works"
 description: "Learn what tangem crypto refers to, how a card-based wallet handles keys and transaction signing, and why it is distinct from a crypto payment card."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

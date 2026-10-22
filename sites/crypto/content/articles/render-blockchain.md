@@ -3,8 +3,6 @@ title: "Render blockchain: what the term means and what it does not"
 description: "Understand what “render blockchain” can mean, how the Render Network relates to blockchain infrastructure, and which token details require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

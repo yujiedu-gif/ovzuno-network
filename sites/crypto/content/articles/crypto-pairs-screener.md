@@ -3,8 +3,6 @@ title: "Crypto pairs screener: how pair listings and filters work"
 description: "Learn how a crypto pairs screener organizes exchange markets, what common filters and displayed fields mean, and which data limitations to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["trading pair", "crypto market data", "exchange market pairs"]

@@ -3,8 +3,6 @@ title: "How to Evaluate a blockchain remittance platform for Business Use"
 description: "Assess a blockchain remittance platform by mapping payment flows, settlement dependencies, operational controls, and jurisdiction-specific evidence before adoption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

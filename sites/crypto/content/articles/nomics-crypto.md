@@ -3,8 +3,6 @@ title: "Nomics crypto: meaning and regulatory or tax context"
 description: "Learn what “nomics crypto” may refer to, how to verify the specific source or entity, and why regulatory and tax conclusions depend on jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["cryptonomic"]

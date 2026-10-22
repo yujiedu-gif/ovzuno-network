@@ -3,8 +3,6 @@ title: "ETC Proof of Stake: Ethereum Classic Consensus Explained"
 description: "Explore ETC proof of stake by checking Ethereum Classic’s consensus design, the role of network participants, and what staking claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["etc proof stake"]

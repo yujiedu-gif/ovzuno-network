@@ -3,8 +3,6 @@ title: "Merlin app crypto: what the app does and how to verify payment features"
 description: "Learn what “merlin app crypto” refers to, how to verify any payment features, and which service, network, custody, and risk details to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

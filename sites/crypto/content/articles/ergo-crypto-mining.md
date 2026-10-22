@@ -3,8 +3,6 @@ title: "Ergo crypto mining: how Autolykos supports block production"
 description: "Learn how ergo crypto mining relates to Autolykos proof-of-work, block production, and the network-specific hardware and operating factors to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Autolykos", "proof-of-work", "ERG mining"]

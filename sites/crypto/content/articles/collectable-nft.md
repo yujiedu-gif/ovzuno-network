@@ -3,8 +3,6 @@ title: "Collectable NFT: What It Represents and What Ownership Means"
 description: "Learn what a collectable nft represents, how its token differs from linked digital content, and why copyright, licensing, and access rights require separate checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

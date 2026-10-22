@@ -3,8 +3,6 @@ title: "Moneta crypto: Meaning and staking-validator context"
 description: "Learn what moneta crypto refers to, how to distinguish a named asset or project from an ambiguous phrase, and what evidence supports a staking link."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

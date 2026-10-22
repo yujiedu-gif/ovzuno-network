@@ -3,8 +3,6 @@ title: "Cryptocurrencies without proof of work: consensus mechanisms explained"
 description: "Learn how cryptocurrencies without proof of work reach agreement, how common consensus approaches differ from mining, and what varies by network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["cryptocurrencies without proof work"]

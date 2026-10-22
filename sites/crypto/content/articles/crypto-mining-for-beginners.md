@@ -3,8 +3,6 @@ title: "Crypto Mining for Beginners: How Proof of Work Supports a Blockchain"
 description: "Crypto mining for beginners: learn how proof of work validates blocks, why networks use mining, what participation involves, and what to verify first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining beginners"]

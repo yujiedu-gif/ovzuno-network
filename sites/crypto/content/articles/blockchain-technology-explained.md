@@ -3,8 +3,6 @@ title: "Blockchain technology explained: how shared digital records work"
 description: "Blockchain technology explained: learn how shared records, cryptographic links, and network agreement help participants record and verify data."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain technology"]

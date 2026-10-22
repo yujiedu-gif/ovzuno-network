@@ -3,8 +3,6 @@ title: "Flare network validator node: role, operation, and key considerations"
 description: "Learn what a flare network validator node does, how it fits into Flare’s architecture, and which operational details and risks require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Free Solidity Audit: Scope, Limits, and How to Evaluate One"
 description: "Learn what a free solidity audit may review, where no-cost checks fall short, and how to assess findings before relying on them for smart-contract security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

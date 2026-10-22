@@ -3,8 +3,6 @@ title: "Blockchain DevOps: Build, Deploy, and Operate Blockchain Systems"
 description: "Learn how blockchain devops applies software delivery and operations practices to blockchain applications and infrastructure, from deployment through monitoring and"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["devops blockchain"]

@@ -3,8 +3,6 @@ title: "Gas fee crypto: what determines transaction costs"
 description: "Learn what a gas fee crypto transaction may involve, which factors can affect its cost, and how to interpret a network fee estimate before submitting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

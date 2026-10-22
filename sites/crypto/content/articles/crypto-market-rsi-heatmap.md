@@ -3,8 +3,6 @@ title: "Crypto market rsi heatmap: What It Shows and How to Read It"
 description: "Learn what a crypto market rsi heatmap displays, how RSI values vary by asset and timeframe, and why the visualization is not a price prediction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: ["relative strength index (RSI)", "crypto RSI heatmap", "RSI timeframe", "overbought and oversold signals"]

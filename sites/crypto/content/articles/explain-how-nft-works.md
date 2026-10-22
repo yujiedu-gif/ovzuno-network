@@ -3,8 +3,6 @@ title: "Explain How NFT Works: Tokens, Records, and Digital Items"
 description: "Explain how nft works by tracing the token, blockchain record, and linked digital item—and clarifying why token ownership does not automatically grant separate legal"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["explain nft works"]

@@ -3,8 +3,6 @@ title: "Hex smart contract: meaning and on-chain verification"
 description: "Learn what “hex smart contract” may refer to, how to identify the relevant deployed contract, and what on-chain checks can—and cannot—confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "How Blockchain Card Payment Workflows Fit Together"
 description: "Learn how blockchain card payment workflows may connect authorization, clearing, settlement, and recordkeeping, and where conventional payment systems can remain in."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["card payment processing", "blockchain settlement", "payment authorization", "payment clearing"]

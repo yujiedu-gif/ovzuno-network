@@ -3,8 +3,6 @@ title: "Polygon nft gas fee: What Determines the Cost of an NFT Transaction?"
 description: "Understand what affects a polygon nft gas fee, which transaction details matter, and how to check a current estimate before confirming an NFT action."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

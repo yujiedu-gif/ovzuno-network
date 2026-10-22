@@ -3,8 +3,6 @@ title: "LTC blockchain: What It Is and How Transactions Are Recorded"
 description: "Learn what the ltc blockchain is, how Litecoin transactions are recorded and confirmed, and which network details require current, authoritative verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

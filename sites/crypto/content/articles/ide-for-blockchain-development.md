@@ -3,8 +3,6 @@ title: "ide for blockchain development: Evaluate and Set Up a Practical Workflow
 description: "Learn how to evaluate an ide for blockchain development, configure a basic workflow, and distinguish local testing tools from production requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: ["ide blockchain development"]

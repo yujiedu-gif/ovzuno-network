@@ -3,8 +3,6 @@ title: "Audit Smart Contract Free: What Free Security Checks Can and Cannot Do"
 description: "Learn what audit smart contract free methods can uncover, how automated checks differ from independent review, and when deeper smart contract security work may be 필요"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["free smart contract audit", "smart contract security review", "automated smart contract analysis"]

@@ -3,8 +3,6 @@ title: "DAO Governance Token: Role, Voting, and Limits"
 description: "Learn what a dao governance token may do in a DAO, how voting rules shape participation, and why token-based influence does not guarantee control."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

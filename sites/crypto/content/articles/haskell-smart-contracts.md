@@ -3,8 +3,6 @@ title: "Haskell Smart Contracts: Language, Execution, and Trade-Offs"
 description: "Understand how Haskell smart contracts are designed and executed, what tooling and verification can establish, and which platform-specific trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

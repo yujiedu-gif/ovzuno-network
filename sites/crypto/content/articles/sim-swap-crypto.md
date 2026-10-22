@@ -3,8 +3,6 @@ title: "Sim swap crypto: account risks, safeguards, and response steps"
 description: "Learn how sim swap crypto attacks can affect account access and recovery, which safeguards reduce exposure, and what to do if a phone number is taken over."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["SIM swap attack", "crypto account recovery", "account security"]

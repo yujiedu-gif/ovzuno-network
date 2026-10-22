@@ -3,8 +3,6 @@ title: "Smart contract split payment: how on-chain distribution works"
 description: "Learn how smart contract split payment designs account for incoming funds, allocate shares, and deliver payouts, plus key implementation trade-offs and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["payment splitting smart contract", "on-chain payment distribution", "Solidity payment splitter"]

@@ -3,8 +3,6 @@ title: "Cryptocurrency Payment Plugin: Role, Payment Flow, and Checks"
 description: "Understand what a cryptocurrency payment plugin connects, how payment data moves through the flow, and which operational, security, and compliance details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

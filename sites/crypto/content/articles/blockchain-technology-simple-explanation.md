@@ -3,8 +3,6 @@ title: "Blockchain Technology Simple Explanation: How Shared Payment Records Wor
 description: "A blockchain technology simple explanation: see how networks verify payment-related transactions, maintain shared records, and where the model has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

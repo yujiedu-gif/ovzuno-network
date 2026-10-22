@@ -3,8 +3,6 @@ title: "Shorting crypto explained: meaning, mechanics, and risks"
 description: "Shorting crypto explained: learn what short exposure means, how borrowing or derivatives can create it, and why leverage and margin can amplify losses."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["shorting crypto"]

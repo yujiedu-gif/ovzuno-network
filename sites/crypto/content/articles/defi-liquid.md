@@ -3,8 +3,6 @@ title: "DeFi Liquid: What Liquidity Means in Protocols"
 description: "DeFi liquid can refer to different forms of liquidity. Learn how protocol, market, and asset liquidity differ and what each term does—and does not—show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

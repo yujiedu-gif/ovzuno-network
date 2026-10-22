@@ -3,8 +3,6 @@ title: "Virtual digital assets: meaning, scope, and context"
 description: "Learn what virtual digital assets can refer to, how the term differs across technical and policy contexts, and what to verify before applying it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

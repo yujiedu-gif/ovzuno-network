@@ -3,8 +3,6 @@ title: "Virtu Financial Crypto: What Its Market-Infrastructure Role Means"
 description: "Explore what is publicly verifiable about Virtu Financial crypto activity, how it relates to market infrastructure, and what readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

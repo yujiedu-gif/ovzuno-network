@@ -3,8 +3,6 @@ title: "Smart Contract Audit Process: Stages, Findings, and Limits"
 description: "Understand the smart contract audit process, from scope and code review to findings, remediation, reporting, and the limits of audit assurance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract security audit", "audit findings remediation"]

@@ -3,8 +3,6 @@ title: "Bitcoin Hash: Meaning, Uses, and Key Distinctions"
 description: "Learn what a bitcoin hash is, how hashing relates to Bitcoin blocks and transactions, and how a hash differs from an address or private key."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoinhash"]

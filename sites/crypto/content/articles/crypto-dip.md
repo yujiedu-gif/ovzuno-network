@@ -3,8 +3,6 @@ title: "Crypto dip: What it means for crypto-card spending"
 description: "Learn what a crypto dip means and how falling asset values may affect crypto-card balances, conversion, spending, and settlement without predicting prices."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

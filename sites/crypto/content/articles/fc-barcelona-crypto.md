@@ -3,8 +3,6 @@ title: "FC Barcelona crypto: what the phrase refers to and how to verify claims"
 description: "Learn what FC Barcelona crypto may refer to, how to check evidence of a club connection, and what claims about a crypto asset cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Ethereum Smart Contract Address: Meaning and Verification Limits"
 description: "Learn what an ethereum smart contract address identifies, how it differs from an account or source code, and what address-based checks can establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract address ethereum"]

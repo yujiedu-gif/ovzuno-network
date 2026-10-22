@@ -3,8 +3,6 @@ title: "LBP crypto: How liquidity bootstrapping pools work"
 description: "Learn what LBP crypto means, how liquidity bootstrapping pools use changing weights to shape trading, and which design limits readers should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

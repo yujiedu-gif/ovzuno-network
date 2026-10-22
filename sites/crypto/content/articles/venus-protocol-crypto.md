@@ -3,8 +3,6 @@ title: "Venus Protocol Crypto: What It Is and How It Works"
 description: "Learn what Venus Protocol crypto refers to, how its lending and borrowing model is structured, and which protocol details and risks require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

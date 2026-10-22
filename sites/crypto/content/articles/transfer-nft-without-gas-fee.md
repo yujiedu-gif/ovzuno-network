@@ -3,8 +3,6 @@ title: "How to transfer nft without gas fee: who pays and what changes"
 description: "Learn how to transfer nft without gas fee from the sender’s perspective, including sponsored transactions, network costs, and important limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

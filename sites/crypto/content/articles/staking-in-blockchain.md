@@ -3,8 +3,6 @@ title: "Staking in Blockchain: How It Supports Network Consensus"
 description: "Learn what staking in blockchain means, how stake can support consensus and validator participation, and why rules, responsibilities, and risks vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain staking"]

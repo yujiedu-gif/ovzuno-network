@@ -3,8 +3,6 @@ title: "Taboo Token Crypto: Purpose, Protocol Context, and What Can Be Verified"
 description: "Learn what taboo token crypto refers to, how to assess its stated purpose and technical context, and which project claims require independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

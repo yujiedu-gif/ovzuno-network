@@ -3,8 +3,6 @@ title: "Antpool Crypto Mining: Its Role in Proof-of-Work Networks"
 description: "Learn how Antpool crypto mining relates to miners, proof-of-work block production, and network consensus, and which provider details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

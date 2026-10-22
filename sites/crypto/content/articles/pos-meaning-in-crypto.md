@@ -3,8 +3,6 @@ title: "PoS Meaning in Crypto: A Clear Definition"
 description: "Learn the pos meaning in crypto: PoS stands for proof of stake, a consensus approach in which validators help participating networks agree on valid transactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["pos in crypto"]

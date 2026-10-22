@@ -3,8 +3,6 @@ title: "Coding Solidity: A Practical Guide to Writing and Testing a Smart Contra
 description: "Learn coding solidity through a small contract example, with clear steps for understanding its structure, compiling it, testing behavior, and reviewing risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

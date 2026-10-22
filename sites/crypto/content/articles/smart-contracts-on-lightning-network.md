@@ -3,8 +3,6 @@ title: "Smart Contracts on Lightning Network: Capabilities and Limits"
 description: "Learn how smart contracts on lightning network relate to payment channels, what conditional transactions can enable, and where Lightning differs from general-purpose"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Mining Hindi: Meaning and Role in Proof-of-Work Networks"
 description: "Crypto mining hindi explained: learn what miners do in proof-of-work networks, how blocks are proposed, and why mining does not apply to every cryptocurrency."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

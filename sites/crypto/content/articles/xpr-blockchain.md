@@ -3,8 +3,6 @@ title: "XPR blockchain: what the network is and how it works"
 description: "Learn what the XPR blockchain refers to, how its network is described, and which payment, security, and operational claims need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

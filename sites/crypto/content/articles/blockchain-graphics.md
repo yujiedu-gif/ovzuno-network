@@ -3,8 +3,6 @@ title: "Blockchain graphics: what payment-flow visuals should show"
 description: "Learn what blockchain graphics can show about a payment flow, how to label network-specific steps, and why a visual alone cannot verify a transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain graphic"]

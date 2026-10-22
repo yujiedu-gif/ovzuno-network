@@ -3,8 +3,6 @@ title: "Fiserv crypto: what public evidence can establish about payments"
 description: "Explore what reliable public evidence can establish about fiserv crypto, distinguish confirmed details from open questions, and see what businesses should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

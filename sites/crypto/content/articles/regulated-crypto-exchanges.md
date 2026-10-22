@@ -3,8 +3,6 @@ title: "Regulated crypto exchanges: how to verify status and scope"
 description: "Learn how to verify regulated crypto exchanges, identify which entity and activities a registration covers, and assess operational limits without assuming protection"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

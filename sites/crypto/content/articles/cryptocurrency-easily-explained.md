@@ -3,8 +3,6 @@ title: "Cryptocurrency Easily Explained: A Clear Definition and Core Traits"
 description: "Cryptocurrency easily explained: learn what a cryptocurrency is, how digital ownership and transfers are recorded, and what the term does not imply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency easily"]

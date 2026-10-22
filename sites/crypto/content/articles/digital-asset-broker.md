@@ -3,8 +3,6 @@ title: "Digital asset broker: role, transaction flow, and infrastructure boundar
 description: "Learn what a digital asset broker does, how it may connect transaction requests with liquidity, and how its role differs from exchanges, custodians, and protocols."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital asset brokers"]

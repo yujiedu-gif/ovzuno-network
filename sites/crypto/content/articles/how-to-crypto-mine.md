@@ -3,8 +3,6 @@ title: "How to crypto mine: a beginner’s guide to proof-of-work"
 description: "Learn how to crypto mine: how proof-of-work works, what hardware and software are involved, how to monitor a setup, and what to assess first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["crypto mine"]

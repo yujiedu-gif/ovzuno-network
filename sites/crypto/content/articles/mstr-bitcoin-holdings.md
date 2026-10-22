@@ -3,8 +3,6 @@ title: "MSTR Bitcoin Holdings: What the Reported Figures Mean"
 description: "Learn what MSTR bitcoin holdings refers to, where to verify dated company disclosures, and how to distinguish reported Bitcoin holdings from stock value and price."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

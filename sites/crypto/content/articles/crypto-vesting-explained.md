@@ -3,8 +3,6 @@ title: "Crypto vesting explained: how token release schedules work"
 description: "Crypto vesting explained: learn how token release schedules, cliffs, and unlocks work, and why vesting does not by itself guarantee transferability or value."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto vesting"]

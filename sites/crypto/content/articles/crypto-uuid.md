@@ -3,8 +3,6 @@ title: "Crypto UUID: Meaning in Blockchain and Validator Software"
 description: "Learn what crypto UUID can mean in blockchain or validator software, how it differs from a cryptographic key, and what context to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

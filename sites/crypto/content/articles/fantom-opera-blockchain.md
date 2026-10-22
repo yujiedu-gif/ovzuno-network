@@ -3,8 +3,6 @@ title: "Fantom Opera Blockchain: Architecture and Payment-System Context"
 description: "Learn how the fantom opera blockchain handled transactions, what its architecture means for payment systems, and which current network details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT Floors: Meaning, Listing Basis, and Limitations"
 description: "Learn what NFT floors measure, how collection listings shape the displayed figure, and why a floor price is not the same as a completed sale or valuation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft floor"]

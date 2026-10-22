@@ -3,8 +3,6 @@ title: "Peak DeFi: What the Name Refers to and What Can Be Verified"
 description: "Learn what peak defi refers to, how to distinguish documented protocol details from unverified claims, and which technical and operational questions remain open."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

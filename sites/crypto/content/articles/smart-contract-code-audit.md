@@ -3,8 +3,6 @@ title: "Smart contract code audit: a preparation and follow-up guide"
 description: "Learn how to scope a smart contract code audit, prepare code and documentation, assess findings, track fixes, and understand the limits of a review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

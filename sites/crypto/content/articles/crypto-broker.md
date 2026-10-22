@@ -3,8 +3,6 @@ title: "Crypto broker: role, trade flow, and how it differs from an exchange"
 description: "Learn what a crypto broker does in exchange-market infrastructure, how brokered trades may be handled, and how its role differs from an exchange."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto brokerage", "brokered crypto trading"]

@@ -3,8 +3,6 @@ title: "SafeMoon smart contract: what it does and how to inspect it"
 description: "Learn what a SafeMoon smart contract does, how to identify its network and deployed address, and what verified code and on-chain records can show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

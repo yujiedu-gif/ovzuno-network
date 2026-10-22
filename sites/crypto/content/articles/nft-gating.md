@@ -3,8 +3,6 @@ title: "NFT Gating: How Token-Based Access Checks Work"
 description: "Learn how nft gating checks wallet-held NFTs to grant or deny access, what token rules may be used, and where privacy, transfer, and operational limits arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

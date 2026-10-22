@@ -3,8 +3,6 @@ title: "AVAX Crypto Staking: Validators, Delegation, and Risks"
 description: "Learn how avax crypto staking works on Avalanche, how validators and delegation differ, which participation conditions matter, and what risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["Avalanche staking", "Avalanche validators", "delegating AVAX"]

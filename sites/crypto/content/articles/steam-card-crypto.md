@@ -3,8 +3,6 @@ title: "Steam Card Crypto: How Gift-Card Purchases with Cryptocurrency Work"
 description: "Learn what steam card crypto purchases involve, how payment and redemption routes differ, and what to check about eligibility, fees, delivery, and risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

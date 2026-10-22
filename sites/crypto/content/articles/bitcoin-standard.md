@@ -3,8 +3,6 @@ title: "Bitcoin standard: meaning, core idea, and key distinctions"
 description: "Understand what bitcoin standard means, how the monetary-system idea differs from Bitcoin’s protocol, and which assumptions and trade-offs shape the concept."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["the bitcoin standard"]

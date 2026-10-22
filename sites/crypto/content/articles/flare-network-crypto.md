@@ -3,8 +3,6 @@ title: "Flare Network Crypto: Protocol Components and FLR’s Role"
 description: "Understand Flare Network crypto through its core protocol components, how they fit together, and the stated role of its native asset, FLR."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

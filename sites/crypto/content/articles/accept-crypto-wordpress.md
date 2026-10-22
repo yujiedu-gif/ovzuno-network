@@ -3,8 +3,6 @@ title: "Accept Crypto WordPress: A Practical Integration Guide"
 description: "Learn how to accept crypto wordpress through a WordPress-specific integration, compare plugin and custom approaches, check prerequisites, and verify setup."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

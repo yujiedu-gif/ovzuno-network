@@ -3,8 +3,6 @@ title: "Proof of work paper: how to read its claims and limits"
 description: "Learn how to assess a proof of work paper by tracing its research question, consensus assumptions, evidence, scope, and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work paper"]

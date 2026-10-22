@@ -3,8 +3,6 @@ title: "aion crypto: Meaning and How to Identify the Project"
 description: "Learn what “aion crypto” may refer to, how to distinguish project names from token claims, and which authoritative records to check before relying on details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

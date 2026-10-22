@@ -3,8 +3,6 @@ title: "Plutus crypto debit card: how its payments and account setup work"
 description: "Learn how the Plutus crypto debit card is structured, how its payment flow may work, and which current terms, eligibility rules, and regional limits to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

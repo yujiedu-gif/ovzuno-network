@@ -3,8 +3,6 @@ title: "Crypto calendar: meaning in mining and consensus"
 description: "Learn what a crypto calendar means in a mining and consensus context, how it differs from protocol timing, and what to verify in event listings."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

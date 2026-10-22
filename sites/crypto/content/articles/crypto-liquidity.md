@@ -3,8 +3,6 @@ title: "Crypto liquidity: how trading venues support execution"
 description: "Learn how crypto liquidity forms across trading venues, which measures help assess executable depth, and why infrastructure affects execution quality."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

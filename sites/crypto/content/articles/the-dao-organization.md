@@ -3,8 +3,6 @@ title: "The DAO organization: governance and organizational realities"
 description: "Explore what the DAO organization can mean in practice, distinguishing on-chain governance from people, responsibilities, and off-chain operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["dao organization"]

@@ -3,8 +3,6 @@ title: "Tokenized assets platform: capabilities and constraints to evaluate"
 description: "Assess a tokenized assets platform by mapping asset requirements to issuance, records, transfers, servicing, integrations, and governance, then verify constraints."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["tokenization_rwa"]
 tags: []

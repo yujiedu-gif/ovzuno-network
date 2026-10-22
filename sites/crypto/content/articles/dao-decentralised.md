@@ -3,8 +3,6 @@ title: "DAO Decentralised: How to Assess Distributed Governance"
 description: "Learn how to assess whether DAO decentralised governance distributes authority across proposals, voting, execution, and administrative controls."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

@@ -3,8 +3,6 @@ title: "Gas crypto coin: what the term means on blockchains"
 description: "Learn what gas crypto coin can mean, how blockchain gas differs from a transaction fee, and why fee-payment assets depend on the network and protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["gas fee", "network fee", "transaction fee", "native token"]

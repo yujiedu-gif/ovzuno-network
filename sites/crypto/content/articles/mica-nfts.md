@@ -3,8 +3,6 @@ title: "MiCA NFTs: EU Scope, Exceptions, and Service-Provider Questions"
 description: "Learn how MiCA NFTs are assessed in the EU, which token and service features may matter, and where current legal guidance is needed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

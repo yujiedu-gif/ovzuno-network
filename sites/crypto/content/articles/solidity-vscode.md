@@ -3,8 +3,6 @@ title: "Solidity VSCode: What the Editor Can and Cannot Do"
 description: "Learn how solidity vscode can support Solidity editing and code feedback, what to check in an editor setup, and why it does not replace testing or review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["vscode solidity"]

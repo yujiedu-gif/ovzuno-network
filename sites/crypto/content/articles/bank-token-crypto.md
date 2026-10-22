@@ -3,8 +3,6 @@ title: "Bank token crypto: meanings, structures, and key checks"
 description: "Bank token crypto can describe several bank-linked digital asset structures. Learn how they differ and what to verify about issuance, claims, and access."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bank crypto token"]

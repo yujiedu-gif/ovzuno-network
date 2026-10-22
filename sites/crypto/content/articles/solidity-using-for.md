@@ -3,8 +3,6 @@ title: "Solidity using for: How Library Directives Work"
 description: "Learn how Solidity using for attaches library functions to types, how directive scope works, and which compiler-version details to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["solidity using"]

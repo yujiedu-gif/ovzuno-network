@@ -3,8 +3,6 @@ title: "Is Bitcoin Mining Random? How Block Discovery Works"
 description: "Is bitcoin mining random? Learn how miners search probabilistically for a valid block while Bitcoin nodes verify candidates against protocol rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["bitcoin mining random"]

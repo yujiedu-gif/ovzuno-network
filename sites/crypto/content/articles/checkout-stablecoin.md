@@ -3,8 +3,6 @@ title: "Checkout Stablecoin Flows: From Payment Request to Settlement"
 description: "Learn how checkout stablecoin flows move from payment request to confirmation, settlement, and reconciliation, and which operational handoffs need review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

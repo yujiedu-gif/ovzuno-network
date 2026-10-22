@@ -3,8 +3,6 @@ title: "Proof of concept blockchain meaning: what it demonstrates"
 description: "Understand proof of concept blockchain meaning, what a limited feasibility test can demonstrate, and why its results do not establish production readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof concept blockchain"]

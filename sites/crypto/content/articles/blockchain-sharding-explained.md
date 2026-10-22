@@ -3,8 +3,6 @@ title: "Blockchain sharding explained: how it works and what it changes"
 description: "Blockchain sharding explained: learn how dividing network work may support parallel processing, and why coordination and security trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain sharding"]

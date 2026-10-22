@@ -3,8 +3,6 @@ title: "ERC20 network fees: what token transactions cost and why"
 description: "Learn what ERC20 network fees cover, why token transaction costs vary, and how to distinguish network charges from wallet or service fees."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["erc20 network fee"]

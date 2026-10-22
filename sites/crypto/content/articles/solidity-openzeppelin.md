@@ -3,8 +3,6 @@ title: "Solidity OpenZeppelin: How They Fit Together in Smart-Contract Developme
 description: "Learn how solidity openzeppelin tools fit into smart-contract development, what reusable libraries provide, and what developers should verify before adoption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["OpenZeppelin Contracts", "Solidity smart contracts", "smart contract libraries"]

@@ -3,8 +3,6 @@ title: "Blockchain capital in payment systems: funding, liquidity, and settlemen
 description: "Learn what blockchain capital means in payment operations, where liquidity may be needed across a payment flow, and which design questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Receiving crypto as payment: the business payment lifecycle"
 description: "Learn how receiving crypto as payment works, from issuing payment details to confirmation, reconciliation, exceptions, and jurisdiction-specific checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment settlement", "wallet address", "payment confirmation"]

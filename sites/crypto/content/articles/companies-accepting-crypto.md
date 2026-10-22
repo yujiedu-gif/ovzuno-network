@@ -3,8 +3,6 @@ title: "Companies Accepting Crypto: What It Means for Businesses"
 description: "Learn what companies accepting crypto means, how payment flows differ, and which operational, regulatory, security, and jurisdiction questions businesses should vet."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

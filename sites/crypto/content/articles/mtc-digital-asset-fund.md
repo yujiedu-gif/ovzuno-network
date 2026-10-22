@@ -3,8 +3,6 @@ title: "MTC Digital Asset Fund: How to Identify and Verify the Reference"
 description: "Learn how to assess what “mtc digital asset fund” refers to, check primary documents and jurisdiction, and separate verifiable details from ambiguity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

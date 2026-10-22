@@ -3,8 +3,6 @@ title: "Real Time Payments Blockchain: How the Payment Flow Works"
 description: "Learn how a real time payments blockchain handles submission, confirmation, and settlement, and why network design and operating conditions shape timing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["real time payment blockchain"]

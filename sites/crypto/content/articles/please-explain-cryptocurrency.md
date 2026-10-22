@@ -3,8 +3,6 @@ title: "Please Explain Cryptocurrency: A Clear Introduction"
 description: "Please explain cryptocurrency: learn what these digital assets are, how networks record transactions, common uses, and key risks to understand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency basics", "cryptocurrency definition", "crypto assets"]

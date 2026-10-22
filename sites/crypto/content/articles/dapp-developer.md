@@ -3,8 +3,6 @@ title: "Dapp Developer: Responsibilities, Components, and Workflow"
 description: "Learn what a dapp developer does, how smart contracts connect with application interfaces and blockchain networks, and what responsibilities the role involves."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["dapp"]

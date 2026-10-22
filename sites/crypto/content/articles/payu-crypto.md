@@ -3,8 +3,6 @@ title: "payu crypto: How to Verify Payment Support"
 description: "Learn what payu crypto may refer to and how to verify a specific PayU product’s cryptocurrency support, market availability, supported assets, and terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

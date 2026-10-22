@@ -3,8 +3,6 @@ title: "Hello World Smart Contract: What the Minimal Example Demonstrates"
 description: "Learn what a hello world smart contract demonstrates, how source code differs from compiled bytecode, and what deployment does—and does not—prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity example contract", "smart contract deployment", "contract bytecode"]

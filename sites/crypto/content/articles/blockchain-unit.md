@@ -3,8 +3,6 @@ title: "Blockchain unit: meaning and context in payment systems"
 description: "Understand what blockchain unit can mean in payment and technical documentation, how context distinguishes value from data or computation, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["unit blockchain"]

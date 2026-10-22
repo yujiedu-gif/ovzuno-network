@@ -3,8 +3,6 @@ title: "Real Estate NFT Tokenization: Tokens, Rights, and Operations"
 description: "Explore real estate nft tokenization by separating NFT data from legal rights, property records, and the operational controls required to maintain a reliable link."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

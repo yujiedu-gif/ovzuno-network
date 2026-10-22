@@ -3,8 +3,6 @@ title: "Blockchain Consulting Companies: Their Role in Payment System Design"
 description: "Learn what blockchain consulting companies may contribute to payment-system projects, from requirements and architecture to implementation planning and risk review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain consulting company"]

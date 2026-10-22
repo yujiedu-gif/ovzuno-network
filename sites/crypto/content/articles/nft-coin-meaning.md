@@ -3,8 +3,6 @@ title: "NFT coin meaning: how NFTs differ from crypto coins"
 description: "Learn the NFT coin meaning, how non-fungible tokens differ from fungible crypto coins, and why the phrase can be used imprecisely."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft coin"]

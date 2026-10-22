@@ -3,8 +3,6 @@ title: "Ethereum mining blog: what the phrase means today"
 description: "Understand what “ethereum mining blog” means, why Ethereum mining is historical, and how the network’s current proof-of-stake validation differs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Ethereum proof of stake", "Ethereum validators", "Ethereum mining history"]

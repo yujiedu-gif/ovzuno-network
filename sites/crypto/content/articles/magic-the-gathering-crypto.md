@@ -3,8 +3,6 @@ title: "Magic the gathering crypto: What the term means and how to verify a proj
 description: "Learn what magic the gathering crypto can refer to, how official game features differ from independent blockchain projects, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["magic gathering crypto"]

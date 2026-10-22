@@ -3,8 +3,6 @@ title: "ark blockchain: What the Term Refers To"
 description: "Learn what ark blockchain refers to, how to distinguish the name from general blockchain concepts, and which project-specific details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

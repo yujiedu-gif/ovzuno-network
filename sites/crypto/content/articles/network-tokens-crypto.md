@@ -3,8 +3,6 @@ title: "Network Tokens Crypto: Meaning and Protocol Roles"
 description: "Learn what network tokens crypto refers to, how a protocol may use its native token, and why functions and terminology vary across networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

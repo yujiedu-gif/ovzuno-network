@@ -3,8 +3,6 @@ title: "Proof of stake 51: What a 51% Attack Means"
 description: "Learn what a proof of stake 51% attack refers to, why stake ownership alone may not determine control, and which protocol rules shape the risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake 51"]

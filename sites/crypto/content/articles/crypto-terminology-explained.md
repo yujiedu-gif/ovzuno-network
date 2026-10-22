@@ -3,8 +3,6 @@ title: "Crypto terminology explained: a practical glossary of infrastructure ter
 description: "Crypto terminology explained through a practical glossary of assets, networks, protocols, and transactions, with context for interpreting ambiguous terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto terminology"]

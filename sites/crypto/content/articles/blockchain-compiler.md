@@ -3,8 +3,6 @@ title: "Blockchain Compiler: How Smart Contract Code Becomes Executable"
 description: "Understand how a blockchain compiler turns smart contract source code into executable outputs, what compilation checks can show, and where deployment begins."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["smart contract compiler", "blockchain virtual machine", "smart contract bytecode"]

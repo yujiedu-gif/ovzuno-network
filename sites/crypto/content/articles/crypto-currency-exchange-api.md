@@ -3,8 +3,6 @@ title: "Crypto currency exchange api: a practical integration guide"
 description: "Plan a crypto currency exchange api integration with a provider-neutral checklist for capabilities, authentication, market data, order controls, testing, and ongoing"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["exchange_market_infrastructure"]
 tags: ["exchange API integration", "market data API", "order management", "API authentication"]

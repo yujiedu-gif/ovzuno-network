@@ -3,8 +3,6 @@ title: "Small Crypto Miner: Meaning, Role, and Technical Limits"
 description: "Learn what a small crypto miner is, how it contributes to proof-of-work networks, and which hardware, network, and operating constraints shape its role."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["small-scale crypto mining", "home crypto mining hardware", "proof-of-work miner"]

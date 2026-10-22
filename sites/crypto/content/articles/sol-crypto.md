@@ -3,8 +3,6 @@ title: "SOL Crypto: What the Asset Is and How It Relates to Solana"
 description: "Learn what sol crypto means, how SOL relates to the Solana network, and the distinction between a digital asset and the protocol it operates within."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

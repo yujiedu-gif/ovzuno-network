@@ -3,8 +3,6 @@ title: "Layer 1 blockchain list: examples and inclusion criteria"
 description: "Explore a layer 1 blockchain list with clear inclusion criteria, representative network examples, and notes distinguishing Layer 1 chains from other blockchain parts"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

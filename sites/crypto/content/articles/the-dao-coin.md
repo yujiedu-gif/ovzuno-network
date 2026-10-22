@@ -3,8 +3,6 @@ title: "The DAO Coin: What the Name Refers To and How to Verify It"
 description: "Learn what “the DAO coin” may refer to, how to distinguish a token from a DAO, and what project documentation can verify about its governance role."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["dao coin"]

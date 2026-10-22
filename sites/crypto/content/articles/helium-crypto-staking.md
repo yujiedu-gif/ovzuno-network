@@ -3,8 +3,6 @@ title: "Helium crypto staking: does Helium use staking?"
 description: "Helium crypto staking explained: examine whether Helium uses protocol staking, distinguish it from network participation, and identify details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

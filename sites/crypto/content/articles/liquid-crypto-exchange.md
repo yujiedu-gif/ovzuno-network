@@ -3,8 +3,6 @@ title: "Liquid crypto exchange: how to assess market depth"
 description: "Learn what a liquid crypto exchange means, which market-quality indicators help assess depth and execution, and why volume alone may be misleading."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Companies that pay in cryptocurrency: what workers and employers should 
 description: "Learn what companies that pay in cryptocurrency may mean for workers and employers, which payment details to verify, and where local legal and tax advice matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

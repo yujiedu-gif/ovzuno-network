@@ -3,8 +3,6 @@ title: "Payments in blockchain: how transfers work and what shapes them"
 description: "Learn how payments in blockchain move from initiation to settlement, what network mechanisms verify them, and which design choices shape their use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["payment in blockchain"]

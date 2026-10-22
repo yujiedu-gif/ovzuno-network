@@ -3,8 +3,6 @@ title: "What Does It Mean to Mint Cryptocurrency?"
 description: "Learn what it means to mint cryptocurrency, how protocols and token contracts control new units, and how minting differs from mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto token minting", "token supply", "minting function", "token contract"]

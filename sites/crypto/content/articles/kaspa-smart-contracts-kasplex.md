@@ -3,8 +3,6 @@ title: "Kaspa Smart Contracts Kasplex: Role, Architecture, and Builder Checks"
 description: "Explore kaspa smart contracts kasplex: its stated role in Kaspa dApp infrastructure, how the components fit together, and what builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

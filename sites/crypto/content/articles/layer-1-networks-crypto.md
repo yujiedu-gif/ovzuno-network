@@ -3,8 +3,6 @@ title: "Layer 1 Networks Crypto: Core Functions and How They Fit Into Blockchain
 description: "Understand layer 1 networks crypto: what a base layer does, how it processes and records activity, and how it relates to Layer 2 systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["Layer 1 blockchain", "base layer", "consensus mechanism", "smart contract execution"]

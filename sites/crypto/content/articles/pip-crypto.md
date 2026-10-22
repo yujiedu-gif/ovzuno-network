@@ -3,8 +3,6 @@ title: "PIP Crypto: What the Term Means in Payment Contexts"
 description: "Learn what pip crypto may refer to in payment-related material, why the acronym can be ambiguous, and how to identify its meaning from context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

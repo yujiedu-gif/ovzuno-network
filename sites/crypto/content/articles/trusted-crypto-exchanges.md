@@ -3,8 +3,6 @@ title: "Trusted crypto exchanges: an evidence-based assessment framework"
 description: "Learn how to assess trusted crypto exchanges using verifiable evidence, identify limits in trust signals, and frame due diligence without rankings."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

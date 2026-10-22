@@ -3,8 +3,6 @@ title: "Fanatics NFT: What the Term Means and What to Verify"
 description: "Learn what “fanatics nft” may refer to, how a token can relate to a collectible, and which official terms to check before assuming ownership or access rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

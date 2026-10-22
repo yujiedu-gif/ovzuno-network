@@ -3,8 +3,6 @@ title: "Smart Contract Simple Explanation: How Blockchain Programs Work"
 description: "A smart contract simple explanation of what blockchain programs do, how transactions trigger their rules, and why code-based execution has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

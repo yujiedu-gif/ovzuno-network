@@ -3,8 +3,6 @@ title: "Crypto dot com debit card: how the payment flow works"
 description: "Learn how the crypto dot com debit card may connect eligible funding to card payments, and what availability, fees, and terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

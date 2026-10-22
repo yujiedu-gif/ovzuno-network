@@ -3,8 +3,6 @@ title: "smartcheck solidity: What the Analyzer Checks and What Its Results Mean"
 description: "Learn what smartcheck solidity analyzes, how to interpret its findings, and why static-analysis results are only one part of reviewing a smart contract."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

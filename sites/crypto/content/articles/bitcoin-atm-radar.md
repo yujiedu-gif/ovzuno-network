@@ -3,8 +3,6 @@ title: "Bitcoin ATM radar: meaning, listings, and limitations"
 description: "Learn what a bitcoin atm radar is, how ATM locator listings can help users find machines, and why location, availability, and transaction details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

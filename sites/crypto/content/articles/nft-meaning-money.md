@@ -3,8 +3,6 @@ title: "NFT Meaning Money: Is an NFT a Form of Money?"
 description: "Understand NFT meaning money, whether an NFT is money, how NFTs differ from fungible payment assets, and what an ownership record does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft money"]

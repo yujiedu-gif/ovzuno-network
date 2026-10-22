@@ -3,8 +3,6 @@ title: "Testnet blockchain: meaning, purpose, and limits"
 description: "Learn what a testnet blockchain is, how it differs from a production network, what developers can test, and why testnet results may not carry over."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain testnet"]

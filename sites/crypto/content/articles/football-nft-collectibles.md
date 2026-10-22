@@ -3,8 +3,6 @@ title: "Football NFT Collectibles: Tokens, Digital Items, and Ownership Records"
 description: "Learn how football nft collectibles connect a digital item to an NFT token and blockchain record, and what that record does—and does not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

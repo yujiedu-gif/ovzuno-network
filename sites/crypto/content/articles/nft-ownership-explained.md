@@ -3,8 +3,6 @@ title: "NFT ownership explained: what the token record does and does not establi
 description: "NFT ownership explained: learn what a blockchain token record can show, how control differs from file access, and why legal rights may depend on separate terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft ownership"]

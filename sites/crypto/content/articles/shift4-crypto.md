@@ -3,8 +3,6 @@ title: "shift4 crypto: What Businesses Should Verify"
 description: "Understand what shift4 crypto may refer to in a business payment flow, what details need current verification, and which operational and compliance questions to ask."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

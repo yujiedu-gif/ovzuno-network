@@ -3,8 +3,6 @@ title: "Crypto Mining Smartphone: What Phones Can and Cannot Do"
 description: "Learn how crypto mining smartphone feasibility depends on proof-of-work rules, device hardware, power and heat limits, and network participation requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

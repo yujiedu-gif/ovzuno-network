@@ -3,8 +3,6 @@ title: "Examples of NFTs: What They Represent and How They Work"
 description: "Explore examples of NFTs across digital art, collectibles, game assets, tickets, and records, and learn what tokens represent and what contracts can do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["examples nfts"]

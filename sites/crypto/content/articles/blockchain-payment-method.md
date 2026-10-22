@@ -3,8 +3,6 @@ title: "Blockchain payment method: how blockchain-based payments work"
 description: "Learn what a blockchain payment method is, how a payment moves through a network, where intermediaries may fit, and what operators should evaluate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

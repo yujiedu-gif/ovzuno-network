@@ -3,8 +3,6 @@ title: "Proof of work example: Networks and mechanisms explained"
 description: "Explore a proof of work example through established blockchain networks, the work miners perform, and the differences among proof-of-work designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work example"]

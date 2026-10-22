@@ -3,8 +3,6 @@ title: "Royalty smart contract: how royalty data and payments work"
 description: "Learn how a royalty smart contract can report royalty terms, how payment logic may be implemented, and why actual payment can depend on platforms and transfers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["NFT royalty", "royalty payment logic", "ERC-2981"]

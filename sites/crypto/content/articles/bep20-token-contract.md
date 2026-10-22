@@ -3,8 +3,6 @@ title: "BEP20 token contract: standard, functions, and verification"
 description: "Learn what a bep20 token contract does on BNB Smart Chain, how its standard functions work, and what contract details readers can verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["BEP-20 standard", "BNB Smart Chain token"]

@@ -3,8 +3,6 @@ title: "ERC 20 Utility Token: Meaning, Standard, and Intended Use"
 description: "Learn what an ERC 20 utility token describes, how the ERC-20 standard differs from intended use, and what to check in project documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

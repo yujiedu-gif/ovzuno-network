@@ -3,8 +3,6 @@ title: "Proof of work algorithm: How block validation and consensus function"
 description: "Learn how a proof of work algorithm links block data, computational search, target checks, and independent validation to support blockchain consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work algorithm"]

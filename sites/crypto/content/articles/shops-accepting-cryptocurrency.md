@@ -3,8 +3,6 @@ title: "Shops accepting cryptocurrency: what acceptance means"
 description: "Learn what shops accepting cryptocurrency means, how checkout options can differ, and what to verify with a shop before relying on crypto payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Memory Pool Blockchain: How Pending Transactions Reach a Block"
 description: "Learn how a memory pool blockchain handles pending transactions, why node views can differ, and what changes when a transaction is included in a block."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["mempool", "pending blockchain transactions", "transaction validation"]

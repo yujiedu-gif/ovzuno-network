@@ -3,8 +3,6 @@ title: "Shiba Inu Proof of Stake: Consensus and Ecosystem Staking"
 description: "Understand what shiba inu proof of stake refers to, how consensus differs from ecosystem staking, and which technical claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["shiba inu proof stake"]

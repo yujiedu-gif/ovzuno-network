@@ -3,8 +3,6 @@ title: "IBM Commercial Blockchain: Meaning and Payment Infrastructure Considerat
 description: "Learn what ibm commercial blockchain may refer to, how commercial blockchain networks are framed, and what to verify before evaluating payment infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

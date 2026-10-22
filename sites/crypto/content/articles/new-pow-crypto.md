@@ -3,8 +3,6 @@ title: "New PoW Crypto: What a New Proof-of-Work Network Means"
 description: "Learn what new pow crypto means, how a new proof-of-work network defines its consensus rules, and which technical evidence helps assess its design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

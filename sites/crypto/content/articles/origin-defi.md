@@ -3,8 +3,6 @@ title: "origin defi: Meaning, Uses, and How to Identify the Reference"
 description: "Understand what origin defi may refer to, how to distinguish general DeFi terminology from a named project, and what documentation can verify the reference."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: ["defi origin"]

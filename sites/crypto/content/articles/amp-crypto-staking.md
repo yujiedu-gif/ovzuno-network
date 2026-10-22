@@ -3,8 +3,6 @@ title: "AMP Crypto Staking: How Collateral Staking Works"
 description: "Learn how amp crypto staking relates to collateral support in the Flexa network, how participation differs from validator staking, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["Amp token staking", "collateral staking", "Flexa network"]

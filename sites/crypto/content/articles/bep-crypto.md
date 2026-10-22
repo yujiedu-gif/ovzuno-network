@@ -3,8 +3,6 @@ title: "BEP Crypto: What the Term Means and How Standards Work"
 description: "Learn what BEP crypto means, how BEP standards relate to BNB Chain, and why a standard describes technical conventions rather than a token's value or safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

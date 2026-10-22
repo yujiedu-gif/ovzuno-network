@@ -3,8 +3,6 @@ title: "Cryptocurrency value explained: utility, supply, and demand"
 description: "Cryptocurrency value explained: learn how utility, supply, demand, market conditions, and uncertainty shape perceived value without implying a price forecast."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency value"]

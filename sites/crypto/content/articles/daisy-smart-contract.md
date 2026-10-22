@@ -3,8 +3,6 @@ title: "Daisy smart contract: meaning and verification"
 description: "Learn what “daisy smart contract” may refer to, why the name alone is insufficient, and which network, address, and code details can help verify it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

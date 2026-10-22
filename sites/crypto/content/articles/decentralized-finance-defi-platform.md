@@ -3,8 +3,6 @@ title: "Decentralized finance defi platform: components and evaluation factors"
 description: "Understand what a decentralized finance defi platform includes, how its components interact, and which technical, operational, and risk factors to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: ["decentralized finance defi platforms"]

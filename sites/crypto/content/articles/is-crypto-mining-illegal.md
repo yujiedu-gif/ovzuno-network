@@ -3,8 +3,6 @@ title: "Is crypto mining illegal? How legality depends on jurisdiction"
 description: "Is crypto mining illegal? Learn why legality depends on location and activity, and what local rules to verify before starting or operating a mining setup."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining illegal"]

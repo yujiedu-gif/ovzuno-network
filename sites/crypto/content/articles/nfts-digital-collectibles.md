@@ -3,8 +3,6 @@ title: "NFTs Digital Collectibles: What the Token Represents"
 description: "Learn what nfts digital collectibles represent, how tokens relate to digital files and metadata, and why token ownership does not automatically establish broader use"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT digital collectible", "digital ownership", "NFT metadata", "tokenized digital items"]

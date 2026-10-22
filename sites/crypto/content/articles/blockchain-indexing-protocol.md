@@ -3,8 +3,6 @@ title: "Blockchain Indexing Protocol: How Onchain Data Becomes Queryable"
 description: "Learn what a blockchain indexing protocol does, how it processes onchain records into queryable data, and which design tradeoffs shape its use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

@@ -3,8 +3,6 @@ title: "Stader Labs Crypto: Staking Infrastructure and Validator Roles"
 description: "Learn what stader labs crypto refers to, how its staking infrastructure relates to validators and blockchain networks, and which details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

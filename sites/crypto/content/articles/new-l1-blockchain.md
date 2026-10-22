@@ -3,8 +3,6 @@ title: "New l1 blockchain: how to assess its design and scaling claims"
 description: "Learn how to assess a new l1 blockchain’s architecture, scaling approach, and operational evidence, while separating documented capabilities from unverified claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["new 1 blockchain"]

@@ -3,8 +3,6 @@ title: "Blockchain ki: A Plain-Language Definition for Digital Payments"
 description: "Learn what blockchain ki means, how shared records and transaction verification relate to digital payments, and what the term alone cannot tell you."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["block chain ki"]

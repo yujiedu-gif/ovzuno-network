@@ -3,8 +3,6 @@ title: "Crypto card world: how digital assets connect with card payments"
 description: "Explore the crypto card world, including the parties involved, how digital-asset balances relate to card payments, and what varies by product and jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

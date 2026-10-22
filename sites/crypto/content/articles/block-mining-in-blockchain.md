@@ -3,8 +3,6 @@ title: "Block mining in blockchain: how proof of work works"
 description: "Learn how block mining in blockchain lets proof-of-work networks propose and check blocks, and how mining relates to consensus and transaction history."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

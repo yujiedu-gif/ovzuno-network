@@ -3,8 +3,6 @@ title: "Lost crypto card: immediate steps to secure your account"
 description: "Lost crypto card? Learn how to secure the card account, report suspected theft, review transactions, and check issuer-specific replacement and recovery steps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card replacement", "freeze a lost crypto card", "crypto card account security"]

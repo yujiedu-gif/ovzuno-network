@@ -3,8 +3,6 @@ title: "Creating and Deploying Smart Contracts: A Practical Workflow"
 description: "Learn the main steps for creating and deploying smart contracts, from defining requirements and testing code to preparing a release and verifying deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["creating deploying smart contracts"]

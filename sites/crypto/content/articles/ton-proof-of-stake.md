@@ -3,8 +3,6 @@ title: "TON proof of stake: validators and network consensus"
 description: "Explore TON proof of stake, including the roles of validators and staking in network consensus, and which operational details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["ton proof stake"]

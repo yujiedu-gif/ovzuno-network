@@ -3,8 +3,6 @@ title: "Cross chain bridge bsc to polygon: how the transfer works"
 description: "Understand how a cross chain bridge bsc to polygon transfer can work, which network and token details to verify, and what risks to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["cross chain bridge bsc polygon"]

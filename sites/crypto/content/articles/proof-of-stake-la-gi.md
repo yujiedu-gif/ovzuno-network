@@ -3,8 +3,6 @@ title: "Proof of stake la gi? A Plain-Language Guide to Validators and Consensus
 description: "Learn proof of stake la gi, how validators participate in blockchain consensus, and why staking mechanics differ across networks and services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake la gi"]

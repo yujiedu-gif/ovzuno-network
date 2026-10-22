@@ -3,8 +3,6 @@ title: "Flare blockchain: network architecture, data access, and FLR"
 description: "Learn what the Flare blockchain is, how its smart-contract and data components are designed to work, and what to verify when assessing its capabilities."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Flare Network", "Flare Time Series Oracle", "State Connector", "FLR token", "EVM-compatible smart contracts"]

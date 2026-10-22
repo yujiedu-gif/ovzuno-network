@@ -3,8 +3,6 @@ title: "Newegg Pay With Crypto: How to Check Payment Availability"
 description: "Learn how to check whether Newegg pay with crypto is currently available for your order, and what checkout, eligibility, refund, and provider terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

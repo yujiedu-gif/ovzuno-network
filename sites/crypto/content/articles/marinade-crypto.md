@@ -3,8 +3,6 @@ title: "Marinade crypto: How the protocol fits into Solana staking"
 description: "Learn how Marinade crypto fits into Solana staking, how validators and liquid-staking components relate, and which operational details require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

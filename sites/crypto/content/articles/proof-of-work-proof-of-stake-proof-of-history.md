@@ -3,8 +3,6 @@ title: "Proof of work proof of stake proof of history: Key Differences"
 description: "Compare proof of work proof of stake proof of history by examining their roles in agreement, Sybil resistance, and transaction ordering across networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["staking_validators"]
 tags: ["proof work proof stake proof history"]

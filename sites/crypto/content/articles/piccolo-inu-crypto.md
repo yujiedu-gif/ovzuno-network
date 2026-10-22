@@ -3,8 +3,6 @@ title: "Piccolo Inu crypto: identity, token details, and verification"
 description: "Piccolo Inu crypto explained: learn how to verify the token’s identity, network, and project claims, and distinguish documented facts from unconfirmed information."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

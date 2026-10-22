@@ -3,8 +3,6 @@ title: "Web3 in blockchain: how the concepts relate"
 description: "Understand web3 in blockchain, how the concepts relate, and why Web3 is broader than blockchain without treating them as interchangeable."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

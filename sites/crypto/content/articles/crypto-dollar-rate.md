@@ -3,8 +3,6 @@ title: "Crypto Dollar Rate: What a Dollar-Denominated Quote Means"
 description: "Understand what the crypto dollar rate represents, how market quotes are formed, why rates can differ across venues, and which details to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

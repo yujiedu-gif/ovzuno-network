@@ -3,8 +3,6 @@ title: "Unchained crypto: meaning and payment-infrastructure context"
 description: "Learn what unchained crypto can mean in payment infrastructure, how to distinguish a descriptive phrase from a proper name, and where context matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto exchange companies: roles across market infrastructure"
 description: "Learn how crypto exchange companies fit into market infrastructure, from trading venues to supporting services, and what distinguishes their roles."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

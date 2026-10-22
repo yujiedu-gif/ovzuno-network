@@ -3,8 +3,6 @@ title: "Super rare nfts: how to assess NFT scarcity claims"
 description: "Learn how to assess super rare nfts claims by checking token supply, collection traits, and comparison sets—and why scarcity alone proves neither value nor rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

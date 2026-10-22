@@ -3,8 +3,6 @@ title: "Crypto bug bounty: definition, workflow, and program scope"
 description: "Learn what a crypto bug bounty is, how vulnerability reports are handled, and which scope, eligibility, disclosure, and reward terms to review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["crypto bug bounties"]

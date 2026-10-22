@@ -3,8 +3,6 @@ title: "LTC crypto: what Litecoin’s native asset means"
 description: "Learn what LTC crypto means, how it relates to Litecoin and its network, and which custody, transaction, and compliance details operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["Litecoin", "LTC cryptocurrency", "Litecoin blockchain"]

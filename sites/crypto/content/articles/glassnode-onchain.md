@@ -3,8 +3,6 @@ title: "Glassnode onchain: Data, Uses, and Analytical Limits"
 description: "Learn what Glassnode onchain analysis means, which blockchain data categories it may help researchers examine, and why metrics require careful interpretation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["on-chain data analytics", "blockchain metrics", "on-chain indicators"]

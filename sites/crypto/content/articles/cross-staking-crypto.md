@@ -3,8 +3,6 @@ title: "Cross staking crypto: how it relates to stablecoin settlement"
 description: "Understand cross staking crypto, how it may interact with stablecoin settlement, and which protocol, operational, and jurisdiction-specific details need checking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto credit card fee: a U.S. cost comparison framework"
 description: "Learn how to compare a crypto credit card fee with conventional card costs by checking issuer terms, transaction charges, conversion costs, and rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["crypto_cards_spending"]
 tags: []

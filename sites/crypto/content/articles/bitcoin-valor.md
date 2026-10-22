@@ -3,8 +3,6 @@ title: "Bitcoin valor: meaning, market price, and broader value"
 description: "Learn what bitcoin valor can mean, how Bitcoin’s quoted market price differs from broader ideas of monetary value, and why context matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins valor"]

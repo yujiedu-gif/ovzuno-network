@@ -3,8 +3,6 @@ title: "ERC NFT Standard: What It Defines and What It Does Not"
 description: "Learn what the erc nft standard defines, how common NFT interfaces differ, and why token records do not by themselves establish media ownership or legal rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

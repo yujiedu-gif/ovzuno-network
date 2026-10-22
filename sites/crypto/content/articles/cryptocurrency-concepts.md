@@ -3,8 +3,6 @@ title: "Cryptocurrency concepts: a payment-focused glossary"
 description: "Learn cryptocurrency concepts behind a digital-asset payment, from wallet control and transaction signing to network records, confirmation, and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency concept"]

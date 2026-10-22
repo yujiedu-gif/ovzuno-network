@@ -3,8 +3,6 @@ title: "erc 721 api: A Developer Integration Guide"
 description: "Learn how to integrate an erc 721 api, validate token data against on-chain sources, and handle request errors and transaction states safely."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

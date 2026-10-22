@@ -3,8 +3,6 @@ title: "Crypto pairs explained: how base and quote assets work"
 description: "Crypto pairs explained: learn how base and quote assets work, how to read a pair quote, and why pair labels can differ across trading venues."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto pairs"]

@@ -3,8 +3,6 @@ title: "Fnality blockchain: institutional payment and settlement explained"
 description: "Learn what the Fnality blockchain refers to, how its institutional payment and settlement model is described, and which claims need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Fnality payment system", "tokenized wholesale settlement", "permissioned blockchain network"]

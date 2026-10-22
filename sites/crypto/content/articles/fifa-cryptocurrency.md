@@ -3,8 +3,6 @@ title: "FIFA Cryptocurrency: What the Term Means and How to Verify a Claim"
 description: "Learn what “fifa cryptocurrency” may refer to, how to check claims of official FIFA links, and what evidence to review before relying on a project’s statements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

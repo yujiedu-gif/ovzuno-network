@@ -3,8 +3,6 @@ title: "ganache solidity: Role in Local Smart Contract Development"
 description: "Learn how ganache solidity workflows use a local blockchain for development and testing, what local results can establish, and where their limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Ganache local blockchain", "Solidity smart contract testing"]

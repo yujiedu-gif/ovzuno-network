@@ -3,8 +3,6 @@ title: "Free Wallet Cryptocurrency: Costs, Limits, and What to Check"
 description: "Learn what free wallet cryptocurrency may mean, which provider, network, or third-party costs to check, and how to assess custody, security, and recovery terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["free cryptocurrency wallet"]

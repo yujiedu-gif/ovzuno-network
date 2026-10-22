@@ -3,8 +3,6 @@ title: "Travala Crypto Payment: Understand the Booking Payment Flow"
 description: "Understand the Travala crypto payment flow and check the asset, network, amount, timing, booking terms, and refund conditions before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

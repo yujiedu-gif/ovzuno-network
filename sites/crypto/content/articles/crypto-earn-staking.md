@@ -3,8 +3,6 @@ title: "Crypto earn staking: how participation and rewards work"
 description: "Learn how crypto earn staking may involve validator delegation or custodial products, how rewards and asset control differ, and which terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

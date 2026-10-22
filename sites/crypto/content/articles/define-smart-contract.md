@@ -3,8 +3,6 @@ title: "Define smart contract: what it is and how it works"
 description: "Define smart contract in plain language: learn what blockchain code does, how it executes, and why its limits matter for real-world events."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract definition", "smart contract code", "blockchain smart contract"]

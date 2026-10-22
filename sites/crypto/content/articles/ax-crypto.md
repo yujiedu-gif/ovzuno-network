@@ -3,8 +3,6 @@ title: "ax crypto: How to verify its identity and staking connection"
 description: "Learn how to verify what ax crypto refers to, distinguish AX from AXS, and check whether reliable project evidence documents staking or validators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["axs crypto"]

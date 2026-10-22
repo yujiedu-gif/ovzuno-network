@@ -3,8 +3,6 @@ title: "NFT Consult: What Organizations Should Prepare Before a Project"
 description: "Learn what an NFT consult may cover, how to prepare project goals and ownership questions, and which technical, operational, and risk issues need review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

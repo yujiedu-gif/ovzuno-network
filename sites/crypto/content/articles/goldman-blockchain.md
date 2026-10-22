@@ -3,8 +3,6 @@ title: "Goldman blockchain: understanding its role in payment infrastructure"
 description: "Explore goldman blockchain through an evidence-led overview of its connection to payment infrastructure, what claims establish, and what remains uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

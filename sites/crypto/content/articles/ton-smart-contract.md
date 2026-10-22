@@ -3,8 +3,6 @@ title: "TON Smart Contract: State, Messages, and Execution Explained"
 description: "Learn what a ton smart contract is, how messages can trigger state changes, and which execution concepts matter when reading TON technical documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

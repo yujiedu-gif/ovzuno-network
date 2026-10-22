@@ -3,8 +3,6 @@ title: "erc 20 erc 721: How Ethereum Token Standards Differ"
 description: "Compare erc 20 erc 721 by token identity, interface expectations, and application fit, with practical criteria for choosing a standard for a smart contract."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20", "ERC-721", "fungible tokens", "non-fungible tokens", "Ethereum token standards"]

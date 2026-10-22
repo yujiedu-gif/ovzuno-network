@@ -3,8 +3,6 @@ title: "Zero Knowledge Proof Smart Contract: How On-Chain Verification Works"
 description: "Learn how a zero knowledge proof smart contract checks a proof on-chain, what public inputs mean, and which privacy and security assumptions remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

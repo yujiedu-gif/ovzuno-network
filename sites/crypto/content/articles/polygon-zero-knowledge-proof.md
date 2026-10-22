@@ -3,8 +3,6 @@ title: "Polygon zero knowledge proof: systems, terminology, and verification"
 description: "Understand what polygon zero knowledge proof can mean in Polygon systems, how proof generation and verification fit together, and where implementations may differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: ["Polygon zkEVM", "zero-knowledge proof verification"]

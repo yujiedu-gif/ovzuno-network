@@ -3,8 +3,6 @@ title: "Stablecoin Companies: Roles in Settlement Infrastructure"
 description: "Learn how stablecoin companies support settlement, how issuer, network, custody, and payment roles differ, and which operational dependencies to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoin settlement infrastructure", "stablecoin issuers", "stablecoin payment providers"]

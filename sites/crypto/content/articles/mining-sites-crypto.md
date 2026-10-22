@@ -3,8 +3,6 @@ title: "Mining Sites Crypto: An Evidence-Led Due-Diligence Framework"
 description: "Assess mining sites crypto with a neutral checklist for infrastructure, operating responsibilities, evidence quality, and risks to verify before shortlisting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

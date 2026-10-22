@@ -3,8 +3,6 @@ title: "How to create erc721: contract implementation and testing"
 description: "Learn how to create erc721 with a clear contract structure, token behavior checks, testing steps, and pre-deployment review considerations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 smart contract", "NFT contract testing"]

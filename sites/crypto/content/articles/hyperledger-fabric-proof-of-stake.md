@@ -3,8 +3,6 @@ title: "Hyperledger fabric proof of stake: what the architecture actually uses"
 description: "Learn whether Hyperledger fabric proof of stake describes Fabric accurately, and how permissioned membership, transaction endorsement, and ordering differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["hyperledger fabric proof stake"]

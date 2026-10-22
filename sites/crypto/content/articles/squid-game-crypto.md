@@ -3,8 +3,6 @@ title: "Squid Game Crypto: What the Name Refers to and How to Assess Its Claims"
 description: "Learn what squid game crypto refers to, how to check a token’s documented identity and mechanics, and why branding alone does not establish its claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

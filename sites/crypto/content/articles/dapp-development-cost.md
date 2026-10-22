@@ -3,8 +3,6 @@ title: "Dapp development cost: A scope-based estimation guide"
 description: "Understand the scope, engineering choices, security work, and ongoing operations that shape dapp development cost, then prepare a project-specific estimate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

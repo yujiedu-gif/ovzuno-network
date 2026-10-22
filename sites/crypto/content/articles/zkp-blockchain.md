@@ -3,8 +3,6 @@ title: "ZKP Blockchain: How Zero-Knowledge Proofs Support Verification"
 description: "Learn how a zkp blockchain uses zero-knowledge proofs to verify selected claims, what information may remain private, and which limits shape the design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["zero-knowledge proof", "zero-knowledge proofs in blockchain", "proof verification"]

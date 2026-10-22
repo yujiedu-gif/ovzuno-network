@@ -3,8 +3,6 @@ title: "New crypto exchanges: infrastructure and launch-readiness signals"
 description: "Learn how new crypto exchanges fit into market infrastructure, what systems and dependencies to assess, and which claims need independent evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

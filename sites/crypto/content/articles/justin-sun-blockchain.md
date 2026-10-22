@@ -3,8 +3,6 @@ title: "Justin Sun blockchain: what the phrase refers to"
 description: "Learn what “Justin Sun blockchain” refers to, how Justin Sun is associated with TRON, and why the person and the blockchain network are distinct."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["TRON blockchain", "TRON network", "TRON ecosystem"]

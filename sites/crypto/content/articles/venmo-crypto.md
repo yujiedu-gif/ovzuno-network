@@ -3,8 +3,6 @@ title: "Venmo crypto: How its features differ from payments and blockchain trans
 description: "Learn what Venmo crypto features are intended to do, how they differ from ordinary app payments and blockchain transfers, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Free Ethereum: What the Claim Means and What to Check"
 description: "Free Ethereum can refer to different things, from protocol mechanics to promotions. Learn what “free” means, what conditions may apply, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

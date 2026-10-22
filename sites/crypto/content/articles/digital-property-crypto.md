@@ -3,8 +3,6 @@ title: "Digital Property Crypto: Meaning and Treasury Considerations"
 description: "Learn what digital property crypto can mean in institutional treasury planning, and which ownership, control, governance, custody, and review questions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["crypto as digital property", "digital assets in institutional treasuries"]

@@ -3,8 +3,6 @@ title: "Cryptocurrency stake: its role in validator-based networks"
 description: "Learn what cryptocurrency stake represents in proof-of-stake networks, how it can shape validator participation, and which incentives and risks vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

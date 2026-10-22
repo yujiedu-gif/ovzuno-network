@@ -3,8 +3,6 @@ title: "DAO token: meaning, governance roles, and protocol differences"
 description: "Learn what a DAO token is, how it may relate to participation or governance, and why rights and mechanics depend on the specific protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

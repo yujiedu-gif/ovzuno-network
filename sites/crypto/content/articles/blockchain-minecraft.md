@@ -3,8 +3,6 @@ title: "Blockchain Minecraft: What the Term Means and How Projects May Connect"
 description: "Understand what “blockchain Minecraft” can mean, how blockchain-linked projects may relate to the game, and what to verify before interacting with them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["chain blocks minecraft"]

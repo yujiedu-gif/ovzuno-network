@@ -3,8 +3,6 @@ title: "Bitcoin collapse: what the phrase can mean"
 description: "Understand what bitcoin collapse can mean, from a severe market-price decline to disrupted network function, and what evidence distinguishes those claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

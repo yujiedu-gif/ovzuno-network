@@ -3,8 +3,6 @@ title: "Blockchain payment unsuccessful: what the status can mean"
 description: "Learn what blockchain payment unsuccessful can indicate, how to distinguish a rejected transaction from a pending or confirmed payment, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT charges: what they may cover and how to identify them"
 description: "Understand what NFT charges may cover, distinguish service fees from blockchain transaction costs, and check the details that can affect a transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto with most utility: how to assess practical use"
 description: "Learn how to assess crypto with most utility by separating asset functions from protocol capabilities and comparing practical uses without price predictions or token"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto utility", "blockchain network utility", "smart contract platforms", "decentralized infrastructure"]

@@ -3,8 +3,6 @@ title: "Token smart contract: what it does and how it works"
 description: "Learn what a token smart contract does, how its code and state govern token operations, and which interfaces and checks matter before interaction or deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["token contract", "token standards", "smart contract functions", "token deployment"]

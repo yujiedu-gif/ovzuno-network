@@ -3,8 +3,6 @@ title: "Crypto GPU Mining: How GPUs Contribute to Proof of Work"
 description: "Learn how crypto gpu mining uses graphics processors to perform proof-of-work computations, how that work supports consensus, and where GPU mining fits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

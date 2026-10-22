@@ -3,8 +3,6 @@ title: "Web3 payment: How a blockchain-based payment flow works"
 description: "Follow a web3 payment from wallet approval through blockchain processing to recipient-side recognition, and see which steps depend on the application or network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

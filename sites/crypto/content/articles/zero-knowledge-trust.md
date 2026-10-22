@@ -3,8 +3,6 @@ title: "Zero knowledge trust in blockchain scaling: what the phrase means"
 description: "Learn what zero knowledge trust means in blockchain scaling, what zero-knowledge proofs can establish, and which broader system assumptions still matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

@@ -3,8 +3,6 @@ title: "Smart Contracts Crypto: A Clear Definition and Basic Explanation"
 description: "Understand smart contracts crypto: what these blockchain programs are, how programmed conditions trigger execution, and what changes they can record."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract crypto"]

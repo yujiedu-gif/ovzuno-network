@@ -3,8 +3,6 @@ title: "Digital asset treasury data: what it includes and how to interpret it"
 description: "Learn what digital asset treasury data can include, how DAO records may be organized, and why holdings, transactions, and governance context need careful review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

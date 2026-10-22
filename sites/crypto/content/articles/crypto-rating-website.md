@@ -3,8 +3,6 @@ title: "Crypto rating website: meaning, methods, and limitations"
 description: "Learn what a crypto rating website assesses, how ratings may be produced, what evidence and conflicts to check, and why a rating is not a guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["crypto ratings website"]

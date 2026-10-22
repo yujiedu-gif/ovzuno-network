@@ -3,8 +3,6 @@ title: "nfc vs nft: Key Differences for Physical-to-Digital Links"
 description: "Compare nfc vs nft: understand how NFC tags communicate, how NFTs record blockchain-linked data, and what each can—and cannot—establish about an item."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["nfts_digital_ownership"]
 tags: ["nfc nft"]

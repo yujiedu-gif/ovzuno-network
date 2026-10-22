@@ -3,8 +3,6 @@ title: "How to describe blockchain technology in payment systems"
 description: "Describe blockchain technology through a payment transaction: see how networks validate and record transfers, and understand key limits around privacy and finality."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "pos in cryptocurrency: How Validators Participate in Consensus"
 description: "Learn how pos in cryptocurrency connects stake, validator selection, block checks, and protocol rules, and what the mechanism does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

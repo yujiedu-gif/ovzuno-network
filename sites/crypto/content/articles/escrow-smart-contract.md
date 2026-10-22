@@ -3,8 +3,6 @@ title: "Escrow Smart Contract: How Blockchain-Based Escrow Works"
 description: "Learn how an escrow smart contract can hold and release digital assets, how participant actions shape the workflow, and what risks and limits to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

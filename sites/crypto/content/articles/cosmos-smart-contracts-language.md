@@ -3,8 +3,6 @@ title: "Cosmos smart contracts language: support depends on the chain"
 description: "Learn what cosmos smart contracts language means, why support can vary by chain and execution environment, and which technical documentation to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["cosmos smart contract language"]

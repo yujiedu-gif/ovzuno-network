@@ -3,8 +3,6 @@ title: "Stake in Blockchain: Its Role in Proof-of-Stake Consensus"
 description: "Learn what stake in blockchain means, how proof-of-stake networks use it in validator selection, and why rules and risks vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain staking"]

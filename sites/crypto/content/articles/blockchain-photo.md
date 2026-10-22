@@ -3,8 +3,6 @@ title: "Blockchain photo: what the term means and how images relate to a blockch
 description: "Learn what “blockchain photo” can mean, how images may be stored or referenced, and what evidence helps verify an image’s relationship to blockchain data."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain photos"]

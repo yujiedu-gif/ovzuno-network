@@ -3,8 +3,6 @@ title: "Chingari crypto: platform, token, and protocol explained"
 description: "Understand what Chingari crypto refers to, how platform, token, and protocol are distinct, and which technical or regulatory details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

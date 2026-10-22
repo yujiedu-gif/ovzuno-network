@@ -3,8 +3,6 @@ title: "Crypto Market Charts: What They Show and How to Read Them"
 description: "Learn what crypto market charts display, how price, volume, and time are represented, and what chart data can and cannot tell you."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto market chart"]

@@ -3,8 +3,6 @@ title: "How an avax cross chain bridge works: routes, mechanisms, and risks"
 description: "Learn how an avax cross chain bridge moves assets across networks, how route mechanisms differ, and which security and compatibility details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

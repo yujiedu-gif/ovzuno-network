@@ -3,8 +3,6 @@ title: "Crypto events: types, security implications, and operational review"
 description: "Learn how to classify crypto events, assess potential security and compliance implications, and decide what infrastructure teams should verify before responding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

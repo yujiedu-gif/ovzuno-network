@@ -3,8 +3,6 @@ title: "Amazon Cryptocurrency Payment: How to Verify Direct Checkout"
 description: "Find out how to verify an amazon cryptocurrency payment option at checkout, distinguish direct acceptance from third-party routes, and check current marketplace info"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

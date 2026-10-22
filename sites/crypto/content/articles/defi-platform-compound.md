@@ -3,8 +3,6 @@ title: "DeFi Platform Compound: A Protocol Evaluation Framework"
 description: "Evaluate the defi platform compound by understanding its lending model, examining technical and operational fit, and verifying current risks and requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: ["compound defi platform"]

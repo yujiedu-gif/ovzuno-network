@@ -3,8 +3,6 @@ title: "ERC721 NFT Example: 7 Types of Tokens and What They Represent"
 description: "Explore an erc721 nft example across digital art, collectibles, game items, and more, with notes on what each token represents and its limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

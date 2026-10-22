@@ -3,8 +3,6 @@ title: "EigenLayer crypto token: meaning, protocol role, and key distinctions"
 description: "Learn what the EigenLayer crypto token refers to, how it relates to the protocol and restaking, and which token functions require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

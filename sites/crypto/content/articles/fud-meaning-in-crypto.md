@@ -3,8 +3,6 @@ title: "FUD Meaning in Crypto: Definition and How to Assess Claims"
 description: "Learn the fud meaning in crypto, how the term is used in discussions, and how to assess the evidence behind claims labeled as FUD."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["fud crypto meaning", "fud in crypto"]

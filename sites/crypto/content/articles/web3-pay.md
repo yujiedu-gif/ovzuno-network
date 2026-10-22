@@ -3,8 +3,6 @@ title: "Web3 pay: How payments work in smart-contract dApps"
 description: "Learn how web3 pay works in smart-contract dApps, from wallet authorization and contract execution to transaction confirmation and key operational risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

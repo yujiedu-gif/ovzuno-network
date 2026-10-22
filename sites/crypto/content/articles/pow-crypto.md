@@ -3,8 +3,6 @@ title: "Pow crypto: How proof-of-work consensus operates"
 description: "Learn how pow crypto uses proof-of-work to propose and validate blocks, coordinate network agreement, reward participation, and create technical trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

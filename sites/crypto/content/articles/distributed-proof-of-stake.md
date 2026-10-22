@@ -3,8 +3,6 @@ title: "Distributed proof of stake: meaning and validator design"
 description: "Learn what distributed proof of stake can mean, how validator distribution is described, and which protocol-specific details readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["distributed proof stake"]

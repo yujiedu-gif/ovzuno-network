@@ -3,8 +3,6 @@ title: "Create dapp: A practical guide to smart-contract application development
 description: "Learn how to create dapp software by mapping user flows, connecting a front end to smart contracts, testing key interactions, and planning deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

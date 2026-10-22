@@ -3,8 +3,6 @@ title: "Decentral DAO: Meaning and Context in Crypto"
 description: "Learn what “decentral DAO” may refer to in crypto, why context matters, and what to check before treating it as a specific organization or governance model."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

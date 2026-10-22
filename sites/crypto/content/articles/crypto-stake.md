@@ -3,8 +3,6 @@ title: "Crypto stake: its role in validator networks"
 description: "Learn what crypto stake means in validator networks, how protocols use it in participation and security, and which design-specific risks readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking validators", "validator", "proof of stake", "delegated staking"]

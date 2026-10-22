@@ -3,8 +3,6 @@ title: "nft-marketplace github solidity: How to Read a Marketplace Repository"
 description: "Learn how to inspect an nft-marketplace github solidity repository, identify key contracts and dependencies, and understand what source code does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["nft marketplace solidity github", "nft marketplace github solidity"]

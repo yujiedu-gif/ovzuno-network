@@ -3,8 +3,6 @@ title: "Distributed identity blockchain: identifiers, credentials, and records"
 description: "Learn how a distributed identity blockchain can support identifiers and credential checks, what may be recorded on-chain, and where privacy limits arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["decentralized identity", "verifiable credentials", "identity identifiers"]

@@ -3,8 +3,6 @@ title: "Crypto Liquid Staking: How Tokens Represent Staked Assets"
 description: "Learn how crypto liquid staking connects staked assets, validators, and transferable tokens, and which protocol-specific risks to investigate before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["liquid staking crypto"]

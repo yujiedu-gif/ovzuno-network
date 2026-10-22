@@ -3,8 +3,6 @@ title: "WOO crypto token: role, utility, and what to verify"
 description: "Learn what the WOO crypto token refers to, how its network role is described, and which token details readers should verify against current documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["WOO Network token", "WOO token utility", "WOO token governance", "WOO tokenomics"]

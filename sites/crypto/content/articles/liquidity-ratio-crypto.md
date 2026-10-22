@@ -3,8 +3,6 @@ title: "Liquidity Ratio Crypto: Interpreting Cross-Chain Liquidity Metrics"
 description: "Learn how liquidity ratio crypto metrics can compare defined liquidity measures across connected networks, and where assumptions limit interpretation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

@@ -3,8 +3,6 @@ title: "Private Smart Contract: Meaning, Privacy Models, and Limitations"
 description: "Learn what a private smart contract can keep confidential, how privacy approaches differ, and why code, inputs, state, and outputs may still be exposed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

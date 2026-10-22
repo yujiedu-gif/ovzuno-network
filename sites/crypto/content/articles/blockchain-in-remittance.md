@@ -3,8 +3,6 @@ title: "Blockchain in remittance: where it may fit in a cross-border payment"
 description: "Explore blockchain in remittance, from sender funding and ledger settlement to currency conversion and recipient payout, and identify what requires verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Proof of stake environmental impact: energy use and measurement"
 description: "Examine proof of stake environmental impact through energy use, validator hardware, measurement boundaries, and the limits of network comparisons."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake environmental impact"]

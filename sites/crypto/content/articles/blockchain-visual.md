@@ -3,8 +3,6 @@ title: "Blockchain visual: meaning, common forms, and limits"
 description: "Learn what a blockchain visual represents, how diagrams differ from live network displays, and what viewers should verify before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain visualization"]

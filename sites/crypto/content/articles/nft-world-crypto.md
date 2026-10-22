@@ -3,8 +3,6 @@ title: "nft world crypto: What NFTs Represent and What Ownership Means"
 description: "Explore nft world crypto through the distinction between an NFT token, the digital item it references, and any rights granted to its holder."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFTs and digital ownership", "NFT token", "blockchain ownership record"]

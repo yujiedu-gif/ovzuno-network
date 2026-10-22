@@ -3,8 +3,6 @@ title: "OHM Crypto Staking: Meaning, Mechanism, and Validator Distinction"
 description: "Learn what OHM crypto staking refers to, how it differs from validator staking, and which protocol, security, and jurisdiction details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

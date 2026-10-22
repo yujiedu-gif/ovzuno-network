@@ -3,8 +3,6 @@ title: "Crypto Pay API: Capabilities and Evaluation Criteria"
 description: "Evaluate a crypto pay api by examining supported flows, integration requirements, settlement operations, security controls, and evidence to request from providers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["crypto_payments"]
 tags: []

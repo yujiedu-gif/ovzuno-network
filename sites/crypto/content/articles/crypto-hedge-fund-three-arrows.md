@@ -3,8 +3,6 @@ title: "Crypto hedge fund three arrows: identity and market infrastructure"
 description: "Learn what the phrase crypto hedge fund three arrows refers to, how a crypto fund differs from trading infrastructure, and which claims require sourcing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto hedge fund 3 arrows"]

@@ -3,8 +3,6 @@ title: "Blockchain deployment: scope, design choices, and operations"
 description: "Learn what blockchain deployment involves, from defining a use case and choosing a network model to planning launch, operations, and evidence-based risk checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["deploy blockchain"]

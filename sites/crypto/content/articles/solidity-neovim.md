@@ -3,8 +3,6 @@ title: "Solidity Neovim Setup: Editor Support, Language Tools, and Workflow"
 description: "Learn how solidity neovim workflows connect editor configuration, language-server support, and external build and test tools, plus what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["neovim solidity"]

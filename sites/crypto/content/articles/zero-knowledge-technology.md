@@ -3,8 +3,6 @@ title: "Zero Knowledge Technology: How Proofs Can Support Blockchain Scaling"
 description: "Learn how zero knowledge technology lets blockchain systems verify computations with proofs, where it can support scaling, and what trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["zero-knowledge proofs", "validity proofs", "proof verification"]

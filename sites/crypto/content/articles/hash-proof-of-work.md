@@ -3,8 +3,6 @@ title: "Hash Proof of Work: How Hashing Supports Block Validation"
 description: "Learn how hash proof of work uses repeated hash calculations and a target test to produce candidate blocks that network participants can verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["hash proof work"]

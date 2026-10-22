@@ -3,8 +3,6 @@ title: "Wrapped crypto: how cross-chain representations work and where risks ari
 description: "Learn how wrapped crypto represents an asset across blockchains, how issuance and redemption work, and what bridge, custody, and smart-contract risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

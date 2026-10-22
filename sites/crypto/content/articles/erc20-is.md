@@ -3,8 +3,6 @@ title: "ERC20 is a Token Standard: What It Defines and What It Doesn’t"
 description: "ERC20 is a token standard for fungible assets on Ethereum. Learn what its interface defines, how contracts use it, and what the standard does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["erc20"]

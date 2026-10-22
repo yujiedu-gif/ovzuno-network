@@ -3,8 +3,6 @@ title: "NFT Breeding: Meaning, Mechanics, and Ownership Records"
 description: "Learn what nft breeding means, how collection rules can generate NFT offspring, and what token records do—and do not—establish about digital ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT breeding mechanics", "NFT offspring", "generative NFTs"]

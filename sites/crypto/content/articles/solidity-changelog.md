@@ -3,8 +3,6 @@ title: "Solidity changelog: what it records and how to read it"
 description: "Learn what the Solidity changelog records, how to find release changes relevant to a contract, and why compiler notes alone do not establish upgrade safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity release notes", "Solidity compiler versions", "Solidity breaking changes"]

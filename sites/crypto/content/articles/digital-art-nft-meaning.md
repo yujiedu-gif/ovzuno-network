@@ -3,8 +3,6 @@ title: "Digital art nft meaning: What the Token Represents"
 description: "Understand digital art nft meaning: how a blockchain token relates to an artwork file, what its ownership record shows, and why rights may differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["digital art nft"]

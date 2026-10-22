@@ -3,8 +3,6 @@ title: "Instant bank transfer crypto: how the flow and timing work"
 description: "Learn how instant bank transfer crypto flows work, which steps involve a bank, crypto service, or blockchain, and what can affect timing and availability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["bank transfer to crypto", "crypto bank transfer processing time"]

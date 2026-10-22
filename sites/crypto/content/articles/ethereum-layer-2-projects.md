@@ -3,8 +3,6 @@ title: "Ethereum Layer 2 Projects: Design Approaches and Comparison Criteria"
 description: "Understand how ethereum layer 2 projects vary in execution, data publication, and security assumptions, with neutral criteria for comparing documented designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

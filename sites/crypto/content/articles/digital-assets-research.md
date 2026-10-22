@@ -3,8 +3,6 @@ title: "Digital assets research: an evidence-led framework for crypto protocols"
 description: "A practical framework for digital assets research: examine an asset’s purpose, protocol design, governance, evidence, and risks without investment advice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital asset research"]

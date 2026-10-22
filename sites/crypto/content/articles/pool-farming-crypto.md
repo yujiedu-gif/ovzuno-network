@@ -3,8 +3,6 @@ title: "Pool Farming Crypto: How DeFi Pool Rewards Work"
 description: "Learn how pool farming crypto works, from supplying assets and tracking protocol-defined rewards to understanding withdrawal limits and key risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

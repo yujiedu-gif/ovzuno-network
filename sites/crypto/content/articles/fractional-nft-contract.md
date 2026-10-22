@@ -3,8 +3,6 @@ title: "Fractional NFT Contract: How Shared NFT Interests Work"
 description: "Learn how a fractional NFT contract can represent shared interests in an NFT, what contract mechanisms may govern them, and what legal and technical limits to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

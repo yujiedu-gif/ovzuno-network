@@ -3,8 +3,6 @@ title: "Polymath blockchain: what the term refers to"
 description: "Learn what Polymath blockchain refers to, how the project relates to its network, and which current details readers should verify in official documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

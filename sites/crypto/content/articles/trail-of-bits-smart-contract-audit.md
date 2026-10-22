@@ -3,8 +3,6 @@ title: "Trail of Bits Smart Contract Audit: Scope and Report Limits"
 description: "Learn what a trail of bits smart contract audit can examine, how to read reported findings, and why an audit is not a guarantee of contract security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["trail bits smart contract audit"]

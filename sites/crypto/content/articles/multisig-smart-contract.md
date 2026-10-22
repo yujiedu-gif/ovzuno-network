@@ -3,8 +3,6 @@ title: "Multisig smart contract: how threshold authorization works"
 description: "Learn how a multisig smart contract uses multiple authorized signers and threshold rules, and what design and operational trade-offs builders should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

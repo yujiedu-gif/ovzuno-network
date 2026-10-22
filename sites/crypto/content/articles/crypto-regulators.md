@@ -3,8 +3,6 @@ title: "Crypto regulators: roles, jurisdictions, and areas of oversight"
 description: "Learn what crypto regulators do, how oversight can vary by jurisdiction and activity, and where to verify current rules before making compliance decisions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

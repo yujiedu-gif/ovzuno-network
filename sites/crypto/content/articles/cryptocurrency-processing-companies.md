@@ -3,8 +3,6 @@ title: "Cryptocurrency Processing Companies: Roles in a Payment Flow"
 description: "Learn what cryptocurrency processing companies do, how their roles fit into a payment flow, and which functions may be handled by separate services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

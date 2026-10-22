@@ -3,8 +3,6 @@ title: "Blockchain pseudocode: a simple block-validation example"
 description: "See how blockchain pseudocode can illustrate a simplified block-validation flow, what each step represents, and why it is not production-ready code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

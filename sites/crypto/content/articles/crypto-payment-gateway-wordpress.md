@@ -3,8 +3,6 @@ title: "Crypto payment gateway WordPress: how integration works"
 description: "Learn how a crypto payment gateway WordPress integration connects checkout, payment processing, and confirmation, and what technical and operational factors to check"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["WordPress crypto payment plugin", "cryptocurrency checkout integration"]

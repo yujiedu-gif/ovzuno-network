@@ -3,8 +3,6 @@ title: "Digital Asset Income: Sources, Risks, and Institutional Treasury Conside
 description: "Learn how institutional treasuries may generate digital asset income, how common mechanisms differ, and which operational, accounting, and risk questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

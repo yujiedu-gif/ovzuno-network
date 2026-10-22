@@ -3,8 +3,6 @@ title: "Social Token Crypto: Meaning, Uses, and Design Considerations"
 description: "Learn what social token crypto means, how tokens may support community participation, and which design, rights, and risk questions need careful review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

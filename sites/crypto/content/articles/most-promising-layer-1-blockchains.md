@@ -3,8 +3,6 @@ title: "How to assess the most promising layer 1 blockchains"
 description: "Learn how to assess the most promising layer 1 blockchains using use-case fit, technical evidence, ecosystem signals, and operational trade-offs—not price forecasts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_scaling"]
 tags: ["Layer 1 blockchain evaluation criteria", "blockchain adoption indicators"]

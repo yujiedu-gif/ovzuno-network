@@ -3,8 +3,6 @@ title: "NFT Minting Contract: What It Does and Key Design Choices"
 description: "Learn what an nft minting contract does, how it creates tokens and references metadata, and which implementation, control, and security questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

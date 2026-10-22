@@ -3,8 +3,6 @@ title: "Most Scalable Blockchain: How to Compare Payment Capacity"
 description: "Learn how to assess the most scalable blockchain for payment workloads by comparing throughput, finality, fees, reliability, and scaling trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain scalability", "transaction throughput", "layer 2 scaling", "finality"]

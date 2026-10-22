@@ -3,8 +3,6 @@ title: "Crypto Card App: Core Functions and Product Boundaries"
 description: "Learn what a crypto card app may manage, how app functions relate to card spending, and which jurisdiction, security, fee, and recovery claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

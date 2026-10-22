@@ -3,8 +3,6 @@ title: "WadzPay Crypto: What It Refers to in Crypto Payments"
 description: "Explore what wadzpay crypto refers to in payment technology, how to assess documented capabilities, and which operational or jurisdictional details need verification"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

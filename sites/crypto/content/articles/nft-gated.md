@@ -3,8 +3,6 @@ title: "NFT Gated Access: How Token-Based Entry Checks Work"
 description: "Learn what NFT gated access means, how ownership checks can control digital entry, and where wallet verification, permissions, and service limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["token-gated access", "NFT-based access control", "NFT membership"]

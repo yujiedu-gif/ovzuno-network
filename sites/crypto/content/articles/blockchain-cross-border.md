@@ -3,8 +3,6 @@ title: "Blockchain cross border settlement with stablecoins: workflow and trade-
 description: "See how stablecoins can fit a blockchain cross border settlement workflow, from funding and transfer to conversion, receipt, dependencies, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

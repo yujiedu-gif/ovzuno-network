@@ -3,8 +3,6 @@ title: "Cryptocurrency order book: structure, updates, and matching"
 description: "Learn what a cryptocurrency order book shows, how bids and asks are organized, how displayed quantities can change, and how the book relates to exchange order-m"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

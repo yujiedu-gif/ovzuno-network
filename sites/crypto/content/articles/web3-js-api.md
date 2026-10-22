@@ -3,8 +3,6 @@ title: "How to Use the web3 js api in a Smart Contract dApp"
 description: "Learn how to use the web3 js api to connect a JavaScript dApp to a blockchain node, read contract data, and prepare write interactions safely."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

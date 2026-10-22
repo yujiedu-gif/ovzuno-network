@@ -3,8 +3,6 @@ title: "Accept crypto currency: a business decision guide"
 description: "A practical guide to accept crypto currency: assess payment models, custody, settlement, accounting, security and jurisdiction-specific checks before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Auto stake crypto: How automated staking works"
 description: "Learn what auto stake crypto can mean, how delegation, reward compounding, and restaking differ, and which validator controls and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

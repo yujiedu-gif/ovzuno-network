@@ -3,8 +3,6 @@ title: "USD1 crypto: Meaning and possible card-payment flow"
 description: "Learn what USD1 crypto may refer to and how a dollar-referenced token could enter a crypto-card payment flow, from balance conversion to settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

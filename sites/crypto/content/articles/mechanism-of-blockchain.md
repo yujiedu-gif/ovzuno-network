@@ -3,8 +3,6 @@ title: "Mechanism of blockchain: How transactions move through a network"
 description: "Learn the mechanism of blockchain through a neutral transaction lifecycle, from submission and validation to network agreement and ledger inclusion."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["mechanism blockchain"]

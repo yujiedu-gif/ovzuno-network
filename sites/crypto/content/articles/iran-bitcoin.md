@@ -3,8 +3,6 @@ title: "Iran Bitcoin: What the Phrase Means and What It Does Not Establish"
 description: "Understand what “iran bitcoin” can refer to, how Bitcoin’s global protocol differs from Iran-specific claims, and why local rules require current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

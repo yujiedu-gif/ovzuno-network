@@ -3,8 +3,6 @@ title: "Ronin Validator Node: Role, Requirements, and Operator Checks"
 description: "Learn what a ronin validator node does, which operator requirements and infrastructure details to verify, and what risks need current network documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

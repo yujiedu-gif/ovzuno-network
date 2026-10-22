@@ -3,8 +3,6 @@ title: "MiCA Crypto: EU Rules, Scope, and Key Obligations"
 description: "A neutral guide to mica crypto: what the EU Markets in Crypto-Assets Regulation covers, who may be affected, and where to verify current requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

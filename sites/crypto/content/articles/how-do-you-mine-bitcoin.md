@@ -3,8 +3,6 @@ title: "How do you mine bitcoin? The process and key requirements"
 description: "Learn how do you mine bitcoin: how miners assemble candidate blocks, search for proof of work, and connect hardware and software to the network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["how do you mine for bitcoins", "you mine bitcoin"]

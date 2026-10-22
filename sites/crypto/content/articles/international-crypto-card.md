@@ -3,8 +3,6 @@ title: "International crypto card: how cross-border purchases work"
 description: "Learn how an international crypto card may process overseas purchases, from crypto conversion and authorization to settlement, limits, and regional restrictions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

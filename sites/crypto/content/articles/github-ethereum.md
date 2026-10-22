@@ -3,8 +3,6 @@ title: "GitHub Ethereum: What the Phrase Means"
 description: "Learn what “GitHub Ethereum” refers to, how Ethereum-related repositories support code collaboration, and why a repository is not the Ethereum network itself."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum github"]

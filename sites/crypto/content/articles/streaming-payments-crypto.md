@@ -3,8 +3,6 @@ title: "Streaming payments crypto: How continuous transfers work"
 description: "Learn how streaming payments crypto can represent continuous value transfer, how accrual and settlement differ, and what design and operational risks builders should"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["streaming payment crypto"]

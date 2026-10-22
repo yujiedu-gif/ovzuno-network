@@ -3,8 +3,6 @@ title: "Crypto fiat card: meaning, basic function, and key distinctions"
 description: "Learn what a crypto fiat card means, how it may link digital-asset balances to conventional card payments, and which details depend on the product."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

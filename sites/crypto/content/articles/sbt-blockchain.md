@@ -3,8 +3,6 @@ title: "SBT blockchain: What soulbound tokens mean"
 description: "Learn what SBT blockchain means, how soulbound tokens are intended to differ from transferable tokens, and which design limits to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

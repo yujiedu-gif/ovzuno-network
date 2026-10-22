@@ -3,8 +3,6 @@ title: "Oraichain crypto: how its AI-oracle protocol is designed"
 description: "Learn what Oraichain crypto is, how its AI-oracle design connects services with blockchain applications, and which protocol claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Oraichain AI oracle", "Oraichain blockchain", "ORAI token"]

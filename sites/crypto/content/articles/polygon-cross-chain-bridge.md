@@ -3,8 +3,6 @@ title: "Polygon Cross Chain Bridge: How Interoperability Works"
 description: "Learn how a polygon cross chain bridge can connect Polygon with other networks, how transfers are coordinated, and which technical risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

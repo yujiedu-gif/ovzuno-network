@@ -3,8 +3,6 @@ title: "Blockchain Games Platform: Infrastructure Evaluation Criteria"
 description: "Evaluate a blockchain games platform by examining architecture, player onboarding, transaction design, security responsibilities, and operating dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain gaming platform"]

@@ -3,8 +3,6 @@ title: "Fiserv stablecoins: What is known about the settlement initiative"
 description: "Learn what has been publicly disclosed about Fiserv stablecoins, how the initiative may fit into settlement workflows, and which operational details remain un"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["fiserv stablecoin"]

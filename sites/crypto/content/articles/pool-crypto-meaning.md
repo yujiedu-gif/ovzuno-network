@@ -3,8 +3,6 @@ title: "Pool crypto meaning: what “pool” refers to in DeFi"
 description: "Learn the pool crypto meaning in DeFi and other crypto contexts, how a pool differs by purpose, and what terminology alone does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: ["pool crypto"]

@@ -3,8 +3,6 @@ title: "Crypto cloud mining app: how the service connects to mining infrastructu
 description: "Learn how a crypto cloud mining app may connect users to mining infrastructure, what contracts and payouts mean, and which claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["cloud mining", "hashrate", "mining contract", "proof-of-work"]

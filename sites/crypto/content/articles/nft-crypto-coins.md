@@ -3,8 +3,6 @@ title: "NFT crypto coins: How NFTs Differ from Fungible Coins"
 description: "Learn what nft crypto coins can mean, how NFTs differ from fungible cryptocurrencies, and what an NFT’s blockchain record does—and does not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT tokens", "non-fungible tokens", "fungible tokens"]

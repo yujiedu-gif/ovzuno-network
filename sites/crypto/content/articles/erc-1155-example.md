@@ -3,8 +3,6 @@ title: "ERC 1155 Example: Common Token Patterns and a Code Illustration"
 description: "Explore an erc 1155 example through common token patterns, batch transfers, and a small illustrative contract snippet, with notes on what each shows."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

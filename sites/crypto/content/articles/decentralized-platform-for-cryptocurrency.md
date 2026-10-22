@@ -3,8 +3,6 @@ title: "Decentralized Platform for Cryptocurrency: A Neutral Evaluation Framewor
 description: "Understand what a decentralized platform for cryptocurrency does and assess its architecture, governance, dependencies, and operational risks without vendor rankings"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: ["decentralized platform cryptocurrency"]

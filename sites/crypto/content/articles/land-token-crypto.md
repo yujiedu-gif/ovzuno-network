@@ -3,8 +3,6 @@ title: "Land token crypto: what a token may represent about land"
 description: "Learn what land token crypto may represent, how on-chain records differ from land rights, and what project documents to verify before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "AVAX Smart Contract: Meaning, Execution, and Key Considerations"
 description: "Learn what an avax smart contract means in the Avalanche ecosystem, how contracts execute and interact, and what technical and risk details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

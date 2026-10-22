@@ -3,8 +3,6 @@ title: "DAO explained: how proposals, votes, and execution fit together"
 description: "DAO explained through the path from proposal to vote to execution, including how governance rules work and where human or technical controls remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["dao"]

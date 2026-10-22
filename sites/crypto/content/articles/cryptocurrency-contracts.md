@@ -3,8 +3,6 @@ title: "Cryptocurrency contracts: How blockchain programs work"
 description: "Learn what cryptocurrency contracts are, how smart-contract code runs on a blockchain, how it supports applications, and where its limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain fraud prevention: controls, trade-offs, and operational limit
 description: "A practical analysis of blockchain fraud prevention, covering common risk scenarios, operational controls, limitations, and evidence teams should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["security_compliance_operations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cryptocurrency mining for dummies: How proof of work works"
 description: "Cryptocurrency mining for dummies: learn how proof-of-work miners propose blocks, perform hash-based work, and support blockchain consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["cryptocurrency mining dummies"]

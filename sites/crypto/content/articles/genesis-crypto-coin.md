@@ -3,8 +3,6 @@ title: "Genesis crypto coin: what the phrase means"
 description: "Learn what “genesis crypto coin” may mean, how a blockchain’s first block differs from a coin or token, and what evidence identifies a specific asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

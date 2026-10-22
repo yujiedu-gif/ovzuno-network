@@ -3,8 +3,6 @@ title: "Blockchain Data Analytics: Methods, Uses, and Limits"
 description: "Learn how blockchain data analytics turns on-chain records into measures and insights, what teams use it for, and where interpretation has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

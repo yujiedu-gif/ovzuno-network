@@ -3,8 +3,6 @@ title: "Crypto Air Drop: How Token Distribution and Claiming Work"
 description: "Learn what a crypto air drop is, how token distribution and eligibility can work, and what to verify before connecting a wallet or claiming tokens."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token distribution", "airdrop eligibility", "crypto airdrop scams"]

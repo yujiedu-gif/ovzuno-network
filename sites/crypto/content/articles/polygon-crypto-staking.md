@@ -3,8 +3,6 @@ title: "Polygon crypto staking: roles, process, and risks"
 description: "Learn how polygon crypto staking works, including validator and delegator roles, the participation workflow, reward mechanics, and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

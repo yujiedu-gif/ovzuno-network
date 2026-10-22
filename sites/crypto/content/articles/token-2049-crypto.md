@@ -3,8 +3,6 @@ title: "Token 2049 crypto: meaning and event-name context"
 description: "Learn what token 2049 crypto may refer to, how to distinguish the event name from a crypto asset, and where to verify edition-specific details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["token2049 crypto"]

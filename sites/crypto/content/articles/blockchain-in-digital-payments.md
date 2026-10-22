@@ -3,8 +3,6 @@ title: "How Blockchain in Digital Payments Works"
 description: "Learn how blockchain in digital payments can move and settle value, who participates in a typical flow, and which trade-offs differ from conventional payment rails."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain in digital payment"]

@@ -3,8 +3,6 @@ title: "Companies That Accept Cryptocurrency: What Acceptance Means"
 description: "Learn what companies that accept cryptocurrency may mean in practice, how payment arrangements differ, and what to verify before relying on an option."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

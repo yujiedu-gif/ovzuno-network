@@ -3,8 +3,6 @@ title: "Bond Crypto: How Validator Collateral Works"
 description: "Learn what bond crypto means in validator staking, how bonded assets may support network participation, and why lockup, release, and slashing rules vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking bond", "validator bond", "slashing"]

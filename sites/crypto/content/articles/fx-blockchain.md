@@ -3,8 +3,6 @@ title: "FX blockchain: meaning, roles, and settlement considerations"
 description: "Learn what fx blockchain means, how blockchain infrastructure may support foreign-exchange workflows, and what to verify about settlement, assets, and oversight."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["foreign exchange on blockchain", "blockchain-based FX settlement", "tokenized currencies"]

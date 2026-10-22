@@ -3,8 +3,6 @@ title: "Hedge crypto token: meaning, mechanisms, and limitations"
 description: "Learn what “hedge crypto token” may mean, how hedging designs can differ, and what documentation to check before treating a token’s risk claims as fact."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Explain the History of Blockchain Technology: Key Milestones"
 description: "Explain the history of blockchain technology through key precursors, Bitcoin’s emergence, and later payment-related developments, with dates and context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["explain history blockchain technology"]

@@ -3,8 +3,6 @@ title: "Tangem crypto wallet: how its card-based design works"
 description: "Learn how the Tangem crypto wallet’s card-based design relates to private-key control, what trade-offs to consider, and which product details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

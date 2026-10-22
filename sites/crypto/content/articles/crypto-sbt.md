@@ -3,8 +3,6 @@ title: "Crypto SBT: How Soulbound Tokens Work and What to Assess"
 description: "Learn what a crypto SBT is, how soulbound tokens limit transferability, and what builders should assess about privacy, recovery, revocation, and governance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["soulbound token", "non-transferable token", "token transferability", "on-chain credentials"]

@@ -3,8 +3,6 @@ title: "Crypto card perks: benefit types, terms, and trade-offs"
 description: "Explore crypto card perks by benefit type, then assess eligibility, caps, fees, redemption rules, and risks before counting on any advertised offer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Ethereum unit converter: convert wei, gwei, and ether"
 description: "Use an ethereum unit converter to translate wei, gwei, and ether with clear conversion factors, worked examples, and checks for decimal-place errors."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["wei to ether", "gwei to ether", "ether denominations"]

@@ -3,8 +3,6 @@ title: "Agora Crypto: What the Name Refers to in Crypto Spending"
 description: "Learn what agora crypto refers to, how to distinguish similarly named projects, and what evidence is needed to assess any connection to crypto spending."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

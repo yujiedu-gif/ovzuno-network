@@ -3,8 +3,6 @@ title: "DeFi Exchanges: How Trade Execution and Protocol Risks Work"
 description: "Learn how defi exchanges route and settle trades, how protocol components shape execution, and which technical, user, and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["defi exchange"]

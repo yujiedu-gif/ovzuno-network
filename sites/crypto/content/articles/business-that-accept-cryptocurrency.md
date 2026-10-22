@@ -3,8 +3,6 @@ title: "Business That Accept Cryptocurrency: A Readiness Guide"
 description: "A practical guide for a business that accept cryptocurrency: compare payment approaches, map operating needs, and identify legal, accounting, and security checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["accept cryptocurrency payments", "crypto payment methods for businesses"]

@@ -3,8 +3,6 @@ title: "Coin proof of stake: how coins relate to validator consensus"
 description: "Learn what coin proof of stake means, how stake can support validator participation, and why consensus rules and risks differ across blockchain networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["coin proof stake"]

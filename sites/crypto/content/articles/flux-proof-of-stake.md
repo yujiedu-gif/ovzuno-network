@@ -3,8 +3,6 @@ title: "flux proof of stake: how Flux consensus and infrastructure work"
 description: "Check whether flux proof of stake accurately describes Flux’s consensus model, how documented node roles differ, and which claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["flux proof stake"]

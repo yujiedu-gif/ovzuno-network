@@ -3,8 +3,6 @@ title: "Decentralization Crypto: What It Means for Payment Infrastructure"
 description: "Understand decentralization crypto in payment infrastructure: how control can be distributed across networks, wallets, interfaces, and service providers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["decentralized crypto"]

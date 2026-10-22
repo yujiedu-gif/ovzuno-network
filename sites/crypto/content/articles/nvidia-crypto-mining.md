@@ -3,8 +3,6 @@ title: "NVIDIA Crypto Mining: How GPUs Fit Into Proof of Work"
 description: "Learn how nvidia crypto mining fits into proof-of-work systems, what affects GPU compatibility and performance, and which claims require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

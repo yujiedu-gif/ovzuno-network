@@ -3,8 +3,6 @@ title: "Crypto Art Collectors: How Digital Art Collection Works"
 description: "Learn how crypto art collectors assess digital artworks, blockchain records, provenance, associated rights, custody choices, and ongoing collection management."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

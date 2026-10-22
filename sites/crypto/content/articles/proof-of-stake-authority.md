@@ -3,8 +3,6 @@ title: "Proof of stake authority: validator roles and consensus rules"
 description: "Understand proof of stake authority, how protocol rules may shape validator selection and block production, and why the term varies across network designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake authority"]

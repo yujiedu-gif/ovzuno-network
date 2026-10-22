@@ -3,8 +3,6 @@ title: "IDEX Crypto: What It Is and How Its Exchange Infrastructure Works"
 description: "Learn what idex crypto refers to, how its exchange infrastructure is described, and which architecture, operating, and availability details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

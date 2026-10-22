@@ -3,8 +3,6 @@ title: "Z Token Crypto: How to Identify What the Name Refers To"
 description: "Learn how to identify what “z token crypto” refers to, check its network and documentation, and separate verified details from ambiguous claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

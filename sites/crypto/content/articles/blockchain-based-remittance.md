@@ -3,8 +3,6 @@ title: "Blockchain based remittance: how cross-border transfers work"
 description: "Learn how blockchain based remittance can move value across borders, from funding and on-chain settlement to conversion, payout, and key risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

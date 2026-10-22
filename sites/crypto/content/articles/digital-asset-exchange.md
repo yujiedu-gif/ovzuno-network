@@ -3,8 +3,6 @@ title: "Digital Asset Exchange Infrastructure: Components and Order Flow"
 description: "Explore how digital asset exchange infrastructure connects user access, order handling, matching, custody or settlement interfaces, and operational controls."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

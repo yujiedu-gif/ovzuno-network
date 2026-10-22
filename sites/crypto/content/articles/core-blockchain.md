@@ -3,8 +3,6 @@ title: "Core blockchain: the protocol layer behind payment records"
 description: "Understand what the core blockchain layer does in payment systems, including transaction recording, ordering, and validation, and where its role ends."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

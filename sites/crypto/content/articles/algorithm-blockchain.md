@@ -3,8 +3,6 @@ title: "Algorithm Blockchain: How Algorithms Support Validation and Agreement"
 description: "Learn what algorithm blockchain means and how algorithms help networks validate transactions, coordinate agreement, and maintain consistent records."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

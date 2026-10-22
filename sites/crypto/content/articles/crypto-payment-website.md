@@ -3,8 +3,6 @@ title: "Crypto Payment Website: Components and Payment Flow Explained"
 description: "Learn what a crypto payment website does, how checkout, payment processing, wallet arrangements, and blockchain settlement fit together, and what varies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

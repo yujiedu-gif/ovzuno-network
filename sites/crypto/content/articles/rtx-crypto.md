@@ -3,8 +3,6 @@ title: "RTX crypto: how graphics cards relate to GPU mining"
 description: "Learn what “RTX crypto” can mean, how RTX graphics cards relate to proof-of-work mining, and which hardware and network details determine compatibility."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

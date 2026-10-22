@@ -3,8 +3,6 @@ title: "Crypto millionaire: meaning, valuation, and crypto-card spending"
 description: "Learn what crypto millionaire means, why asset valuation and liabilities matter, and how crypto-card spending differs from measuring wealth."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["crypto millionaires"]

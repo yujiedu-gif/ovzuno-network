@@ -3,8 +3,6 @@ title: "Crypto pool: meaning, DeFi role, and key risks"
 description: "Learn what a crypto pool means in DeFi, how liquidity pools support protocols, how the term differs from mining pools, and which risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cross Border Cryptocurrency: How Stablecoin Settlement Works"
 description: "Learn how stablecoins can support cross border cryptocurrency settlement, from fiat entry and on-chain transfer to redemption, recipient access, and operational cave"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

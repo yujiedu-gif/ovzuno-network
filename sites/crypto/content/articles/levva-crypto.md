@@ -3,8 +3,6 @@ title: "Levva crypto: what the name refers to and what to verify"
 description: "Understand what Levva crypto may refer to, how to assess evidence linking it to institutional treasury infrastructure, and what claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

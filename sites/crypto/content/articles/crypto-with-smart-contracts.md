@@ -3,8 +3,6 @@ title: "Crypto with smart contracts: how networks power on-chain applications"
 description: "Learn how crypto with smart contracts connects blockchain networks, executable code, and decentralized applications, and what the model does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract platforms", "decentralized applications", "on-chain programs"]

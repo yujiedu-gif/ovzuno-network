@@ -3,8 +3,6 @@ title: "now payments crypto: Meaning and What Businesses Should Verify"
 description: "Learn what “now payments crypto” may refer to, how crypto payment processing works at a high level, and what businesses should verify before relying on provider"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["now payment crypto"]

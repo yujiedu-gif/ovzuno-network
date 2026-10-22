@@ -3,8 +3,6 @@ title: "TEE Crypto: Meaning and Potential Role in Validator Infrastructure"
 description: "Learn what TEE crypto means, how trusted execution environments may support staking and validator infrastructure, and what trust assumptions they leave unresolved."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

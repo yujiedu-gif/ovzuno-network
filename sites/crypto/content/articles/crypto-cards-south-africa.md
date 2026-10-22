@@ -3,8 +3,6 @@ title: "Crypto cards south africa: how spending works and what to verify"
 description: "Learn how crypto cards south africa may connect crypto balances to card payments, and what to verify about availability, conversion, rules, fees, and tax."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card south africa"]

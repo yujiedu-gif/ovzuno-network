@@ -3,8 +3,6 @@ title: "CryptoKitties smart contract: how the game’s on-chain logic works"
 description: "Understand the CryptoKitties smart contract’s role in representing game assets, handling ownership and actions, and separating on-chain logic from application layers"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

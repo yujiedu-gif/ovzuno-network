@@ -3,8 +3,6 @@ title: "Understanding proof of work: how blockchain consensus operates"
 description: "Understanding proof of work means following how computational effort helps a blockchain network validate blocks, agree on transaction history, and manage competing"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["understanding proof work"]

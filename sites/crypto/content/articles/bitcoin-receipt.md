@@ -3,8 +3,6 @@ title: "Bitcoin receipt: Meaning, transaction records, and limits"
 description: "Learn what a bitcoin receipt may refer to, how it differs from a Bitcoin transaction record, and what transaction details can and cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin transaction receipt", "transaction confirmation"]

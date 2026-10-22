@@ -3,8 +3,6 @@ title: "Ethereum sandbox: meaning and how it differs from a testnet"
 description: "Learn what an ethereum sandbox is, why developers use isolated environments, and how a sandbox differs from an Ethereum testnet and mainnet."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["sandbox ethereum"]

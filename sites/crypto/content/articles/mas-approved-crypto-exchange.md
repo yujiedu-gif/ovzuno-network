@@ -3,8 +3,6 @@ title: "MAS Approved Crypto Exchange: Meaning and Verification in Singapore"
 description: "Learn what a mas approved crypto exchange claim means in Singapore, how to check official records and service scope, and what regulatory status alone cannot confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["MAS-regulated crypto exchange", "Monetary Authority of Singapore"]

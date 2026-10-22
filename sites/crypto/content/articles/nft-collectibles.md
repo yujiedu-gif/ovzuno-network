@@ -3,8 +3,6 @@ title: "NFT Collectibles: Tokens, Digital Items, and Ownership Rights"
 description: "Learn how NFT collectibles connect tokens to digital items, and distinguish blockchain ownership records from content access, copyright, and other rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

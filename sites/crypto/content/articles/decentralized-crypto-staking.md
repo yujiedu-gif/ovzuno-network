@@ -3,8 +3,6 @@ title: "Decentralized crypto staking: how validator participation is distributed
 description: "Learn how decentralized crypto staking distributes validator participation, what can concentrate control, and which technical trade-offs shape network resilience."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

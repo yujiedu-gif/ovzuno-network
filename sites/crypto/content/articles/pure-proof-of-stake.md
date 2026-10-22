@@ -3,8 +3,6 @@ title: "Pure proof of stake: meaning, validator selection, and trade-offs"
 description: "Learn what pure proof of stake means, how protocols describe validator selection and participation, and which security trade-offs depend on implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["pure proof stake"]

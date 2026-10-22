@@ -3,8 +3,6 @@ title: "Stablecoin platform: a settlement due-diligence framework"
 description: "Assess a stablecoin platform for settlement by mapping asset, network, integration, operational, security, and compliance requirements to verifiable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoin platforms"]

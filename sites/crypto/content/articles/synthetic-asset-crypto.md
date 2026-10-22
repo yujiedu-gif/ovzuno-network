@@ -3,8 +3,6 @@ title: "Synthetic asset crypto: how reference-based tokens work"
 description: "Learn how synthetic asset crypto can represent exposure to an underlying reference, how tracking mechanisms work, and which design risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

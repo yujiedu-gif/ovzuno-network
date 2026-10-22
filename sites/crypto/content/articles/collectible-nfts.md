@@ -3,8 +3,6 @@ title: "Collectible NFTs: Tokens, Digital Items, and Ownership Claims"
 description: "Learn what collectible NFTs are, how their blockchain records relate to digital collectibles, and why token ownership does not automatically establish rights to a"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

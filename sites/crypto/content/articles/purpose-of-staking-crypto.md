@@ -3,8 +3,6 @@ title: "Purpose of staking crypto: its role in proof-of-stake networks"
 description: "Explore the purpose of staking crypto in proof-of-stake networks, including validator participation, consensus, incentives, and key limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["purpose staking crypto"]

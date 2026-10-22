@@ -3,8 +3,6 @@ title: "USDT Blockchain: How the Token Relates to Its Networks"
 description: "Understand what USDT blockchain means, how the token relates to supported networks, and which network-specific details to verify before a transfer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: []

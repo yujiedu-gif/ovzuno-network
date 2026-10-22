@@ -3,8 +3,6 @@ title: "QANX crypto: identity, protocol context, and what to verify"
 description: "Learn what QANX crypto refers to, how to check its documented relationship to QANplatform, and which asset and protocol claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "erc721 contract github: How to Find and Assess Repository Code"
 description: "Learn how to find an erc721 contract github repository, inspect its documentation and implementation, and identify checks to complete before adapting code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

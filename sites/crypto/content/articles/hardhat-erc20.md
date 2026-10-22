@@ -3,8 +3,6 @@ title: "hardhat erc20: Development and testing workflow"
 description: "Learn how hardhat erc20 development uses Hardhat for contract compilation, testing, and deployment preparation, and which checks remain essential."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

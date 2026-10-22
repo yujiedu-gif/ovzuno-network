@@ -3,8 +3,6 @@ title: "Stablecoins explained: how they work in settlement"
 description: "Stablecoins explained: learn how these digital assets support settlement, how designs differ, and which operational, regulatory, and security questions need review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoin"]

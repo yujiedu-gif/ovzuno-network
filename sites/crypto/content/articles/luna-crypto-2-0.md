@@ -3,8 +3,6 @@ title: "luna crypto 2.0: What the Name Refers To"
 description: "Learn what luna crypto 2.0 refers to, how the later Terra chain and LUNA token differ from Terra Classic and LUNC, and why names can matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["luna crypto 2 0"]

@@ -3,8 +3,6 @@ title: "Starknet crypto token: identity, role, and network context"
 description: "Learn what the Starknet crypto token is, how it differs from the Starknet network, and which token functions are documented by reliable sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

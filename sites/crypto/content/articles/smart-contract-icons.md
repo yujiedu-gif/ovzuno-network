@@ -3,8 +3,6 @@ title: "Smart contract icons: meaning, uses, and limits"
 description: "Learn what smart contract icons commonly represent, where they appear in crypto interfaces and diagrams, and why an icon alone cannot prove code or security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract icon"]

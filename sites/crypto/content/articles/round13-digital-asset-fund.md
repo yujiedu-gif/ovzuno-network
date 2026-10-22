@@ -3,8 +3,6 @@ title: "Round13 Digital Asset Fund: What the Name Refers To"
 description: "Learn what round13 digital asset fund refers to, what public documentation can establish, and which fund details require current primary-source verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

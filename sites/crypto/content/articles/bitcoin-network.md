@@ -3,8 +3,6 @@ title: "Bitcoin network: What it is and how it works"
 description: "Understand the Bitcoin network, including its nodes, miners, consensus rules, and how transactions are checked and recorded in a shared ledger."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins network"]

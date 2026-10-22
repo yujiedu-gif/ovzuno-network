@@ -3,8 +3,6 @@ title: "Bitcoin DeFi: How the Approaches Work and Their Trade-offs"
 description: "Explore what bitcoin defi means, how its main technical approaches work, and how custody, execution, and trust trade-offs differ across designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoindefi"]

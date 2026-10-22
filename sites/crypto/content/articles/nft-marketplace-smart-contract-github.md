@@ -3,8 +3,6 @@ title: "How to Review an nft marketplace smart contract github Repository"
 description: "Learn how to inspect an nft marketplace smart contract github repository, trace contract behavior, review tests and dependencies, and identify limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["NFT marketplace repository", "marketplace contract source code", "ERC-721 marketplace contract", "smart contract repository review"]

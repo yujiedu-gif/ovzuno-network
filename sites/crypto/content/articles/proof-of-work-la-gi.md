@@ -3,8 +3,6 @@ title: "Proof of work la gi? How proof-of-work consensus works"
 description: "Proof of work la gi? Learn how proof-of-work consensus uses computational work to propose blocks, check results, and secure a shared transaction history."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work la gi"]

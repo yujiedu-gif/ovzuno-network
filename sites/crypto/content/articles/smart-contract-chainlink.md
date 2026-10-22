@@ -3,8 +3,6 @@ title: "Smart contract chainlink: how oracle services connect contracts to exter
 description: "Learn how smart contract chainlink oracle services can connect on-chain logic with external data or computation, and what trust and design limits to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

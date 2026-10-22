@@ -3,8 +3,6 @@ title: "Biggest crypto market makers: how to compare scale claims"
 description: "Learn how to assess claims about the biggest crypto market makers by separating firm scale, trading activity, and venue-specific liquidity evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Payoneer Crypto Wallet: What the Term Means and What to Verify"
 description: "Learn what people mean by a Payoneer crypto wallet, how it differs from a payment account, and which official product and custody details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

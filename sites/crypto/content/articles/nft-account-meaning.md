@@ -3,8 +3,6 @@ title: "NFT account meaning: what the phrase refers to"
 description: "Understand NFT account meaning, how the phrase can refer to an account used with NFTs, and how that account differs from a token or digital content."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft account"]

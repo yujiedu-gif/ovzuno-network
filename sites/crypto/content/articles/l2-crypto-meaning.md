@@ -3,8 +3,6 @@ title: "L2 crypto meaning: What Layer 2 means in blockchain"
 description: "Understand l2 crypto meaning: learn what Layer 2 refers to, how it relates to an underlying blockchain, and why implementations can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["2 crypto"]

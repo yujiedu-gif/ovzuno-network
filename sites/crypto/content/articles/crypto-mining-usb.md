@@ -3,8 +3,6 @@ title: "Crypto Mining USB Devices: How They Work and Their Limits"
 description: "Learn what a crypto mining usb device does, how it connects to proof-of-work mining, what host hardware and software it needs, and its practical limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

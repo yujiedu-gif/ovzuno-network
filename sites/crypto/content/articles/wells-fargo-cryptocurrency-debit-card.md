@@ -3,8 +3,6 @@ title: "Wells Fargo cryptocurrency debit card: what to verify"
 description: "Check whether a Wells Fargo cryptocurrency debit card is currently offered, how to verify the issuer, and which account, eligibility, and crypto terms matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

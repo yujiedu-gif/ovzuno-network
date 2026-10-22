@@ -3,8 +3,6 @@ title: "Smart Contract Blockchain Code: A Practical Development Guide"
 description: "Learn how smart contract blockchain code fits into decentralized apps, from defining behavior and testing edge cases to deployment checks and verification limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract code in blockchain"]

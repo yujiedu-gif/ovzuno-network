@@ -3,8 +3,6 @@ title: "NFT blockchain tokens: how they work and what they represent"
 description: "Learn how NFT blockchain tokens are recorded, how metadata can refer to associated assets, and why a token alone may not establish ownership or usage rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["NFTs on blockchain", "non-fungible tokens"]

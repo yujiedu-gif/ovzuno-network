@@ -3,8 +3,6 @@ title: "openzeppelin smart contract wizard: What It Generates and What to Review
 description: "Learn what the openzeppelin smart contract wizard generates, how its contract scaffolding fits into development, and what to review before integration or deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["OpenZeppelin Contracts", "Solidity contract generator", "smart contract scaffolding"]

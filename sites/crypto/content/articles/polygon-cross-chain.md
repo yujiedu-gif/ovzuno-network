@@ -3,8 +3,6 @@ title: "Polygon Cross Chain: Networks, Messages, and Asset Transfers"
 description: "Understand Polygon cross chain interoperability by distinguishing network connections, cross-chain messages, and asset transfers, plus the trust assumptions to check"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

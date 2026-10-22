@@ -3,8 +3,6 @@ title: "Seaport NFT: What the Term Means"
 description: "Understand what “Seaport NFT” refers to, how Seaport relates to NFT orders, and why the phrase does not necessarily name a distinct NFT."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

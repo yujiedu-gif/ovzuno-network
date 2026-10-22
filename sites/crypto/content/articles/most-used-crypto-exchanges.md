@@ -3,8 +3,6 @@ title: "Most Used Crypto Exchanges: How to Interpret Usage Measures"
 description: "Learn how to assess claims about the most used crypto exchanges by comparing usage metrics, coverage, time periods, and evidence limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Decentralized energy blockchain: how digital coordination can work"
 description: "Learn how a decentralized energy blockchain may record and settle energy transactions, how it differs from the physical grid, and what limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["peer-to-peer energy trading", "distributed energy resources", "energy markets"]

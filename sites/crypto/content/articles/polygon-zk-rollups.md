@@ -3,8 +3,6 @@ title: "Polygon zk rollups: how the scaling architecture works"
 description: "Learn how Polygon zk rollups batch transactions, use validity proofs, and relate to Ethereum, while distinguishing general rollup mechanics from project-specific"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: ["Polygon zkEVM", "zero-knowledge rollup", "validity proof", "Ethereum scaling"]

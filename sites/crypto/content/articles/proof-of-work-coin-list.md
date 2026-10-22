@@ -3,8 +3,6 @@ title: "Proof of work coin list: networks and verification criteria"
 description: "Use this proof of work coin list to review networks that use proof-of-work consensus, understand inclusion criteria, and verify classifications against current"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["proof work coin list"]

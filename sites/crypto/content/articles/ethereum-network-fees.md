@@ -3,8 +3,6 @@ title: "Ethereum Network Fees: What They Pay For and Why They Vary"
 description: "Understand what ethereum network fees pay for, how transaction costs are calculated, and why the amount can vary with network conditions and transaction needs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["ethereum network fee"]

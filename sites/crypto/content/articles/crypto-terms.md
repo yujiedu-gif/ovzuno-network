@@ -3,8 +3,6 @@ title: "Crypto terms for understanding card-based spending"
 description: "Learn key crypto terms used in card-based spending, from crypto assets and wallets to conversion, authorization, settlement, and transaction records."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

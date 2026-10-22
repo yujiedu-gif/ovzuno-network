@@ -3,8 +3,6 @@ title: "Create Web3 Dapp: A Smart-Contract Implementation Guide"
 description: "Learn how to create web3 dapp components, connect a frontend to smart contracts, test interactions, plan deployment, and maintain a safer workflow."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

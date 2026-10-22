@@ -3,8 +3,6 @@ title: "Smart contract investopedia: How blockchain contracts work"
 description: "Smart contract investopedia: learn what smart contracts are, how blockchain execution works, and why code alone does not guarantee outcomes or legal enforceability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

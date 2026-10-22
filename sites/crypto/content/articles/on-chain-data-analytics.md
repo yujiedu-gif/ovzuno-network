@@ -3,8 +3,6 @@ title: "On chain data analytics across interoperable blockchains"
 description: "Learn how on chain data analytics can compare blockchain activity across interoperable networks, including data alignment, attribution limits, and interpretation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

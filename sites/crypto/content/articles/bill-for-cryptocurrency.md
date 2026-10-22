@@ -3,8 +3,6 @@ title: "Bill for cryptocurrency: legislation or a payment invoice?"
 description: "Understand whether “bill for cryptocurrency” means legislation about digital assets or an invoice payable in crypto, and how to verify the context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["cryptocurrency bill", "bill cryptocurrency"]

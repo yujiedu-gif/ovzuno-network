@@ -3,8 +3,6 @@ title: "steth crypto: What the Liquid Staking Token Represents"
 description: "Learn what steth crypto refers to, how stETH represents staked ETH, how its balance mechanics work, and what protocol and liquidity risks to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["stETH", "Lido staked ETH", "liquid staking token", "Ethereum staking"]

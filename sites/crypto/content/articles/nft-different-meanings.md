@@ -3,8 +3,6 @@ title: "NFT Different Meanings: Token, Media, and Rights"
 description: "Explore nft different meanings in crypto and digital ownership, distinguishing the token itself from associated media, records, and rights claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "erc20 governance token: how token standards and voting relate"
 description: "Learn how an erc20 governance token may connect token holdings with protocol decisions, and why the token standard alone does not define voting rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "UAE crypto and crypto-linked card spending: an operational guide"
 description: "Understand how UAE crypto-linked card payments may work, from funding and conversion to authorization and settlement, and which local rules require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

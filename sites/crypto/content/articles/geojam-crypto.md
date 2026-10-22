@@ -3,8 +3,6 @@ title: "Geojam crypto: How the platform and token are described"
 description: "Learn what geojam crypto refers to, how GeoJam's platform and any associated token are described, and which details need current, primary-source verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["GeoJam", "JAM token", "creator economy"]

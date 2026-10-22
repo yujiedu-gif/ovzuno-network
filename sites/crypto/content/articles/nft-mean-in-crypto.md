@@ -3,8 +3,6 @@ title: "What Does nft mean in crypto? Token, Content, and Rights"
 description: "Learn what nft mean in crypto refers to, how an NFT’s blockchain record relates to linked content, and why token ownership does not automatically grant copyright."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

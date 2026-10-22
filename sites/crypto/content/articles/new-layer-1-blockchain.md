@@ -3,8 +3,6 @@ title: "New Layer 1 Blockchain: Meaning, Design, and Scaling"
 description: "Learn what defines a new layer 1 blockchain, how it differs from a Layer 2, and which protocol design choices shape its scaling approach and trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

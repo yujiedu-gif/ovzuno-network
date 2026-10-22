@@ -3,8 +3,6 @@ title: "DeFi Layer 1: Meaning, Applications, and Infrastructure"
 description: "Learn what DeFi Layer 1 means, how decentralized finance applications use Layer 1 infrastructure, and which network design considerations matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

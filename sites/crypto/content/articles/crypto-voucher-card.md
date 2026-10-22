@@ -3,8 +3,6 @@ title: "Crypto voucher card: how voucher redemption and card access may work"
 description: "Learn what a crypto voucher card may refer to, how voucher redemption can differ from card payments, and which product terms and local rules to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto vouchers", "prepaid crypto card"]

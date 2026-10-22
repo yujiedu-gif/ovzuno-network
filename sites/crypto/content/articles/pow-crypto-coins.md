@@ -3,8 +3,6 @@ title: "PoW Crypto Coins: What They Are and How Proof-of-Work Works"
 description: "Learn what pow crypto coins are, how proof-of-work mining helps networks agree on blocks, and why the term describes a consensus design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

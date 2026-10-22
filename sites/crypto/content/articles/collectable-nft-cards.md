@@ -3,8 +3,6 @@ title: "Collectable NFT Cards: How Digital Trading Cards Work"
 description: "Learn how collectable NFT cards represent digital collectibles, what an NFT can establish about ownership, and why content, utility, and platform access may differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["collectable nft card"]

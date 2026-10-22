@@ -3,8 +3,6 @@ title: "Easiest Cryptocurrency to Mine: What Accessibility Really Means"
 description: "Learn what can make the easiest cryptocurrency to mine accessible, from hardware needs and network difficulty to software, costs, and operating constraints."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["easiest cryptocurrency mine"]

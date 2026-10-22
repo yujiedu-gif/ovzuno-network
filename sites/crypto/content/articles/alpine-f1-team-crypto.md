@@ -3,8 +3,6 @@ title: "Alpine F1 Team Crypto: What the Phrase Refers To"
 description: "Learn what Alpine F1 Team crypto may refer to, how to check claims of official affiliation, and what evidence is needed before trusting a project."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

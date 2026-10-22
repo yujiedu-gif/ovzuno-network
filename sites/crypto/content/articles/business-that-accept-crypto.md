@@ -3,8 +3,6 @@ title: "Business That Accept Crypto: A Guide to Planning Payment Integration"
 description: "Learn how a business that accept crypto can map payment flows, define settlement and exception handling, assign controls, and plan an integration."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

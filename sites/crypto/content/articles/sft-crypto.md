@@ -3,8 +3,6 @@ title: "SFT Crypto: How Semi-Fungible Tokens Work"
 description: "Learn what sft crypto means, how semi-fungible tokens can change from interchangeable to distinct, and what to assess when designing a token lifecycle."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["semi-fungible token", "ERC-1155", "fungible token", "non-fungible token"]

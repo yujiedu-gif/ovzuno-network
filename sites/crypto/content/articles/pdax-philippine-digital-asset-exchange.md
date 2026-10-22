@@ -3,8 +3,6 @@ title: "pdax philippine digital asset exchange: What It Is"
 description: "Understand pdax philippine digital asset exchange, its stated role in the Philippines, and which operational or regulatory details require current authoritative, ver"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: []

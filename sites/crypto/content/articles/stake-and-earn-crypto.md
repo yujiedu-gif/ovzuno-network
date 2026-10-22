@@ -3,8 +3,6 @@ title: "Stake and Earn Crypto: How Staking Rewards Work"
 description: "Learn how stake and earn crypto arrangements work, how validators and delegators participate, and which network rules, lockups, and risks can affect rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["stake earn crypto"]

@@ -3,8 +3,6 @@ title: "Bone crypto shiba: BONE’s role in the Shiba Inu ecosystem"
 description: "Learn what bone crypto shiba refers to, how BONE is described within the Shiba Inu ecosystem, and what sources can verify its protocol roles."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["BONE token", "ShibaSwap", "Shibarium"]

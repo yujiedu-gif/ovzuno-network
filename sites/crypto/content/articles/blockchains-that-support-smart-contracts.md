@@ -3,8 +3,6 @@ title: "Blockchains that support smart contracts: capabilities and trade-offs"
 description: "Learn what blockchains that support smart contracts provide, how execution environments differ, and what technical factors matter when assessing application fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

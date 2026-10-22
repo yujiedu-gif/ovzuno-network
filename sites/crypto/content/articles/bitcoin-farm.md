@@ -3,8 +3,6 @@ title: "Bitcoin farm: how Bitcoin mining facilities work"
 description: "Learn what a bitcoin farm is, how its mining hardware connects to the Bitcoin network, and how power, cooling, and operations shape facility design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins farm"]

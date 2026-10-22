@@ -3,8 +3,6 @@ title: "ERC20 transaction fee: what determines the cost"
 description: "Understand what determines an ERC20 transaction fee, why the network cost varies, and how to interpret a current estimate without treating it as guaranteed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

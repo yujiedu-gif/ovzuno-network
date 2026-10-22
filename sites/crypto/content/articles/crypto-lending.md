@@ -3,8 +3,6 @@ title: "Crypto lending: how decentralized protocols manage collateral and borrow
 description: "Learn how crypto lending protocols handle supplied assets, collateral, borrowing rates, liquidation, and operational risks without treating designs as uniform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

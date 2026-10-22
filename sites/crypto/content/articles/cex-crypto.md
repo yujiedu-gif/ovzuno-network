@@ -3,8 +3,6 @@ title: "Cex crypto: How centralized exchanges operate and manage risk"
 description: "Learn how cex crypto platforms handle trading, custody, security controls, and compliance, and which operational claims require jurisdiction-specific evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

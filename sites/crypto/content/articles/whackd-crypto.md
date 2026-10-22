@@ -3,8 +3,6 @@ title: "Whackd crypto: identity, documentation, and risks"
 description: "Learn what whackd crypto refers to, how to verify project and blockchain claims, and which technical, security, and jurisdictional details need evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

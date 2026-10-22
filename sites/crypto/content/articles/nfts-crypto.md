@@ -3,8 +3,6 @@ title: "nfts crypto: How Non-Fungible Tokens Work"
 description: "Learn how nfts crypto systems distinguish token records, connect them to metadata and referenced assets, and what those records do not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

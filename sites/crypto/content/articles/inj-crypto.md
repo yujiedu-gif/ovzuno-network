@@ -3,8 +3,6 @@ title: "inj crypto: What the INJ Token Means"
 description: "Learn what inj crypto refers to, how the INJ token relates to the Injective network, and which descriptions of its functions need careful sourcing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["crypto inj"]

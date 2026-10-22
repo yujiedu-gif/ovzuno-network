@@ -3,8 +3,6 @@ title: "google wallet api: scope, use cases, and implementation checks"
 description: "A practical guide to the google wallet api: understand its digital-pass scope, check current requirements, and distinguish it from crypto wallet custody."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: []

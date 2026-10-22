@@ -3,8 +3,6 @@ title: "RISC-V blockchain: what the term means"
 description: "Learn what RISC-V blockchain refers to, how an instruction-set architecture differs from a blockchain protocol, and where it may fit in a system."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["risc v blockchain"]

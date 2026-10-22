@@ -3,8 +3,6 @@ title: "Skrill cryptocurrency: how the payment relationship works"
 description: "Understand what Skrill cryptocurrency refers to, how payment functions may differ from direct crypto transfers, and which regional terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

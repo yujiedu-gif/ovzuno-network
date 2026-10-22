@@ -3,8 +3,6 @@ title: "Wix Crypto Payment: Options and Checks for Site Owners"
 description: "Learn how to assess Wix crypto payment options, including integration availability, supported assets, checkout flow, settlement, fees, refunds, and operational risks"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

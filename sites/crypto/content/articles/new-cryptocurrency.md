@@ -3,8 +3,6 @@ title: "New cryptocurrency: meaning, launch stages, and operational consideratio
 description: "Learn what defines a new cryptocurrency, how launch stage affects security and operations, and which compliance questions depend on jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

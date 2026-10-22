@@ -3,8 +3,6 @@ title: "Safest cryptocurrency: a risk framework for payment use"
 description: "Learn how to assess the safest cryptocurrency for payment use by separating asset, network, custody, and operational risks without assuming any is risk-free."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

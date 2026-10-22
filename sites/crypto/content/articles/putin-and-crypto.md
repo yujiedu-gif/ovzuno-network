@@ -3,8 +3,6 @@ title: "Putin and crypto: statements, policy, and payment distinctions"
 description: "A neutral guide to Putin and crypto: distinguish documented statements on digital assets from Russian laws and rules affecting cryptocurrency payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["putin crypto"]

@@ -3,8 +3,6 @@ title: "Crypto Pay In: Meaning and the Incoming Payment Flow"
 description: "Learn what crypto pay in means, how an incoming cryptocurrency payment moves from payer to business records, and which flow details operators should clarify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

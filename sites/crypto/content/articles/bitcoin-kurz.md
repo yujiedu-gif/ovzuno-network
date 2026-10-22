@@ -3,8 +3,6 @@ title: "Bitcoin kurz: Meaning of the Bitcoin Price Reference"
 description: "Learn what “Bitcoin kurz” means as a reference to Bitcoin’s changing market price or exchange rate, and why the figure depends on currency and timing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

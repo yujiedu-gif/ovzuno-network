@@ -3,8 +3,6 @@ title: "Change now crypto: meaning and exchange infrastructure context"
 description: "Learn what “change now crypto” may refer to, how exchange services fit into crypto market infrastructure, and which claims require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

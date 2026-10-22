@@ -3,8 +3,6 @@ title: "Plasma network crypto: how it relates to NFTs and digital ownership"
 description: "Learn what plasma network crypto means, how Plasma-style systems relate to NFT records and transfers, and what to verify about ownership and security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

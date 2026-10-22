@@ -3,8 +3,6 @@ title: "DeFi Liquidity Mining Explained: Mechanism and Cross-Chain Consideration
 description: "DeFi liquidity mining explained: learn how liquidity provision and token rewards work, where cross-chain systems fit, and which risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["defi liquidity mining"]

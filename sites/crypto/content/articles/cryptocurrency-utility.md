@@ -3,8 +3,6 @@ title: "Cryptocurrency utility: functions, use, and evidence"
 description: "Learn what cryptocurrency utility means, how cryptoassets may serve a network function, and what evidence can distinguish intended purpose from demonstrated use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

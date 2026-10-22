@@ -3,8 +3,6 @@ title: "Crypto Coins and Tokens: How They Function in Digital-Asset Systems"
 description: "Learn how crypto coins and tokens are represented in digital-asset systems, interact with protocols and applications, and shape practical infrastructure choices."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto coins tokens"]

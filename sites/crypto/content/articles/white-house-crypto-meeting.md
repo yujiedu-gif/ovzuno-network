@@ -3,8 +3,6 @@ title: "White House crypto meeting: how to identify the event"
 description: "Learn what “white house crypto meeting” may refer to, how to verify a specific event, and how to separate documented details from policy speculation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto meeting white house"]

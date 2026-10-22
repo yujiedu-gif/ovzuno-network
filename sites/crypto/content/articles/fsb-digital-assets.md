@@ -3,8 +3,6 @@ title: "FSB digital assets: role, policy work, and global reach"
 description: "Understand FSB digital assets work, the Financial Stability Board’s role in global crypto policy, and how its recommendations differ from national rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Financial Stability Board crypto-asset work", "global crypto-asset regulation"]

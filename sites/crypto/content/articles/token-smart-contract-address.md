@@ -3,8 +3,6 @@ title: "Token smart contract address: what it identifies"
 description: "Learn what a token smart contract address identifies, how it relates to a blockchain network, and what an address lookup can—and cannot—confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart token contract address"]

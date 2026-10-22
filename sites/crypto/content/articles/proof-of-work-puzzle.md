@@ -3,8 +3,6 @@ title: "Proof of Work Puzzle: How Mining Finds a Valid Block"
 description: "Learn how a proof of work puzzle uses repeated hash attempts and a target condition, and why peers can verify a solution more cheaply than miners find one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work puzzle"]

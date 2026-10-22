@@ -3,8 +3,6 @@ title: "MPC Wallet as a Service: An Organization’s Evaluation Checklist"
 description: "Evaluate mpc wallet as a service by examining custody responsibilities, signing workflows, integrations, access controls, and operational dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["wallets_custody"]
 tags: ["mpc wallet as service"]

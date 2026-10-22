@@ -3,8 +3,6 @@ title: "Crypto LP: Meaning, Role, and Reporting Questions"
 description: "Learn what crypto LP means, how liquidity providers differ from pools and exchanges, and which regulation and tax-reporting questions depend on jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["lp crypto"]

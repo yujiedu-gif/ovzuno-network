@@ -3,8 +3,6 @@ title: "Turing Blockchain: Meaning, Programmability, and Payment Logic"
 description: "Understand what turing blockchain means, how computational completeness relates to programmable payment conditions, and why it does not guarantee safe or unlimited"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

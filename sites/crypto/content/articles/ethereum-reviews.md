@@ -3,8 +3,6 @@ title: "Ethereum reviews: how to assess evidence, scope, and limitations"
 description: "Learn what ethereum reviews assess and how to check their scope, evidence, limitations, and separation of protocol analysis from financial opinion."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum review"]

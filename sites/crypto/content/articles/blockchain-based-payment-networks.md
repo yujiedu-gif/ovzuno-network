@@ -3,8 +3,6 @@ title: "Blockchain Based Payment Networks: How They Work"
 description: "Learn how blockchain based payment networks record and validate payments, where settlement fits, and which operational questions need network-specific evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

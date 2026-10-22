@@ -3,8 +3,6 @@ title: "Utility Token Blockchain: Meaning, Function, and Key Distinctions"
 description: "Learn what a utility token blockchain refers to, how a token may support access or use within a service, and what to check in project documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain utility token"]

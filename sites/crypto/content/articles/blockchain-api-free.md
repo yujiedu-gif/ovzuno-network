@@ -3,8 +3,6 @@ title: "Blockchain API Free: A Practical Guide to Building an On-Chain Data Inte
 description: "Learn how to integrate a blockchain API free into an on-chain data workflow, validate responses, handle limits and failures, and assess whether it fits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["onchain_data_analytics"]
 tags: []

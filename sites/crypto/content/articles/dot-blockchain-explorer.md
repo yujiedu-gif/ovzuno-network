@@ -3,8 +3,6 @@ title: "Dot blockchain explorer: what it shows and how to read it"
 description: "Learn what a dot blockchain explorer displays for Polkadot, how to inspect blocks and transactions, and why public network data has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

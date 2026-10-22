@@ -3,8 +3,6 @@ title: "Cryptocurrency with utility: what the term means in practice"
 description: "Learn what cryptocurrency with utility means, how protocol and application functions work, and what evidence can help distinguish practical use from a claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["utility in crypto", "crypto utility examples", "utility token functions"]

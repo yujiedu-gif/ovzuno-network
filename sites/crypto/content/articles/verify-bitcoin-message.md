@@ -3,8 +3,6 @@ title: "How to verify bitcoin message signatures and understand the result"
 description: "Learn how to verify bitcoin message signatures, what a valid check shows about address control, and why it does not prove identity or authorize a transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin message signing", "Bitcoin signature verification", "Bitcoin address ownership proof"]

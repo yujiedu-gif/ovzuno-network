@@ -3,8 +3,6 @@ title: "Cheap crypto coins: unit price, mining, and consensus explained"
 description: "Learn what cheap crypto coins means, why a low unit price does not explain mining or consensus, and which network mechanics are separate questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

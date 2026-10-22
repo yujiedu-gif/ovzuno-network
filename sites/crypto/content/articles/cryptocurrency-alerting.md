@@ -3,8 +3,6 @@ title: "Cryptocurrency Alerting: Meaning in Crypto-Payment Operations"
 description: "Learn what cryptocurrency alerting means in crypto-payment operations, how event-triggered notices differ from processing and monitoring, and where they fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["alert for cryptocurrency"]

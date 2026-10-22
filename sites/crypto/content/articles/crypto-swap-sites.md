@@ -3,8 +3,6 @@ title: "Crypto swap sites in crypto card spending: an infrastructure analysis"
 description: "Assess how crypto swap sites may fit into crypto card spending infrastructure, including integration dependencies, operational questions, and evidence to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["crypto_cards_spending"]
 tags: []

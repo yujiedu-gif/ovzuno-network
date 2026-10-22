@@ -3,8 +3,6 @@ title: "How an nft crypto marketplace works: records, listings, and rights"
 description: "Learn how an nft crypto marketplace connects NFT listings, wallets, and blockchain transactions—and why token records do not alone establish rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["crypto nft marketplace"]

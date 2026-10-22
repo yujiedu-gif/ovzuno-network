@@ -3,8 +3,6 @@ title: "Smart contract oracle: how external data reaches on-chain logic"
 description: "Learn what a smart contract oracle does, how external information reaches on-chain logic, and why data sources, delivery, and trust assumptions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["blockchain oracle", "oracle data feeds", "oracle problem"]

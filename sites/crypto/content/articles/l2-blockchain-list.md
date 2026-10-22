@@ -3,8 +3,6 @@ title: "L2 blockchain list: Networks and inclusion criteria"
 description: "Explore an L2 blockchain list with inclusion criteria, network classifications, and settlement context. Check evidence and scope before comparing networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["2 blockchain list"]

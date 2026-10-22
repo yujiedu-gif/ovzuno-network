@@ -3,8 +3,6 @@ title: "Blockchain free: what the phrase means for payments"
 description: "Understand what blockchain free can mean for payments, which costs may still apply, and why charges depend on the network, service, and transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

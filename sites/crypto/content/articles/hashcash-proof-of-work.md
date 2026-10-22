@@ -3,8 +3,6 @@ title: "Hashcash Proof of Work: The Puzzle, Verification, and Crypto Context"
 description: "Learn how hashcash proof of work uses a computational puzzle, how a solution is checked, and how this mechanism relates to crypto consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["hashcash proof work"]

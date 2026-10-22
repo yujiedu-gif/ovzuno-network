@@ -3,8 +3,6 @@ title: "NFT site with no gas fee: what the claim means"
 description: "Learn what an nft site with no gas fee may mean, how transaction costs can be covered or shifted, and what to verify before choosing a platform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: ["gasless NFT minting", "NFT marketplace fees", "sponsored transactions"]

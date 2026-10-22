@@ -3,8 +3,6 @@ title: "Terra Luna Smart Contract: How Contracts Fit the Ecosystem"
 description: "Learn what a terra luna smart contract is, how contracts support Terra-based applications, and which network, tooling, and security details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Terra smart contracts", "CosmWasm", "Terra blockchain"]

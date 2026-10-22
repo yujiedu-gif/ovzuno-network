@@ -3,8 +3,6 @@ title: "HT Crypto: What the Ticker Refers To and How to Verify It"
 description: "Learn what HT crypto may refer to, why a ticker alone is not definitive, and how to verify an asset’s project, network, and official records."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

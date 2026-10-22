@@ -3,8 +3,6 @@ title: "Crypto collapse explained: meanings, causes, and effects"
 description: "Crypto collapse explained: learn how market downturns differ from asset, platform, and protocol failures, and how problems may spread across crypto systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto collapse"]

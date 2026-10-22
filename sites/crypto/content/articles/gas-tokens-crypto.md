@@ -3,8 +3,6 @@ title: "Gas Tokens Crypto: Meaning, Fee Mechanisms, and Limitations"
 description: "Learn what gas tokens crypto refers to, how gas-token mechanisms have been used in relation to blockchain transaction fees, and why their usefulness has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto gas tokens"]

@@ -3,8 +3,6 @@ title: "Algo Smart Contracts: How They Work on Algorand"
 description: "Learn what algo smart contracts are, how they execute on Algorand, how they support dApps, and what design and operational questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "How to get started with blockchain: a payment systems guide"
 description: "Learn how to get started with blockchain by assessing a payment use case, comparing system models, planning a bounded validation, and reviewing risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: ["how to get started in blockchain", "get started with blockchain"]

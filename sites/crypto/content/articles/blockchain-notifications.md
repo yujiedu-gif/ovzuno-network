@@ -3,8 +3,6 @@ title: "Blockchain Notifications: What They Are and What They Signal"
 description: "Learn what blockchain notifications are, which on-chain or application events may trigger them, how alerts are delivered, and what they cannot confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

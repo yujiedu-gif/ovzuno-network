@@ -3,8 +3,6 @@ title: "Crypto mining online: how remote mining works and what to verify"
 description: "Learn what crypto mining online can mean, how remote mining relates to proof-of-work, and which operational, security, and legal claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["online crypto mining"]

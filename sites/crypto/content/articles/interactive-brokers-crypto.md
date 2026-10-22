@@ -3,8 +3,6 @@ title: "Interactive Brokers crypto: access and spending explained"
 description: "Learn what Interactive Brokers crypto access is verified to include in the United States, whether it supports card spending, and which terms to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

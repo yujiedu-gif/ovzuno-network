@@ -3,8 +3,6 @@ title: "Xeon Phi Crypto Mining: Compatibility and Constraints"
 description: "Learn how Xeon Phi crypto mining depends on processor generation, software support, mining algorithms, and system constraints—and what compatibility does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["Intel Xeon Phi", "CPU mining", "proof-of-work mining", "mining hardware compatibility"]

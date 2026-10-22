@@ -3,8 +3,6 @@ title: "Money Blockchains and Social Scalability: A Conceptual Guide"
 description: "Explore money blockchains and social scalability: how shared rules, institutions, and coordination shape adoption beyond a network’s technical capacity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["money blockchains social scalability"]

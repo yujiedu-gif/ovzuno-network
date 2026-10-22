@@ -3,8 +3,6 @@ title: "NFT smart contract template: components and review checklist"
 description: "Learn what an nft smart contract template may contain, how token behavior and metadata dependencies are expressed, and what to review before adapting it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 contract template", "NFT contract features", "token metadata URI"]

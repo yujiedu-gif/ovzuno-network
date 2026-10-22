@@ -3,8 +3,6 @@ title: "Crypto Explained for Dummies: Assets, Networks, Wallets, and Transaction
 description: "Crypto explained for dummies: learn how crypto assets, networks, wallets, and transactions fit together, plus the limits and risks beginners should know."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto dummies"]

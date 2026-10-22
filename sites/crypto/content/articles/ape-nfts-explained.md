@@ -3,8 +3,6 @@ title: "Ape NFTs Explained: Tokens, Artwork, and Ownership"
 description: "Ape NFTs explained: learn what the term means, how a token relates to associated artwork, and why NFT ownership does not automatically grant every right."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["ape nfts"]

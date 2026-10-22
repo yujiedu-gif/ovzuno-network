@@ -3,8 +3,6 @@ title: "Tornado Cash smart contract: how deposits and withdrawals work"
 description: "Learn how the Tornado Cash smart contract uses commitments and zero-knowledge proofs in its deposit and withdrawal flow, and what that design can verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Tornado Cash protocol", "zero-knowledge proof", "Ethereum smart contracts"]

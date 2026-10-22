@@ -3,8 +3,6 @@ title: "Smart contract gas fee: what determines the transaction cost"
 description: "Understand what determines a smart contract gas fee, how gas usage and gas price shape an estimate, and why the final transaction cost can vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

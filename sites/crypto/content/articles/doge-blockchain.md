@@ -3,8 +3,6 @@ title: "Dogecoin’s doge blockchain: a guide to payment recording"
 description: "Learn what the doge blockchain is, how Dogecoin’s network records and confirms DOGE payments, and which operational details require separate verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

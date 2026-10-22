@@ -3,8 +3,6 @@ title: "Bridges blockchain: How cross-network transfers work"
 description: "Learn how bridges blockchain systems relay assets or messages between networks, compare common designs, and assess their trust assumptions and security risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["bridge blockchain"]

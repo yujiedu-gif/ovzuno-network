@@ -3,8 +3,6 @@ title: "Smart contract crypto list: networks and native assets"
 description: "Explore a global smart contract crypto list of networks and native assets, with scope notes distinguishing network assets from application tokens and dApps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

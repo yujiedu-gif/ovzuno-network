@@ -3,8 +3,6 @@ title: "sweat token crypto: What It Is and How to Assess Its Role"
 description: "Learn what sweat token crypto refers to, how SWEAT relates to Sweat Economy, and which claims about token functions and use require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["SWEAT token", "Sweat Economy", "move-to-earn"]

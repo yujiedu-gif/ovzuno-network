@@ -3,8 +3,6 @@ title: "dextools crypto: What the Platform Does and Its Limits"
 description: "Learn what dextools crypto refers to, how DEXTools presents decentralized-exchange and token information, and what its displayed data cannot verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

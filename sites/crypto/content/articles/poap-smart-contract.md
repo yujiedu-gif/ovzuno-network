@@ -3,8 +3,6 @@ title: "POAP Smart Contract: How Event Collectibles Work"
 description: "Learn what a POAP smart contract can do, how event collectibles may be issued and tracked, and what to verify about contract rules and ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["POAP NFT", "event attendance token", "NFT minting"]

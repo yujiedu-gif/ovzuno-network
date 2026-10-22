@@ -3,8 +3,6 @@ title: "Solidity update contract: How deployed contract changes work"
 description: "Learn what a Solidity update contract means, how redeployment and proxy-based upgrades differ, and which authorization and storage risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["upgradeable smart contract", "proxy contract", "contract upgradeability"]

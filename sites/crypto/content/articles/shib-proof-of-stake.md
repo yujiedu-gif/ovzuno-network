@@ -3,8 +3,6 @@ title: "SHIB Proof of Stake: Consensus, Staking, and What to Verify"
 description: "Learn what SHIB proof of stake means, how Shiba Inu and Shibarium mechanisms differ, and which official documentation can verify consensus and staking claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["shib proof stake"]

@@ -3,8 +3,6 @@ title: "pos pow crypto: How Proof of Stake and Proof of Work Compare"
 description: "Compare pos pow crypto approaches by examining proof-of-work participation, proof-of-stake validator selection, resource commitments, and network-specific trade-offs"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["staking_validators"]
 tags: ["proof of work vs proof of stake", "consensus mechanisms", "validator selection"]

@@ -3,8 +3,6 @@ title: "Simple NFT Contract: Core Functions and Limits"
 description: "Learn what a simple NFT contract can record and control, how tokens relate to digital files, and why contract behavior alone does not define ownership rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

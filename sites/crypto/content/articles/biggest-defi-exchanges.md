@@ -3,8 +3,6 @@ title: "Biggest DeFi Exchanges: How to Compare Their Scale"
 description: "Learn how to assess the biggest defi exchanges by volume, liquidity, users, and scope, and why data definitions and time periods matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

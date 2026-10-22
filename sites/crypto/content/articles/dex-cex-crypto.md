@@ -3,8 +3,6 @@ title: "DEX CEX Crypto: How the Exchange Models Differ"
 description: "Understand DEX CEX crypto exchange models through custody, trade execution, and operational responsibilities, while noting where implementation and risks vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["defi_protocols"]
 tags: []

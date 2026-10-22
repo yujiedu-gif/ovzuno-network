@@ -3,8 +3,6 @@ title: "Blockchain Debit Card: Where Blockchain Fits in the Payment Stack"
 description: "A blockchain debit card is a broad label, not a single payment design. Learn which card components may use blockchain and which may not."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

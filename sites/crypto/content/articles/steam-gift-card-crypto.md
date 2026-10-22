@@ -3,8 +3,6 @@ title: "Steam Gift Card Crypto: How the Payment and Redemption Process Works"
 description: "Learn how steam gift card crypto purchases may work, what to verify about payment, region, delivery, redemption, and recovery before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["buy Steam gift card with cryptocurrency", "crypto payment gift cards"]

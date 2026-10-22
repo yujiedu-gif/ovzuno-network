@@ -3,8 +3,6 @@ title: "ERC 721 gas fee: how to estimate transaction costs"
 description: "Learn how to estimate an ERC 721 gas fee from transaction gas use and network conditions, and why costs differ by operation and time."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

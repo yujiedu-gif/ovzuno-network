@@ -3,8 +3,6 @@ title: "Payflow crypto: meaning and payment-flow basics"
 description: "Learn what payflow crypto may mean, how a crypto payment flow is commonly described, and what to verify before treating the phrase as a product name."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

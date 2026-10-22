@@ -3,8 +3,6 @@ title: "NVIDIA blockchain: where computing fits in network infrastructure"
 description: "Explore how NVIDIA blockchain workloads may use accelerated computing, where hardware fits in network infrastructure, and what to verify before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

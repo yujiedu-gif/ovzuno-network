@@ -3,8 +3,6 @@ title: "Figure HELOC Blockchain: What the Phrase Means"
 description: "Learn what “figure heloc blockchain” refers to, how blockchain may relate to HELOC processes, and which product, legal, and technology claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

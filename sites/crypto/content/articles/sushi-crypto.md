@@ -3,8 +3,6 @@ title: "Sushi crypto: how the protocol and SUSHI token differ"
 description: "Learn what sushi crypto refers to, how the Sushi protocol and SUSHI token differ, and which operational, security, and jurisdictional details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["SushiSwap", "SUSHI token", "decentralized exchange"]

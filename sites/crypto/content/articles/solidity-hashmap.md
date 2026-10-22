@@ -3,8 +3,6 @@ title: "Solidity hashmap: what mappings mean and how they work"
 description: "Learn what “solidity hashmap” refers to in Solidity, how mappings associate keys with values, and why they do not behave like iterable collections."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

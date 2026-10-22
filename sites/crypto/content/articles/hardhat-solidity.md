@@ -3,8 +3,6 @@ title: "hardhat solidity: A Practical Guide to the Development Workflow"
 description: "Learn how hardhat solidity projects use development tooling to organize compilation and local tests, and understand what these checks can and cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["Hardhat development environment", "Solidity smart contract testing", "Hardhat compile and test"]

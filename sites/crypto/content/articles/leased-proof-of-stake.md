@@ -3,8 +3,6 @@ title: "Leased proof of stake: how stake leasing works"
 description: "Learn how leased proof of stake can allocate stake to validators, what delegators may retain, and why custody, rewards, and risks depend on the protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["leased proof stake"]

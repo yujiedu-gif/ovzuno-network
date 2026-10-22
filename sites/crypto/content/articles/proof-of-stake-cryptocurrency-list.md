@@ -3,8 +3,6 @@ title: "Proof of stake cryptocurrency list: networks and verification criteria"
 description: "Use this proof of stake cryptocurrency list to identify example networks, understand inclusion criteria, and verify whether proof of stake secures consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["staking_validators"]
 tags: ["proof stake cryptocurrency list"]

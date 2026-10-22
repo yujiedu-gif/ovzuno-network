@@ -3,8 +3,6 @@ title: "Blockchain based payments: how the payment flow works"
 description: "Learn how blockchain based payments move value, how network validation and recipient access affect completion, and what operators should verify before implementation"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain based payment"]

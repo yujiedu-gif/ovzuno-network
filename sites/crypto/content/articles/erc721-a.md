@@ -3,8 +3,6 @@ title: "erc721 a: How the NFT Contract Approach Relates to ERC-721"
 description: "Learn what erc721 a refers to, how its minting design relates to ERC-721, and what implementation, compatibility, and security details builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["erc721"]

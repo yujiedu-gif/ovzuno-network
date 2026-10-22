@@ -3,8 +3,6 @@ title: "Blockchain regulator: who oversees blockchain-based payments?"
 description: "Understand what a blockchain regulator may oversee, how responsibility can depend on payment activities and actors, and why rules vary by jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

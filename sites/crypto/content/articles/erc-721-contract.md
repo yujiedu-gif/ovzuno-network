@@ -3,8 +3,6 @@ title: "ERC 721 contract: core interfaces and implementation boundaries"
 description: "Learn what an erc 721 contract defines, including ownership, transfers, approvals, metadata interfaces, and key boundaries for application integration."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 smart contract", "non-fungible token standard", "token ID", "metadata URI"]

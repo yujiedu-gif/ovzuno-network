@@ -3,8 +3,6 @@ title: "Crypto health: meaning and payment-system indicators"
 description: "Learn what crypto health means in payment systems, which operational dimensions it can describe, and why indicators need context rather than a single score."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["health crypto"]

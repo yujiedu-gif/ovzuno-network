@@ -3,8 +3,6 @@ title: "NFT Without Gas: How Gasless NFT Transactions Work"
 description: "Learn how an nft without gas can be created or transferred, who submits or sponsors the transaction, and what costs, limits, and trade-offs remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

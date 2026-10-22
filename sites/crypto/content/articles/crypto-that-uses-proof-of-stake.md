@@ -3,8 +3,6 @@ title: "Crypto That Uses Proof of Stake: How to Identify Networks"
 description: "Learn how to identify crypto that uses proof of stake, verify a network’s consensus design, and understand the role validators play."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto that uses proof stake"]

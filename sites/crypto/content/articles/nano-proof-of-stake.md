@@ -3,8 +3,6 @@ title: "nano proof of stake: how Nano consensus works"
 description: "Check whether nano proof of stake describes Nano’s consensus, what representatives do, and how its documented design differs from validator-based staking systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["nano proof stake"]

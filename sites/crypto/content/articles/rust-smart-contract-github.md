@@ -3,8 +3,6 @@ title: "Rust smart contract github: how to evaluate a repository"
 description: "Learn how to assess a rust smart contract github repository by checking its scope, documentation, maintenance, tests, dependencies, and security limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Rust smart contract repositories", "Rust blockchain development"]

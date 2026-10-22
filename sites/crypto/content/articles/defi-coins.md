@@ -3,8 +3,6 @@ title: "DeFi Coins: Token Functions and Protocol Distinctions"
 description: "Understand defi coins, the functions tokens may serve in DeFi protocols, and why a token’s documented role does not establish value, rights, or safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

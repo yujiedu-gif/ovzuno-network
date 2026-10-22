@@ -3,8 +3,6 @@ title: "5 ethereum: What the Phrase Could Mean"
 description: "Learn what “5 ethereum” may mean, how Ethereum differs from ETH, and which context or units to check before interpreting the phrase as a quantity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

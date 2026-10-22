@@ -3,8 +3,6 @@ title: "Explain DAO: Meaning, Governance, and Decision Flow"
 description: "Explain DAO basics: what the term means, how proposals and votes shape collective decisions, and why governance processes can differ across organizations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

@@ -3,8 +3,6 @@ title: "Amazon Accept Crypto: Verify Direct Payment Options"
 description: "Find out how to verify whether amazon accept crypto directly on a specific marketplace, distinguish indirect routes, and check relevant risks before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

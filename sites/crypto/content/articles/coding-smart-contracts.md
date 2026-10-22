@@ -3,8 +3,6 @@ title: "Coding Smart Contracts: A Practical Workflow for Safer Implementation"
 description: "Learn a practical workflow for coding smart contracts, from defining requirements and writing code to testing, review, and deployment safeguards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

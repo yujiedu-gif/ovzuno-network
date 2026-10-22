@@ -3,8 +3,6 @@ title: "Flash loan smart contract: how atomic borrowing and repayment work"
 description: "Learn how a flash loan smart contract coordinates borrowing, callback execution, and repayment in one transaction, and why failed checks can revert it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

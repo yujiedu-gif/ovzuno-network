@@ -3,8 +3,6 @@ title: "Crypto backed loans: collateral, terms, and liquidation risks"
 description: "Learn how crypto backed loans use digital assets as collateral, how loan terms and repayment work, and what valuation, custody, and liquidation risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

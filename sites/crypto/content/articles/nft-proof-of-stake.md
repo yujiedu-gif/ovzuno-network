@@ -3,8 +3,6 @@ title: "NFT Proof of Stake: How NFTs Relate to Blockchain Consensus"
 description: "Learn what nft proof of stake can mean, how NFTs may interact with proof-of-stake systems, and why protocol rules determine whether they affect consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["nft proof stake"]

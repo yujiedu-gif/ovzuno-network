@@ -3,8 +3,6 @@ title: "ERC20 payment gateway: components and payment flow"
 description: "Learn how an ERC20 payment gateway can coordinate token transfers, transaction monitoring, payment confirmation, and settlement, plus key design and risk questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

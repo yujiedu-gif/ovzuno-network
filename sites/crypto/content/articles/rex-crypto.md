@@ -3,8 +3,6 @@ title: "REX Crypto: What the Name May Refer to"
 description: "Learn what rex crypto may refer to, why the name alone is not enough to identify a project, and which primary-source details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT party meaning: how context changes the definition"
 description: "Understand nft party meaning across event, access, and membership contexts, and learn what to verify before treating an NFT as event admission."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft party"]

@@ -3,8 +3,6 @@ title: "2gether crypto card: product model and status to verify"
 description: "Learn what the 2gether crypto card was described as doing, how crypto-funded card payments may be structured, and which status and jurisdiction details need checking"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

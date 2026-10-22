@@ -3,8 +3,6 @@ title: "Simple Solidity Contract: A Minimal Example Explained"
 description: "See how a simple solidity contract defines state and functions, how a transaction can change state, and what to review before adapting example code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

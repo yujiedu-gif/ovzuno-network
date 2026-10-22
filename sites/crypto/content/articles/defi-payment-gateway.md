@@ -3,8 +3,6 @@ title: "DeFi Payment Gateway: Roles, Payment Flows, and Dependencies"
 description: "Understand what a defi payment gateway may do, how it fits into a crypto-payment flow, and which technical, operational, and jurisdictional questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

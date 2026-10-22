@@ -3,8 +3,6 @@ title: "Understanding crypto for dummies: how assets and protocols fit together"
 description: "Understanding crypto for dummies means seeing how assets, networks, protocols, wallets, and transactions connect—without assuming technical knowledge."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["understanding crypto dummies"]

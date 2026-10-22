@@ -3,8 +3,6 @@ title: "Mina smart contracts: architecture and application flow"
 description: "Understand mina smart contracts, their design and execution concepts, how applications interact with them, and what developers should verify in current documentation"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

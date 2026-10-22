@@ -3,8 +3,6 @@ title: "Crypto staking eToro: platform service and validator roles"
 description: "Understand crypto staking eToro in context: distinguish a platform-mediated service from validator operations, and identify terms and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

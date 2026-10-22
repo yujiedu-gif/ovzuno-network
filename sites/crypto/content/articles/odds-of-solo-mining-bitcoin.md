@@ -3,8 +3,6 @@ title: "Odds of solo mining bitcoin: probability and expected timing"
 description: "Learn how odds of solo mining bitcoin relate to a miner’s share of network hashrate, block-finding probability over time, and uncertainty."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["odds solo mining bitcoin"]

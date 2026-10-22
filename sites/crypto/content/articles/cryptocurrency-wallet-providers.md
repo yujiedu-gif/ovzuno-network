@@ -3,8 +3,6 @@ title: "Cryptocurrency Wallet Providers: Roles, Custody Models, and Evaluation"
 description: "Learn how cryptocurrency wallet providers differ by custody model, service scope, and controls, and what organizations should verify before evaluation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["cryptocurrency wallet provider"]

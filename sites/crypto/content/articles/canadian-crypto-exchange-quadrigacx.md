@@ -3,8 +3,6 @@ title: "Canadian crypto exchange QuadrigaCX: history, collapse, and infrastructu
 description: "A Canada-focused explainer on Canadian crypto exchange QuadrigaCX, its historical role, collapse, insolvency proceedings, and evidence-based infrastructure lessons."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Pooling crypto: how shared assets function in DeFi protocols"
 description: "Learn what pooling crypto means in DeFi, how participants and protocols interact with shared assets, how pool designs differ, and what risks to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

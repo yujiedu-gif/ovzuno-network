@@ -3,8 +3,6 @@ title: "Hedera proof of stake: consensus, nodes, and stake mechanisms"
 description: "Understand what hedera proof of stake means for Hedera’s consensus, nodes, and stake-related mechanisms, using current network documentation and clear distinctions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["hedera proof stake"]

@@ -3,8 +3,6 @@ title: "Smart Contract Vault: How On-Chain Asset Rules Work"
 description: "Learn how a smart contract vault can control deposits, accounting, and withdrawals, and what design and verification questions matter when assessing one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

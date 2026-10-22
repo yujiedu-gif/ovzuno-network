@@ -3,8 +3,6 @@ title: "KCS crypto: Token Identity and KuCoin Ecosystem Role"
 description: "Learn what KCS crypto refers to, how its documented role is described within the KuCoin ecosystem, and what to verify in current primary documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["KuCoin Token", "KCS token", "KuCoin ecosystem"]

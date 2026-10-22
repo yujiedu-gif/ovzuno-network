@@ -3,8 +3,6 @@ title: "Cryptocurrency scalability: meaning, metrics, and trade-offs"
 description: "Learn what cryptocurrency scalability means, which network capacity and performance metrics matter, and why throughput claims need context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

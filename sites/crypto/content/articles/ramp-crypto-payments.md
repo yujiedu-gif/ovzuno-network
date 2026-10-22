@@ -3,8 +3,6 @@ title: "Ramp Crypto Payments: Role in a Fiat-to-Crypto Flow"
 description: "Learn what ramp crypto payments mean, where a ramp fits in a fiat-to-crypto flow, and how its role differs from gateways and processors."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["ramp crypto payment"]

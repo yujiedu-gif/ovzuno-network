@@ -3,8 +3,6 @@ title: "YFI Crypto: What the Token Is and What Treasury Teams Should Verify"
 description: "Understand what YFI crypto refers to, how it relates to Yearn Finance, and what institutional teams should verify before considering it for treasury review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["Yearn Finance", "YFI token", "decentralized finance (DeFi)"]

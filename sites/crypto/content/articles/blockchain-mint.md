@@ -3,8 +3,6 @@ title: "Blockchain mint: what token creation means"
 description: "Learn what blockchain minting means, how token creation differs from a transfer, and how network or contract rules shape the process across systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchainmint"]

@@ -3,8 +3,6 @@ title: "Building dapps: A practical guide to planning and development"
 description: "Learn about building dapps with a practical workflow for requirements, smart-contract architecture, implementation, testing, and deployment readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

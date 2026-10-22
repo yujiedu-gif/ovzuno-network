@@ -3,8 +3,6 @@ title: "Bitcoin Volatility: Meaning, Measurement, and Key Factors"
 description: "Learn what bitcoin volatility means, how measurement periods affect interpretation, and which market and structural factors can shape observed price variability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins volatility"]

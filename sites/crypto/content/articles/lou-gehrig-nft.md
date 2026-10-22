@@ -3,8 +3,6 @@ title: "Lou Gehrig NFT: What the Token and Its Rights Mean"
 description: "Learn what a Lou Gehrig NFT may represent, how its token record differs from associated content, and why rights depend on separate documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

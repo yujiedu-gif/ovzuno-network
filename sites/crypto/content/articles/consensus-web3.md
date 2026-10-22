@@ -3,8 +3,6 @@ title: "Consensus Web3: How Decentralized Networks Agree"
 description: "Learn how consensus Web3 networks coordinate agreement, why consensus is needed, and how proof-of-work and proof-of-stake differ at a high level."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Web3 consensus mechanisms", "proof of work", "proof of stake", "blockchain consensus"]

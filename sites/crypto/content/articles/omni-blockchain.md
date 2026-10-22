@@ -3,8 +3,6 @@ title: "Omni blockchain: how the Bitcoin-based protocol works"
 description: "Understand what the Omni blockchain protocol is, how its token-related transactions use Bitcoin, and how it differs from a standalone blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

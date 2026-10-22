@@ -3,8 +3,6 @@ title: "DeFi Smart Contract: How It Supports Decentralized Finance"
 description: "Learn what a defi smart contract is, how it executes financial rules on a blockchain, how DeFi contracts interact, and what dependencies and risks remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

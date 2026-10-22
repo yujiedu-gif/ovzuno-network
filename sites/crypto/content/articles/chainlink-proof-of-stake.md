@@ -3,8 +3,6 @@ title: "Chainlink proof of stake: how its oracle network differs"
 description: "Learn what chainlink proof of stake means, how Chainlink’s oracle network differs from blockchain consensus, and where staking fits, if at all."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["chainlink proof stake"]

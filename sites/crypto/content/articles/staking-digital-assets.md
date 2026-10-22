@@ -3,8 +3,6 @@ title: "Staking digital assets: how proof-of-stake participation works"
 description: "Learn how staking digital assets supports proof-of-stake networks, how participation models differ, and what protocol and operational risks to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

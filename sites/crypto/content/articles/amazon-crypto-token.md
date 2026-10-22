@@ -3,8 +3,6 @@ title: "Amazon crypto token: how to verify claims of an official asset"
 description: "Learn how to assess claims about an Amazon crypto token, distinguish official announcements from unrelated assets, and verify evidence before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Amazon cryptocurrency", "Amazon digital currency"]

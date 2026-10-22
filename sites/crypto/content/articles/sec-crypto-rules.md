@@ -3,8 +3,6 @@ title: "sec crypto rules: A U.S. Regulatory Overview"
 description: "A neutral guide to sec crypto rules in the United States, covering relevant SEC frameworks, agency positions, limits of general guidance, and primary-source checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

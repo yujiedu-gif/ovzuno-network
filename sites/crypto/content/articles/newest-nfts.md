@@ -3,8 +3,6 @@ title: "Newest NFTs: How to Assess Recent Developments"
 description: "Explore newest nfts through verifiable developments in NFT technology and use. Learn how to check dates, evidence, ownership claims, and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

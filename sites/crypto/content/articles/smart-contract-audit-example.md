@@ -3,8 +3,6 @@ title: "Smart contract audit example: how to read a report"
 description: "See what a smart contract audit example can show about scope, findings, severity, and limitations—and why an audit is not a security guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

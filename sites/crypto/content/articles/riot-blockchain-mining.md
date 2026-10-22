@@ -3,8 +3,6 @@ title: "Riot Blockchain Mining: How Riot Fits Into Bitcoin Block Production"
 description: "Explore riot blockchain mining in context: what Riot Platforms does, how Bitcoin proof of work produces blocks, and what company-specific claims require sourcing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

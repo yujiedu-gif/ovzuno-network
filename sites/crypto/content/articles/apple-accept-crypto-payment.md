@@ -3,8 +3,6 @@ title: "Apple accept crypto payment: what businesses should know"
 description: "Understand what apple accept crypto payment can mean, how Apple Pay differs from crypto acceptance, and what businesses should verify before choosing an approach."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

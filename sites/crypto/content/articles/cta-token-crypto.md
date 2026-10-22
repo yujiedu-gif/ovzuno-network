@@ -3,8 +3,6 @@ title: "CTA Token Crypto: Identify the Asset and Verify Its Details"
 description: "Learn how to identify what CTA token crypto refers to, verify its network and project documentation, and separate confirmed details from unsupported claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

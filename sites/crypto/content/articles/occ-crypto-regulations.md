@@ -3,8 +3,6 @@ title: "occ crypto regulations: What the OCC’s Role Means for Banks"
 description: "Understand occ crypto regulations, the OCC’s role in federal banking oversight, and how to verify current rules and guidance using official sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["occ regulations crypto"]

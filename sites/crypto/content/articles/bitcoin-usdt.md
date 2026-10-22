@@ -3,8 +3,6 @@ title: "Bitcoin USDT: How the Assets Differ in Settlement"
 description: "Understand what bitcoin usdt can mean, how Bitcoin differs from USDT, and why network, asset, and settlement roles matter in operational discussions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["bitcoinusdt"]

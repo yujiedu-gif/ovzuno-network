@@ -3,8 +3,6 @@ title: "Consensus Proof of Stake: How Validators Reach Agreement"
 description: "Learn how consensus proof of stake coordinates validators, uses stake in network security, and reaches agreement on blockchain state, with protocol-specific caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["consensus proof stake"]

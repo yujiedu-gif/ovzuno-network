@@ -3,8 +3,6 @@ title: "Solidity upgradable contract: proxy design, storage, and risks"
 description: "Learn how a solidity upgradable contract uses a proxy and implementation, why storage compatibility matters, and which authority and security risks to review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity upgradeable contracts", "proxy pattern", "implementation contract", "storage layout"]

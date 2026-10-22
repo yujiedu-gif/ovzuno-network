@@ -3,8 +3,6 @@ title: "Bitcoin quant: meaning and analytical scope"
 description: "Learn what bitcoin quant means, how quantitative analysis can be applied to Bitcoin data, and why the phrase does not name a protocol feature or guaranteed strategy."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Old Bitcoin Exchanges: What They Were and How They Worked"
 description: "Learn what old Bitcoin exchanges were, how early platforms connected buyers and sellers, and why claims about their history and risks need careful evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

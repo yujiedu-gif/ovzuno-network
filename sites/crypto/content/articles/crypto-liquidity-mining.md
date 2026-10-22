@@ -3,8 +3,6 @@ title: "Crypto Liquidity Mining: How Incentives Work and What They Change"
 description: "Learn how crypto liquidity mining programs reward liquidity provision, how incentives are structured, and what operational and market risks participants should weigh"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

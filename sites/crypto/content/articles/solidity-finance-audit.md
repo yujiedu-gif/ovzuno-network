@@ -3,8 +3,6 @@ title: "Solidity finance audit: scope, evidence, and limitations"
 description: "Learn what a Solidity finance audit can examine, how to interpret its scope and findings, and why an audit does not guarantee contract security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract security audit", "Solidity code review"]

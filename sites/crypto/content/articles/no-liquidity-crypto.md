@@ -3,8 +3,6 @@ title: "No Liquidity Crypto: What It Means for Cross-Chain Transfers"
 description: "Learn what no liquidity crypto means in cross-chain workflows, how limited destination-side assets can affect execution, and what builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

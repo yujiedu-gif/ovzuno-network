@@ -3,8 +3,6 @@ title: "dapp university solidity: what the learning materials cover"
 description: "Learn what dapp university solidity refers to, how to assess the scope of its learning materials, and why educational content is not a substitute for security review"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

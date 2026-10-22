@@ -3,8 +3,6 @@ title: "Kaspa crypto: security, operations, and compliance considerations"
 description: "Assess kaspa crypto through its technical design, operational dependencies, and security questions, then identify compliance issues requiring current, local evidence"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

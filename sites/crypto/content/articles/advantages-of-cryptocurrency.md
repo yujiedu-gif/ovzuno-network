@@ -3,8 +3,6 @@ title: "Advantages of cryptocurrency: potential benefits and U.S. considerations
 description: "Explore the advantages of cryptocurrency for payments, access, and operations, alongside U.S. regulation and tax-reporting considerations to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["advantages cryptocurrency"]

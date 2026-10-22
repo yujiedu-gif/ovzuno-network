@@ -3,8 +3,6 @@ title: "X Payments Crypto: What the Term Means and What to Verify"
 description: "Understand what x payments crypto may refer to, how to verify claims about X payment functionality, and which operational and regulatory details matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["x payment crypto"]

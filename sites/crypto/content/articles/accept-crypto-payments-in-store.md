@@ -3,8 +3,6 @@ title: "How to Accept Crypto Payments in Store: A Practical Checkout Guide"
 description: "Learn how to accept crypto payments in store by mapping checkout, payment confirmation, refunds, and reconciliation, with jurisdiction-specific checks before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["accept crypto payment in store"]

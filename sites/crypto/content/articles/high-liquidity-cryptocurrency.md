@@ -3,8 +3,6 @@ title: "High liquidity cryptocurrency across blockchain networks: what it means"
 description: "Learn how high liquidity cryptocurrency relates to cross-chain access, why liquidity can differ by network, and what risks interoperability mechanisms introduce."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["cross-chain liquidity", "liquidity across blockchain networks", "token liquidity"]

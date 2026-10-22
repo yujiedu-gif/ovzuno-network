@@ -3,8 +3,6 @@ title: "TenX Crypto: Meaning, Context, and Treasury Terminology"
 description: "Learn what tenx crypto refers to, how to interpret the name in context, and why it should not be confused with institutional crypto treasury management."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

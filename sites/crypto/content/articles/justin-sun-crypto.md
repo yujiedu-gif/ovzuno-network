@@ -3,8 +3,6 @@ title: "justin sun crypto: Who He Is and His Connection to TRON"
 description: "Learn who justin sun crypto refers to, how Justin Sun is associated with TRON, and which claims about his role need reliable sourcing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["Justin Sun", "TRON founder", "TRON blockchain"]

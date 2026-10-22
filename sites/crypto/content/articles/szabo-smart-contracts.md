@@ -3,8 +3,6 @@ title: "Szabo Smart Contracts: The Original Idea and Its Blockchain Meaning"
 description: "Explore Szabo smart contracts: the original concept, its vending-machine analogy, and how the term relates to executable programs on blockchains today."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

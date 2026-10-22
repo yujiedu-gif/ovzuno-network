@@ -3,8 +3,6 @@ title: "Crypto energy token: meaning, designs, and rights to verify"
 description: "Learn what a crypto energy token may represent, how designs can differ, and which technical, legal, and operational claims readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

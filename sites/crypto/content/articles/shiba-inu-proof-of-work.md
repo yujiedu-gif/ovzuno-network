@@ -3,8 +3,6 @@ title: "Shiba inu proof of work: does SHIB use mining consensus?"
 description: "Shiba inu proof of work explained: distinguish SHIB from its host blockchain and learn what current technical evidence can establish about consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["shiba inu proof work"]

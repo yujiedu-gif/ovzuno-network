@@ -3,8 +3,6 @@ title: "Faster settlement in blockchain: stages, timing, and trade-offs"
 description: "Learn how faster settlement in blockchain depends on transaction inclusion, finality, and recipient access, and why speed can involve operational trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Polygon Smart Contract Cost: A Workload-Based Estimation Model"
 description: "Estimate polygon smart contract cost by separating deployment from recurring transactions, measuring gas use, and identifying the network fee inputs your model needs"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

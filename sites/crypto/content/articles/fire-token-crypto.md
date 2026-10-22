@@ -3,8 +3,6 @@ title: "Fire Token Crypto: How to Identify the Asset and Verify Its Details"
 description: "Learn how to identify the asset meant by fire token crypto, verify its network and contract details, and assess its documented purpose without assuming claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

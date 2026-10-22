@@ -3,8 +3,6 @@ title: "blockstream crypto: Documented Links to Bitcoin Mining and Consensus"
 description: "Explore blockstream crypto through documented links to Bitcoin mining and consensus infrastructure, and learn how company activities differ from protocol rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Liquidity Providing DeFi: How It Works Across Chains"
 description: "Learn what liquidity providing defi means, how pools support decentralized trading, and how cross-chain designs can change liquidity flows and provider risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["liquidity provider defi"]

@@ -3,8 +3,6 @@ title: "tron crypto: What TRON Is and How TRX Relates"
 description: "Learn what tron crypto refers to, how the TRON blockchain network relates to its native asset TRX, and what the distinction means for readers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["TRON blockchain", "TRX cryptocurrency", "TRON network"]

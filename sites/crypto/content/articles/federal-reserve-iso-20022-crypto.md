@@ -3,8 +3,6 @@ title: "Federal Reserve ISO 20022 Crypto: What the Connection Actually Means"
 description: "Understand federal reserve iso 20022 crypto by separating payment-message standards from crypto networks, token claims, and Federal Reserve endorsement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

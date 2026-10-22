@@ -3,8 +3,6 @@ title: "How Automated Market Makers for Decentralized Finance DeFi Work"
 description: "Explore automated market makers for decentralized finance defi through their core components, swap flow, pricing logic, and protocol-level risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["automated market makers decentralized finance defi"]

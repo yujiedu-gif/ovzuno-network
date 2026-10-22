@@ -3,8 +3,6 @@ title: "Solidity Type Alias: Meaning and Type-Safety Distinctions"
 description: "Learn what a solidity type alias means, how it differs from a distinct user-defined value type, and why Solidity version and context matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

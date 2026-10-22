@@ -3,8 +3,6 @@ title: "Smart contract audit token: scope, findings, and limitations"
 description: "Learn what a smart contract audit token review may cover, how to interpret its scope and findings, and why an audit is not a guarantee of security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

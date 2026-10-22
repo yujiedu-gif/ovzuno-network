@@ -3,8 +3,6 @@ title: "Kirby smart contract details: what can be verified"
 description: "Kirby smart contract details: learn how to identify the relevant project and verify its documented purpose, deployed code, network, and key limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

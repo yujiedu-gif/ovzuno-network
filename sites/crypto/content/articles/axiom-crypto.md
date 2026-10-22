@@ -3,8 +3,6 @@ title: "Axiom crypto: meaning and verifiable context"
 description: "Learn what Axiom crypto refers to, how to verify the specific project or product, and what evidence supports any connection to NFTs or digital ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

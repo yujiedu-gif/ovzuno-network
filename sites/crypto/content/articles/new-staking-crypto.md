@@ -3,8 +3,6 @@ title: "New staking crypto: how to assess validator design"
 description: "Learn what new staking crypto means and how to examine a network’s validator rules, launch documentation, operating demands, and unresolved risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

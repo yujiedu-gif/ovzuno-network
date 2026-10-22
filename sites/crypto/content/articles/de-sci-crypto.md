@@ -3,8 +3,6 @@ title: "De Sci Crypto: What Decentralized Science Means"
 description: "Learn what de sci crypto means, how blockchain may support research funding and coordination, and what its technical and scientific limits are."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["payfi_defi_agentic"]
 tags: []

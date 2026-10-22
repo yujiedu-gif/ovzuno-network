@@ -3,8 +3,6 @@ title: "Firepin crypto: what the project refers to and what is verifiable"
 description: "Learn what Firepin crypto refers to, how to assess its stated purpose and components, and which project details require reliable, current documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

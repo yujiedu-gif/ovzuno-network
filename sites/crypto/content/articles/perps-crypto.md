@@ -3,8 +3,6 @@ title: "Perps crypto: What perpetual futures are and how they work"
 description: "Learn what perps crypto means, how perpetual futures use funding payments instead of expiry, and why leverage and liquidation create distinct risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

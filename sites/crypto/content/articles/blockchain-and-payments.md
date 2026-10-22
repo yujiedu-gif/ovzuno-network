@@ -3,8 +3,6 @@ title: "Blockchain and payments: how a blockchain-enabled payment flow works"
 description: "See how blockchain and payments connect across initiation, network validation, settlement, and recipient access, and where supporting services may be involved."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain payment"]

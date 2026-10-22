@@ -3,8 +3,6 @@ title: "Proof of work crypto list: networks and inclusion criteria"
 description: "Use this proof of work crypto list to identify example networks, understand the inclusion criteria, and verify whether proof of work is still current."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work crypto list"]

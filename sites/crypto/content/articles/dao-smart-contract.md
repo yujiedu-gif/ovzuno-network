@@ -3,8 +3,6 @@ title: "DAO Smart Contract: How Code Supports Decentralized Governance"
 description: "Learn what a dao smart contract does in a decentralized autonomous organization, how proposals and execution may work, and where human judgment remains necessary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

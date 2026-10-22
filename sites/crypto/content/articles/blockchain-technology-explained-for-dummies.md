@@ -3,8 +3,6 @@ title: "Blockchain technology explained for dummies: a beginner’s guide"
 description: "Blockchain technology explained for dummies: learn how shared records, network validation, and blocks work, plus what blockchain can and cannot do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain technology dummies"]

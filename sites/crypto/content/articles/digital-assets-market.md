@@ -3,8 +3,6 @@ title: "Digital assets market: participants, protocols, and infrastructure"
 description: "Explore the digital assets market as a crypto ecosystem: its participants, protocols, infrastructure layers, and boundaries, without price forecasts or investment or"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

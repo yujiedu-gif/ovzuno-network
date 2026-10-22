@@ -3,8 +3,6 @@ title: "Pay Amazon with crypto: direct acceptance and indirect options"
 description: "Learn whether you can pay Amazon with crypto directly, how third-party routes may differ, and what to verify about availability, fees, and consumer risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

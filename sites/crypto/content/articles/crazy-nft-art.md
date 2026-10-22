@@ -3,8 +3,6 @@ title: "Crazy NFT Art: What the Label Means and What the Token Represents"
 description: "Explore what crazy nft art can describe, how an NFT relates to a digital work, and why token records do not by themselves establish copyright or file control."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

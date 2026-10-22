@@ -3,8 +3,6 @@ title: "Udemy dapp: How to Evaluate Decentralized-Application Courses"
 description: "Udemy dapp searches may refer to courses about decentralized applications. Learn how to assess course scope, technical prerequisites, and claims without relying on a"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

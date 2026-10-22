@@ -3,8 +3,6 @@ title: "Glow token crypto: identify the asset and verify its details"
 description: "Learn how to identify the asset called glow token crypto, verify its network and stated project role, and separate documented token details from unconfirmed claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

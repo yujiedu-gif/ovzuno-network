@@ -3,8 +3,6 @@ title: "Essential crypto exchange infrastructure: core functions and components"
 description: "Learn how essential crypto exchange infrastructure connects participants, handles orders, supports market operations, and relates to custody and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

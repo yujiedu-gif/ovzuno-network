@@ -3,8 +3,6 @@ title: "Crypto Exchange Funding Rates: How Perpetual-Futures Payments Work"
 description: "Learn how crypto exchange funding rates relate to perpetual-futures payments, what affects their calculation, and which venue-specific rules to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

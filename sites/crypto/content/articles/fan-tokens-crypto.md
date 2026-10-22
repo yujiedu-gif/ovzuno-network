@@ -3,8 +3,6 @@ title: "Fan tokens crypto: uses, rights, and limitations"
 description: "Learn what fan tokens crypto are, how token-based fan engagement may work, and which rights, limitations, and risks readers should check before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

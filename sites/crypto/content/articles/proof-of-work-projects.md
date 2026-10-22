@@ -3,8 +3,6 @@ title: "Proof of work projects: a guide to verifying consensus"
 description: "Explore proof of work projects through a concise, evidence-led list of crypto networks, with guidance on verifying consensus claims in primary documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work projects"]

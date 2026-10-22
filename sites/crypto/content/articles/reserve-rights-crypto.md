@@ -3,8 +3,6 @@ title: "Reserve rights crypto: what the term means"
 description: "Learn what reserve rights crypto refers to, how the term relates to Reserve and RSR, and which protocol details should be checked against current documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["reserve right crypto"]

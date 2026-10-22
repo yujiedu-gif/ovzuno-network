@@ -3,8 +3,6 @@ title: "Crypto slang: meanings in card spending conversations"
 description: "Understand crypto slang used in card spending conversations, how informal terms differ from formal payment language, and when context matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

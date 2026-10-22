@@ -3,8 +3,6 @@ title: "NFT Metadata Standards: Formats, References, and Interoperability"
 description: "Learn what NFT metadata standards define, how metadata formats and storage references work, and why implementation choices can affect interoperability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

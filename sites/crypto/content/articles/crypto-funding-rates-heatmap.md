@@ -3,8 +3,6 @@ title: "Crypto Funding Rates Heatmap: What It Shows and How to Read It"
 description: "Learn what a crypto funding rates heatmap displays, how to interpret its values and time intervals, and why venue coverage and data labels matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto funding rate heatmap"]

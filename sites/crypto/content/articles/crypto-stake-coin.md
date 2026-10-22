@@ -3,8 +3,6 @@ title: "Crypto stake coin: how a coin can support validator participation"
 description: "Learn what a crypto stake coin means, how a network may use it in staking and validator participation, and which protocol details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

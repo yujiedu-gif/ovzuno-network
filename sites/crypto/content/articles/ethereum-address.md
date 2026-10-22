@@ -3,8 +3,6 @@ title: "Ethereum address: what it identifies and how it works"
 description: "Learn what an ethereum address identifies, how it relates to accounts and wallets, and how addresses are used for transfers and Ethereum application interactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Fractional real estate blockchain: how tokenized interests are represent
 description: "Learn how fractional real estate blockchain systems can represent property interests, what a token does not establish, and which legal and technical facts to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["tokenized real estate", "fractional ownership", "property tokenization"]

@@ -3,8 +3,6 @@ title: "Proof of work in blockchain technology: How consensus works"
 description: "Learn how proof of work in blockchain technology helps networks validate blocks, coordinate consensus, and weigh security assumptions against resource costs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work in blockchain technology"]

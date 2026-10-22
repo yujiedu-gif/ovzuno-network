@@ -3,8 +3,6 @@ title: "Amazon Pay with crypto: what the phrase means and what to verify"
 description: "Understand what “amazon pay with crypto” may refer to, how direct and indirect payment routes differ, and which current terms to verify before checkout."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

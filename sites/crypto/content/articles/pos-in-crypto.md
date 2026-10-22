@@ -3,8 +3,6 @@ title: "Pos in crypto: How validators coordinate consensus"
 description: "Follow pos in crypto from validator selection through block proposals and attestations, with a clear distinction between protocol operation and user staking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Exchange FIX API: Integration Steps and Checks"
 description: "Learn how to assess and integrate a crypto exchange FIX API, from session prerequisites and message flows to testing, recovery, and production monitoring."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "All layer 1 blockchain: meaning, criteria, and examples"
 description: "Understand what “all layer 1 blockchain” may mean, how Layer 1 networks are classified, and why any examples list needs clear scope and date limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

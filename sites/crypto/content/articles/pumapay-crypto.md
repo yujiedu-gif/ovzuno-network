@@ -3,8 +3,6 @@ title: "PumaPay crypto: how its payment protocol is intended to work"
 description: "Understand PumaPay crypto, its described pull-payment approach, and which protocol, availability, security, and compliance details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["PumaPay protocol", "PumaPay crypto payments", "pull-payment protocol"]

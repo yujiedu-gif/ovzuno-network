@@ -3,8 +3,6 @@ title: "Gary Gensler Blockchain: Public Statements and Regulatory Context"
 description: "Explore Gary Gensler blockchain comments, their context, and how to distinguish public remarks from formal SEC actions and applicable US rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Gary Gensler", "blockchain technology", "crypto regulation"]

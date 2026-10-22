@@ -3,8 +3,6 @@ title: "cbETH crypto: structure, staking relationship, and market infrastructure
 description: "Learn what cbETH crypto represents, how it relates to staked ETH, and which market infrastructure dependencies and operational risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "crypto woocommerce: How Cryptocurrency Checkout Fits a Store"
 description: "Learn how crypto woocommerce integrations connect checkout to order workflows, what operational decisions stores must assess, and which risks need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

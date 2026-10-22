@@ -3,8 +3,6 @@ title: "polygon matic smart contract: How Polygon PoS Contracts Work"
 description: "Learn how polygon matic smart contract execution works on Polygon PoS, how EVM compatibility fits in, and what developers should verify before deployment or use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Polygon PoS smart contracts", "Polygon EVM compatibility", "deploy a smart contract on Polygon"]

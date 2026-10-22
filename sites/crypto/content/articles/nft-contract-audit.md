@@ -3,8 +3,6 @@ title: "NFT Contract Audit: Scope, Findings, and Limitations"
 description: "Learn what an nft contract audit may examine, how findings are assessed and reported, and why an audit cannot guarantee that an NFT system is secure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

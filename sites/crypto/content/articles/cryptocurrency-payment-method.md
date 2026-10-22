@@ -3,8 +3,6 @@ title: "Cryptocurrency Payment Method: How Crypto Payments Work"
 description: "Learn how a cryptocurrency payment method works, from payer authorization to settlement, and understand key operational choices, risks, and jurisdiction-dependent |"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment"]

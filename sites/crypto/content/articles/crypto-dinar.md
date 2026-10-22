@@ -3,8 +3,6 @@ title: "Crypto dinar: what the phrase identifies and what to verify"
 description: "Crypto dinar can refer to different projects or descriptions. Learn what the phrase does—and does not—identify and what evidence helps verify a specific asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

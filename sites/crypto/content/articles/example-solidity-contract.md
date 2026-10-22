@@ -3,8 +3,6 @@ title: "Example Solidity Contract: A Minimal Walkthrough"
 description: "See an example solidity contract, understand its basic components, and review the assumptions and checks developers should consider before adapting it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

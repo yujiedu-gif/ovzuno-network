@@ -3,8 +3,6 @@ title: "Foundry Solidity Version: What the Setting Means"
 description: "Understand the foundry solidity version setting in Foundry projects, how it relates to Solidity pragmas, and what it says about compiler selection."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

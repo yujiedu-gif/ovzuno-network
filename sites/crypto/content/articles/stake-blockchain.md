@@ -3,8 +3,6 @@ title: "Stake blockchain: How staking supports proof-of-stake networks"
 description: "Learn what stake blockchain means, how staking relates to proof-of-stake validation, and why network rules, risks, and participation methods can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

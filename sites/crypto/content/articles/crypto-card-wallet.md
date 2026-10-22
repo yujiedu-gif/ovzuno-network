@@ -3,8 +3,6 @@ title: "Crypto Card Wallet: How Wallets Connect to Card Spending"
 description: "Learn how a crypto card wallet may connect digital-asset balances to card spending, covering custody, authorization, conversion, settlement, and key caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

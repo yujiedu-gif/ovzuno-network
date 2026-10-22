@@ -3,8 +3,6 @@ title: "Places That Accept Crypto as Payment: A Business Integration Guide"
 description: "Learn how businesses can assess places that accept crypto as payment, compare in-person and digital channels, and plan operational requirements before implementation"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Understanding cryptocurrency for dummies: a beginner’s guide"
 description: "Understanding cryptocurrency for dummies: learn what crypto assets are, how blockchains record transactions, and what wallets do in a plain-language beginner’s guide"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["understanding cryptocurrency dummies"]

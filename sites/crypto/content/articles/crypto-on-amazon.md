@@ -3,8 +3,6 @@ title: "Crypto on Amazon: Direct Checkout and Payment Routes Explained"
 description: "Learn whether crypto on Amazon means direct checkout or an indirect payment route, and what to verify about marketplace availability, terms, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto NFT Market: Definition, Participants, and Infrastructure"
 description: "Understand the crypto nft market: what it is, who participates, and how blockchain records, marketplace interfaces, and transaction infrastructure fit together."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: []

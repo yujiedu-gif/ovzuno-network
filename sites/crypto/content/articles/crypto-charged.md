@@ -3,8 +3,6 @@ title: "Crypto charged: what the phrase can mean in payment records"
 description: "Understand what crypto charged may mean in a payment record, which details can clarify the wording, and why the phrase alone does not verify a crypto payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

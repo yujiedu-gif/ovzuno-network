@@ -3,8 +3,6 @@ title: "Explain proof of work: how blockchain consensus validates blocks"
 description: "Explain proof of work, including how miners produce verifiable results, how nodes check them, and the consensus trade-offs this approach creates."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["explain proof work"]

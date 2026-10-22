@@ -3,8 +3,6 @@ title: "How to Stake on Crypto: Validators, Delegation, and Risks"
 description: "Learn what it means to stake on crypto, how validators and delegation work, and which network rules, custody choices, and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto staking", "staking validator", "proof-of-stake network"]

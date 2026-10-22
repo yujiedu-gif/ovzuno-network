@@ -3,8 +3,6 @@ title: "Proof of stake fees: types, recipients, and network differences"
 description: "Proof of stake fees can refer to transaction costs or staking-related charges. Learn how mechanisms, recipients, and network rules affect what applies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake fee"]

@@ -3,8 +3,6 @@ title: "Blockchain text: what the phrase means in crypto systems"
 description: "Learn what blockchain text can mean, how readable text may relate to transaction data or interface displays, and why context matters when interpreting it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

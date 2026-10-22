@@ -3,8 +3,6 @@ title: "DAO Blockchain: How On-Chain Governance Works"
 description: "Learn how a dao blockchain can record proposals, votes, and approved actions, and why on-chain governance does not by itself guarantee effective decisions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

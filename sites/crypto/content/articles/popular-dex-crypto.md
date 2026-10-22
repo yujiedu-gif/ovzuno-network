@@ -3,8 +3,6 @@ title: "Popular DEX Crypto: How to Interpret Popularity Metrics"
 description: "Learn how to interpret popular dex crypto claims by comparing activity, liquidity, users, and measurement limits without turning metrics into rankings or advice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

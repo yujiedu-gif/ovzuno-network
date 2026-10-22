@@ -3,8 +3,6 @@ title: "CS50 blockchain: what the term refers to"
 description: "Learn what cs50 blockchain refers to, how to distinguish educational material from a blockchain network, and which details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

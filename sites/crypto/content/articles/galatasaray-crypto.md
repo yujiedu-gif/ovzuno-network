@@ -3,8 +3,6 @@ title: "Galatasaray crypto: what the phrase means and how to verify affiliation"
 description: "Learn what Galatasaray crypto may refer to, how to check claims of official club affiliation, and what evidence can and cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

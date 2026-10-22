@@ -3,8 +3,6 @@ title: "Bitcoin on exchanges chart: what it measures and its limits"
 description: "Learn what a bitcoin on exchanges chart estimates, how exchange-held balances are classified, and why the data cannot confirm future Bitcoin prices."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin exchange reserves", "BTC exchange balance chart", "exchange-held Bitcoin"]

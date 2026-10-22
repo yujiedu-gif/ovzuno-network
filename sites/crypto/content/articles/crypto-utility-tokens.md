@@ -3,8 +3,6 @@ title: "Crypto utility tokens: functions, use, and limits"
 description: "Learn what crypto utility tokens are intended to do, how project documents describe their use, and why the label alone does not establish rights or legal status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["utility tokens crypto"]

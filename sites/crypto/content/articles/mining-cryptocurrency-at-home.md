@@ -3,8 +3,6 @@ title: "Mining cryptocurrency at home: setup and practical considerations"
 description: "Learn what mining cryptocurrency at home involves, including equipment, electricity, heat, noise, connectivity, and practical factors to assess first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

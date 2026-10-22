@@ -3,8 +3,6 @@ title: "Adyen crypto: what businesses should verify"
 description: "Learn what Adyen crypto may refer to, how to check official product information, and which market, settlement, compliance, and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cryptocurrency dex: how protocol components execute trades"
 description: "Learn how a cryptocurrency dex handles wallet authorization, trade execution, and settlement, and where custody, fees, and protocol risks depend on design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["decentralized exchange", "DEX architecture", "on-chain trading", "smart contract execution"]

@@ -3,8 +3,6 @@ title: "Blockchain Transaction Monitoring: Methods, Alerts, and Limits"
 description: "Learn how blockchain transaction monitoring uses on-chain data to identify patterns and generate alerts, and why findings need context and review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

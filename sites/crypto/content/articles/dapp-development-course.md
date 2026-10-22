@@ -3,8 +3,6 @@ title: "Dapp development course: a practical learning path for building smart-co
 description: "Use this dapp development course guide to plan a learning path, build a small smart-contract app, and check core concepts in a safe practice setting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

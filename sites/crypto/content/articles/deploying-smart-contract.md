@@ -3,8 +3,6 @@ title: "Deploying smart contract: a chain-neutral deployment checklist"
 description: "Use this deploying smart contract guide to check build settings, test deployment steps, publish carefully, verify the result, and record key details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

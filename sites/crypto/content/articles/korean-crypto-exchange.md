@@ -3,8 +3,6 @@ title: "Korean Crypto Exchange Infrastructure: Core Functions and Context"
 description: "Explore how a korean crypto exchange fits into market infrastructure, including core operating functions and South Korea-specific claims that require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

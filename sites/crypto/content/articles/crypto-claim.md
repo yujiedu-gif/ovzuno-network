@@ -3,8 +3,6 @@ title: "Crypto claim: meaning, context, and reporting limits"
 description: "Learn what “crypto claim” can mean, how context shapes its use, and why tax or regulatory interpretations require the relevant jurisdiction and source."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto claims"]

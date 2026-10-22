@@ -3,8 +3,6 @@ title: "Payment Tokens Crypto: Roles, Transfers, and Design Considerations"
 description: "Learn what payment tokens crypto refers to, how tokens can represent or transfer value, and which design, operational, and jurisdictional questions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["payment token crypto"]

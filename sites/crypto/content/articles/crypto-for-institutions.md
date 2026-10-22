@@ -3,8 +3,6 @@ title: "Crypto for institutions: use cases, operating models, and risks"
 description: "Explore crypto for institutions through use cases, operating models, governance, and risk questions, with a framework for evaluating organizational needs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["crypto institutions"]

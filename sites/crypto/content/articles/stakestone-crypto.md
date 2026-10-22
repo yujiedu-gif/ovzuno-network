@@ -3,8 +3,6 @@ title: "StakeStone crypto: protocol design and institutional considerations"
 description: "Learn what StakeStone crypto refers to, how its protocol is described, and which technical, operational, and jurisdictional details institutions should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["StakeStone protocol", "liquid staking", "cross-chain liquidity"]

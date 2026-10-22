@@ -3,8 +3,6 @@ title: "Cryptocurrency laws by state: a guide to researching U.S. rules"
 description: "Learn how to research cryptocurrency laws by state, identify which locations and activities matter, and verify current requirements with authoritative sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["state cryptocurrency regulations", "U.S. state crypto laws"]

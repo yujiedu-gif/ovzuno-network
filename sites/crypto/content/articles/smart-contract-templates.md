@@ -3,8 +3,6 @@ title: "Smart contract templates: what they provide and what to check"
 description: "Learn what smart contract templates provide, how they differ from deployed contracts, and what developers should review before adapting and deploying one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

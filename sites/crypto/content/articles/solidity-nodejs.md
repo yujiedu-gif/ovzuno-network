@@ -3,8 +3,6 @@ title: "solidity nodejs: How Node.js Apps Interact With Smart Contracts"
 description: "Learn how solidity nodejs integration connects application code with deployed smart contracts, including contract interfaces, reads, writes, and key safeguards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

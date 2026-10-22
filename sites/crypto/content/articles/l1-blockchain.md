@@ -3,8 +3,6 @@ title: "L1 blockchain: its role in blockchain architecture"
 description: "Learn what an l1 blockchain is, which core functions it may provide, and how it fits into blockchain architecture without conflating it with scaling layers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["1 blockchain"]

@@ -3,8 +3,6 @@ title: "Dynamic NFT Art: How Changing Artwork Works"
 description: "Learn how dynamic NFT art can change over time, what controls those changes, and how the token, artwork data, and update mechanism relate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

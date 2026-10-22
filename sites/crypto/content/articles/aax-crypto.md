@@ -3,8 +3,6 @@ title: "AAX Crypto: What the Exchange Was and What Is Known"
 description: "AAX crypto refers to a digital-asset exchange; learn what the platform was, how to assess its documented status, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

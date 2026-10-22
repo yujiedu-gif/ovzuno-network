@@ -3,8 +3,6 @@ title: "Crypto client: software meaning and reporting context"
 description: "Learn what crypto client can mean in software and business contexts, and why the term alone cannot establish regulatory or tax reporting duties."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

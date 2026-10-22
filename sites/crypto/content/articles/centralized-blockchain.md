@@ -3,8 +3,6 @@ title: "Centralized blockchain: control, governance, and trade-offs"
 description: "Learn what centralized blockchain means, how control and governance differ from decentralized networks, and which trade-offs to assess for payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

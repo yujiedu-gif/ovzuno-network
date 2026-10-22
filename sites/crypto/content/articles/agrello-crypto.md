@@ -3,8 +3,6 @@ title: "Agrello crypto: project, technology, and token explained"
 description: "Learn what Agrello crypto refers to, how its project and blockchain design are described in verifiable records, and what is known about any associated token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

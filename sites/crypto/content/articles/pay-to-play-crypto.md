@@ -3,8 +3,6 @@ title: "Pay to Play Crypto: Meaning, Models, and Payment Distinctions"
 description: "Learn what pay to play crypto can mean, how paid access differs from ordinary crypto payments, and which context questions help clarify the model."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["pay play crypto"]

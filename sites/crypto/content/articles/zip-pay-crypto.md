@@ -3,8 +3,6 @@ title: "Zip Pay Crypto: Does Zip Pay Support Cryptocurrency Payments?"
 description: "Zip pay crypto explained: learn how to check for direct cryptocurrency support, distinguish official features from workarounds, and assess current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

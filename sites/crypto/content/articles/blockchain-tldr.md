@@ -3,8 +3,6 @@ title: "Blockchain TLDR: How It Relates to Payments"
 description: "Blockchain tldr: a concise explanation of how shared records can support payment transactions, how validation works, and what the basics do not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

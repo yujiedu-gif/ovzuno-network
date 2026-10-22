@@ -3,8 +3,6 @@ title: "Decentralized Crypto Swap: How a Trade Is Requested and Settled"
 description: "See how a decentralized crypto swap moves from trade request to on-chain settlement, which execution details can affect the result, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

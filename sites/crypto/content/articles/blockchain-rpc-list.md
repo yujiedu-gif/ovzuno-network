@@ -3,8 +3,6 @@ title: "Blockchain RPC List: What to Compare Before Choosing an Endpoint"
 description: "Learn what a blockchain RPC list can tell developers, which endpoint details to compare, and what to verify before relying on RPC infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

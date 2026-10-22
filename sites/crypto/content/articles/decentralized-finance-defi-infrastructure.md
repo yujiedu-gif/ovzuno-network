@@ -3,8 +3,6 @@ title: "Decentralized finance defi infrastructure: key layers and dependencies"
 description: "Explore decentralized finance defi infrastructure through its core technical layers, how they connect, and the dependencies builders and operators should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Pow in cryptocurrency: How proof-of-work consensus works"
 description: "Learn how pow in cryptocurrency supports block validation and network agreement, what miners and nodes do, and what proof of work does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof of work", "proof-of-work consensus", "mining consensus"]

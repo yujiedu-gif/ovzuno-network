@@ -3,8 +3,6 @@ title: "Proof of work model: How blockchain consensus works"
 description: "Learn how the proof of work model uses computational puzzles, independent verification, and chain selection to coordinate blockchain updates and what trade-offs it"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work model"]

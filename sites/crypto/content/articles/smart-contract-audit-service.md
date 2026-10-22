@@ -3,8 +3,6 @@ title: "How to Evaluate a smart contract audit service"
 description: "Use this framework to assess a smart contract audit service by checking scope, review methods, deliverables, remediation, and residual-risk disclosures before a team"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

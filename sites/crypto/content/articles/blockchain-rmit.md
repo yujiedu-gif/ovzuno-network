@@ -3,8 +3,6 @@ title: "Blockchain RMIT: What the Phrase Refers To and How to Verify It"
 description: "Understand what blockchain RMIT may refer to, how to distinguish institutional activity from general blockchain concepts, and where to verify claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["rmit blockchain"]

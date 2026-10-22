@@ -3,8 +3,6 @@ title: "Shibarium Layer 2: Architecture, Role, and Verification Points"
 description: "Understand Shibarium layer 2, its stated relationship to connected blockchain infrastructure, and which architecture and operational details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

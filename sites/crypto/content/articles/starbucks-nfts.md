@@ -3,8 +3,6 @@ title: "Starbucks NFTs: Digital Collectibles, Ownership, and Program Benefits"
 description: "Learn what Starbucks NFTs were designed to represent, how digital collectible ownership differs from owning Starbucks shares or intellectual property, and what to.**"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

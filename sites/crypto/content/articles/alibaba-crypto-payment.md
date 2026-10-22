@@ -3,8 +3,6 @@ title: "Alibaba Crypto Payment: How to Check Current Options for an Order"
 description: "Learn whether Alibaba crypto payment is available for a specific order, how to verify current options through official channels, and what risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

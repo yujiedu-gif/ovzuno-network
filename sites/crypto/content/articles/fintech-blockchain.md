@@ -3,8 +3,6 @@ title: "Fintech blockchain: how payment flows and infrastructure fit together"
 description: "Explore how fintech blockchain can fit into payment flows, where conventional systems remain involved, and which operational, security, and compliance questions to"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain fintech"]

@@ -3,8 +3,6 @@ title: "Blockchain plugin: how application and payment integrations work"
 description: "Learn what a blockchain plugin does, how it may connect an app to blockchain payment services, and what teams should check before integration."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain payment integration", "payment gateway plugin", "smart contract integration"]

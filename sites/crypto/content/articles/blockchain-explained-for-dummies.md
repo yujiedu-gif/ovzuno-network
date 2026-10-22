@@ -3,8 +3,6 @@ title: "Blockchain explained for dummies: how the shared record works"
 description: "Blockchain explained for dummies: follow how transactions are checked, grouped into blocks, and added to a shared record, plus what varies by network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain dummies"]

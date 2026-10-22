@@ -3,8 +3,6 @@ title: "Bitcoin Mining Algorithm: What It Does in Proof of Work"
 description: "Learn what the bitcoin mining algorithm does, how miners test block-header hashes against a target, and how nodes verify a proposed Bitcoin block."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["bitcoin algorithm mining"]

@@ -3,8 +3,6 @@ title: "Crypto DEX: How Decentralized Exchange Infrastructure Works"
 description: "Learn how a crypto dex handles trade routing, execution, and settlement, and how its infrastructure differs from a centralized exchange."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

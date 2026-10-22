@@ -3,8 +3,6 @@ title: "Crypto payin: how incoming cryptocurrency payments work"
 description: "Learn what crypto payin means and follow an incoming cryptocurrency payment from payer initiation through network confirmation and business-side status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

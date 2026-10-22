@@ -3,8 +3,6 @@ title: "DeFi Exchanges by Volume: How to Interpret the Figures"
 description: "Learn how to interpret DeFi exchanges by volume by checking what each metric counts, which chains and venues it covers, and its reporting window."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

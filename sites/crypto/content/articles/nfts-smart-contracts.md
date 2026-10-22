@@ -3,8 +3,6 @@ title: "NFTs Smart Contracts: How NFT Logic Works"
 description: "Learn how nfts smart contracts represent token ownership, apply transfer rules, and connect NFTs to metadata, with key limits and review points."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["NFT metadata", "NFT minting", "ERC-721"]

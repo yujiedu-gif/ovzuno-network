@@ -3,8 +3,6 @@ title: "Zero knowledge password proof: how password authentication works"
 description: "Learn what zero knowledge password proof means, how password-based authentication can avoid sending the password, and which assumptions and limits to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

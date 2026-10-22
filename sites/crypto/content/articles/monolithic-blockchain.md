@@ -3,8 +3,6 @@ title: "Monolithic blockchain: architecture, responsibilities, and trade-offs"
 description: "Learn how a monolithic blockchain handles execution, consensus, and data availability within an integrated architecture, and examine its trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["monolithic architecture", "modular blockchain", "consensus", "execution", "data availability"]

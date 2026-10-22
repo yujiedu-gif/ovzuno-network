@@ -3,8 +3,6 @@ title: "US Crypto Exchanges: Roles in United States Market Infrastructure"
 description: "Understand how us crypto exchanges fit into United States digital-asset infrastructure, from trading functions and connectivity to operational considerations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

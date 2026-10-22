@@ -3,8 +3,6 @@ title: "Smart contract app: components, interactions, and limitations"
 description: "Learn what a smart contract app is, how its interface and supporting services interact with blockchain contracts, and where its capabilities and limits differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

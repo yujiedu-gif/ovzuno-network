@@ -3,8 +3,6 @@ title: "Blockchain versions: what the term means in different contexts"
 description: "Understand what blockchain versions can refer to, from protocol generations to software releases, and learn how context clarifies the meaning."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto mining asic: How specialized hardware supports proof of work"
 description: "Learn what a crypto mining asic does, how its specialized circuits perform proof-of-work computations, and why compatibility depends on the mining algorithm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Chainlink crypto explained: oracle networks and the LINK token"
 description: "Chainlink crypto explained: learn how its oracle network connects smart contracts with external data and services, and how the LINK token fits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["chainlink crypto"]

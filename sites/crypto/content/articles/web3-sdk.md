@@ -3,8 +3,6 @@ title: "Web3 SDK: How Applications Connect to Blockchain Networks"
 description: "Learn what a web3 sdk does, how application code uses it to interact with blockchain networks and smart contracts, and what it does not provide."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

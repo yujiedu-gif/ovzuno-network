@@ -3,8 +3,6 @@ title: "Uber accepts crypto: what riders can verify about payment support"
 description: "Find out whether Uber accepts crypto directly for rides, how to distinguish official in-app support from indirect payment routes, and what to verify locally."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

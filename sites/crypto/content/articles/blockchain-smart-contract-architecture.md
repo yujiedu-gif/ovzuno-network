@@ -3,8 +3,6 @@ title: "Blockchain Smart Contract Architecture: Components and Data Flow"
 description: "Understand blockchain smart contract architecture, from user interfaces and transaction submission to on-chain execution, state, and off-chain services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract execution", "on-chain and off-chain components", "contract interactions"]

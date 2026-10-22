@@ -3,8 +3,6 @@ title: "harmony zero knowledge: What the Term Means and What Is Documented"
 description: "Learn what harmony zero knowledge may refer to, how to verify any claimed role in Harmony’s architecture, and what scaling conclusions the evidence supports."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

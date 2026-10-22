@@ -3,8 +3,6 @@ title: "Solidity callback: meaning, call flow, and security considerations"
 description: "Learn what a solidity callback is, how control passes between contracts, and which interface, state-change, and security considerations matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

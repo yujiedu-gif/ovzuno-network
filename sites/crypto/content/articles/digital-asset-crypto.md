@@ -3,8 +3,6 @@ title: "Digital Asset Crypto: Meaning, Scope, and Key Distinctions"
 description: "Understand how digital asset crypto relates to broader digital assets, and compare representation, control, transfer rules, and protocol dependence without confl.-"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

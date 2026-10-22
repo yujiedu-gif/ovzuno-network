@@ -3,8 +3,6 @@ title: "Crypto Brief: A Framework for Regulation and Tax Reporting"
 description: "Learn what a crypto brief on regulation and tax reporting should include, how to check jurisdiction and effective dates, and where to verify official guidance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto briefing"]

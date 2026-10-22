@@ -3,8 +3,6 @@ title: "Casper crypto staking: how delegation and validators work"
 description: "Learn how Casper crypto staking involves CSPR delegation and validators, what participation entails, and which network rules and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

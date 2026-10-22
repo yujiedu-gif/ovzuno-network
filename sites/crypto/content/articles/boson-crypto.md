@@ -3,8 +3,6 @@ title: "Boson crypto: meaning, protocol, and digital ownership"
 description: "Learn what boson crypto refers to, how blockchain tokens may relate to physical goods, and why a token record is not the good or a guaranteed claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

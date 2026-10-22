@@ -3,8 +3,6 @@ title: "Outsourcing blockchain development: a vendor-neutral evaluation guide"
 description: "Learn how to evaluate outsourcing blockchain development, define deliverables, assess technical and security risks, and plan acceptance and handover."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: ["outsource blockchain development"]

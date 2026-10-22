@@ -3,8 +3,6 @@ title: "Hotbit crypto: exchange background and how to verify current status"
 description: "Understand what Hotbit crypto refers to, how it fits into exchange infrastructure, and what dated evidence readers should check before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

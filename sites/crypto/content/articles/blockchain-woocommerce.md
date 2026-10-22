@@ -3,8 +3,6 @@ title: "Blockchain WooCommerce Payments: How the Storefront-to-Settlement Flow W
 description: "Learn how blockchain WooCommerce payments connect checkout, payment processing, network confirmation, and order status, plus the key operational trade-offs merchants"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

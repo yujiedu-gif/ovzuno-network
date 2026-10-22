@@ -3,8 +3,6 @@ title: "TradeLens blockchain: how the shipping network used distributed technolo
 description: "Learn what the TradeLens blockchain network was designed to do, how it supported shipping information workflows, and what its history shows."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

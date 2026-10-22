@@ -3,8 +3,6 @@ title: "DeFi wallet app: functions, custody, and user risks"
 description: "Learn what a DeFi wallet app does, how custody and dApp connections work, and which permissions, transaction details, and risks to check before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["app defi wallet"]

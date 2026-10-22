@@ -3,8 +3,6 @@ title: "Celo blockchain: network design and payment foundations"
 description: "Understand the Celo blockchain, its network design, and how it relates to payment use cases, with a clear distinction between protocol concepts and current service"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

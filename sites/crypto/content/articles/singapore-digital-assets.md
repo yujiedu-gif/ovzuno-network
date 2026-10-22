@@ -3,8 +3,6 @@ title: "Singapore digital assets: technology and operating context"
 description: "Explore singapore digital assets through a neutral overview of tokenization, blockchain infrastructure, operational questions, and details to verify in current local"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital asset tokenization", "blockchain applications", "digital asset infrastructure"]

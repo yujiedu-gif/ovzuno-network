@@ -3,8 +3,6 @@ title: "Proof of work crypto mining: how it supports blockchain consensus"
 description: "Learn how proof of work crypto mining uses computational work to propose blocks, validate transactions, and help a blockchain network agree on history."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work crypto mining"]

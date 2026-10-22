@@ -3,8 +3,6 @@ title: "Blockchain tools for smart-contract dApp development and operations"
 description: "Explore blockchain tools for smart-contract dApps, from development and testing to deployment, monitoring, and maintenance, with practical selection criteria."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["tools for blockchain"]

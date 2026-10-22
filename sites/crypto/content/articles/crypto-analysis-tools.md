@@ -3,8 +3,6 @@ title: "Crypto analysis tools for smart contracts and dApps"
 description: "Explore crypto analysis tools for smart contracts and dApps, including testing, code inspection, transaction analysis, and monitoring, with limits and selection cues"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

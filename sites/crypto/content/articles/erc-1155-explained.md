@@ -3,8 +3,6 @@ title: "ERC 1155 explained: How Ethereum’s multi-token standard works"
 description: "ERC 1155 explained: learn how Ethereum’s multi-token standard uses IDs, balances, and batch operations for fungible and non-fungible token types."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["erc 1155"]

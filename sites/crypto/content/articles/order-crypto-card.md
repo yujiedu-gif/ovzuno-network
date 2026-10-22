@@ -3,8 +3,6 @@ title: "Order crypto card: What to check before applying"
 description: "Learn what it means to order crypto card, which application steps may apply, and what to verify about eligibility, jurisdiction, fees, and disclosures."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

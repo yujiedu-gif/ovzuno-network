@@ -3,8 +3,6 @@ title: "Alethea AI Crypto: Project Context and Agentic AI"
 description: "Understand Alethea AI crypto in the context of agentic AI, what project materials can establish, and which claims readers should verify independently."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["payfi_defi_agentic"]
 tags: ["Alethea AI", "AI agents", "decentralized AI"]

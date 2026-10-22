@@ -3,8 +3,6 @@ title: "erc 20 governance: How Token-Based Protocol Decisions Work"
 description: "Learn how erc 20 governance can use token balances for protocol voting, how proposals reach execution, and why the ERC-20 standard does not define governance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 governance token", "token voting", "on-chain governance"]

@@ -3,8 +3,6 @@ title: "MXC Crypto Miner: Meaning and Network Mechanism"
 description: "Learn what mxc crypto miner refers to, how the documented MXC network mechanism differs from conventional proof-of-work mining, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto lock up in staking: access, unbonding, and withdrawal rules"
 description: "Learn what crypto lock up means in staking, how lockup and unbonding differ, and which protocol rules affect access to staked assets and withdrawals."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking lockup period", "validator unbonding period", "staking withdrawal restrictions"]

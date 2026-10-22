@@ -3,8 +3,6 @@ title: "Bobcat crypto miner: device purpose and network role"
 description: "Learn what a bobcat crypto miner refers to, how its device may participate in a crypto network, and which technical and operating details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

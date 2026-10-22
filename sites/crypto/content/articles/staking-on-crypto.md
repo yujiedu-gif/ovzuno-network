@@ -3,8 +3,6 @@ title: "Staking on crypto: How stake supports validator operations"
 description: "Learn how staking on crypto networks can support validator operations, what participants and validators do, and which network-specific mechanics and risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Silver token cryptocurrency: backing, rights, and redemption"
 description: "Learn how a silver token cryptocurrency may represent silver, what evidence can support backing claims, and which rights and redemption terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["silver-backed token", "tokenized silver", "silver token backing and redemption"]

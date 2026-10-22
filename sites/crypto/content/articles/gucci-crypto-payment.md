@@ -3,8 +3,6 @@ title: "Gucci crypto payment: how to verify current acceptance"
 description: "Learn how to verify Gucci crypto payment availability for a specific location and purchase, what details to confirm, and why options may vary by channel."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["Gucci cryptocurrency payments", "luxury retail crypto payments"]

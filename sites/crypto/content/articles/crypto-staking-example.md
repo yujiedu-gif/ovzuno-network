@@ -3,8 +3,6 @@ title: "Crypto Staking Example: A Hypothetical Validator Walkthrough"
 description: "Follow a hypothetical crypto staking example to see how delegation, validator duties, network-defined rewards, fees, and penalties may interact."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

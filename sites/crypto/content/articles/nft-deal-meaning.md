@@ -3,8 +3,6 @@ title: "NFT Deal Meaning: What the Phrase Describes"
 description: "Understand nft deal meaning across sales, licensing, and partnerships, and identify what is transferred or agreed without confusing a token with related rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft deal"]

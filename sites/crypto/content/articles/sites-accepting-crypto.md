@@ -3,8 +3,6 @@ title: "Sites Accepting Crypto: What to Check Before You Pay"
 description: "Learn how to evaluate sites accepting crypto by checking supported assets, payment steps, costs, refunds, security, and location-specific requirements before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["crypto_payments"]
 tags: []

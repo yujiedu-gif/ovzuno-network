@@ -3,8 +3,6 @@ title: "Crypto Layer 1 Coins: What the Term Means"
 description: "Learn what crypto layer 1 coins refers to, how a native asset differs from its blockchain, and which protocol roles may connect it to network operation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

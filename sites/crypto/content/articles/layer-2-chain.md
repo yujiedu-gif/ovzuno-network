@@ -3,8 +3,6 @@ title: "Layer 2 Chain: How It Works and What It Depends On"
 description: "Learn what a layer 2 chain does, how it relates to a layer 1 blockchain, and which execution, data availability, settlement, and security trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["layer 2 blockchain", "rollup", "data availability", "transaction finality"]

@@ -3,8 +3,6 @@ title: "How to move crypto into a card purchase"
 description: "Learn how to move crypto into a card purchase, from account funding and conversion to authorization and settlement, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

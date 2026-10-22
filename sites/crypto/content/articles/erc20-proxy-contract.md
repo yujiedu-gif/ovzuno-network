@@ -3,8 +3,6 @@ title: "ERC20 Proxy Contract: How It Works and What It Changes"
 description: "Learn how an erc20 proxy contract routes token calls to implementation logic, why projects use this pattern, and what upgradeability changes about risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

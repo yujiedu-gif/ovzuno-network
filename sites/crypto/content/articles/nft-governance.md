@@ -3,8 +3,6 @@ title: "NFT Governance: How Decisions Work in NFT Collections"
 description: "Learn how nft governance works in NFT collections, including who can participate, what decisions may be made, and how voting relates to execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

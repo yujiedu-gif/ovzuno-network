@@ -3,8 +3,6 @@ title: "Pay Netflix With Crypto: Direct Payments and Indirect Routes Explained"
 description: "Learn whether you can pay Netflix with crypto directly or through an intermediary, how these routes differ, and what to verify before using one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT series meaning: what the term describes"
 description: "Learn the NFT series meaning, how related tokens may be grouped, and why a series label alone does not establish shared metadata, ownership, or rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft series"]

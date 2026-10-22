@@ -3,8 +3,6 @@ title: "Crypto API Data: A Practical Onchain Integration Guide"
 description: "Learn how to plan a crypto api data integration, choose relevant onchain fields, handle API requests, validate responses, and prepare for failures."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["onchain_data_analytics"]
 tags: []

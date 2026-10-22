@@ -3,8 +3,6 @@ title: "Blockchain visualization: what it shows and what it cannot prove"
 description: "Learn what blockchain visualization represents, how charts and network diagrams display on-chain data, and why visual patterns do not prove identity or intent."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

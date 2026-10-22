@@ -3,8 +3,6 @@ title: "Blockchain for images: how digital image records work"
 description: "Learn how blockchain for images can store image data, hashes, or file references, and what those records can—and cannot—show about a digital image."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain images"]

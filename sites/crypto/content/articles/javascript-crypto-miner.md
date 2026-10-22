@@ -3,8 +3,6 @@ title: "JavaScript Crypto Miner: What It Is and What It Can Do"
 description: "Learn what a javascript crypto miner does, how JavaScript can perform proof-of-work hashing, and what browser, hardware, and security limits affect its use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

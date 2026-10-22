@@ -3,8 +3,6 @@ title: "Crypto App Fees: Common Charges and What to Check"
 description: "Learn what crypto app fees may cover, how app charges differ from network fees, what can change the total, and which disclosures to review before confirming."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto apps fees", "crypto app fee"]

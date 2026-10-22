@@ -3,8 +3,6 @@ title: "Companies Using Smart Contracts: Business Workflows and Trade-Offs"
 description: "Explore how companies using smart contracts apply them to business workflows, what remains off-chain, and which operational, security, and governance questions to7?"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

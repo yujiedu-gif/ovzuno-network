@@ -3,8 +3,6 @@ title: "Starling crypto payments: what the phrase means and how to verify it"
 description: "Learn what Starling crypto payments may refer to, how bank transfers differ from crypto payments, and which current provider details to verify before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["starling crypto payment"]

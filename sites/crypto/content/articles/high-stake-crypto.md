@@ -3,8 +3,6 @@ title: "High stake crypto: what it means for proof-of-stake validators"
 description: "Learn what high stake crypto can mean for validator thresholds, delegated stake, and stake concentration, and how to verify rules for a specific network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["validator stake", "staking threshold"]

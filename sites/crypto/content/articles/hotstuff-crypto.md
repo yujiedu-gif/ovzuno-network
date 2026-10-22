@@ -3,8 +3,6 @@ title: "hotstuff crypto: How the Consensus Protocol Works"
 description: "Learn what hotstuff crypto refers to, how the HotStuff Byzantine fault-tolerant consensus protocol works, and how it differs from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["HotStuff consensus", "Byzantine fault-tolerant consensus", "proof-of-work mining"]

@@ -3,8 +3,6 @@ title: "NFT Web3 Explained: Tokens, Contracts, and Linked Content"
 description: "NFT web3 explained: learn how NFTs relate to blockchain records, smart contracts, and linked content, and what a token record does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["nft web3"]

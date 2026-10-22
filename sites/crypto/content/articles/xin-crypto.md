@@ -3,8 +3,6 @@ title: "XIN crypto: identify the asset and verify staking claims"
 description: "Learn how to identify what XIN crypto refers to and verify any link to a blockchain, staking, or validators using primary documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["staking_validators"]
 tags: ["cryptoxin"]

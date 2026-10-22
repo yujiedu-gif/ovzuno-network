@@ -3,8 +3,6 @@ title: "ERC20 crypto: Meaning and how the Ethereum token standard works"
 description: "Learn what ERC20 crypto means, how the ERC-20 standard supports fungible tokens on Ethereum, and what its interface does not guarantee about a token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 standard", "Ethereum token standard", "fungible token"]

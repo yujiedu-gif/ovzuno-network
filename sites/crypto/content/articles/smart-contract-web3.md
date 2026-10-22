@@ -3,8 +3,6 @@ title: "Smart contract web3: how on-chain application logic works"
 description: "Learn how smart contract web3 applications use on-chain code, how users and interfaces interact with it, and what execution limits mean in practice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["web3 smart contract"]

@@ -3,8 +3,6 @@ title: "Plasma Crypto: Meaning, Architecture, and NFT Ownership"
 description: "Learn what plasma crypto means, how Plasma blockchain architecture is commonly described, and why it does not by itself establish ownership of NFTs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

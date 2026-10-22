@@ -3,8 +3,6 @@ title: "Crypto linked cards: how card payments connect to crypto systems"
 description: "Learn how crypto linked cards connect card payments to crypto accounts, including authorization, funding choices, settlement roles, and key operational dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto linked card"]

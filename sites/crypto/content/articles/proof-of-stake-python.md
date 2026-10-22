@@ -3,8 +3,6 @@ title: "Proof of stake python: modeling validator selection and consensus"
 description: "See how proof of stake python can illustrate validator selection and state changes, and why a teaching model is not production-ready consensus software."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake python"]

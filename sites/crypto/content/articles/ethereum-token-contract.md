@@ -3,8 +3,6 @@ title: "Ethereum Token Contract: Meaning, Roles, and How It Works"
 description: "Learn what an ethereum token contract is, how its on-chain rules govern token behavior, and how contract-based tokens differ from Ethereum’s native ETH."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

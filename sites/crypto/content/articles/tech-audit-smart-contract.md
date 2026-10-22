@@ -3,8 +3,6 @@ title: "Tech Audit Smart Contract: Scope, Process, and Limits"
 description: "A tech audit smart contract review examines code, assumptions, and risks. Learn how reviews work, what reports contain, and why audits cannot guarantee safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

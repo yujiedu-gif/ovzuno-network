@@ -3,8 +3,6 @@ title: "New Layer 1 Crypto: Meaning, Architecture, and Scaling"
 description: "Learn what new layer 1 crypto means, how a Layer 1 handles core blockchain functions, and what to check when evaluating its scaling design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

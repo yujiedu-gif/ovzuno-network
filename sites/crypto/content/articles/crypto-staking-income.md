@@ -3,8 +3,6 @@ title: "Crypto staking income: how protocol rewards reach participants"
 description: "Learn how crypto staking income is generated and distributed, and how validator performance, protocol rules, fees, and participation affect realized rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

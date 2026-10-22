@@ -3,8 +3,6 @@ title: "How to do cryptocurrency: a tax-reporting preparation guide"
 description: "How to do cryptocurrency tax reporting starts with identifying your jurisdiction, organizing transaction records, and checking current official guidance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["regulation_tax_reporting"]
 tags: ["how to do crypto currency", "cryptocurrency"]

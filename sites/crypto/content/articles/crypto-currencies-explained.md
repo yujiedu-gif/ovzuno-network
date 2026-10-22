@@ -3,8 +3,6 @@ title: "Crypto Currencies Explained: Meaning, Networks, and Core Functions"
 description: "Crypto currencies explained: learn what the term means, how networks record and validate transactions, and how these assets relate to broader crypto infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto currencies"]

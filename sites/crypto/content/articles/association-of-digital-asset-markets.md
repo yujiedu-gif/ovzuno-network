@@ -3,8 +3,6 @@ title: "Association of Digital Asset Markets: Purpose and Role"
 description: "Learn what the association of digital asset markets is, how it describes its role, and what institutions should distinguish from market services or regulation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["association for digital asset markets", "association digital asset markets"]

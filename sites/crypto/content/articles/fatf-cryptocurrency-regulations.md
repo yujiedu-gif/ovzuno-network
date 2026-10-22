@@ -3,8 +3,6 @@ title: "FATF Cryptocurrency Regulations: Standards, Scope, and National Law"
 description: "Understand FATF cryptocurrency regulations, the standards’ scope, and how national authorities translate recommendations into rules for crypto activities."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["FATF Recommendations", "virtual asset service providers", "Travel Rule"]

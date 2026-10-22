@@ -3,8 +3,6 @@ title: "All L1 Blockchains: A Scoped Reference List"
 description: "Explore all l1 blockchains through a scoped, criteria-based reference list that distinguishes Layer 1 networks from Layer 2 systems and related components."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["all 1 blockchains"]

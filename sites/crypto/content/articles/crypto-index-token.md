@@ -3,8 +3,6 @@ title: "Crypto Index Token: How Basket-Based Crypto Exposure Works"
 description: "Learn how a crypto index token represents a defined basket of crypto assets, how index rules and rebalancing may work, and what risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Infinex blockchain: what the term refers to"
 description: "Learn what “infinex blockchain” may refer to, how to distinguish a crypto platform from an underlying blockchain, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

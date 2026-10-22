@@ -3,8 +3,6 @@ title: "LEMX crypto: what the term refers to and how to verify it"
 description: "Learn what LEMX crypto may refer to, how to verify a claimed asset or service against primary records, and what remains uncertain without reliable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

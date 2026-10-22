@@ -3,8 +3,6 @@ title: "Smart Contract Marketplace: How On-Chain Transactions Work"
 description: "Learn what a smart contract marketplace is, how contracts can coordinate listings and transactions, and what design limits and risks readers should examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["on-chain marketplace", "smart contract", "decentralized application"]

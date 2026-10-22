@@ -3,8 +3,6 @@ title: "Ethereum Foundation Treasury: Meaning, Scope, and Disclosures"
 description: "Learn what the ethereum foundation treasury refers to, how it differs from network assets, and what disclosures can—and cannot—show about its scope."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto titan token: how to identify and verify the asset"
 description: "Learn how to identify what “crypto titan token” refers to, verify its network and contract address, and separate documented token details from unverified claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

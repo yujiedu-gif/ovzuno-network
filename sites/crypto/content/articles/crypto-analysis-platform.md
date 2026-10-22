@@ -3,8 +3,6 @@ title: "Crypto Analysis Platform: A Framework for Evaluating On-Chain Data Analy
 description: "Assess a crypto analysis platform for on-chain data coverage, analytics workflows, integrations, data quality, and governance using a practical evidence checklist."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["onchain_data_analytics"]
 tags: ["on-chain analytics platform", "blockchain data analytics", "on-chain data analytics"]

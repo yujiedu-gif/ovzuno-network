@@ -3,8 +3,6 @@ title: "Crypto WazirX: Its Role in Exchange Market Infrastructure"
 description: "Explore crypto WazirX as an exchange-market infrastructure topic, with a careful distinction between general platform functions and claims requiring current evidence"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

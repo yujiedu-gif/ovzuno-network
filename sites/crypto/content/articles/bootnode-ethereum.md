@@ -3,8 +3,6 @@ title: "Bootnode Ethereum: What It Is and How Peer Discovery Works"
 description: "Learn what a bootnode Ethereum is, how it helps a node discover peers, and why it is an entry point rather than a central controller of the network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bootnodes ethereum"]

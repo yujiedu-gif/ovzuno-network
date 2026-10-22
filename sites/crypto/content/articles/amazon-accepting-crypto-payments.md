@@ -3,8 +3,6 @@ title: "Amazon Accepting Crypto Payments: What Shoppers Should Verify"
 description: "Learn how to verify whether Amazon accepting crypto payments means direct checkout support or an indirect route, and what evidence to check before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["amazon accepting crypto payment"]

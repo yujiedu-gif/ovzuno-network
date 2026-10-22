@@ -3,8 +3,6 @@ title: "NFT Battle Codes: What the Term Means in Games"
 description: "Learn what nft battle codes may mean in gaming, how redemption codes differ from NFTs, and what blockchain records can and cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

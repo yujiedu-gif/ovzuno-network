@@ -3,8 +3,6 @@ title: "smart crypto mining: meaning, automation, and consensus"
 description: "Learn what smart crypto mining may describe, how it relates to proof-of-work consensus, and how to distinguish mining automation from consensus rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

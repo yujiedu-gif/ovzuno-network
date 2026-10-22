@@ -3,8 +3,6 @@ title: "What Is Meteora Crypto? A Clear, Sourced Definition"
 description: "What is meteora crypto? Learn what Meteora refers to, its documented role in the crypto ecosystem, and how to distinguish it from payment infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["meteora crypto"]

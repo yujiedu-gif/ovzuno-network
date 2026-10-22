@@ -3,8 +3,6 @@ title: "MATIC Crypto: Meaning, Polygon Role, and Key Considerations"
 description: "Learn what matic crypto refers to, how it relates to Polygon, and which network, custody, security, and compliance details to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

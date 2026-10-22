@@ -3,8 +3,6 @@ title: "Metaverse crypto tokens: roles, uses, and limits"
 description: "Learn what metaverse crypto tokens can do in virtual-world projects, how utility and governance roles differ, and why token ownership may not grant platform rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin peak: meaning in market and protocol contexts"
 description: "Learn what bitcoin peak means in market commentary, how a price high differs from a Bitcoin protocol milestone, and why context matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins peak"]

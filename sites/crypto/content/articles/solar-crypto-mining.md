@@ -3,8 +3,6 @@ title: "Solar crypto mining: how solar power can support proof-of-work operation
 description: "Learn how solar crypto mining can supply proof-of-work equipment, and how generation variability, storage, grid access, and site conditions shape operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["solar-powered Bitcoin mining", "renewable energy for proof-of-work mining", "battery storage for mining"]

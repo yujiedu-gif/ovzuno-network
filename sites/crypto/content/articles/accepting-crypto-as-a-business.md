@@ -3,8 +3,6 @@ title: "Accepting crypto as a business: a validator operations explainer"
 description: "Accepting crypto as a business can involve more than payments. Learn what operating a proof-of-stake validator entails and which responsibilities to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Threshold Network Crypto: Protocol Design, Threshold Cryptography, and t
 description: "Learn what Threshold Network crypto refers to, how threshold cryptography supports its protocol design, and how Threshold, T, and tBTC differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["threshold network", "threshold cryptography", "tBTC"]

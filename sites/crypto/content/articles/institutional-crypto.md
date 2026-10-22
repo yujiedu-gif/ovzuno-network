@@ -3,8 +3,6 @@ title: "Institutional crypto: treasury scope, governance, and operational consid
 description: "Learn what institutional crypto treasury activity covers, how governance and operations shape adoption, and which risks and jurisdiction-specific questions need due"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

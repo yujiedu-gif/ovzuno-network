@@ -3,8 +3,6 @@ title: "Failed crypto exchanges: failure mechanisms and infrastructure consequen
 description: "Understand why failed crypto exchanges may halt access or disrupt markets, how common breakdowns differ, and what evidence is needed to assess each case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["exchange_market_infrastructure"]
 tags: []

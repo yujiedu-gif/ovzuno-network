@@ -3,8 +3,6 @@ title: "Gucci Accept Crypto: How to Verify Current Payment Options"
 description: "Learn how to verify whether gucci accept crypto by checking current official payment information for the relevant country, sales channel, and checkout."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

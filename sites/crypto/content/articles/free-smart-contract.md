@@ -3,8 +3,6 @@ title: "Free Smart Contract: What “Free” Means and What It May Cost"
 description: "Learn what a free smart contract may include, which costs can remain for testing, deployment, and operation, and what to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["free smart contracts"]

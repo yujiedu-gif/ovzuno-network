@@ -3,8 +3,6 @@ title: "Smart Contract Monad: What the Term Means"
 description: "Learn what smart contract monad means: a smart contract deployed to run on Monad, how it relates to the network, and what the term does not imply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

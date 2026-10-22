@@ -3,8 +3,6 @@ title: "Full Explanation of Cryptocurrency: Assets, Protocols, and Networks"
 description: "A full explanation of cryptocurrency: learn how digital assets, protocols, networks, and transactions relate, plus key limitations and context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["full explanation cryptocurrency"]

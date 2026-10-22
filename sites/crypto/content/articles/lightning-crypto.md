@@ -3,8 +3,6 @@ title: "Lightning crypto: meaning and how Bitcoin payments work"
 description: "Learn what lightning crypto means, how Bitcoin Lightning payment channels route payments, and how the system differs from on-chain transfers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["Bitcoin Lightning Network", "Bitcoin payment channels", "Lightning Network payments"]

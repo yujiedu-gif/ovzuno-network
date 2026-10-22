@@ -3,8 +3,6 @@ title: "solidity-bytes slice: Meaning, Bounds, and Usage"
 description: "Learn what a solidity-bytes slice represents, how byte ranges and bounds work, and which Solidity version and data-location details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solidity bytes slice"]

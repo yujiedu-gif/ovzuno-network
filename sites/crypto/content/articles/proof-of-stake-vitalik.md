@@ -3,8 +3,6 @@ title: "Proof of stake vitalik: ideas, proposals, and Ethereum validators"
 description: "Explore proof of stake vitalik through sourced explanations of his ideas, Ethereum validator consensus, and the difference between proposals and implemented rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake vitalik"]

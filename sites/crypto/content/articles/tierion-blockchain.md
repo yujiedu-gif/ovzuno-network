@@ -3,8 +3,6 @@ title: "Tierion blockchain: project definition and record verification"
 description: "Understand the Tierion blockchain project, its approach to verifiable records, and which details about its services or status need current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

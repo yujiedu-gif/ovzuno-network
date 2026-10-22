@@ -3,8 +3,6 @@ title: "Can You Mine Crypto on iPhone? Technical Limits Explained"
 description: "Learn whether you can mine crypto on iphone through proof-of-work, how iPhone hardware and iOS constraints affect participation, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

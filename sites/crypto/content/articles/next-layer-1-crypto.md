@@ -3,8 +3,6 @@ title: "Next layer 1 crypto: meaning, claims, and how to assess them"
 description: "Learn what next layer 1 crypto can mean, how proposed Layer 1 designs describe their goals, and what evidence readers need to assess those claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

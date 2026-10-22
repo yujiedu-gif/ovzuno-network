@@ -3,8 +3,6 @@ title: "ATOM Proof of Stake: How Cosmos Hub Staking Works"
 description: "Learn how ATOM proof of stake works on the Cosmos Hub, what validators and delegators do, and which operational risks to understand before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["atom proof stake"]

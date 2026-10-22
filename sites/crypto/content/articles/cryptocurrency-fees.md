@@ -3,8 +3,6 @@ title: "Cryptocurrency fees: what they pay for and why they vary"
 description: "Learn what cryptocurrency fees pay for, how network fees differ from intermediary charges, and why transaction costs can vary across networks and conditions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["cryptocurrency fee"]

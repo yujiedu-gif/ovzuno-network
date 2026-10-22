@@ -3,8 +3,6 @@ title: "Smart crypto: how programmable blockchain payments work"
 description: "Learn how smart crypto supports programmable blockchain payments, from user authorization and transaction execution to settlement, infrastructure roles, and key cave"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

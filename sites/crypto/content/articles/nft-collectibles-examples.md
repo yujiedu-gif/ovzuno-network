@@ -3,8 +3,6 @@ title: "NFT Collectibles Examples: Types and What They Represent"
 description: "Explore nft collectibles examples across digital cards, profile items, game assets, and more, with clear distinctions between token ownership and associated rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

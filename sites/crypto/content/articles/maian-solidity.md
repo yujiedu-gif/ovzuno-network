@@ -3,8 +3,6 @@ title: "MAIAN Solidity: What the Smart-Contract Analysis Tool Does"
 description: "Learn what MAIAN Solidity was designed to analyze, the smart-contract behaviors it targets, and why its findings do not establish overall contract security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

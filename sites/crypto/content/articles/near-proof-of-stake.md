@@ -3,8 +3,6 @@ title: "near proof of stake: How NEAR validators relate to consensus"
 description: "Learn how near proof of stake relates to NEAR validators, staking, and consensus, with a focused explanation of roles, protocol mechanics, and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["near proof stake", "NEAR validators", "NEAR staking"]

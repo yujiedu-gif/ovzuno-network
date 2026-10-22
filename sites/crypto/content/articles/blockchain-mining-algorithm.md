@@ -3,8 +3,6 @@ title: "Blockchain Mining Algorithm: Definition and Role in Proof of Work"
 description: "Learn what a blockchain mining algorithm is, how it supports proof-of-work block validation, and how it differs from a network’s broader consensus rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["mining algorithm blockchain"]

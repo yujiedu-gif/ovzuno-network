@@ -3,8 +3,6 @@ title: "Blockchain models: a guide to access, control, and visibility"
 description: "Compare blockchain models by access, validation, governance, and transaction visibility, and see why public, private, permissionless, and permissioned labels can"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

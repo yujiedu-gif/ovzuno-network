@@ -3,8 +3,6 @@ title: "ny crypto exchanges: New York authorization and operational checks"
 description: "Learn how to assess ny crypto exchanges in New York: verify authorization, service availability, custody safeguards, and compliance claims with authoritative sources"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["crypto exchanges in ny"]

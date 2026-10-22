@@ -3,8 +3,6 @@ title: "Bonding Curve Smart Contract: How It Works and Key Risks"
 description: "Learn how a bonding curve smart contract links token supply to a pricing rule, how buys and sells may affect reserves, and what implementation risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

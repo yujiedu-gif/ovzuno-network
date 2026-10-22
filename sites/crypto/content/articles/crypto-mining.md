@@ -3,8 +3,6 @@ title: "Crypto mining: its role in proof-of-work consensus"
 description: "Learn how crypto mining supports proof-of-work consensus by proposing blocks, ordering transactions, and making changes to blockchain history costly to produce."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

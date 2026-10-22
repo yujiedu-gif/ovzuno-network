@@ -3,8 +3,6 @@ title: "Apple Cash Crypto: What It Can and Cannot Do"
 description: "Apple Cash crypto explained: distinguish Apple Cash features from third-party crypto funding routes, and check current U.S. terms, eligibility, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

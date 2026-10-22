@@ -3,8 +3,6 @@ title: "Ether Solidity: How Ether and Solidity Relate in Ethereum dApps"
 description: "Understand ether solidity by distinguishing Ethereum’s native asset from its contract language and seeing how both can feature in dApps and smart contracts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

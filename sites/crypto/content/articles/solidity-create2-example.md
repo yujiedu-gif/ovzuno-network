@@ -3,8 +3,6 @@ title: "solidity-create2-example: Code, Address Derivation, and Checks"
 description: "Follow a solidity-create2-example through minimal factory code, address derivation, deployment checks, and practical pitfalls for Solidity developers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["create2 solidity example", "solidity create2 example"]

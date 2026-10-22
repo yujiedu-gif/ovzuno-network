@@ -3,8 +3,6 @@ title: "Proof of Work How It Works: Block Validation and Consensus"
 description: "Learn proof of work how it works: how miners search for valid blocks, how nodes verify the result, and how consensus rules guide acceptance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work it works"]

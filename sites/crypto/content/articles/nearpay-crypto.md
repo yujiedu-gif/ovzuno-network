@@ -3,8 +3,6 @@ title: "NearPay crypto: what the term refers to and what to verify"
 description: "Learn what NearPay crypto may refer to, how to check claims about card payments and conversion, and which availability or regulatory details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

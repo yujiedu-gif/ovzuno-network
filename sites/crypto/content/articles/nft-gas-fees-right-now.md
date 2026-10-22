@@ -3,8 +3,6 @@ title: "NFT Gas Fees Right Now: What They Mean and How to Check"
 description: "Understand nft gas fees right now: learn what drives NFT transaction costs, why estimates change, and how to check a fee for a specific network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["nft gas fee right now"]

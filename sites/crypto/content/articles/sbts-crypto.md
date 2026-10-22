@@ -3,8 +3,6 @@ title: "SBTS Crypto: What Soulbound Tokens Mean and How They Work"
 description: "Learn what sbts crypto refers to, how soulbound tokens are designed to resist transfer, and the identity, privacy, and recovery tradeoffs involved."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

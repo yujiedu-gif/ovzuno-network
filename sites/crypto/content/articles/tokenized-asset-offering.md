@@ -3,8 +3,6 @@ title: "Tokenized asset offering: structure, rights, and operations"
 description: "Learn how a tokenized asset offering connects underlying rights, token design, issuance, and ongoing operations, plus what to verify for a specific case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

@@ -3,8 +3,6 @@ title: "ERC20 standard token: what the interface defines"
 description: "Learn what the erc20 standard token interface defines, how transfers and approvals work, and which behaviors remain specific to each contract implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 interface", "token contract", "allowance", "transferFrom"]

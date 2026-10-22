@@ -3,8 +3,6 @@ title: "Example Crypto Wallet Address: Formats and Safe Use"
 description: "See what an example crypto wallet address can illustrate, why formats vary by network, and how to avoid treating a sample as a usable destination."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["crypto wallet address example"]

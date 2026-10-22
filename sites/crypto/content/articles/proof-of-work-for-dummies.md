@@ -3,8 +3,6 @@ title: "Proof of work for dummies: how blockchain consensus works"
 description: "Proof of work for dummies: learn how miners search for valid blocks, how peers verify the result, and what this consensus mechanism can and cannot do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work dummies"]

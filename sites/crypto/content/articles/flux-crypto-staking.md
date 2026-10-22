@@ -3,8 +3,6 @@ title: "Flux Crypto Staking: What the Term Means in the Flux Network"
 description: "Learn what flux crypto staking refers to in the Flux network, how it differs from node collateral or other participation, and what official documentation to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

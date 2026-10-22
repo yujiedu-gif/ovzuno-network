@@ -3,8 +3,6 @@ title: "Apple Accepting Crypto Payments: Direct Support and Workarounds"
 description: "Apple accepting crypto payments: learn how to distinguish direct cryptocurrency acceptance by Apple from third-party routes, and what official evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["apple accepting crypto payment"]

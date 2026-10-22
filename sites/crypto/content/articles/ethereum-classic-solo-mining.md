@@ -3,8 +3,6 @@ title: "Ethereum Classic Solo Mining: How It Works and What to Know"
 description: "Learn what ethereum classic solo mining means, how it differs from pool mining, and which technical, security, and jurisdiction-specific details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

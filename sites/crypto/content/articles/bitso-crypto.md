@@ -3,8 +3,6 @@ title: "Bitso crypto: an evidence-based infrastructure overview"
 description: "Understand Bitso crypto’s documented role in exchange infrastructure, distinguish established information from open questions, and verify details that may change."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

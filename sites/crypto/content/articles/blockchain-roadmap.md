@@ -3,8 +3,6 @@ title: "Blockchain roadmap: planning a blockchain payment initiative"
 description: "A blockchain roadmap helps payment teams assess fit, define requirements, plan validation stages, and identify technical, operational, and compliance questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain development roadmap", "blockchain project milestones", "blockchain implementation planning"]

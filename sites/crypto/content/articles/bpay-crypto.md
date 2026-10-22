@@ -3,8 +3,6 @@ title: "bpay crypto: Meaning, Context, and Verification"
 description: "Learn what bpay crypto may refer to, how to verify a named service, and which payment, jurisdiction, and compliance details require current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Miner Online: What the Term Means in Proof-of-Work Networks"
 description: "Learn what crypto miner online can mean in proof-of-work networks, how connected mining components differ, and what the phrase alone cannot confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

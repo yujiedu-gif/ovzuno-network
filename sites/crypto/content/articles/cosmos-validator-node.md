@@ -3,8 +3,6 @@ title: "Cosmos Validator Node: Role, Components, and Responsibilities"
 description: "Learn what a cosmos validator node does in a Cosmos-based proof-of-stake network, how it relates to delegators, and which operations vary by chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

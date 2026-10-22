@@ -3,8 +3,6 @@ title: "OSINT Crypto: Meaning, Uses, and Limits for Institutional Research"
 description: "Learn what osint crypto means, how public-source research differs from on-chain analytics, and what institutional teams should verify about privacy, law, and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

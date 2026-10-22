@@ -3,8 +3,6 @@ title: "Luna Crypto Token: Meaning and Terra Ecosystem Context"
 description: "Learn what the luna crypto token refers to, how it relates to Terra, and why network identity, token details, and current status require careful verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin blockchain record: what it means"
 description: "Learn what a bitcoin blockchain record refers to, how transaction data differs from block details, and what the public ledger does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

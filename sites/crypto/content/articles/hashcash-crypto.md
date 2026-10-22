@@ -3,8 +3,6 @@ title: "Hashcash crypto: How its proof of work relates to cryptocurrency"
 description: "Learn what hashcash crypto means, how its computational proof of work was designed to deter abuse, and how that idea relates to crypto consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Hashcash proof of work", "proof-of-work systems", "spam-resistant computation"]

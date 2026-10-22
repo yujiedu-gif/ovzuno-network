@@ -3,8 +3,6 @@ title: "Institutional cryptocurrency custody: governance and operational control
 description: "Assess institutional cryptocurrency custody through governance, key management, transaction approval, monitoring, incident response, and third-party risk controls."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: ["institutional crypto custody", "custody risk controls", "digital asset governance"]

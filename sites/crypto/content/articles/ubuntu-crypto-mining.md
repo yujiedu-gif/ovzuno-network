@@ -3,8 +3,6 @@ title: "Ubuntu crypto mining: operating system, hardware, and key considerations
 description: "Learn how Ubuntu crypto mining fits into proof-of-work systems, including the roles of the operating system, hardware, mining software, and operational risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

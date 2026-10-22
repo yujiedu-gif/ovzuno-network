@@ -3,8 +3,6 @@ title: "Crypto chart app: how charts, market data, and features fit together"
 description: "Learn what a crypto chart app displays, how market-data sources affect its charts, which features to assess, and what limits to check before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

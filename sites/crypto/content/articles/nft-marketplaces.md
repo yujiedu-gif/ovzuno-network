@@ -3,8 +3,6 @@ title: "NFT Marketplaces: How Discovery, Listings, and Transactions Work"
 description: "Learn how nft marketplaces organize NFT discovery, listings, and transactions, and why a marketplace listing is distinct from the token and its associated rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft marketplace"]

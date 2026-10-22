@@ -3,8 +3,6 @@ title: "Ankr crypto staking: services, validators, and key considerations"
 description: "Understand Ankr crypto staking by separating service interfaces from validator and network roles, and learn which product details and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

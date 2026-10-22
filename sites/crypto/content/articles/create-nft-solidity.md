@@ -3,8 +3,6 @@ title: "Create NFT Solidity: A Practical ERC-721 Contract Guide"
 description: "Create NFT Solidity with a basic ERC-721 contract: understand token IDs, metadata references, minting logic, testing steps, and pre-deployment checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

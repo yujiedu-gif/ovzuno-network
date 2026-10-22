@@ -3,8 +3,6 @@ title: "Solidity interface inheritance: how inherited declarations work"
 description: "Learn how solidity interface inheritance combines interface declarations, what implementing contracts must provide, and how to verify behavior for a Solidity version"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Free mining crypto: what “free” can mean and what it may require"
 description: "Free mining crypto can refer to different participation claims. Learn what “free” may cover, what resources or requirements can remain, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

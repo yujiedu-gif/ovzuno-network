@@ -3,8 +3,6 @@ title: "NFT Smart Contract Audit: Scope, Findings, and Limitations"
 description: "Learn what an nft smart contract audit may examine, how findings are reported, and why scope and review limits matter when assessing NFT contract risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

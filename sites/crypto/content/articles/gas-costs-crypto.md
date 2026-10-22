@@ -3,8 +3,6 @@ title: "Gas Costs Crypto: How Blockchain Transaction Fees Work"
 description: "Learn what gas costs crypto refers to, how gas usage and pricing determine a blockchain transaction fee, and why costs can vary by transaction and network conditions"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain transaction fees", "network congestion", "gas limit", "gas price"]

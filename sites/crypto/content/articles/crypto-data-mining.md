@@ -3,8 +3,6 @@ title: "Crypto data mining: how data processing supports proof-of-work"
 description: "Crypto data mining explained: see what information proof-of-work miners process, how hash trials help propose blocks, and how network consensus follows."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

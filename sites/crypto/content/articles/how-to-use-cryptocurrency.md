@@ -3,8 +3,6 @@ title: "How to Use Cryptocurrency: A Practical Payment Guide"
 description: "Learn how to use cryptocurrency for a payment: check wallet and network compatibility, verify recipient details, send carefully, and review transaction status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["use cryptocurrency"]

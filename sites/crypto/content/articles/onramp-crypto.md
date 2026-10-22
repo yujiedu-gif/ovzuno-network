@@ -3,8 +3,6 @@ title: "Onramp crypto: how fiat becomes cryptocurrency"
 description: "Learn how onramp crypto moves value from fiat payment methods into cryptocurrency, which parties may be involved, and what to verify before implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["fiat-to-crypto onramp", "crypto onramp"]

@@ -3,8 +3,6 @@ title: "ADA Crypto Staking: Delegation, Rewards, and Risks Explained"
 description: "Learn how ADA crypto staking works through delegation, what holders and stake pools do, how rewards are determined, and which risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

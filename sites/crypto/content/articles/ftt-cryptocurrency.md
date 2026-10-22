@@ -3,8 +3,6 @@ title: "FTT cryptocurrency: identity, historical utility, and status"
 description: "Learn what FTT cryptocurrency is, how its role was described in the FTX ecosystem, and which evidence readers need to assess its current status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

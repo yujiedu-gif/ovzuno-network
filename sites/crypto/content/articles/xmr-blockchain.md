@@ -3,8 +3,6 @@ title: "XMR blockchain: What Monero’s Ledger Records"
 description: "Understand what “xmr blockchain” means, how Monero records XMR payments, and why its privacy design changes transaction visibility without guaranteeing anonymity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

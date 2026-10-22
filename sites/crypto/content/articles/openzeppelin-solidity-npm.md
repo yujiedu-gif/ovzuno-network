@@ -3,8 +3,6 @@ title: "openzeppelin solidity npm: What the Term Refers To"
 description: "Understand what openzeppelin solidity npm refers to, how npm packages relate to Solidity libraries, and what developers should verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["npm openzeppelin solidity"]

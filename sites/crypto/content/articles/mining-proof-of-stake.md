@@ -3,8 +3,6 @@ title: "Mining Proof of Stake: Why the Term Is Used and What Validators Do"
 description: "Understand why people say mining proof of stake, how validators participate in consensus, and how the process differs from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["mining proof stake"]

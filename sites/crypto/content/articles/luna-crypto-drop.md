@@ -3,8 +3,6 @@ title: "Luna Crypto Drop: What Happened in the Terra Collapse"
 description: "Explore the luna crypto drop through a dated account of the TerraUSD depeg, Terra’s stabilization mechanisms, and the limits of causal claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Terra collapse", "LUNA token", "TerraUSD depeg"]

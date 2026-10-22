@@ -3,8 +3,6 @@ title: "ipfs ethereum: How the Two Systems Work Together"
 description: "Learn how ipfs ethereum applications connect on-chain records with content-addressed data, and what Ethereum and IPFS do—and do not—guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum ipfs"]

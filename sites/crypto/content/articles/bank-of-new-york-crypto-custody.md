@@ -3,8 +3,6 @@ title: "Bank of New York Crypto Custody: Institutional Due Diligence"
 description: "A due-diligence framework for bank of New York crypto custody: verify service scope, asset controls, operational dependencies, and unresolved legal risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: ["bank new york crypto custody"]

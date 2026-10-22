@@ -3,8 +3,6 @@ title: "Voucher crypto: How purchase and redemption work"
 description: "Learn how voucher crypto purchases, issuance, delivery, and redemption typically work, and what to verify about terms, geography, expiry, fees, and protections."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto vouchers", "crypto gift cards"]

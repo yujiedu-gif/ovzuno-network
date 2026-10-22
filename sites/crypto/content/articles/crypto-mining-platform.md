@@ -3,8 +3,6 @@ title: "Crypto Mining Platform: Functions, Requirements, and Evaluation Criteria
 description: "Learn what a crypto mining platform does and assess its operational requirements, integrations, controls, security considerations, and evidence needs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

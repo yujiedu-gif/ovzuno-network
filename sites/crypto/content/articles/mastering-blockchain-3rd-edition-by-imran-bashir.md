@@ -3,8 +3,6 @@ title: "mastering blockchain 3rd edition by imran bashir: Scope and Learning Fit
 description: "Explore the verified scope of mastering blockchain 3rd edition by imran bashir, how its blockchain topics may support learning, and what to check before relying on"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["mastering blockchain 3 edition by imran bashir"]

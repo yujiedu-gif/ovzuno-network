@@ -3,8 +3,6 @@ title: "WooCommerce Crypto Payments: How Checkout and Orders Work"
 description: "Learn how WooCommerce crypto payments connect checkout, payment confirmation, and order status, plus the integration and operational details stores should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["woocommerce crypto payment"]

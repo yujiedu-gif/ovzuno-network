@@ -3,8 +3,6 @@ title: "Crypto Mining with Raspberry Pi: Uses, Limits, and What to Check"
 description: "Learn what crypto mining with raspberry pi can demonstrate, where hardware limits matter, and which network and device details to verify before testing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Raspberry Pi mining", "proof-of-work mining hardware", "mining hashrate"]

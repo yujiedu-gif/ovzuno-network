@@ -3,8 +3,6 @@ title: "DeFi wallet api: a vendor-neutral integration guide"
 description: "Learn how to assess and integrate a defi wallet api, from application requirements and signing boundaries to transaction-state handling and testing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: []

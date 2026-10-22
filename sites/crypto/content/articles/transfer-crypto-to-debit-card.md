@@ -3,8 +3,6 @@ title: "How to Transfer Crypto to Debit Card: Funding and Conversion Explained"
 description: "Learn how to transfer crypto to debit card: distinguish card-balance funding from purchase-time conversion, trace the generic flow, and check key dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["transfer crypto debit card"]

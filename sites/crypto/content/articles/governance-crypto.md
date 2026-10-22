@@ -3,8 +3,6 @@ title: "Governance crypto: How protocol decisions are made"
 description: "Learn how governance crypto decisions move from proposal to implementation, how on-chain and off-chain processes differ, and what trade-offs they create."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["crypto in government"]

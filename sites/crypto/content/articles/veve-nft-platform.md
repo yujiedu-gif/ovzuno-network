@@ -3,8 +3,6 @@ title: "veve nft platform: evaluating digital-collectible features and ownership
 description: "Evaluate the veve nft platform for digital-collectible use cases by examining documented features, ownership terms, access requirements, and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["nfts_digital_ownership"]
 tags: []

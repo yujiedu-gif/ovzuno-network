@@ -3,8 +3,6 @@ title: "1 bitcoin: Meaning, Unit, and Subdivisions"
 description: "Learn what 1 bitcoin represents as a Bitcoin unit, how it is divided into satoshis, and why its unit amount is distinct from market value."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["1bitcoin"]

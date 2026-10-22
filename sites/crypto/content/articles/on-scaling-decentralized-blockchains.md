@@ -3,8 +3,6 @@ title: "On scaling decentralized blockchains: approaches and trade-offs"
 description: "Explore on scaling decentralized blockchains: how scaling approaches increase capacity, their trade-offs for security and decentralization, and what protocols should"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

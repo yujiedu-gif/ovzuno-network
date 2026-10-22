@@ -3,8 +3,6 @@ title: "Non fungible digital asset: uniqueness, representation, and rights"
 description: "Learn what makes a non fungible digital asset unique, how token records differ from off-chain assets and rights, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

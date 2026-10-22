@@ -3,8 +3,6 @@ title: "OKX Crypto Fees: Understanding Platform and Network Costs"
 description: "Learn how okx crypto fees can differ by transaction type, platform charge, and blockchain network cost, and what to verify before estimating a total."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["okx crypto fee"]

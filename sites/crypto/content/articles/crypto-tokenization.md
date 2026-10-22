@@ -3,8 +3,6 @@ title: "Crypto tokenization: how tokens connect to assets and rights"
 description: "Learn how crypto tokenization connects blockchain tokens with off-chain assets or rights, and which technical and operational components support issuance and ongoing"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

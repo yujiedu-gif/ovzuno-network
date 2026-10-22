@@ -3,8 +3,6 @@ title: "The Token Crypto: Meaning, Creation, and Role in Blockchain Systems"
 description: "Learn what the token crypto means, how tokens are represented on blockchains, how protocols define their behavior, and what roles tokens can serve."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token crypto"]

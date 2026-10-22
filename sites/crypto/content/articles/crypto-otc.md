@@ -3,8 +3,6 @@ title: "Crypto OTC: How Over-the-Counter Trading Fits Into Market Infrastructure
 description: "Learn what crypto OTC trading means, how a typical trade proceeds from request to settlement, and how the workflow differs from exchange order-book execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["over-the-counter crypto trading", "OTC crypto desk", "block trading"]

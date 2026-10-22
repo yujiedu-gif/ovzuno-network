@@ -3,8 +3,6 @@ title: "Polygon blockchain NFT: what it is and how it works"
 description: "Learn what a polygon blockchain nft represents, how its token and metadata relate, and what the blockchain record does—and does not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

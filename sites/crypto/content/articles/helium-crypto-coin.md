@@ -3,8 +3,6 @@ title: "Helium crypto coin: HNT, network participation, and rewards"
 description: "Learn what the Helium crypto coin is, how HNT relates to network participation, and why Helium’s coverage incentives differ from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Helium Network", "HNT", "proof of coverage", "Helium mining"]

@@ -3,8 +3,6 @@ title: "On chain data free: what public access does—and doesn’t—mean"
 description: "Learn what on chain data free access can mean across blockchain networks, including public records, retrieval costs, indexing limits, and verification checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

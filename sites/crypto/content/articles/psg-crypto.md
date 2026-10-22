@@ -3,8 +3,6 @@ title: "PSG crypto: how to identify what the term refers to"
 description: "Learn how to identify what PSG crypto refers to, check authoritative project and asset details, and avoid treating an ambiguous label as proof of identity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

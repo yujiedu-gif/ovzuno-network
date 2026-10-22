@@ -3,8 +3,6 @@ title: "Smart contracts what are they? A clear, practical explanation"
 description: "Smart contracts what are they? Learn how blockchain programs execute, how applications use them, and why their actions depend on code and outside inputs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contracts are they"]

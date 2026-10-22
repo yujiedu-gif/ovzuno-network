@@ -3,8 +3,6 @@ title: "ripplenet blockchain: How the Payment Network Relates to Distributed Led
 description: "Learn what the ripplenet blockchain phrase refers to, how RippleNet relates to payment messaging and the XRP Ledger, and where the terms differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["RippleNet", "XRP Ledger", "cross-border payments"]

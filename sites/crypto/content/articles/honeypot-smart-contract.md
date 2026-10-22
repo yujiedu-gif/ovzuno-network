@@ -3,8 +3,6 @@ title: "Honeypot smart contract: how restrictions can trap token holders"
 description: "Learn how a honeypot smart contract can restrict token sales or transfers, which code and transaction signals may matter, and why inspection has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["crypto honeypot", "token honeypot", "smart contract risk"]

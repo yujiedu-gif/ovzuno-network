@@ -3,8 +3,6 @@ title: "Decentralized crypto exchange app: how the user flow works"
 description: "See how a decentralized crypto exchange app connects a wallet to on-chain trading, what a swap transaction does, and which risks users should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

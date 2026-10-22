@@ -3,8 +3,6 @@ title: "Living off crypto staking: rewards, constraints, and risks"
 description: "Living off crypto staking depends on reward variability, token prices, lockups, costs, and operational risks. Learn what to assess before relying on rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Newest crypto coins: how to identify their consensus and mining model"
 description: "Learn how to assess newest crypto coins by checking launch records and technical documentation for proof-of-work mining, staking, or hybrid consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

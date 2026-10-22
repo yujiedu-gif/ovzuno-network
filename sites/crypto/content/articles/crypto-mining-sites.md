@@ -3,8 +3,6 @@ title: "Crypto Mining Sites: Operations, Infrastructure, and Evaluation"
 description: "Learn how crypto mining sites support proof-of-work networks and assess their infrastructure, operations, and claims with a neutral due-diligence checklist."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

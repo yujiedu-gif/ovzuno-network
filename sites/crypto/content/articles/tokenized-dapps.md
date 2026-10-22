@@ -3,8 +3,6 @@ title: "Tokenized dapps: meaning, components, and token roles"
 description: "Learn what tokenized dapps are, how application tokens can interact with smart contracts, and why token use alone does not establish ownership or control."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["dapp token"]

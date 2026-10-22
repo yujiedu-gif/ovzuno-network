@@ -3,8 +3,6 @@ title: "Hyperledger Proof of Work: What the Term Means"
 description: "Learn what hyperledger proof of work means, whether it describes Hyperledger frameworks, and how to check framework-specific consensus documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["hyperledger proof work"]

@@ -3,8 +3,6 @@ title: "NFT standard: interfaces, compatibility, and limits"
 description: "Understand what an NFT standard specifies, how shared interfaces support compatibility, and why a standard alone does not define an NFT’s asset or rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

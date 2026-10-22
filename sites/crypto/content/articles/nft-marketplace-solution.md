@@ -3,8 +3,6 @@ title: "NFT Marketplace Solution: Requirements and Trade-Offs to Assess"
 description: "Assess an nft marketplace solution by comparing ownership models, user flows, architecture, governance, and operating requirements before making a decision."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["nfts_digital_ownership"]
 tags: []

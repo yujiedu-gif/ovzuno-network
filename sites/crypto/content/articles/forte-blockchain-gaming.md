@@ -3,8 +3,6 @@ title: "Forte blockchain gaming: meaning and infrastructure context"
 description: "Learn what Forte blockchain gaming refers to, how blockchain infrastructure may support games, and which product, jurisdiction, and risk details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["forte blockchain games"]

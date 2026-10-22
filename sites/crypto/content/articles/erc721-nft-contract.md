@@ -3,8 +3,6 @@ title: "ERC721 NFT Contract: Core Functions and Integration Checks"
 description: "Understand how an erc721 nft contract handles token ownership, transfers, approvals, and metadata, plus the implementation details builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 interface", "NFT smart contract", "token ownership", "safe transfer", "metadata URI"]

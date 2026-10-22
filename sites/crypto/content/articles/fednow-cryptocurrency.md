@@ -3,8 +3,6 @@ title: "FedNow Cryptocurrency: How the Payment Systems Differ"
 description: "Learn how fednow cryptocurrency claims relate to the U.S. FedNow Service, what distinguishes instant payments from crypto networks, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["FedNow Service", "instant payments", "crypto payment infrastructure"]

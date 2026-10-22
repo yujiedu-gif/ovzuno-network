@@ -3,8 +3,6 @@ title: "solidity node js: Meaning and Smart-Contract Connections"
 description: "Understand what solidity node js refers to, how Solidity contracts differ from Node.js applications, and how the two can interact in a dApp."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

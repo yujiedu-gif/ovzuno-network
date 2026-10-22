@@ -3,8 +3,6 @@ title: "Gala Crypto Staking: Meaning, Mechanics, and What to Verify"
 description: "Learn what gala crypto staking may mean in the Gala ecosystem, how to distinguish protocol mechanics from third-party offers, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

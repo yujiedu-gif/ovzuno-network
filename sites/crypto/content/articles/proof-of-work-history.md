@@ -3,8 +3,6 @@ title: "Proof of Work History: From Computational Puzzles to Blockchain Consensu
 description: "Explore proof of work history, from early computational puzzles to its adoption in blockchain consensus, with a sourced chronology and clear context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work history"]

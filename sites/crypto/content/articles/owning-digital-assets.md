@@ -3,8 +3,6 @@ title: "Owning digital assets: control, custody, and legal rights"
 description: "Understand owning digital assets by separating blockchain control, custody arrangements, and legal rights, and see which questions depend on asset design and local"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital asset ownership", "private keys", "custody"]

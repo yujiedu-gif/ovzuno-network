@@ -3,8 +3,6 @@ title: "Crypto platforms in payment operations: components and roles"
 description: "Learn what crypto platforms can mean in payment operations, how common components fit together, and which operational questions require separate review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

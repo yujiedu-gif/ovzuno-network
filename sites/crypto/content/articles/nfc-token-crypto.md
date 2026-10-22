@@ -3,8 +3,6 @@ title: "NFC Token Crypto: How Near-Field Communication Can Interact With Crypto"
 description: "Learn what NFC token crypto can mean, how near-field communication may connect to crypto assets, and which security and design limits to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

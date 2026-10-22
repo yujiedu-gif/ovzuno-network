@@ -3,8 +3,6 @@ title: "Verified smart contract: what verification establishes and what it does 
 description: "Learn what a verified smart contract indicates about published source code, how verification is checked, and why it does not guarantee safety or compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

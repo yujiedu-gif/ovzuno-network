@@ -3,8 +3,6 @@ title: "Cocoon blockchain: its role in payment infrastructure"
 description: "Understand the Cocoon blockchain through its documented components, payment-infrastructure context, and the operational claims readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

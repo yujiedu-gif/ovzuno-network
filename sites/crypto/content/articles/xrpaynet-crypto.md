@@ -3,8 +3,6 @@ title: "XRPayNet Crypto: What Its Payment Role and Operating Model Mean"
 description: "Explore what xrpaynet crypto refers to, how its stated payment role can be assessed, and which operational, security, and regulatory details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin difficulty chart: what it shows and how to read it"
 description: "Learn what a bitcoin difficulty chart measures, why Bitcoin mining difficulty changes, how to read historical movements, and what the data cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

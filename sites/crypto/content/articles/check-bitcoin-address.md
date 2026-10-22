@@ -3,8 +3,6 @@ title: "How to check bitcoin address validity and network"
 description: "Learn how to check bitcoin address format and network compatibility, what validation can confirm, and why a valid address alone does not prove control or safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: []

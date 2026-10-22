@@ -3,8 +3,6 @@ title: "Hex crypto staking: How the protocol’s staking mechanism works"
 description: "Learn how hex crypto staking works at the protocol level, what participants commit and receive, and how it differs from validator staking on PoS networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["HEX staking", "HEX shares", "HEX smart contract"]

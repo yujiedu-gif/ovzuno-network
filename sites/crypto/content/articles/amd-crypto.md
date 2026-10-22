@@ -3,8 +3,6 @@ title: "AMD crypto mining: GPU compatibility and proof-of-work basics"
 description: "Learn how AMD crypto mining depends on GPU architecture, proof-of-work algorithms, software compatibility, and network requirements—not guaranteed returns."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["AMD GPU crypto mining", "GPU mining", "proof-of-work mining"]

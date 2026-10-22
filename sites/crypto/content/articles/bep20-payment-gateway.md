@@ -3,8 +3,6 @@ title: "BEP20 payment gateway: how token payments work"
 description: "Understand how a BEP20 payment gateway handles token payments on BNB Smart Chain, including payment requests, on-chain confirmation, reconciliation, and key business"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["BEP-20", "BNB Smart Chain", "token payment processing", "blockchain transaction confirmation"]

@@ -3,8 +3,6 @@ title: "ERC 1155 nft example: how token IDs and transfers work"
 description: "See how an erc 1155 nft example uses token IDs, quantities, minting, and transfers to represent NFT-like items, with implementation caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

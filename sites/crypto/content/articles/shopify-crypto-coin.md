@@ -3,8 +3,6 @@ title: "Shopify crypto coin: Is there an official token or a payment integration
 description: "Learn whether Shopify crypto coin refers to an official token or third-party checkout integrations, and what merchants should verify before accepting crypto."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["Shopify cryptocurrency payments", "Shopify crypto payment options", "crypto payments on Shopify"]

@@ -3,8 +3,6 @@ title: "Multi Chain Bridge Crypto: Architecture Across Blockchain Networks"
 description: "Explore multi chain bridge crypto architecture, how transfers are coordinated across networks, the trust assumptions involved, and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

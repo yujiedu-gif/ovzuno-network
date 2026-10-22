@@ -3,8 +3,6 @@ title: "Crypto international money transfer: How the payment flow works"
 description: "Understand the crypto international money transfer flow, including conversion, settlement, recipient access, and the operational and regulatory questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cross-border crypto payments", "international crypto transfers", "fiat on-ramp and off-ramp"]

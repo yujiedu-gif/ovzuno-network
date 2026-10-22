@@ -3,8 +3,6 @@ title: "Shiba inu coin proof of stake: staking versus network consensus"
 description: "Learn what shiba inu coin proof of stake means, how SHIB staking differs from blockchain consensus, and what evidence to check for validator claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["shiba inu coin proof stake"]

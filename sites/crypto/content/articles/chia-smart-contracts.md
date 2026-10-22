@@ -3,8 +3,6 @@ title: "chia smart contracts: How Chia’s Contract Model Works"
 description: "Understand chia smart contracts, their condition-based model, how they support applications, and what technical, security, and compliance questions remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Layer 2 Blockchain Coins: What the Term Means"
 description: "Learn what layer 2 blockchain coins means, how associated tokens may function, and why a token’s role is distinct from the network’s scaling design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

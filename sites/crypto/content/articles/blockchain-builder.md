@@ -3,8 +3,6 @@ title: "Blockchain builder: role, payment flows, and implementation consideratio
 description: "Learn what a blockchain builder does in payment infrastructure, from mapping transaction flows and integrations to identifying operational and risk questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain builders"]

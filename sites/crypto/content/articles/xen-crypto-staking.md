@@ -3,8 +3,6 @@ title: "XEN Crypto Staking: How to Verify Network Support and Claims"
 description: "Use this guide to verify xen crypto staking claims for a specific network, distinguish protocol support from third-party offers, and identify evidence gaps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

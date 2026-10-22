@@ -3,8 +3,6 @@ title: "NFT for artists explained: tokens, artwork, and rights"
 description: "NFT for artists explained: learn how a token can reference artwork, what a blockchain record may show, and why copyright or usage rights may be separate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft artists"]

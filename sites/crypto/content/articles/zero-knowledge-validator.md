@@ -3,8 +3,6 @@ title: "Zero knowledge validator: roles, proof verification, and trade-offs"
 description: "Learn what a zero knowledge validator does, how proof verification can fit into blockchain scaling, and which architectural assumptions and trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT Apes Explained: What Ape-Themed NFTs Represent"
 description: "NFT apes explained: learn what ape-themed NFTs are, how tokens relate to associated images, and why ownership does not automatically grant copyright or utility."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft apes"]

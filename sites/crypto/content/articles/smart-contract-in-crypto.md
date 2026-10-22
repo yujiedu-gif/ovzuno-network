@@ -3,8 +3,6 @@ title: "Smart contract in crypto: How blockchain code executes"
 description: "Learn what a smart contract in crypto is, how blockchain transactions trigger execution and state changes, and what limitations readers should understand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

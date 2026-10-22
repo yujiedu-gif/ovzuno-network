@@ -3,8 +3,6 @@ title: "SHX crypto: identity, stated role, and what to verify"
 description: "Learn what SHX crypto refers to, how project materials describe its role, and which asset, network, and risk claims to verify in current sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "zk proof projects: a guide to privacy and identity use cases"
 description: "Explore zk proof projects by privacy and identity use case, learn how their roles differ, and check what evidence supports each project's claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

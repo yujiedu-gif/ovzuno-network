@@ -3,8 +3,6 @@ title: "Cryptocurrency payment gateway development company: due-diligence guide"
 description: "Assess a cryptocurrency payment gateway development company by defining project requirements, reviewing technical controls, and checking delivery, legal, and support"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Auto Finance Crypto: How Automation Can Interact With Staking Infrastruc
 description: "Explore auto finance crypto as an infrastructure concept: how automated workflows may interact with staking and validators, plus key operational dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

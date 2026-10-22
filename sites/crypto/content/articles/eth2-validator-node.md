@@ -3,8 +3,6 @@ title: "Eth2 Validator Node: Components, Duties, and Operations"
 description: "Learn what an eth2 validator node means today, how Ethereum validator software participates in consensus, and which infrastructure and operational responsibilities"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["Ethereum validator", "consensus client", "execution client", "validator duties", "Ethereum staking"]

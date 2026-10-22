@@ -3,8 +3,6 @@ title: "Understanding crypto exchanges: how exchange models work"
 description: "Understanding crypto exchanges starts with their role in matching buyers and sellers, then comparing centralized and decentralized models, custody, and key risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

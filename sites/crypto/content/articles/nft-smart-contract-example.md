@@ -3,8 +3,6 @@ title: "NFT Smart Contract Example: Core Structure and Caveats"
 description: "See what an nft smart contract example can illustrate about minting, ownership, and metadata, plus the checks needed before adapting sample code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721", "ERC-1155", "NFT minting"]

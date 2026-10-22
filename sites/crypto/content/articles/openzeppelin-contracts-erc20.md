@@ -3,8 +3,6 @@ title: "OpenZeppelin Contracts ERC20: Components, Choices, and Review"
 description: "Learn how OpenZeppelin Contracts ERC20 supports Solidity token implementations, what common extensions change, and which project-specific details require review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

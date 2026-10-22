@@ -3,8 +3,6 @@ title: "Ethereum token burn: meaning, mechanisms, and supply effects"
 description: "Understand what an ethereum token burn means, how token contracts can remove tokens from circulation, and why a burn does not guarantee price or scarcity effects."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["burn token ethereum"]

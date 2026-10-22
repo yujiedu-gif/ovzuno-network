@@ -3,8 +3,6 @@ title: "mvrv bitcoin: What the Ratio Measures and Its Limits"
 description: "Learn what mvrv bitcoin measures, how market value compares with realized value, and why the ratio’s calculation and interpretation have important limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin market value to realized value", "MVRV ratio formula", "realized capitalization"]

@@ -3,8 +3,6 @@ title: "Hashrate crypto: meaning, measurement, and reporting limits"
 description: "Learn what hashrate crypto means, how mining hashrate is measured, why network and miner figures differ, and what hashrate can show in reporting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto hashrate"]

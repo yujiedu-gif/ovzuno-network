@@ -3,8 +3,6 @@ title: "Solidity public variable getter: what it is and how it works"
 description: "Learn what a solidity public variable getter is, how Solidity generates its read function, what values it returns, and where its limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

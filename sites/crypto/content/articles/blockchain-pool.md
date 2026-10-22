@@ -3,8 +3,6 @@ title: "Blockchain pool: meanings in crypto payment infrastructure"
 description: "Learn what blockchain pool can mean in crypto payment infrastructure, how context distinguishes uses, and what details to verify before relying on a source."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "How to apply for crypto card: steps and checks before applying"
 description: "Learn how to apply for crypto card, what eligibility and identity checks may involve, and which issuer terms to verify before submitting an application."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_cards_spending"]
 tags: ["apply crypto card"]

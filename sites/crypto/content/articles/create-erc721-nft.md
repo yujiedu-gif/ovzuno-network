@@ -3,8 +3,6 @@ title: "How to create erc721 nft: contract, metadata, and testing"
 description: "Learn how to create erc721 nft by planning an ERC-721 contract, setting metadata, testing core behavior, and checking deployment readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 smart contract", "NFT metadata", "ERC-721 minting"]

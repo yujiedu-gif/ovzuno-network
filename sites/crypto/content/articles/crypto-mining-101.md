@@ -3,8 +3,6 @@ title: "Crypto mining 101: the network role, mechanics, and trade-offs"
 description: "Crypto mining 101 explains how proof-of-work miners propose blocks, how networks validate them, and what distinguishes mining from other consensus approaches."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

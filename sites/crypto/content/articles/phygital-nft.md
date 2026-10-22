@@ -3,8 +3,6 @@ title: "Phygital NFT: How NFTs Can Link to Physical Items"
 description: "Learn what a phygital NFT is, how a token may link to a physical item, and why that link alone may not prove authenticity, ownership, or legal rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["physical-digital asset link", "NFT-linked physical item", "digital certificate of authenticity"]

@@ -3,8 +3,6 @@ title: "Bitcoin ATMs: How Cash-to-Bitcoin Transactions Work"
 description: "Learn how bitcoin atms handle cash-to-Bitcoin transactions, how operators differ from the Bitcoin network, and what fees and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bit coin atm"]

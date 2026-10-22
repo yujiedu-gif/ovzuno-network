@@ -3,8 +3,6 @@ title: "Cryptocurrency liquidity across blockchain networks: interoperability an
 description: "See how cryptocurrency liquidity is distributed and accessed across blockchain networks, and how interoperability mechanisms shape routes, dependencies, and tradeofs"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

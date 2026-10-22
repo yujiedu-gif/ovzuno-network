@@ -3,8 +3,6 @@ title: "NFT receipts: what they record and what they do not prove"
 description: "Learn what NFT receipts may record, how they differ from NFTs and underlying rights, and what to verify before treating a receipt as evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft receipt"]

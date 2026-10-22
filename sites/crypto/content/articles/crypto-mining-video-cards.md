@@ -3,8 +3,6 @@ title: "Crypto Mining Video Cards: How GPUs Perform Proof-of-Work Computations"
 description: "Learn how crypto mining video cards process proof-of-work workloads, which hardware and software factors shape their role, and what their technical limits are."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining video card"]

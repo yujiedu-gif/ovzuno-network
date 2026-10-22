@@ -3,8 +3,6 @@ title: "Layer 2 blockchain: architecture, transaction flow, and trade-offs"
 description: "Learn how a layer 2 blockchain processes activity alongside an underlying chain, how data or proofs support settlement, and which trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

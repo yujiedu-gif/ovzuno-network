@@ -3,8 +3,6 @@ title: "Crypto audit companies: scope, methods, and limitations"
 description: "Learn what crypto audit companies may review in smart contracts, how to assess an audit’s scope and report, and why an audit is not a security guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

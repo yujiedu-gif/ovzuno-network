@@ -3,8 +3,6 @@ title: "Explain staking crypto: how validators participate in consensus"
 description: "Explain staking crypto by tracing how assets support validator participation in proof-of-stake consensus, including duties, protocol outcomes, and key distinctions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking validators", "crypto staking process", "validator responsibilities"]

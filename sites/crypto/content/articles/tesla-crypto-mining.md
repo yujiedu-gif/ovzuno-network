@@ -3,8 +3,6 @@ title: "Tesla crypto mining: what the claim means and what to verify"
 description: "Explore what Tesla crypto mining claims mean, how vehicle computing compares with proof-of-work demands, and what evidence would verify mining activity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Tesla vehicles and cryptocurrency mining", "vehicle computing and proof-of-work"]

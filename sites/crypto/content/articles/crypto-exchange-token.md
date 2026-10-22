@@ -3,8 +3,6 @@ title: "Crypto Exchange Token: Functions, Rights, and Risks Explained"
 description: "Learn what a crypto exchange token may do, how its stated functions differ from legal rights, and what to verify about its terms, risks, and oversight."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

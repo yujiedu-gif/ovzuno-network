@@ -3,8 +3,6 @@ title: "bubi blockchain: What It Is and What to Verify"
 description: "Learn what bubi blockchain refers to, how to assess its documented payment-infrastructure role, and which technical or operational claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

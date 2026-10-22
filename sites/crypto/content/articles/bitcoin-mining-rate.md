@@ -3,8 +3,6 @@ title: "Bitcoin mining rate: meaning, hash rate, and block pace"
 description: "Understand what bitcoin mining rate can mean, how it differs from network hash rate, and why computational activity is not the same as block production pace."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

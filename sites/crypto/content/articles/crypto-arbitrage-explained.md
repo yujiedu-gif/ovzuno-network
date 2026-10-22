@@ -3,8 +3,6 @@ title: "Crypto arbitrage explained: how price gaps work and why they may not pay
 description: "Crypto arbitrage explained: learn how price differences across markets arise, how costs and execution affect outcomes, and which risks can erase a potential gain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto arbitrage"]

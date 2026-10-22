@@ -3,8 +3,6 @@ title: "CAKE smart contract: token contract and PancakeSwap application contract
 description: "Learn what “CAKE smart contract” can mean, how the CAKE token contract differs from PancakeSwap application contracts, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["PancakeSwap smart contracts", "CAKE token"]

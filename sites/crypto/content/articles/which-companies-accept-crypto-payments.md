@@ -3,8 +3,6 @@ title: "Which Companies Accept Crypto Payments? A Business Research Guide"
 description: "Which companies accept crypto payments, and what can businesses learn from them? Assess merchant evidence, payment models, and adoption fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["which companies accept crypto payment"]

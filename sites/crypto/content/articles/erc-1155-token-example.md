@@ -3,8 +3,6 @@ title: "ERC 1155 Token Example: Understanding IDs, Balances, and Transfers"
 description: "Follow an ERC 1155 token example to see how one contract represents multiple token types, tracks balances by ID, and handles transfers and receiver checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "USDC Stablecoin: Definition, Transfers, and Settlement Context"
 description: "Learn what a usdc stablecoin is, how token transfers relate to settlement, and which issuer, network, redemption, and jurisdiction details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: []

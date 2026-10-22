@@ -3,8 +3,6 @@ title: "Venmo crypto fees: what costs may apply"
 description: "Understand what Venmo crypto fees may cover, how they differ from other transaction costs, and where to verify current terms before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["venmo crypto fee"]

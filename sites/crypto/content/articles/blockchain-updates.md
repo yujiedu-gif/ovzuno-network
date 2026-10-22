@@ -3,8 +3,6 @@ title: "Blockchain updates: meaning in payment infrastructure"
 description: "Understand what blockchain updates can mean in payment infrastructure, including changes to recorded network state, protocol rules, or software implementations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain update"]

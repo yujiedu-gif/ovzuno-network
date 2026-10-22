@@ -3,8 +3,6 @@ title: "Crypto Pools Explained: Meaning, Mechanics, and Key Designs"
 description: "Crypto pools explained: learn what pools coordinate, how participation and shared rules work, how pool purposes differ, and which risks depend on protocol design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto pools"]

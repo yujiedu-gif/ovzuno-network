@@ -3,8 +3,6 @@ title: "ACE Crypto Token: How to Identify the Asset and Verify Its Function"
 description: "Learn how to identify which ACE crypto token a source refers to, check its network and project documentation, and separate verified facts from claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

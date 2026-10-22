@@ -3,8 +3,6 @@ title: "Smart contracts tokens: how contract logic creates and manages tokens"
 description: "Learn how smart contracts tokens connect blockchain records with contract rules, including creation, transfers, controls, and key implementation risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract tokens"]

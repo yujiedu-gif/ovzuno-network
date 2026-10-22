@@ -3,8 +3,6 @@ title: "DFNS crypto: what its wallet infrastructure means for payments"
 description: "Learn what DFNS crypto refers to, how wallet infrastructure may fit into business payment flows, and what capabilities and risks require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

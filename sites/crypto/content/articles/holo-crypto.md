@@ -3,8 +3,6 @@ title: "Holo crypto: Holochain, the Holo Network, and Related Tokens"
 description: "Learn what Holo crypto refers to, how Holochain and the Holo hosting network differ, and what to verify about related tokens before assessing treasury relevance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["Holochain", "Holo network", "HoloFuel"]

@@ -3,8 +3,6 @@ title: "Digix crypto: What the name refers to and how to assess its technology"
 description: "Learn what Digix crypto refers to, how to distinguish related project, protocol, and token terminology, and which claims require current primary-source verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

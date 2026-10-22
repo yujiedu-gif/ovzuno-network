@@ -3,8 +3,6 @@ title: "Roblox token crypto: what the term means and how to verify claims"
 description: "Learn what “Roblox token crypto” may refer to, how to check claims of official affiliation, and what to verify before interacting with a related asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

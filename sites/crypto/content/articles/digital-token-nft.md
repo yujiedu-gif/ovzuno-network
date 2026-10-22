@@ -3,8 +3,6 @@ title: "Digital Token NFT: What It Represents and What It Does Not"
 description: "Understand what a digital token NFT identifies, how its blockchain record and linked metadata relate, and why holding the token may not grant rights to the asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token digital nft"]

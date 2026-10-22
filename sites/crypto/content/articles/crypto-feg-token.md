@@ -3,8 +3,6 @@ title: "Crypto feg token: identity, network, and verification"
 description: "Learn what crypto feg token refers to, how to verify its network and contract address, and how to separate documented details from project claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

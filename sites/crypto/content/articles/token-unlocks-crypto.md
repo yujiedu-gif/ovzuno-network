@@ -3,8 +3,6 @@ title: "Token Unlocks Crypto: How Vesting Schedules Release Restricted Tokens"
 description: "Learn what token unlocks crypto means, how vesting schedules release restricted tokens, and why unlocks do not automatically mean tokens are sold."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto token unlocks"]

@@ -3,8 +3,6 @@ title: "Crypto Sending Fees: What They Mean in a Blockchain Transaction"
 description: "Learn what crypto sending fees mean, what a network fee generally supports, and how that charge differs from a separate wallet or service fee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto sending fee"]

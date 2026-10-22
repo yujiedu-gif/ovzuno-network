@@ -3,8 +3,6 @@ title: "Solidity staking contract example: mechanics and safety limits"
 description: "Follow a Solidity staking contract example through deposits, withdrawals, and reward accounting, with assumptions, edge cases, and security limits clearly explained."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["staking contract architecture", "Solidity staking rewards", "smart contract security"]

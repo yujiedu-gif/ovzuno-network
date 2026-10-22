@@ -3,8 +3,6 @@ title: "Stablecoin Card: How Stablecoin-Funded Card Payments Work"
 description: "Learn how a stablecoin card can connect stablecoin balances to card purchases, including funding, authorization, conversion, settlement, and operational dependencies"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

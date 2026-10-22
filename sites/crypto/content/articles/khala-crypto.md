@@ -3,8 +3,6 @@ title: "Khala crypto: meaning, network context, and payment relevance"
 description: "Learn what khala crypto refers to, how Khala relates to Phala Network, and what evidence supports its role in blockchain infrastructure and crypto payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["Khala Network", "Phala Network", "khala parachain"]

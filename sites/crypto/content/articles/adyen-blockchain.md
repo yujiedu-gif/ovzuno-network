@@ -3,8 +3,6 @@ title: "Adyen blockchain: payment services and blockchain infrastructure"
 description: "Learn what Adyen blockchain can mean, how payment services differ from blockchain infrastructure, and which product or jurisdiction details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "BlockFi crypto credit card: how it worked and what to verify"
 description: "Learn how the BlockFi crypto credit card linked credit-card spending with crypto rewards, and what evidence to check for current availability, terms, and fees."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

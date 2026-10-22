@@ -3,8 +3,6 @@ title: "What Does ERC20 Compliant Mean for a Token Contract?"
 description: "Learn what ERC20 compliant means in the ERC-20 interface, which functions and events to check, and why interface conformance is not a security audit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

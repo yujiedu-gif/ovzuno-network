@@ -3,8 +3,6 @@ title: "Blockchain Proof of Work Algorithm: How It Supports Consensus"
 description: "Learn how a blockchain proof of work algorithm uses computational puzzles, block validation, and network rules to support agreement on transaction history."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["blockchain proof work algorithm"]

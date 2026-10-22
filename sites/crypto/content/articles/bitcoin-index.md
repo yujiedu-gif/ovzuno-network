@@ -3,8 +3,6 @@ title: "Bitcoin index: meaning, scope, and how it differs from Bitcoin"
 description: "Learn what a bitcoin index represents, how its scope and methodology may vary, and why an index is distinct from Bitcoin and index-linked products."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Ethereum order book: meaning and role in trading systems"
 description: "Learn what an ethereum order book means, how it relates to Ethereum-based trading systems, and how order representation, matching, and settlement can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: []

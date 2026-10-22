@@ -3,8 +3,6 @@ title: "Devnet Crypto: Meaning, Uses, and Limits"
 description: "Learn what devnet crypto means, how development networks support blockchain testing, how they differ from production networks, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

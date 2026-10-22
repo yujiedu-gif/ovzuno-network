@@ -3,8 +3,6 @@ title: "ERC20 Audit: What It Examines and What It Cannot Guarantee"
 description: "An erc20 audit reviews token-contract code for security and standards-related issues. Learn what auditors examine, how findings are reported, and what remains unassu"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

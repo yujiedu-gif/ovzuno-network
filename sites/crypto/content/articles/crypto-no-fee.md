@@ -3,8 +3,6 @@ title: "Crypto no fee: analyze the costs behind a zero-fee claim"
 description: "Understand what crypto no fee claims cover, which payment costs may remain, and how to compare fee structures without assuming every transaction is free."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto with no fees"]

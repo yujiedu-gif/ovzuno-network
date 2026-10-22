@@ -3,8 +3,6 @@ title: "erc1155 contract: How Multi-Token Contracts Work"
 description: "Learn how an erc1155 contract represents token types, tracks balances, supports batch operations, and interacts with recipient contracts, plus key integration cauti"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-1155 multi-token standard", "token ID", "fungible and non-fungible tokens", "safe transfer"]

@@ -3,8 +3,6 @@ title: "OpenZeppelin ERC721 Wizard: What It Generates and What to Review"
 description: "Learn what the openzeppelin erc721 wizard generates, which configuration choices shape an ERC-721 contract, and what developers should review before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Contract in Solidity: Structure, State, and Blockchain Behavior"
 description: "Learn what a contract in Solidity contains, how its state and functions work, and how compiled code is deployed and called on a blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Hyperledger Solidity: How Solidity Fits into Hyperledger Platforms"
 description: "Learn how hyperledger solidity relates to distinct Hyperledger platforms, what determines Solidity smart contract compatibility, and what builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

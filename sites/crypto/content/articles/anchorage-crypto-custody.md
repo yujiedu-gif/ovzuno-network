@@ -3,8 +3,6 @@ title: "Anchorage crypto custody: institutional risk and control assessment"
 description: "Assess Anchorage crypto custody for institutional use with a neutral framework covering governance, key controls, operational resilience, and evidence gaps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: []

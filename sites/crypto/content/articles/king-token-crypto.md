@@ -3,8 +3,6 @@ title: "King token crypto: how to identify the asset and verify its details"
 description: "Learn how to identify what king token crypto refers to, check its network and contract details, and separate verified project information from claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

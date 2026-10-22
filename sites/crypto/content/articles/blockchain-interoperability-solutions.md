@@ -3,8 +3,6 @@ title: "Blockchain interoperability solutions: how cross-chain systems work"
 description: "Learn how blockchain interoperability solutions connect distinct networks, compare common architectures, and assess their trust assumptions and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["cross-chain communication", "blockchain bridges"]

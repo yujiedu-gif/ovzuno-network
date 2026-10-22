@@ -3,8 +3,6 @@ title: "DAO Governed: How to Assess Decision-Making Authority"
 description: "Learn what DAO governed means in crypto and trace how proposals, votes, execution powers, and off-chain controls shape decision-making in practice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

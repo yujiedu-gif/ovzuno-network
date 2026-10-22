@@ -3,8 +3,6 @@ title: "NFT Tokens Marketplace: How Tokens, Listings, and Transfers Relate"
 description: "Learn how an nft tokens marketplace connects token listings, transfers, and referenced digital assets, and what a transaction alone does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft marketplace tokens"]

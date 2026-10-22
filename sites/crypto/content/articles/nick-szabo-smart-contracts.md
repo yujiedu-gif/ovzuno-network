@@ -3,8 +3,6 @@ title: "Nick Szabo Smart Contracts: The Idea and Its Blockchain Context"
 description: "Explore nick szabo smart contracts: the concept’s origins, Szabo’s definition, and how the broader idea relates to programs used in blockchain applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Nick Szabo", "smart contract history", "smart contract concept"]

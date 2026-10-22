@@ -3,8 +3,6 @@ title: "ARB Crypto: What the Token and Arbitrum Network Mean"
 description: "Learn what arb crypto refers to, how the ARB token differs from the Arbitrum network, and why that distinction matters when assessing payment infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

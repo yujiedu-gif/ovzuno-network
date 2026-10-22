@@ -3,8 +3,6 @@ title: "IPFS Smart Contract: How On-Chain References to Off-Chain Data Work"
 description: "Learn how an ipfs smart contract can reference off-chain content, how IPFS identifiers work, and what contracts cannot guarantee about storage."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["IPFS", "on-chain data", "content addressing", "decentralized storage"]

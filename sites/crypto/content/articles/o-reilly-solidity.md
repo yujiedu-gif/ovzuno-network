@@ -3,8 +3,6 @@ title: "o reilly solidity: How to Identify and Assess a Learning Resource"
 description: "Learn what “o reilly solidity” may refer to, how to verify a related resource’s publication details, and what to check before applying it to smart-contract work."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

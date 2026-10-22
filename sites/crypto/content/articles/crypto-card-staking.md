@@ -3,8 +3,6 @@ title: "Crypto Card Staking: How Staking Connects to Card Features"
 description: "Crypto card staking can refer to several different arrangements. Learn how staking, card eligibility, rewards, custody, and withdrawal conditions differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

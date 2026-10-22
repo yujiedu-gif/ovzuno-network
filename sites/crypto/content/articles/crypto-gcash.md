@@ -3,8 +3,6 @@ title: "Crypto GCash: What the Term Means and What to Verify"
 description: "Learn what “crypto GCash” may refer to, how to distinguish official features from third-party services, and what to verify before using either."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

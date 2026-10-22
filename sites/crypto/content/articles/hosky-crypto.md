@@ -3,8 +3,6 @@ title: "Hosky crypto: purpose, Cardano context, and what can be verified"
 description: "Learn what Hosky crypto is, how it relates to Cardano, and which claims about its purpose and operation can be checked against reliable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

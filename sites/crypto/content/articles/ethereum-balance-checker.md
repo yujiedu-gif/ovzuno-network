@@ -3,8 +3,6 @@ title: "Ethereum balance checker: what it shows and what it cannot confirm"
 description: "Learn what an ethereum balance checker displays, how address and token balances differ, and what the reported figures cannot establish on their own."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

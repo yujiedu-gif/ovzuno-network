@@ -3,8 +3,6 @@ title: "Earn Free Cryptocurrency: How Reward Programs Work"
 description: "Learn how to earn free cryptocurrency through reward mechanisms, what tasks or conditions may apply, and how to check payout terms, costs, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["earn cryptocurrency free"]

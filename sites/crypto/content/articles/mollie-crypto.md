@@ -3,8 +3,6 @@ title: "Mollie crypto: what businesses should verify"
 description: "Find out how to verify Mollie crypto payment capabilities, business eligibility, supported jurisdictions, and operational terms using current official information."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

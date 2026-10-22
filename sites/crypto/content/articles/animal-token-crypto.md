@@ -3,8 +3,6 @@ title: "Animal token crypto: meaning, design, and how to assess one"
 description: "Learn what animal token crypto refers to, how animal-themed branding differs from a token’s technical design, and what details readers can verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["anime token crypto"]

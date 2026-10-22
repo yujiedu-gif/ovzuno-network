@@ -3,8 +3,6 @@ title: "WAXP NFT Marketplace: How WAX-Based NFT Trading Works"
 description: "Learn what a waxp nft marketplace refers to, how WAX-based NFT listings relate to blockchain records, and what details to verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

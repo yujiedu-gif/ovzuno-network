@@ -3,8 +3,6 @@ title: "Digital Ownership Blockchain: What the Record Shows and What It Does Not
 description: "Learn how digital ownership blockchain records connect tokens to digital assets, what control they can demonstrate, and which rights they do not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

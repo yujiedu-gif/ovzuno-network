@@ -3,8 +3,6 @@ title: "How to Check Ethereum Transaction Status and Details"
 description: "Learn how to check ethereum transaction status using its hash, confirm the network, and interpret pending, successful, or failed results and key fields."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

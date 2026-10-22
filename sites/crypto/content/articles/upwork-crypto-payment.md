@@ -3,8 +3,6 @@ title: "Upwork crypto payment: platform rules and what to verify"
 description: "Understand how an Upwork crypto payment relates to platform rules, what to verify in current official guidance, and risks of paying outside the platform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

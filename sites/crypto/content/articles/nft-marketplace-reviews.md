@@ -3,8 +3,6 @@ title: "NFT marketplace reviews: what they assess and what they cannot prove"
 description: "Learn what NFT marketplace reviews assess, how to examine their evidence and scope, and why reviews alone cannot establish safety or suitability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

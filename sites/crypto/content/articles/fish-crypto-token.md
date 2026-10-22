@@ -3,8 +3,6 @@ title: "Fish crypto token: how to identify what the name refers to"
 description: "Learn how to identify what “fish crypto token” refers to using a project name, network, and authoritative token identifiers, and how to assess claims cautiously."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

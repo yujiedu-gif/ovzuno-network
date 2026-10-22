@@ -3,8 +3,6 @@ title: "Norton Crypto Mining: What the Feature Was and What to Verify"
 description: "Understand what Norton crypto mining referred to, how its documented workflow differed from general proof-of-work mining, and what to verify before relying on claims"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

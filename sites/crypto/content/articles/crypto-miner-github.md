@@ -3,8 +3,6 @@ title: "Crypto miner github: how to assess mining-code repositories"
 description: "Learn how to classify crypto miner github repositories, check supported networks and build instructions, and review code, releases, and operational risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: []

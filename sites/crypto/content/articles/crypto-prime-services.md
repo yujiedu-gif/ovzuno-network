@@ -3,8 +3,6 @@ title: "Crypto Prime Services: A Guide to Institutional Digital-Asset Functions"
 description: "Learn what crypto prime services can encompass, how trading, custody, financing, and operations may connect, and what to verify before assessing a provider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

@@ -3,8 +3,6 @@ title: "bitcoin fx: Meaning, Context, and How to Interpret the Term"
 description: "Learn what bitcoin fx may mean, how Bitcoin-related foreign exchange differs from a named service, and which context clues help clarify the term."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoinfx"]

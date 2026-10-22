@@ -3,8 +3,6 @@ title: "TON Blockchain EVM: What the Term Means"
 description: "Learn what “ton blockchain evm” means, how TON relates to the Ethereum Virtual Machine, and why native TON execution differs from EVM compatibility."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

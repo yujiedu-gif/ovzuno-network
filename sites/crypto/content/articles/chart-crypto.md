@@ -3,8 +3,6 @@ title: "Chart Crypto: Meaning and the Information a Crypto Chart Shows"
 description: "Learn what chart crypto means, what data crypto charts display, and how to distinguish price, time, volume, and basic chart elements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["crypto charts"]

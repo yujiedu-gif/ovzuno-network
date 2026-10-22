@@ -3,8 +3,6 @@ title: "Ethereum contract address: what it identifies and what it does not"
 description: "Learn what an ethereum contract address identifies, how it differs from an account address, and why an address alone does not establish a contract’s purpose or trust"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["Ethereum smart contract", "Ethereum address format", "contract interaction"]

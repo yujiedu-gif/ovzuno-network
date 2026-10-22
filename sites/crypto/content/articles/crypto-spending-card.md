@@ -3,8 +3,6 @@ title: "Crypto Spending Card: How Crypto-Funded Card Purchases Work"
 description: "Learn what a crypto spending card is and how a crypto-funded purchase may pass through conversion, card authorization, clearing, and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card payment flow", "crypto-to-fiat conversion", "card network settlement"]

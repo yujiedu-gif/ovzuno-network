@@ -3,8 +3,6 @@ title: "Crypto Debit Card Comparison: Features, Costs, and Risks"
 description: "Use this crypto debit card comparison to assess funding and conversion, fees, eligibility, spending limits, and risks before evaluating any provider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["crypto_cards_spending"]
 tags: ["crypto debit card"]

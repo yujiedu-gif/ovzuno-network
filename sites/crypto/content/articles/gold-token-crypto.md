@@ -3,8 +3,6 @@ title: "Gold token crypto: what the token represents and how it works"
 description: "Learn what gold token crypto may represent, how custody and redemption arrangements differ, and which issuer documents to check before assessing a token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["gold crypto tokens"]

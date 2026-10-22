@@ -3,8 +3,6 @@ title: "Crypto Using Proof of Stake: How Validators Participate in Consensus"
 description: "See how crypto using proof of stake connects stake, validators, and consensus, and why participation rules and penalties differ across networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto using proof stake"]

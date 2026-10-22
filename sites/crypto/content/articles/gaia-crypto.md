@@ -3,8 +3,6 @@ title: "Gaia crypto: What the name refers to and how to verify it"
 description: "Learn what gaia crypto may refer to, how to verify a project or token’s identity, and what records can establish about digital ownership claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

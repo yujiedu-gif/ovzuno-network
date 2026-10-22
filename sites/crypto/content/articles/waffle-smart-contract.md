@@ -3,8 +3,6 @@ title: "Waffle smart contract: what Waffle does in Ethereum development"
 description: "Learn what a waffle smart contract refers to, how Waffle fits into Ethereum development and testing, and what the framework does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

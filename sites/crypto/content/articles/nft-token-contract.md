@@ -3,8 +3,6 @@ title: "NFT token contract: what it records and what it does not"
 description: "Learn what an nft token contract can record, how token IDs and metadata relate to a digital asset, and what the blockchain record alone does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT smart contract", "token metadata", "token ID", "blockchain ownership record", "smart contract functions"]

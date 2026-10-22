@@ -3,8 +3,6 @@ title: "HKMA Stablecoin: An Explainer on the Authority’s Role and Stablecoin W
 description: "Understand HKMA stablecoin work, the authority’s role in stablecoin-related initiatives, and how these topics connect to technology and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

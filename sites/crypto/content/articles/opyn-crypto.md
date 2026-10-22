@@ -3,8 +3,6 @@ title: "Opyn crypto: what the term refers to and whether it involves staking"
 description: "Learn what Opyn crypto refers to, how to distinguish options-related infrastructure from staking and validator systems, and which details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["Opyn protocol", "options protocol"]

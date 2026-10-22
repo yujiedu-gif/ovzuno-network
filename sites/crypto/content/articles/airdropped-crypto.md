@@ -3,8 +3,6 @@ title: "Airdropped Crypto: Meaning, Distribution, and Claim Mechanics"
 description: "Learn what airdropped crypto means, how token distributions and claim-based airdrops work, and what recipients should understand about wallets and transaction risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cryptocurrency legislation: meaning, scope, and jurisdictional differenc
 description: "Learn what cryptocurrency legislation means, the activities it may cover, and why rules differ by jurisdiction, without treating this overview as legal or tax advice"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: []

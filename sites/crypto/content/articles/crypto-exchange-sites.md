@@ -3,8 +3,6 @@ title: "Crypto exchange sites: an infrastructure evaluation framework"
 description: "Assess crypto exchange sites for business use by comparing market access, integration, operations, and risk controls, then verify jurisdiction-specific requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["exchange_market_infrastructure"]
 tags: []

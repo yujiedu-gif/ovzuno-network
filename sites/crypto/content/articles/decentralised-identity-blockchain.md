@@ -3,8 +3,6 @@ title: "Decentralised Identity Blockchain: Architecture and Trade-offs"
 description: "Learn how a decentralised identity blockchain can support identifiers and credential verification, what stays off-chain, and which privacy and recovery trade-offs to"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

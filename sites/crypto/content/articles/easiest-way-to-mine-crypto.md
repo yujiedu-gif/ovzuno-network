@@ -3,8 +3,6 @@ title: "Easiest Way to Mine Crypto: Methods and Trade-Offs"
 description: "Explore the easiest way to mine crypto by comparing solo, pooled, hosted, and cloud-contract approaches, their setup demands, dependencies, and trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["easiest way mine crypto"]

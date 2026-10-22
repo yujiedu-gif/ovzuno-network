@@ -3,8 +3,6 @@ title: "Crypto mining device: what it does in proof-of-work networks"
 description: "Learn what a crypto mining device does in proof-of-work networks, how it differs from software and pools, and what its role does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

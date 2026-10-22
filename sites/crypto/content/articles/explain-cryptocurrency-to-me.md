@@ -3,8 +3,6 @@ title: "Explain Cryptocurrency to Me: A Beginner’s Guide to the Basics"
 description: "Explain cryptocurrency to me in plain language: learn what crypto represents, how transactions are recorded, common uses, and key risks to understand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

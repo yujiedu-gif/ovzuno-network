@@ -3,8 +3,6 @@ title: "Stablecoin Infrastructure: Components and Settlement Layers"
 description: "Understand stablecoin infrastructure through its issuance, blockchain, custody, settlement, and oversight layers, and see where operational and jurisdictional checks"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: []

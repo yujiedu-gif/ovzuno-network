@@ -3,8 +3,6 @@ title: "Solidity Open Source Projects: How to Find and Assess Codebases"
 description: "Learn how to discover Solidity open source projects and assess repository scope, maintenance, documentation, licensing, and the limits of public evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["open source solidity projects"]

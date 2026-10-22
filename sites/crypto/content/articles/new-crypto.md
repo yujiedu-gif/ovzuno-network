@@ -3,8 +3,6 @@ title: "New crypto: meaning, categories, and operational considerations"
 description: "Understand what new crypto can refer to, how it differs across assets and infrastructure, and which security, compliance, and operational details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["new for crypto"]

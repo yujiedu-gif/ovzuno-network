@@ -3,8 +3,6 @@ title: "Blockchain capital aum: meaning and how to assess claims"
 description: "Learn what blockchain capital aum may refer to, how assets under management differ from other crypto measures, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

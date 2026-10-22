@@ -3,8 +3,6 @@ title: "Crypto Payment Processing: How a Transaction Moves from Initiation to Se
 description: "Learn how crypto payment processing moves from payment initiation through network confirmation to settlement, and where business operations and risks arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

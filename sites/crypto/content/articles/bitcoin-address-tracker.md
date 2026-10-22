@@ -3,8 +3,6 @@ title: "Bitcoin Address Tracker: What It Shows and What It Cannot"
 description: "Learn what a bitcoin address tracker can show from Bitcoin’s public ledger, how to interpret address activity, and why it cannot reliably identify an owner."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

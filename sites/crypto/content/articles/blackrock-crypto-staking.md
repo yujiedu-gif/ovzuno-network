@@ -3,8 +3,6 @@ title: "BlackRock Crypto Staking: What the Phrase Does—and Doesn’t—Mean"
 description: "BlackRock crypto staking can refer to different claims. Learn how to verify whether a product or activity actually stakes digital assets."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

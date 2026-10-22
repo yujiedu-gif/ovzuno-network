@@ -3,8 +3,6 @@ title: "Does Bitcoin Use Smart Contracts? A Clear Explanation"
 description: "Does bitcoin use smart contracts? Understand how Bitcoin scripts set transaction conditions, what programmable behavior they allow, and where their limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["bitcoin use smart contracts"]

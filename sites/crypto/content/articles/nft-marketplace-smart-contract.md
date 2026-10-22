@@ -3,8 +3,6 @@ title: "NFT Marketplace Smart Contract: How a Sale Works"
 description: "See how an NFT marketplace smart contract can coordinate listings, payments, and transfers, and where interfaces or other services may sit outside the contract."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

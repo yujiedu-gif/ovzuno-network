@@ -3,8 +3,6 @@ title: "Funko NFT Matrix: What the Phrase Means for Digital Collectibles"
 description: "Understand what “funko nft matrix” may refer to, how an NFT record differs from its artwork or physical collectible, and which claims require official terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

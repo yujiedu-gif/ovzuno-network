@@ -3,8 +3,6 @@ title: "Crypto Contract: How Blockchain Code Can Shape Payment Flows"
 description: "Learn what a crypto contract is, how blockchain code can trigger payment actions, and why automated execution does not guarantee legal or financial outcomes."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["smart contract", "blockchain payment"]

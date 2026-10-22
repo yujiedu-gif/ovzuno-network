@@ -3,8 +3,6 @@ title: "Crypto SPAC: Structure, Deal Process, and Key Considerations"
 description: "Learn what a crypto SPAC is, how a SPAC transaction may involve a crypto business, and which disclosure, regulatory, and due-diligence issues depend on jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["cryptospace"]

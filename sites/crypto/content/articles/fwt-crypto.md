@@ -3,8 +3,6 @@ title: "FWT crypto: How to identify the asset and verify its details"
 description: "Learn what FWT crypto may refer to, how to check its project and network identity, and which claims need authoritative verification before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "ERC721 template: components and checks before adapting one"
 description: "Learn what an ERC721 template may include, which implementation choices to inspect, and what to review before adapting or deploying an NFT contract."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 smart contract", "NFT contract template", "ERC-721 implementation"]

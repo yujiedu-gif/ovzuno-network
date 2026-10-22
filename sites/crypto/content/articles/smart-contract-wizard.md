@@ -3,8 +3,6 @@ title: "Smart contract wizard: what it generates and what to review"
 description: "Learn what a smart contract wizard may generate, how its inputs shape the output, and what developers should verify before relying on generated code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

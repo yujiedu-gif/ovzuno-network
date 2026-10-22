@@ -3,8 +3,6 @@ title: "How to Evaluate Online Crypto Mining Sites and Their Evidence"
 description: "Learn how to assess online crypto mining sites by checking mining, payout, and operating claims, spotting evidence gaps, and identifying risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

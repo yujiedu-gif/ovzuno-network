@@ -3,8 +3,6 @@ title: "Digital asset anti money laundering act: U.S. bill and status"
 description: "Understand what the digital asset anti money laundering act refers to, how to verify its U.S. legislative status, and why treasury teams should check current law."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

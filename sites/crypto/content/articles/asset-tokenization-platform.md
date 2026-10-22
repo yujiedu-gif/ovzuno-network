@@ -3,8 +3,6 @@ title: "Asset tokenization platform: capabilities and due-diligence framework"
 description: "Assess an asset tokenization platform by examining token controls, integrations, operations, security evidence, and jurisdiction-dependent legal and compliance needs"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["tokenization_rwa"]
 tags: []

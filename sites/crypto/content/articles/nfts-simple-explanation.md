@@ -3,8 +3,6 @@ title: "nfts simple explanation: What an NFT Does—and Does Not—Represent"
 description: "A nfts simple explanation of how a unique blockchain token can refer to a digital item, and why holding the token does not automatically grant copyright."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT", "non-fungible token", "blockchain record", "digital ownership"]

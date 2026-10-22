@@ -3,8 +3,6 @@ title: "Taproot Smart Contracts: How Bitcoin Programmability Works"
 description: "Learn how Taproot smart contracts use Bitcoin spending conditions, Schnorr signatures, and script paths, and where their capabilities differ from general-purpose."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

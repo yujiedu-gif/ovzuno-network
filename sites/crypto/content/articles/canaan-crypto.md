@@ -3,8 +3,6 @@ title: "Canaan crypto: its role in mining hardware and proof-of-work"
 description: "Learn what Canaan crypto refers to, how mining hardware relates to proof-of-work networks, and which company, product, and regulatory details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

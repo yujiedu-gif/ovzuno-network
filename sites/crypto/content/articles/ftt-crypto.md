@@ -3,8 +3,6 @@ title: "FTT crypto: token functions, FTX context, and what to verify"
 description: "Learn what FTT crypto was designed to do in the FTX ecosystem, how its stated token functions should be assessed, and what requires current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["FTT token", "FTX Token", "FTT token utility"]

@@ -3,8 +3,6 @@ title: "Smart contract games: how blockchain fits into game design"
 description: "Learn how smart contract games use blockchain code for selected rules and shared state, what usually stays off-chain, and the key design trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

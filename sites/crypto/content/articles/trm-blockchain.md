@@ -3,8 +3,6 @@ title: "TRM Blockchain: What the Term Refers To"
 description: "Understand what “trm blockchain” may refer to, how blockchain networks differ from analytics tools, and why context matters when interpreting the phrase."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

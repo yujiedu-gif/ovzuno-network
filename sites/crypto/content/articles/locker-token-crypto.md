@@ -3,8 +3,6 @@ title: "Locker Token Crypto: Meaning, Uses, and How to Verify the Term"
 description: "Learn what locker token crypto may refer to, how to distinguish generic terminology from a project-specific name, and what documentation to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

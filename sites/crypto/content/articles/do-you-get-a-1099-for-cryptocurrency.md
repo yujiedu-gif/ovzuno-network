@@ -3,8 +3,6 @@ title: "Do you get a 1099 for cryptocurrency? U.S. reporting explained"
 description: "Do you get a 1099 for cryptocurrency in the United States? Learn what can affect form issuance, what a 1099 reports, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["you get 1099 cryptocurrency"]

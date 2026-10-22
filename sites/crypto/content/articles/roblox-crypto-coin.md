@@ -3,8 +3,6 @@ title: "Roblox crypto coin: Is there an official mineable coin?"
 description: "Investigate the Roblox crypto coin claim: learn what official evidence would establish whether Roblox offers a coin, and whether it can be mined."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT Card Tutorial: How NFTs Relate to Crypto Card Payments"
 description: "This nft card tutorial explains how an NFT may relate to a crypto card interface or access model, and distinguishes it from payment credentials and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

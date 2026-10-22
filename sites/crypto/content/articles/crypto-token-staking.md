@@ -3,8 +3,6 @@ title: "Crypto token staking: how it works and what to assess"
 description: "Learn how crypto token staking works, how participation models differ, where rewards come from, and which protocol, liquidity, and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

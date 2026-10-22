@@ -3,8 +3,6 @@ title: "dydx crypto: What the Protocol and Token Refer To"
 description: "Learn what dydx crypto refers to, how the dYdX trading protocol is structured at a high level, and why it should not be confused with a crypto spending card."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

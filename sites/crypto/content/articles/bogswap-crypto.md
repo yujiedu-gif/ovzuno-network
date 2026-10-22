@@ -3,8 +3,6 @@ title: "Bogswap crypto: what the protocol does and what to verify"
 description: "Learn what bogswap crypto refers to, how to assess its documented protocol functions, and which claims about operation, access, and risks need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

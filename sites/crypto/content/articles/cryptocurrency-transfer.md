@@ -3,8 +3,6 @@ title: "Cryptocurrency transfer: how submission and confirmation work"
 description: "Learn how a cryptocurrency transfer is prepared, submitted, and confirmed, what transaction status can indicate, and which operational risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto transfer process", "blockchain transaction", "wallet address"]

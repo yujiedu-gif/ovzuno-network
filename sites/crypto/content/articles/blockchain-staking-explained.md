@@ -3,8 +3,6 @@ title: "Blockchain staking explained: how proof-of-stake participation works"
 description: "Blockchain staking explained: learn how proof-of-stake networks use staked assets in consensus, how validation works, and what participation can involve."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain staking"]

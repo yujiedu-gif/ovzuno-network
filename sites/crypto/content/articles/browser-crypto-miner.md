@@ -3,8 +3,6 @@ title: "Browser crypto miner: how browser-based mining works and its limits"
 description: "Learn how a browser crypto miner uses a visitor’s device for mining work, how it differs from conventional mining, and what technical and consent limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["browser-based cryptocurrency mining", "web browser mining"]

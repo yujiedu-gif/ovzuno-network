@@ -3,8 +3,6 @@ title: "Midas crypto staking: mechanisms, custody, and checks"
 description: "Understand what Midas crypto staking refers to, how to distinguish product-level arrangements from validator staking, and which terms and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

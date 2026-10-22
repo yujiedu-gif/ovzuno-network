@@ -3,8 +3,6 @@ title: "Solidity Polygon: Compatibility and Deployment Checks"
 description: "Explore solidity polygon development: learn how Solidity contracts relate to Polygon deployment and which compatibility and network settings builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

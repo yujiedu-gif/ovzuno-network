@@ -3,8 +3,6 @@ title: "Blockchain tool: categories used in payment workflows"
 description: "Learn how a blockchain tool can support payment workflow tasks, compare tool categories, and identify operational, security, and jurisdiction questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["tools for blockchain"]

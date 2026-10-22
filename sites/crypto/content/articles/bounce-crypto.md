@@ -3,8 +3,6 @@ title: "Bounce crypto: what the name refers to and how to verify it"
 description: "Learn what Bounce crypto refers to, how to verify project and product claims, and whether reliable evidence connects it to crypto-card spending."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

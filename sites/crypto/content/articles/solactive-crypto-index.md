@@ -3,8 +3,6 @@ title: "Solactive crypto index: meaning, methodology, and data distinctions"
 description: "Learn what a Solactive crypto index refers to, how to assess documented methodology and data inputs, and how index information differs from on-chain analytics."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

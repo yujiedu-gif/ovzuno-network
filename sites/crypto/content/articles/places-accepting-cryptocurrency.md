@@ -3,8 +3,6 @@ title: "Places Accepting Cryptocurrency: Categories and Verification Tips"
 description: "Explore categories of places accepting cryptocurrency and learn how to verify current payment options, supported assets, location limits, and terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

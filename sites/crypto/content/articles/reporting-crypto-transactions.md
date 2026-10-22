@@ -3,8 +3,6 @@ title: "Reporting crypto transactions: blockchain records and reporting layers"
 description: "Learn how reporting crypto transactions differs across blockchain records, internal payment operations, and external reporting, and what depends on context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["reporting crypto transaction"]

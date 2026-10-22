@@ -3,8 +3,6 @@ title: "Crypto Token Website: What to Check and What It Can Prove"
 description: "Learn what a crypto token website should explain about its purpose, technical design, governance, risks, and disclosures—and how to assess its claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

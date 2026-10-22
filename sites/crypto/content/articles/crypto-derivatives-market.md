@@ -3,8 +3,6 @@ title: "Crypto Derivatives Market: Structure, Contracts, and Infrastructure"
 description: "Explore how the crypto derivatives market is organized, from contract types and trading venues to participants, collateral, clearing, and risk controls."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

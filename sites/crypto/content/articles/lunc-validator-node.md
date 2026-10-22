@@ -3,8 +3,6 @@ title: "LUNC Validator Node: Role, Infrastructure, and Operations"
 description: "Learn what a lunc validator node does on Terra Classic, how it differs from delegation, and which infrastructure, security, and operational factors to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

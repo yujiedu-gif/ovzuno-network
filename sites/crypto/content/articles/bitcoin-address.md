@@ -3,8 +3,6 @@ title: "Bitcoin address: meaning and role in receiving Bitcoin"
 description: "Learn what a bitcoin address represents, how it relates to Bitcoin transactions, and what to check before sharing or using an address to receive funds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins address"]

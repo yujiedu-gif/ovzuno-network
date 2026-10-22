@@ -3,8 +3,6 @@ title: "Gas Cost to Deploy Smart Contract: Estimate and Verify Fees"
 description: "Learn how to estimate the gas cost to deploy smart contract code, identify network-specific fee inputs, and verify the final deployment charge."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["gas cost deploy smart contract"]

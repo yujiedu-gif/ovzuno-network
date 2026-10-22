@@ -3,8 +3,6 @@ title: "Bitcoin blockchain size: what the measurement means"
 description: "Understand what bitcoin blockchain size measures, why reported figures can differ by data source and measurement method, and how to interpret them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

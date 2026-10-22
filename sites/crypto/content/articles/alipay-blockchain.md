@@ -3,8 +3,6 @@ title: "Alipay blockchain: what the term means and how to verify claims"
 description: "Learn what “alipay blockchain” may refer to, how payment infrastructure differs from blockchain settlement, and what evidence to check before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Alipay payment infrastructure", "blockchain-based payments", "payment settlement"]

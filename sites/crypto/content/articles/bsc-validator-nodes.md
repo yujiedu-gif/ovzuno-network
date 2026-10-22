@@ -3,8 +3,6 @@ title: "BSC Validator Nodes: Roles, Operation, and Risks"
 description: "Learn what BSC validator nodes do, how they participate in network consensus, and which technical, operational, and risk factors to verify before evaluating setup."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["BNB Smart Chain validators", "validator node requirements"]

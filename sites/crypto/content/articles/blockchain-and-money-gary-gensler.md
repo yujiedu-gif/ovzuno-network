@@ -3,8 +3,6 @@ title: "Blockchain and money Gary Gensler: verified remarks and payment context"
 description: "Blockchain and money Gary Gensler: examine verified remarks, their payment context, and the limits of drawing technical or legal conclusions from them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain money gary gensler"]

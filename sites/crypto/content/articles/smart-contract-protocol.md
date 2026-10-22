@@ -3,8 +3,6 @@ title: "Smart contract protocol: meaning, rules, and application interactions"
 description: "Learn what a smart contract protocol defines, how its rules relate to individual contracts, and why those rules matter to blockchain applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

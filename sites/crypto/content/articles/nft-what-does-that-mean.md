@@ -3,8 +3,6 @@ title: "NFT What Does That Mean? A Clear Guide to Tokens and Digital Items"
 description: "NFT what does that mean? Learn what a non-fungible token records, how it can relate to digital content, and why it does not automatically grant every right."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft that mean"]

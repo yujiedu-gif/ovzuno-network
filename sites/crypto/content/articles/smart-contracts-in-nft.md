@@ -3,8 +3,6 @@ title: "Smart contracts in nft: How NFT rules and records work"
 description: "Learn how smart contracts in nft systems manage token records, transfers, and metadata references, and where applications and off-chain rights fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["NFT smart contract", "NFT metadata", "token ownership", "minting", "transfer"]

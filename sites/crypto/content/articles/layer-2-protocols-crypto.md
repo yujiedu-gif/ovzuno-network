@@ -3,8 +3,6 @@ title: "Layer 2 protocols crypto: how scaling systems work"
 description: "Learn how layer 2 protocols crypto process transactions, connect to layer 1, and differ in settlement, data availability, and security assumptions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Ethereum layer 2", "rollup", "data availability"]

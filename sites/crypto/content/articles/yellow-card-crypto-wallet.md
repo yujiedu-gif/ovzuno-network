@@ -3,8 +3,6 @@ title: "Yellow Card Crypto Wallet: Meaning and What to Verify"
 description: "Learn what “yellow card crypto wallet” may refer to, how crypto wallets work in general, and which current service, security, and regional details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "DAO in blockchain: how decentralized organizations coordinate"
 description: "Learn what a dao in blockchain is, how proposals and votes can shape decisions, and why governance rules, execution, and accountability vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

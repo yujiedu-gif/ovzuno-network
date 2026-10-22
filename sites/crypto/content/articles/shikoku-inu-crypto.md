@@ -3,8 +3,6 @@ title: "Shikoku Inu crypto: identity, network, and verification"
 description: "Learn what Shikoku Inu crypto refers to, how to check its token identity and network, and which project claims require independent evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Shikoku Inu token", "SHIKO token", "meme token"]

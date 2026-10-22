@@ -3,8 +3,6 @@ title: "Zero Knowledge Password: Meaning, Authentication, and Blockchain Context
 description: "Learn what zero knowledge password means, how password-based authentication can use zero-knowledge proofs, and which security limits matter in blockchain systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

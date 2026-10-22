@@ -3,8 +3,6 @@ title: "NFT work meaning: what the phrase refers to"
 description: "NFT work meaning can refer to activity involving an NFT or be confused with proof-of-work consensus. Learn the distinction and what depends on the network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["nft work"]

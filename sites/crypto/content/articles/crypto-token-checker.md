@@ -3,8 +3,6 @@ title: "Crypto token checker: what it can and cannot verify"
 description: "Learn what a crypto token checker may inspect, how to read its signals, and why results cannot guarantee a token’s safety or legitimacy."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

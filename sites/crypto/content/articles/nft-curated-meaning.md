@@ -3,8 +3,6 @@ title: "NFT Curated Meaning: What the Label Can and Cannot Tell You"
 description: "Learn the nft curated meaning in collection descriptions, what curation may indicate about selection, and why it does not by itself prove ownership rights or quality"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft curated"]

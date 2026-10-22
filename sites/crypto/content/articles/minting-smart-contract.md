@@ -3,8 +3,6 @@ title: "Minting smart contract: how on-chain asset creation works"
 description: "Learn what a minting smart contract does, how a mint operation changes on-chain state, and which permissions and design risks readers should examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

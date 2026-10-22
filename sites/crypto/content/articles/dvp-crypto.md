@@ -3,8 +3,6 @@ title: "DVP Crypto: How Delivery Versus Payment Settlement Works"
 description: "Learn what dvp crypto means, how delivery versus payment can coordinate asset and payment settlement, and which operational and legal dependencies matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

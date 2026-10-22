@@ -3,8 +3,6 @@ title: "iPhone crypto mining: what is technically possible and practical?"
 description: "Learn what iPhone crypto mining means, how phone hardware and operating constraints affect proof-of-work participation, and what to verify before trying it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

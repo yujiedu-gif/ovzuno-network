@@ -3,8 +3,6 @@ title: "Crypto Assets Explained: Meaning, Representation, and Uses"
 description: "Crypto assets explained through their digital representation, control, and uses in crypto systems, with clear distinctions from related terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto assets"]

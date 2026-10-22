@@ -3,8 +3,6 @@ title: "MoneyGram blockchain: understanding its role in digital payments"
 description: "Learn what the MoneyGram blockchain topic covers, how blockchain may relate to payment flows, and which company, service, and jurisdiction claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

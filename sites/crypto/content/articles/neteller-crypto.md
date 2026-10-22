@@ -3,8 +3,6 @@ title: "Neteller crypto: features, transactions, and what to verify"
 description: "Learn what Neteller crypto may refer to, how account-based features differ from on-chain payments, and which terms and local conditions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

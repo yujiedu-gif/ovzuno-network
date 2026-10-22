@@ -3,8 +3,6 @@ title: "Flask blockchain: meaning and payment-integration basics"
 description: "Understand what flask blockchain means, how Flask applications can interact with blockchain payment infrastructure, and where application and network roles differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

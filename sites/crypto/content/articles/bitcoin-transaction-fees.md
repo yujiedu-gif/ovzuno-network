@@ -3,8 +3,6 @@ title: "Bitcoin Transaction Fees: What They Are and How They Work"
 description: "Learn what bitcoin transaction fees pay for, how transaction size and network demand can affect fee rates, and why fees may influence confirmation priority."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["bitcoin transaction fee"]

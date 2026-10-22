@@ -3,8 +3,6 @@ title: "Carbon credit crypto: meaning, tokenization, and verification"
 description: "Learn what carbon credit crypto refers to, how blockchain representations differ from underlying credits, and what institutions should verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["carbon credits crypto"]

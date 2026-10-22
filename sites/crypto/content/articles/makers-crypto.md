@@ -3,8 +3,6 @@ title: "Makers Crypto: Maker Orders and Exchange Order Books"
 description: "Learn what makers crypto refers to in exchange trading, how maker orders interact with order books, and how maker and taker roles differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

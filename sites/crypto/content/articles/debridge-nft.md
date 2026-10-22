@@ -3,8 +3,6 @@ title: "debridge nft: Meaning, Cross-Chain Context, and Ownership Checks"
 description: "Learn what debridge nft may refer to, how cross-chain NFT representations differ from ownership records, and which contract and network details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

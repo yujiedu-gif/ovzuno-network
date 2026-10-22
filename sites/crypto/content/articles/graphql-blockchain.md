@@ -3,8 +3,6 @@ title: "GraphQL Blockchain: Meaning, Data Access, and Key Boundaries"
 description: "Learn what graphql blockchain means, how a GraphQL interface can expose indexed chain data, and why it does not replace nodes or consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain GraphQL API", "GraphQL blockchain query"]

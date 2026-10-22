@@ -3,8 +3,6 @@ title: "World Cup Token Crypto: Meaning and Affiliation Checks"
 description: "Learn what world cup token crypto may refer to, how to check claims of official affiliation, and what a token’s stated function does—and does not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["fan token", "sports token", "token utility"]

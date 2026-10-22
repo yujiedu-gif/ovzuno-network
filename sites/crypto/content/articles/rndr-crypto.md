@@ -3,8 +3,6 @@ title: "RNDR Crypto: What the Token Does in the Render Network"
 description: "Learn what RNDR crypto refers to, how the token relates to the Render Network, and how decentralized GPU rendering connects creators and providers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

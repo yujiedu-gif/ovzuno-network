@@ -3,8 +3,6 @@ title: "Personal tokens crypto: meaning, possible rights, and risks"
 description: "Learn what personal tokens crypto may represent, how token terms shape possible rights, and what to verify about risks, security, and legal treatment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

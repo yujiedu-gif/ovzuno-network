@@ -3,8 +3,6 @@ title: "Bitcoin graph: meanings, types, and what they show"
 description: "Understand what “bitcoin graph” may refer to, including price charts, network visualizations, and transaction graphs, and what each can show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins graph"]

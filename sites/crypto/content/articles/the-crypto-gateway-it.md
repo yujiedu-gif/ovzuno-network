@@ -3,8 +3,6 @@ title: "The crypto gateway it: role in a crypto payment flow"
 description: "Learn what the crypto gateway it does in a merchant payment flow, from checkout and payment instructions to settlement status and payment records."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto gateway it"]

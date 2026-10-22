@@ -3,8 +3,6 @@ title: "Crypto pay me: what receiving a cryptocurrency payment involves"
 description: "Learn what “crypto pay me” means, what payment details a recipient should confirm, how to check transaction status, and which risks need attention."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

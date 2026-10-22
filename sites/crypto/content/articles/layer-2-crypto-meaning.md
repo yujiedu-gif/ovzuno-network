@@ -3,8 +3,6 @@ title: "Layer 2 Crypto Meaning: How It Relates to a Base Blockchain"
 description: "Learn the layer 2 crypto meaning, how these systems relate to a base blockchain, and why transaction handling and security depend on each design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["layer 2 crypto"]

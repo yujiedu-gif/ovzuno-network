@@ -3,8 +3,6 @@ title: "Blockchain money transfer: how a payment moves and settles"
 description: "Learn how blockchain money transfer works, from signing and network validation to confirmation, recipient access, and the off-chain services that may be involved."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

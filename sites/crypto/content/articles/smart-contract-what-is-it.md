@@ -3,8 +3,6 @@ title: "Smart contract what is it? A clear definition"
 description: "Smart contract what is it? Learn what these blockchain programs do, how transactions trigger execution, and what their basic capabilities and limits are."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract it"]

@@ -3,8 +3,6 @@ title: "layer 1 blockchain protocols: How Core Design Shapes Network Capacity"
 description: "Learn what layer 1 blockchain protocols do, how their core components coordinate transactions, and where protocol design shapes network capacity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain gateway: role, interfaces, and crypto-payment architecture"
 description: "Learn what a blockchain gateway does in crypto-payment infrastructure, how it connects applications to networks, and what boundaries teams should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

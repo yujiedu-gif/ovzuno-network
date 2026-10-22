@@ -3,8 +3,6 @@ title: "Understanding NFTs for Beginners: Tokens, Digital Items, and Ownership"
 description: "Understanding NFTs for beginners: learn what an NFT records, how it relates to a digital item, and why token ownership does not automatically grant every right."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["understanding nfts beginners"]

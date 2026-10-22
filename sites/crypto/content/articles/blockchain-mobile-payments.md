@@ -3,8 +3,6 @@ title: "Blockchain mobile payments: how the payment flow works"
 description: "Learn how blockchain mobile payments connect a phone, wallet, network, and payment services, and what users and operators should understand about the flow."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain mobile payment"]

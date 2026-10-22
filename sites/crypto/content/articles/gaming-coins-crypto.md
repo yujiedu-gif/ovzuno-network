@@ -3,8 +3,6 @@ title: "Gaming coins crypto: how game-related digital assets work"
 description: "Learn what gaming coins crypto can mean, how game-related tokens may function, and how they differ from in-game currencies and other digital assets."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["gaming crypto tokens", "blockchain gaming assets", "in-game digital assets"]

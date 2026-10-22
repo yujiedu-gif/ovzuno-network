@@ -3,8 +3,6 @@ title: "Avanti Bank Crypto: What Institutional Teams Can Verify"
 description: "Understand what avanti bank crypto refers to, how to verify the entity and its documented activities, and which regulatory and operational claims need checking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

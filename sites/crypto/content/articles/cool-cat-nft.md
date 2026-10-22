@@ -3,8 +3,6 @@ title: "Cool Cat NFT: What the Token Represents and What Ownership Means"
 description: "Learn what a cool cat nft refers to, how its token relates to digital artwork, and why NFT ownership does not automatically grant copyright."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

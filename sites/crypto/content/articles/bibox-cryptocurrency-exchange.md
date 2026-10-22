@@ -3,8 +3,6 @@ title: "Bibox cryptocurrency exchange: operations and evidence"
 description: "Review the Bibox cryptocurrency exchange’s stated operating model, market role, and service status, distinguishing verifiable information from claims needing current"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["exchange_market_infrastructure"]
 tags: []

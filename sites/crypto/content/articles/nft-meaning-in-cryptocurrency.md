@@ -3,8 +3,6 @@ title: "NFT Meaning in Cryptocurrency: What the Token Represents"
 description: "Understand NFT meaning in cryptocurrency: what a non-fungible token records on a blockchain and why that record does not by itself establish ownership of a linked."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft in cryptocurrency"]

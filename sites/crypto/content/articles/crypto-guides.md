@@ -3,8 +3,6 @@ title: "Crypto guides: a framework for understanding crypto payments"
 description: "Crypto guides can clarify payment flows, infrastructure components, and operational questions for businesses researching crypto payment systems without prescribing a"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["cryptoguide"]

@@ -3,8 +3,6 @@ title: "How to integrate crypto payments into a business payment workflow"
 description: "Learn how to integrate crypto payments by mapping checkout, transaction status, settlement, reconciliation, and risk controls before implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["integrate crypto payment"]

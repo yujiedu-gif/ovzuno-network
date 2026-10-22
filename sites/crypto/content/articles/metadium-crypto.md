@@ -3,8 +3,6 @@ title: "Metadium crypto: what institutions should verify"
 description: "Learn what Metadium crypto refers to, how to verify project and network details, and which institutional treasury questions need evidence before evaluation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["institutional_crypto_treasury"]
 tags: []

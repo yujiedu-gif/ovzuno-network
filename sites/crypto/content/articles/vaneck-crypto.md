@@ -3,8 +3,6 @@ title: "VanEck crypto: how to verify staking and validator roles"
 description: "Understand what VanEck crypto may refer to and how to verify whether a specific product or service involves staking, delegation, or validator operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

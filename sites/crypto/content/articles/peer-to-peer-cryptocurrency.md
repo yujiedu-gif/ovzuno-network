@@ -3,8 +3,6 @@ title: "Peer to peer cryptocurrency: how exchange infrastructure works"
 description: "Understand peer to peer cryptocurrency infrastructure, how participants coordinate trades and settlement, and where operational risks and trade-offs arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["peer peer cryptocurrency"]

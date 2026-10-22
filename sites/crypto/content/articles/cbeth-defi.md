@@ -3,8 +3,6 @@ title: "cbeth defi: How the Token Works Across DeFi Protocols"
 description: "Learn how cbeth defi relates to Coinbase Wrapped Staked ETH, where protocols may use the token, and which dependencies and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["Coinbase Wrapped Staked ETH", "liquid staking token", "DeFi collateral"]

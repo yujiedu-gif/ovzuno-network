@@ -3,8 +3,6 @@ title: "Level 1 crypto: meaning, network role, and basic terminology"
 description: "Learn what level 1 crypto means, how a blockchain’s base layer handles core network functions, and why the phrase may refer to a network or its associated asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

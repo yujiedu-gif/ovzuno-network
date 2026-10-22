@@ -3,8 +3,6 @@ title: "Web3 Identity Verification: How Claims Can Be Checked with Less Disclosu
 description: "Web3 identity verification can check claims using credentials and cryptographic proofs. Learn how the flow works, what it reveals, and its limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

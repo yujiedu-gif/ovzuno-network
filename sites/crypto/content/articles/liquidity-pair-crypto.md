@@ -3,8 +3,6 @@ title: "Liquidity pair crypto: how paired assets relate to cross-chain exchange"
 description: "Learn what a liquidity pair crypto setup represents, how paired assets can support cross-chain exchange, and what design limits readers should distinguish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

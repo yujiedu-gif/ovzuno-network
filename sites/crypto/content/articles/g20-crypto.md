@@ -3,8 +3,6 @@ title: "G20 Crypto: How International Policy Relates to National Rules"
 description: "Learn how G20 crypto policy discussions relate to national regulation and tax reporting, and why applicable obligations depend on jurisdiction-specific rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["G20 crypto regulation", "crypto tax reporting", "crypto-asset policy"]

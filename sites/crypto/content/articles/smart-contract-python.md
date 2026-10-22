@@ -3,8 +3,6 @@ title: "Smart contract python: roles in development and interaction"
 description: "See how smart contract python can support testing, scripts, and off-chain interaction, and why execution depends on the target blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["python smart contracts"]

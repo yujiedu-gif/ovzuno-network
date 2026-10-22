@@ -3,8 +3,6 @@ title: "JPM Blockchain: What the Term Refers To"
 description: "Learn what “jpm blockchain” refers to, how institution-specific blockchain services differ from networks, and which operational details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain jpm"]

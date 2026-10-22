@@ -3,8 +3,6 @@ title: "Blockchain scripts: how transaction conditions are encoded and checked"
 description: "Learn what blockchain scripts are, how they encode transaction conditions, how networks check them, and why capabilities differ across blockchain designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain script"]

@@ -3,8 +3,6 @@ title: "Monkey Token Crypto: How to Identify the Asset"
 description: "Monkey token crypto can refer to different assets. Learn how to check a project, blockchain, and contract or mint identifier before relying on a token name."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Store That Accept Cryptocurrency: How Customers Can Verify Checkout"
 description: "Learn how to verify a store that accept cryptocurrency, review checkout instructions, and check order policies before confirming payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Stader crypto: an explainer on staking infrastructure"
 description: "Learn what Stader crypto refers to, how its staking infrastructure relates to networks and validators, and which project-specific details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

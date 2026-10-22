@@ -3,8 +3,6 @@ title: "SoFi Crypto Fees: What to Check Before a Transaction"
 description: "Learn what SoFi crypto fees may include, how charges can vary by transaction, and where to verify current pricing and terms before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["sofi crypto fee"]

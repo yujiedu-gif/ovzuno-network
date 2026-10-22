@@ -3,8 +3,6 @@ title: "DEX Crypto Coins: What the Term Means and What to Check"
 description: "Learn what dex crypto coins can refer to, how exchange-related tokens differ from assets traded on a DEX, and what to check about token and protocol roles."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin Transactions per Second: Meaning and Measurement"
 description: "Learn what bitcoin transactions per second measures, how the figure is calculated, and why it is not a complete measure of Bitcoin’s capacity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["bitcoin transaction per second"]

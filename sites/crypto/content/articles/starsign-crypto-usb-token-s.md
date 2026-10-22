@@ -3,8 +3,6 @@ title: "Starsign crypto usb token s: what the term may refer to"
 description: "Learn what starsign crypto usb token s may refer to, how to distinguish a USB security device from a crypto asset token, and what evidence to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

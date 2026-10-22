@@ -3,8 +3,6 @@ title: "Ethereum picture: what Ethereum diagrams show"
 description: "Learn what an ethereum picture can show, how diagrams represent Ethereum’s network and applications, and why ether is not the network itself."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum pictures"]

@@ -3,8 +3,6 @@ title: "ftm smart contract: how contracts relate to Fantom and FTM"
 description: "Understand what an ftm smart contract is, how contract code relates to Fantom and FTM, and which network-specific details to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

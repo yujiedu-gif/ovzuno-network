@@ -3,8 +3,6 @@ title: "Pre sale crypto tokens: how token presales work"
 description: "Learn what pre sale crypto tokens are, how presale terms and allocations may work, and which delivery, security, and participation risks require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto token presale", "token presale allocation", "token sale terms"]

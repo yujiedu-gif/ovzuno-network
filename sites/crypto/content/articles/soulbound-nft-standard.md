@@ -3,8 +3,6 @@ title: "Soulbound NFT Standard: Core Design Choices and Trade-Offs"
 description: "Learn what a soulbound NFT standard may specify, including transfer limits, revocation, recovery, privacy, and the distinction between a standard and its use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

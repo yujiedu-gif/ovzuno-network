@@ -3,8 +3,6 @@ title: "Ruby red crypto card: what the phrase may mean"
 description: "Learn what “ruby red crypto card” may describe, how to distinguish a card color from a product tier, and which claims require provider verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

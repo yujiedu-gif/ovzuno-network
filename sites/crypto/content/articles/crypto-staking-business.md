@@ -3,8 +3,6 @@ title: "Crypto staking business: operating models, responsibilities, and risks"
 description: "Explore crypto staking business models, validator duties, operating dependencies, and risk controls, with questions to assess before choosing an approach."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking business model", "validator operations", "staking service provider"]

@@ -3,8 +3,6 @@ title: "Blockchain aggregator: how aggregated blockchain data works"
 description: "Learn what a blockchain aggregator does, how it gathers and standardizes network data, and the limitations to consider when interpreting cross-chain results."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain data aggregation", "cross-chain data"]

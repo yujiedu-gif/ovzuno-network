@@ -3,8 +3,6 @@ title: "Simply Explained Blockchain: How Payment Transactions Are Recorded"
 description: "Simply explained blockchain: follow a payment from transaction submission through network checks and block recording, with key limits made clear."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["simply blockchain"]

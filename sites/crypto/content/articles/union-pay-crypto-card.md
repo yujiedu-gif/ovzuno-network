@@ -3,8 +3,6 @@ title: "Union pay crypto card: How Crypto Funding Can Connect to UnionPay Paymen
 description: "Learn how a union pay crypto card may connect crypto funding to UnionPay payment processing, which parties are involved, and what details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["pay crypto card"]

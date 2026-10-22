@@ -3,8 +3,6 @@ title: "Blockchain forks explained: why a chain can split"
 description: "Blockchain forks explained: learn why network histories can diverge, how rule changes shape a fork, and what the split may mean for participants."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain forks"]

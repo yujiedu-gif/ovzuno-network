@@ -3,8 +3,6 @@ title: "Bitcoin explorer: what it shows and what it cannot prove"
 description: "Learn what a bitcoin explorer displays about Bitcoin blocks, transactions, and addresses, and why public blockchain data does not establish identity or ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoinexplorer"]

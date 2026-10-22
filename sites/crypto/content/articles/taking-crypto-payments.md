@@ -3,8 +3,6 @@ title: "Taking crypto payments: the business payment lifecycle"
 description: "A neutral overview of taking crypto payments for a business, covering the payment flow, reconciliation, operational risks, and questions to verify locally."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["taking crypto payment"]

@@ -3,8 +3,6 @@ title: "Safest crypto exchange: how to assess safety evidence"
 description: "Learn how to assess a safest crypto exchange claim by examining custody, governance, market operations, disclosures, and the limits of available evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "CDC crypto exchange: how to identify what the term refers to"
 description: "Learn how to assess what “CDC crypto exchange” refers to, what evidence can confirm a specific service, and how to avoid confusing an abbreviation with an exchange."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

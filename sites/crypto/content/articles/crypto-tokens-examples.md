@@ -3,8 +3,6 @@ title: "Crypto Tokens Examples: Named Assets and Their Protocol Roles"
 description: "Explore crypto tokens examples by protocol role, with concise descriptions of named assets and context for understanding their functions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

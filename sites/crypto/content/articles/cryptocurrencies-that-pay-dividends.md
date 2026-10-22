@@ -3,8 +3,6 @@ title: "Cryptocurrencies that pay dividends: what the label means"
 description: "Learn what cryptocurrencies that pay dividends may actually distribute, how payouts differ from company dividends, and what legal and tax details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Free crypto coins: what mining rewards really mean"
 description: "Learn what free crypto coins can mean in mining, how protocol rewards differ from giveaways, and why equipment, energy, eligibility, and uncertainty matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

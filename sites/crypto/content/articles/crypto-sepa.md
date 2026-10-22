@@ -3,8 +3,6 @@ title: "Crypto SEPA: How Bank Transfers Connect to Crypto Services"
 description: "Learn what crypto SEPA means, how a SEPA bank transfer may connect to a crypto service, and which provider-specific steps and conditions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

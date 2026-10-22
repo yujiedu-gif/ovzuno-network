@@ -3,8 +3,6 @@ title: "Simplest explanation of nft: What an NFT Represents"
 description: "Get the simplest explanation of nft: learn what an NFT records on a blockchain, what it may represent, and why token ownership is not automatically copyright."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["simplest explanation nft"]

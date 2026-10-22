@@ -3,8 +3,6 @@ title: "Blockchain Developer Platform: A Dapp Evaluation Framework"
 description: "Assess a blockchain developer platform for smart-contract dapps by comparing development tools, deployment workflows, interoperability, operations, and evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: ["blockchain platform"]

@@ -3,8 +3,6 @@ title: "Funko NFT Physical Pop: How the Digital Token May Link to a Collectible"
 description: "Learn how a funko nft physical pop may connect a digital token to a physical collectible, and which collection terms to check before assuming redemption rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["Funko Digital Pop!", "physical collectible redemption", "NFT-linked collectible"]

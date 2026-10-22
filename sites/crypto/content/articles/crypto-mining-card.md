@@ -3,8 +3,6 @@ title: "Crypto Mining Card: What It Is and How It Works"
 description: "Learn what a crypto mining card is, how it performs proof-of-work computations, and how its role differs from other mining hardware."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

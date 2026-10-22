@@ -3,8 +3,6 @@ title: "Crypto exchange github: what public repositories can tell you"
 description: "Learn what crypto exchange github repositories may reveal about software components and development, and why public code alone cannot verify live systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

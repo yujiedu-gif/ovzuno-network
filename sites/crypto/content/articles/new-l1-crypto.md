@@ -3,8 +3,6 @@ title: "New L1 Crypto: Meaning and How to Assess Scaling Claims"
 description: "Learn what new L1 crypto means and assess a new Layer 1 network’s scaling design, performance evidence, and trade-offs without relying on headline claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["new 1 crypto"]

@@ -3,8 +3,6 @@ title: "Front running Solidity: transaction-ordering risks in smart contracts"
 description: "Learn how front running Solidity contracts can arise from transaction visibility and ordering, and review defensive design patterns and their limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

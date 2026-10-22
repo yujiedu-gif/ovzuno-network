@@ -3,8 +3,6 @@ title: "Ethereum updates: meaning, types, and how to distinguish them"
 description: "Understand what Ethereum updates can refer to, how protocol changes differ from client releases and ecosystem news, and what to verify in official documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum update"]

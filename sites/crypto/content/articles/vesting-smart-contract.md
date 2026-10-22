@@ -3,8 +3,6 @@ title: "Vesting Smart Contract: How On-Chain Token Release Works"
 description: "Learn how a vesting smart contract can encode token release schedules, what cliffs and claims mean, and which design and security questions builders should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["token vesting", "vesting schedule", "cliff period", "smart contract audit"]

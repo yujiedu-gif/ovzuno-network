@@ -3,8 +3,6 @@ title: "Fiat to crypto gateway: transaction flow and operating boundaries"
 description: "Learn how a fiat to crypto gateway connects payment, identity, conversion, and wallet steps, and which provider or customer responsibilities require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["fiat crypto gateway"]

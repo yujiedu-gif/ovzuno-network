@@ -3,8 +3,6 @@ title: "Digital Contract Blockchain: Meaning, Operation, and Limits"
 description: "Learn what digital contract blockchain means, how encoded rules can execute on-chain, and why technical execution does not by itself establish legal effect."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

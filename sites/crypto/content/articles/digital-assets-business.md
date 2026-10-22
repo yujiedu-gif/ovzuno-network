@@ -3,8 +3,6 @@ title: "Digital assets business: activities, protocols, and infrastructure"
 description: "Learn what a digital assets business may do, how crypto protocols and infrastructure support its activities, and which operational questions need further review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

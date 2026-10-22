@@ -3,8 +3,6 @@ title: "PBFT Crypto: How Byzantine Fault Tolerance Reaches Consensus"
 description: "Learn how PBFT crypto systems coordinate validators, reach agreement despite some faulty participants, and differ from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

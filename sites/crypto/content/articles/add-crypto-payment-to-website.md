@@ -3,8 +3,6 @@ title: "How to add crypto payment to website: integration choices and checks"
 description: "Learn how to add crypto payment to website by mapping checkout flows, integration choices, order handling, and the checks to complete before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["add crypto payment website"]

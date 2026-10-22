@@ -3,8 +3,6 @@ title: "PHP Solidity: What the Terms Mean in dApp Development"
 description: "Understand what PHP Solidity refers to, how PHP and Solidity differ, and where each language may fit in a decentralized application architecture."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solid php"]

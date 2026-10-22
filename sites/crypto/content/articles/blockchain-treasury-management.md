@@ -3,8 +3,6 @@ title: "Blockchain Treasury Management: Workflows and Controls"
 description: "Learn how blockchain treasury management connects planning, transaction approvals, on-chain execution, reconciliation, and oversight, with controls to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["on-chain treasury operations", "digital asset treasury controls", "blockchain transaction reconciliation"]

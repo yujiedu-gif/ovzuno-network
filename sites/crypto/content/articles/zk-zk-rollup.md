@@ -3,8 +3,6 @@ title: "zk zk rollup: How Zero-Knowledge Rollups Work"
 description: "Learn what a zk zk rollup does, how transactions and validity proofs are processed, and which data availability and implementation trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

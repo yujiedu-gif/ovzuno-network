@@ -3,8 +3,6 @@ title: "Shieldpay crypto: what businesses can verify"
 description: "Understand what “shieldpay crypto” may refer to, how to verify any stated capabilities, and which operating, jurisdictional, and compliance details need confirmation"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

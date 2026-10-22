@@ -3,8 +3,6 @@ title: "NFT royalty smart contract: how royalty rules work"
 description: "Learn how an nft royalty smart contract can describe royalty terms, how sale flows may use them, and why on-chain rules do not guarantee payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["NFT royalty mechanism", "royalty recipient", "secondary sale"]

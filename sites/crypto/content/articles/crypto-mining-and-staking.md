@@ -3,8 +3,6 @@ title: "Crypto mining and staking: How their consensus mechanisms differ"
 description: "Compare crypto mining and staking by examining how proof-of-work and proof-of-stake networks select participants, support consensus, and approach security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining staking"]

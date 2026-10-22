@@ -3,8 +3,6 @@ title: "Long Short Ratio Crypto: Meaning, Calculation, and Limits"
 description: "Learn what the long short ratio crypto measures, how its calculation can vary by data source, and why it is not a standalone signal of future prices."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["crypto long short ratio"]

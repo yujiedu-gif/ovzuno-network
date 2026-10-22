@@ -3,8 +3,6 @@ title: "Blockchain Data Mining: Meaning, Workflow, and Key Distinctions"
 description: "Learn what blockchain data mining can mean in on-chain analytics, how records move from extraction to analysis, and how the term differs from consensus mining and."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

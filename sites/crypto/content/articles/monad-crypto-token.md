@@ -3,8 +3,6 @@ title: "Monad crypto token: what it is and how it relates to the network"
 description: "Understand what the Monad crypto token is, how it relates to the Monad blockchain, and which details about its functions require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

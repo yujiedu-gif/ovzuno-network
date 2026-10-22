@@ -3,8 +3,6 @@ title: "Crypto Infrastructure Companies: Roles Across the Digital-Asset Stack"
 description: "Learn what crypto infrastructure companies do, how their services support networks and applications, and how to distinguish infrastructure from end-user products."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

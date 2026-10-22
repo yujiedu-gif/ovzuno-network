@@ -3,8 +3,6 @@ title: "NFT royalty contract: what it can and cannot enforce"
 description: "Learn what an NFT royalty contract may encode, how marketplaces and transfers affect payment, and which technical or legal claims need separate verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

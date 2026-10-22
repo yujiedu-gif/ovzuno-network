@@ -3,8 +3,6 @@ title: "CARF Crypto: What the Crypto-Asset Reporting Framework Means"
 description: "Learn what carf crypto means: a plain-language definition of the Crypto-Asset Reporting Framework, its purpose, broad scope, and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Record Keeping Blockchain: How Payment Records Work"
 description: "Learn how record keeping blockchain systems capture and validate payment data, what their records can show, and where context or supporting records are still needed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

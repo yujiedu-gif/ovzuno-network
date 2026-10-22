@@ -3,8 +3,6 @@ title: "Amex crypto credit card: what the term means and what to verify"
 description: "Learn what “amex crypto credit card” can mean, how crypto rewards differ from direct spending, and which issuer, fee, security, and eligibility terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto rewards credit card", "American Express crypto payments"]

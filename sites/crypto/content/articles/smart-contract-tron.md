@@ -3,8 +3,6 @@ title: "Smart contract TRON: How contracts work on the network"
 description: "Learn how smart contract tron works on the TRON network, how applications interact with contracts, and what builders should assess before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

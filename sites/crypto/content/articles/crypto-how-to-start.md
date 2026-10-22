@@ -3,8 +3,6 @@ title: "Crypto how to start: a business guide to payment acceptance"
 description: "Crypto how to start for business payments: assess readiness, map payment and settlement decisions, define controls, and plan a limited pilot."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["how to start crypto", "crypto start"]

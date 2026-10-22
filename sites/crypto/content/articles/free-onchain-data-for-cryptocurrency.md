@@ -3,8 +3,6 @@ title: "Free Onchain Data for Cryptocurrency: Scope, Limits, and Evaluation"
 description: "Learn what free onchain data for cryptocurrency may include, which access limits and usage terms to check, and how to assess fit for your use case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: ["free onchain data cryptocurrency"]

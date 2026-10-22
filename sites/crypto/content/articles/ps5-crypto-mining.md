@@ -3,8 +3,6 @@ title: "PS5 Crypto Mining: Technical Feasibility and Constraints"
 description: "Learn how PS5 crypto mining relates to proof-of-work requirements, console hardware and software access, network compatibility, and practical constraints."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

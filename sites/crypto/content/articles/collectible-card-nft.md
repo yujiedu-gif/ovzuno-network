@@ -3,8 +3,6 @@ title: "Collectible card NFT: how digital trading cards are represented"
 description: "Learn what a collectible card NFT represents, how its token relates to card media and platform features, and what to check before relying on ownership or transfer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

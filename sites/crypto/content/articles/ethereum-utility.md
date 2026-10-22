@@ -3,8 +3,6 @@ title: "Ethereum utility: what the network enables and ETH does"
 description: "Understand Ethereum utility by separating what the protocol enables from ETH’s roles in transactions, network security, and application use, with key limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

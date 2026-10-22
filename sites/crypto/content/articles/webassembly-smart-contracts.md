@@ -3,8 +3,6 @@ title: "WebAssembly Smart Contracts: Execution Model and Key Trade-offs"
 description: "Understand how webassembly smart contracts use a WebAssembly runtime, what the host environment controls, and which execution trade-offs developers should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

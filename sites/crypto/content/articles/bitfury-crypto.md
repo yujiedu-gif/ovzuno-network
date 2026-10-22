@@ -3,8 +3,6 @@ title: "bitfury crypto: Its Role in Mining and Blockchain Infrastructure"
 description: "Learn what bitfury crypto refers to, how the company is connected to mining and blockchain infrastructure, and which current claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Truffle Solidity: Development, Testing, and Deployment Workflow"
 description: "Learn how truffle solidity fits into smart contract development, from project setup and testing to deployment, with key compatibility checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Truffle Suite", "Solidity development framework", "smart contract testing"]

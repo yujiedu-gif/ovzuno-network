@@ -3,8 +3,6 @@ title: "Bored Ape NFT Explained: Token, Artwork, and Holder Rights"
 description: "Bored Ape NFT explained: learn what the token records, how it relates to the artwork, and why holding an NFT does not automatically grant every right."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["bored ape nft"]

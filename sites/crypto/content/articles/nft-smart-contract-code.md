@@ -3,8 +3,6 @@ title: "NFT Smart Contract Code: Components, Design, and Validation"
 description: "Learn how nft smart contract code is structured, which design choices matter, and how to test and review an NFT contract before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

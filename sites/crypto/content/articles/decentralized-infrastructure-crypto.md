@@ -3,8 +3,6 @@ title: "Decentralized infrastructure crypto: layers, components, and dependencie
 description: "Explore decentralized infrastructure crypto by mapping the network, execution, data, oracle, and storage components that support protocol operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

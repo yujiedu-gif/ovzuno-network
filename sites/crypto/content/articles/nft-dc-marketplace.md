@@ -3,8 +3,6 @@ title: "NFT DC Marketplace: What the Term May Mean"
 description: "Learn what “DC” may mean in an nft dc marketplace query, how NFT marketplaces relate to token records, and why a token does not by itself define all rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["dc nft marketplace"]

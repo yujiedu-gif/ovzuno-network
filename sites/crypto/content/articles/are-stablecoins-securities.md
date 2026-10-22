@@ -3,8 +3,6 @@ title: "Are stablecoins securities? A U.S. legal framework"
 description: "Are stablecoins securities under U.S. law? Learn why classification depends on the token, transaction, issuer conduct, and current legal authorities."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["are stablecoin securities"]

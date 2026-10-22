@@ -3,8 +3,6 @@ title: "Plasma Pay Crypto: Meaning and Evidence to Check"
 description: "Learn what plasma pay crypto may refer to, how to distinguish a named payment service from blockchain concepts, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

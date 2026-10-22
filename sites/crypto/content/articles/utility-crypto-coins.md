@@ -3,8 +3,6 @@ title: "Utility Crypto Coins: What They Do in a Blockchain System"
 description: "Learn what utility crypto coins are, how their intended functions fit a blockchain protocol or service, and why utility does not guarantee access or value."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

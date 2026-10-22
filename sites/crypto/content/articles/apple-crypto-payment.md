@@ -3,8 +3,6 @@ title: "Apple Crypto Payment: Meaning, Actors, and Payment Flows"
 description: "Learn what “apple crypto payment” can mean, how payment actors and settlement differ, and what evidence is needed to verify current support in a jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

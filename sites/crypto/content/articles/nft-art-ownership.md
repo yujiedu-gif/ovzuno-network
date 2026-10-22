@@ -3,8 +3,6 @@ title: "NFT art ownership: what the token record does and does not establish"
 description: "Learn what nft art ownership records can show, how an NFT relates to an artwork file, and why copyright or usage rights may require separate evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT token", "copyright", "on-chain record"]

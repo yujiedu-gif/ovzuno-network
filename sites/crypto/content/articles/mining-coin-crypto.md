@@ -3,8 +3,6 @@ title: "Mining Coin Crypto: Meaning, Consensus, and Coin Issuance"
 description: "Learn what mining coin crypto means, how mining supports proof-of-work consensus, and why block rewards are distinct from a network’s validation process."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work cryptocurrency", "mining algorithm", "block rewards"]

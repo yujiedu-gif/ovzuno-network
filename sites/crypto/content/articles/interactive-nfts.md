@@ -3,8 +3,6 @@ title: "Interactive NFTs: How Programmable Token Behavior Works"
 description: "Learn how interactive NFTs can change state or displayed content, what smart contracts and metadata contribute, and which external dependencies may affect them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["dynamic NFTs", "NFT metadata", "smart contracts", "on-chain data", "digital ownership"]

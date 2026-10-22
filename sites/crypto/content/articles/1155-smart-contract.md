@@ -3,8 +3,6 @@ title: "1155 smart contract: How ERC-1155 manages multiple token types"
 description: "Learn what an 1155 smart contract does, how ERC-1155 represents multiple token types, and where batch operations and implementation trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-1155", "multi-token standard", "fungible and non-fungible tokens"]

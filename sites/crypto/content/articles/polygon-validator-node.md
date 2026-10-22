@@ -3,8 +3,6 @@ title: "Polygon Validator Node: Role, Operation, and Key Considerations"
 description: "Learn what a polygon validator node does, how it participates in Polygon network validation, and which technical and operational factors operators should review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

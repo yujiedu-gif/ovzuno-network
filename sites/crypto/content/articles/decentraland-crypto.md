@@ -3,8 +3,6 @@ title: "Decentraland crypto: tokens, NFTs, and the virtual world"
 description: "Understand what Decentraland crypto refers to, how its tokens and NFTs relate to the virtual world, and what a blockchain ownership record does and does not show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

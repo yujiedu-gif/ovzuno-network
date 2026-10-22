@@ -3,8 +3,6 @@ title: "Smart contract on polygon: how deployment and execution work"
 description: "Learn how a smart contract on polygon is deployed, executed, and used by applications, including network selection, transactions, state, and key checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Polygon smart contract", "deploy a smart contract on Polygon", "Polygon network"]

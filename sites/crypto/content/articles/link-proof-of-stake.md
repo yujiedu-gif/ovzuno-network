@@ -3,8 +3,6 @@ title: "Link proof of stake: what the phrase means"
 description: "Link proof of stake may refer to Chainlink (LINK) staking, not a consensus mechanism. Learn the distinction and what to verify before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["link proof stake"]

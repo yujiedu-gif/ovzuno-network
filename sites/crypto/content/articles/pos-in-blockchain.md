@@ -3,8 +3,6 @@ title: "pos in blockchain: How Proof of Stake Consensus Works"
 description: "Learn what pos in blockchain means, how proof-of-stake validators help a network agree, and why designs and security trade-offs vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof of stake", "validator", "consensus mechanism", "staking"]

@@ -3,8 +3,6 @@ title: "Cheap Crypto Miner: Costs, Capability, and Trade-Offs"
 description: "Learn what a cheap crypto miner means, how hardware capability and operating needs differ from purchase price, and what to verify before comparing options."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

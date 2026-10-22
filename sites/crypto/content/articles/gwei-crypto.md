@@ -3,8 +3,6 @@ title: "Gwei Crypto: Meaning, Gas Prices, and Transaction Fees"
 description: "Learn what gwei crypto means, how it expresses Ethereum gas prices, and why a transaction’s total fee also depends on gas used and network rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["gwei meaning", "gas fees", "Ethereum gas"]

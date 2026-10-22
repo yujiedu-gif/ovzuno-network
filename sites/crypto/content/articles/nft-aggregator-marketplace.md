@@ -3,8 +3,6 @@ title: "NFT aggregator marketplace: how listings and transactions are brought to
 description: "Learn how an NFT aggregator marketplace collects listings, supports discovery, and may route transactions, plus what to verify about data and execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft marketplace aggregator"]

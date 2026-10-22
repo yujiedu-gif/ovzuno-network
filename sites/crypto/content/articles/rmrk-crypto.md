@@ -3,8 +3,6 @@ title: "RMRK crypto: protocol, NFTs, and digital-asset concepts"
 description: "Learn what RMRK crypto refers to, how its protocol relates to NFTs and digital assets, and which distinctions matter when interpreting its ecosystem."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

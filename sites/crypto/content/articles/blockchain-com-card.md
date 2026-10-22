@@ -3,8 +3,6 @@ title: "Blockchain com card: How crypto-linked card payments work"
 description: "Learn how the blockchain com card connects card-network payments with a crypto account, and which parts of a transaction may involve blockchain networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

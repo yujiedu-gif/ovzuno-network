@@ -3,8 +3,6 @@ title: "How to Read a Crypto Mining Difficulty Chart"
 description: "Learn how to read a crypto mining difficulty chart, identify adjustment points and units, and interpret changes without mistaking them for price or profit forecasts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["mining difficulty chart", "difficulty adjustment", "proof-of-work mining"]

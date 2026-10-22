@@ -3,8 +3,6 @@ title: "Stakeable crypto: how to assess staking eligibility"
 description: "Learn what makes stakeable crypto eligible for network participation, how validator and delegation routes differ, and which protocol-specific conditions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking eligibility", "validator requirements", "proof-of-stake assets"]

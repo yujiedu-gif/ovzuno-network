@@ -3,8 +3,6 @@ title: "Walmart Crypto Payments: What Shoppers Can Verify"
 description: "Learn how to verify Walmart crypto payments, distinguish direct acceptance from intermediary options, and check current checkout terms before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["walmart crypto payment"]

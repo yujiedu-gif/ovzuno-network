@@ -3,8 +3,6 @@ title: "Cross Bridge Crypto: How Bridges Fit Into Blockchain Interoperability"
 description: "Learn what cross bridge crypto can mean, how bridges relate to blockchain interoperability, and which design and risk questions matter when assessing the technology."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

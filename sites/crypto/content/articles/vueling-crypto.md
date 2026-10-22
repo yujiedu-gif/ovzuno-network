@@ -3,8 +3,6 @@ title: "Vueling crypto: How to verify payment options for a flight"
 description: "Vueling crypto payment options explained: learn how to verify whether cryptocurrency is accepted for a booking and where to confirm current methods."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

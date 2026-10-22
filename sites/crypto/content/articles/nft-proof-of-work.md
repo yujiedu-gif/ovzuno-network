@@ -3,8 +3,6 @@ title: "NFT Proof of Work: How NFTs Relate to Blockchain Consensus"
 description: "Understand nft proof of work: how NFT-related transactions can be recorded on a proof-of-work blockchain, and what that consensus process does and does not establish"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["nft proof work"]

@@ -3,8 +3,6 @@ title: "Most popular dex crypto: how to compare usage metrics"
 description: "Learn how to assess most popular dex crypto through time-bound measures such as trading volume, users, liquidity, and chain coverage, with caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["DEX usage metrics", "decentralized exchange volume", "DEX liquidity"]

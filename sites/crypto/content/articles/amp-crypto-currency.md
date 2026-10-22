@@ -3,8 +3,6 @@ title: "AMP crypto currency: its collateral role and token mechanics"
 description: "Learn what AMP crypto currency is designed to do in collateralized transfers, how its token mechanics are described, and which details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto FDIC Insured: What U.S. Deposit Insurance Covers"
 description: "Learn what crypto FDIC insured claims mean in the United States, which bank deposits may qualify, and how to verify coverage without confusing deposits with crypto."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

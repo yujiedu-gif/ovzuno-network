@@ -3,8 +3,6 @@ title: "NFT World Meaning: What the Phrase Refers To"
 description: "Understand nft world meaning, how the phrase is used for the broader NFT ecosystem or a specific community, and what it does not establish about ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft world"]

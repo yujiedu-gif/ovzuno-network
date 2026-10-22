@@ -3,8 +3,6 @@ title: "The DAO Smart Contract: Definition, Roles, and Limits"
 description: "Learn what the dao smart contract means, how code can support DAO governance and execution, and why a contract is not the entire organization."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["dao smart contracts", "dao smart contract"]

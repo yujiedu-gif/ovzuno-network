@@ -3,8 +3,6 @@ title: "How to Report Crypto on Taxes: Records, Activity, and Local Rules"
 description: "Learn how to prepare to report crypto on taxes by classifying activity, organizing records, and checking jurisdiction-specific rules with authoritative sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

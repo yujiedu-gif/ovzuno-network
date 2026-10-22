@@ -3,8 +3,6 @@ title: "eBay crypto: Does eBay accept cryptocurrency payments?"
 description: "Learn what “eBay crypto” may mean, how to distinguish direct cryptocurrency checkout from third-party arrangements, and which official policies to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["eBay cryptocurrency payments", "eBay payment methods"]

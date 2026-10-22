@@ -3,8 +3,6 @@ title: "Ethereum Token Address: What It Identifies and How to Check It"
 description: "Understand what an ethereum token address identifies, how it differs from a wallet address, and what to check when verifying a token contract."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

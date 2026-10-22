@@ -3,8 +3,6 @@ title: "Virtual Crypto Mining: Meaning, Models, and Key Distinctions"
 description: "Learn what virtual crypto mining may describe, how it differs from proof-of-work mining, and what to verify when assessing a hosted or simulated offer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

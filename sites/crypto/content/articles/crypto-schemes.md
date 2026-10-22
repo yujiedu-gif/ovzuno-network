@@ -3,8 +3,6 @@ title: "Crypto schemes: meanings in payment contexts"
 description: "Learn what crypto schemes can mean in payment discussions, how to distinguish system designs from alleged fraud, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto scheme"]

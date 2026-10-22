@@ -3,8 +3,6 @@ title: "How to read a dao smart contract github repository"
 description: "Learn how to inspect a dao smart contract github repository for governance logic, code status, and verification limits without treating source code as proof."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["DAO governance contract", "DAO contract repository", "on-chain voting"]

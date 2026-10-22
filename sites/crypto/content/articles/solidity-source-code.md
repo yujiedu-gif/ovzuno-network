@@ -3,8 +3,6 @@ title: "Solidity source code: a practical guide to writing and checking a contra
 description: "Learn how to structure Solidity source code, compile and test a basic contract, and understand why passing checks does not prove it is secure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

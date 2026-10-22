@@ -3,8 +3,6 @@ title: "Rarible NFT gas fee: what affects the cost and how to check it"
 description: "Understand what can affect a rarible nft gas fee, how network costs differ from marketplace charges, and where to review an estimate before confirming."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

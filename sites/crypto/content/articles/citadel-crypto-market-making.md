@@ -3,8 +3,6 @@ title: "Citadel crypto market making: what public evidence shows"
 description: "Explore what public evidence can establish about citadel crypto market making, how to assess claims, and which details remain unconfirmed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

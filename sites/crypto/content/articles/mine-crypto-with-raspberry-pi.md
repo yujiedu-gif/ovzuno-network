@@ -3,8 +3,6 @@ title: "Mine Crypto With Raspberry Pi: Feasibility and Limits"
 description: "Learn what it takes to mine crypto with raspberry pi, which technical limits matter, and how to assess a Raspberry Pi mining experiment safely."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

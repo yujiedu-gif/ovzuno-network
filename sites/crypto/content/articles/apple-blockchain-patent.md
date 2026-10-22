@@ -3,8 +3,6 @@ title: "Apple blockchain patent: what the term means"
 description: "Understand what an apple blockchain patent may refer to, what a patent document can establish, and how to verify claims without assuming a product exists."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Yellow Card Crypto: What the Phrase Refers To"
 description: "Learn what yellow card crypto may refer to, how to verify claims about a named service, and how that differs from generic crypto card terminology."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

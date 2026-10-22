@@ -3,8 +3,6 @@ title: "freecodecamp smart contract: What the Phrase Means"
 description: "Understand what “freecodecamp smart contract” may refer to, what smart contracts do, and how to distinguish general blockchain concepts from course-specific details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["freecodecamp smart contracts"]

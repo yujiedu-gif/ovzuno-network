@@ -3,8 +3,6 @@ title: "Stablecoin credit card: payment flows and credit mechanics"
 description: "A stablecoin credit card explainer tracing possible funding and settlement roles, how credit differs from debit, and which risks require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

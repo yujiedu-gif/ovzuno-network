@@ -3,8 +3,6 @@ title: "Truffle in blockchain: What the development framework does"
 description: "Learn what Truffle in blockchain development refers to, how its smart-contract workflow fits together, and which version-specific details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

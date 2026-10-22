@@ -3,8 +3,6 @@ title: "Structure of Smart Contract in Blockchain: Main Components Explained"
 description: "Understand the structure of smart contract in blockchain: how code, stored state, functions, and transactions fit together, and what each part does."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["structure smart contract in blockchain"]

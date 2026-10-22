@@ -3,8 +3,6 @@ title: "Smart Card Crypto: How Cards Can Support Digital-Asset Payments"
 description: "Learn how smart card crypto can support digital-asset payments, where signing and credentials fit in a transaction flow, and what still happens on a blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

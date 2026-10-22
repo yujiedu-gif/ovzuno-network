@@ -3,8 +3,6 @@ title: "H2ON Crypto: What the Name Refers to and What to Verify"
 description: "Learn what h2on crypto refers to, how to verify claims about its token, and what evidence is needed to assess any link to off-chain assets."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

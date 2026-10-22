@@ -3,8 +3,6 @@ title: "Launchpool crypto: how token distribution works"
 description: "Learn how a launchpool crypto program can distribute tokens, how participation commonly works, and what mechanics, risks, and terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto launchpool", "token launch pool", "launchpool mechanism"]

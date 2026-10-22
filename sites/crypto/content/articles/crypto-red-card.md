@@ -3,8 +3,6 @@ title: "Crypto red card: what the term may mean"
 description: "Learn what crypto red card may refer to, how to distinguish a product name from a card category, and which details to verify before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Google Play Gift Card Crypto: How the Payment and Redemption Flow Works"
 description: "Understand how google play gift card crypto payments may work, how gift-card redemption differs from crypto settlement, and what to verify before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

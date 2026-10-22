@@ -3,8 +3,6 @@ title: "Roxe Blockchain: A Guide to Its Payment Infrastructure"
 description: "Learn what roxe blockchain refers to, how its payment infrastructure is described, and which architecture and operational claims need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

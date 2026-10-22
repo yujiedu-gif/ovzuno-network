@@ -3,8 +3,6 @@ title: "Solidity foreach: How Collection Iteration Works"
 description: "Learn what “solidity foreach” means, whether Solidity has a dedicated foreach construct, and how loops iterate through collections in smart contracts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

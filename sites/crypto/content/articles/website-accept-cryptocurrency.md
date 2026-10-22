@@ -3,8 +3,6 @@ title: "How to Make Your Website Accept Cryptocurrency: A Decision and Setup Gui
 description: "Learn how to let a website accept cryptocurrency by comparing payment models, mapping checkout requirements, planning operational controls, and verifying local rules"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

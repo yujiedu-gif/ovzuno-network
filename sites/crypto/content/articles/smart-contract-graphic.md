@@ -3,8 +3,6 @@ title: "Smart Contract Graphic: Meaning and Elements to Show"
 description: "Learn what a smart contract graphic represents, which system elements it can show, and how to distinguish a simplified diagram from deployed code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

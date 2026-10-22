@@ -3,8 +3,6 @@ title: "Explain NFT Art: How Tokens Relate to Digital Works"
 description: "Explain NFT art by distinguishing the digital work from its token and blockchain record, and clarify why ownership of a token does not alone settle usage rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

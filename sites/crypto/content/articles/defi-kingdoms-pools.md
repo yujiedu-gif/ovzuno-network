@@ -3,8 +3,6 @@ title: "DeFi Kingdoms Pools: How They Work and What to Check"
 description: "Learn how DeFi Kingdoms pools fit into the protocol, what liquidity providers may need to consider, and which current details to verify before interacting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain in Smart Contracts: How the Infrastructure Works"
 description: "Learn how blockchain in smart contracts supports execution, shared state, and verification, and where on-chain code depends on users or external inputs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

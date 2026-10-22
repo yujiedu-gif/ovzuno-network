@@ -3,8 +3,6 @@ title: "Web3 js contract: How JavaScript applications interact with blockchain c
 description: "Learn how a web3 js contract connects a JavaScript application to a blockchain contract, and how read calls differ from signed transactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

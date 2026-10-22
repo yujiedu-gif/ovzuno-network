@@ -3,8 +3,6 @@ title: "NFT Token Market: Assets, Marketplaces, and How They Relate"
 description: "Understand what an NFT token market refers to, how NFT assets and marketplace infrastructure relate, and which technical and legal limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Digital Asset Banks: Services and Treasury Considerations"
 description: "Learn what digital asset banks may offer institutions, how services relate to treasury operations, and what to verify about custody, regulation, and access."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["digital asset bank"]

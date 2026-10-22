@@ -3,8 +3,6 @@ title: "Crypto agriculture tokens: uses, claims, and verification"
 description: "Learn what crypto agriculture tokens may represent, how proposed uses differ from enforceable rights, and what records to check before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "ERC721 metadata standard: How Token Metadata Is Exposed"
 description: "Learn how the erc721 metadata standard links token IDs to metadata through tokenURI, what the optional interface specifies, and what implementers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 metadata extension", "tokenURI", "NFT metadata JSON"]

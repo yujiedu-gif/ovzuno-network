@@ -3,8 +3,6 @@ title: "DeFi PoS: How Proof of Stake Relates to DeFi Protocols"
 description: "Learn what DeFi PoS can refer to, how proof-of-stake consensus differs from DeFi applications, and where their technical dependencies and risks meet."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

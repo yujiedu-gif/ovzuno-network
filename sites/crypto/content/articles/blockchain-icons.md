@@ -3,8 +3,6 @@ title: "Blockchain Icons: What Common Symbols Represent in Payment Diagrams"
 description: "Learn what blockchain icons can represent in payment and infrastructure diagrams, how symbols vary by context, and why an icon alone does not prove system behavior."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain icon"]

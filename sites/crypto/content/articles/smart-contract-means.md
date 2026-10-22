@@ -3,8 +3,6 @@ title: "Smart contract means: a plain-language definition and its limits"
 description: "Learn what smart contract means in blockchain systems, how coded rules execute, and why contracts may depend on external data or human decisions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

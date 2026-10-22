@@ -3,8 +3,6 @@ title: "Proof of work blockchain list: notable networks and verification"
 description: "Explore a proof of work blockchain list with clear inclusion criteria and checks for consensus use, current status, and historical or hybrid designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof of work blockchains list"]

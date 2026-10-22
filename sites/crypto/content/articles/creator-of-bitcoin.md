@@ -3,8 +3,6 @@ title: "Creator of Bitcoin: What Is Known About Satoshi Nakamoto?"
 description: "Learn who is credited as the creator of Bitcoin, what the Satoshi Nakamoto name establishes, and why claims about a real-world identity remain unverified."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["creator bitcoin"]

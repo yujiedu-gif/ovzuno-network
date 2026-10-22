@@ -3,8 +3,6 @@ title: "How to Evaluate a crypto market api free Tier for an App"
 description: "Learn how to evaluate a crypto market api free tier, check coverage and usage limits, and plan a basic integration with data validation and error handling."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

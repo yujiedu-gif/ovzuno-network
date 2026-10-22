@@ -3,8 +3,6 @@ title: "Blockchain Backer X: Identifying the Account and Checking Its Claims"
 description: "Learn how to identify Blockchain Backer X, distinguish crypto commentary from verifiable blockchain facts, and check claims before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["x blockchain backer"]

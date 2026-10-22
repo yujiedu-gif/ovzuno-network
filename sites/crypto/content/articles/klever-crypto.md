@@ -3,8 +3,6 @@ title: "Klever crypto: what the name refers to"
 description: "Learn what Klever crypto refers to, how to verify the project and product category, and what evidence is needed before assessing its role in crypto infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

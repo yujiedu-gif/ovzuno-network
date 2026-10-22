@@ -3,8 +3,6 @@ title: "DAO Corporate Structure: How Governance Connects to Legal Entities"
 description: "Explore dao corporate structure choices: how on-chain governance can relate to legal entities, operational roles, accountability, and jurisdiction-specific questions"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

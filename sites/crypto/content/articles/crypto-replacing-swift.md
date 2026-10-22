@@ -3,8 +3,6 @@ title: "Crypto replacing SWIFT: what could change in cross-border payments?"
 description: "Crypto replacing SWIFT is not a simple swap: learn how payment messaging differs from settlement and where blockchain-based systems may fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Geth blockchain: what Geth is and how it relates to Ethereum"
 description: "Learn what the Geth blockchain term refers to, how Geth relates to Ethereum, and what an execution client does without confusing software with a network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

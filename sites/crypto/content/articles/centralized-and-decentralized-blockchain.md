@@ -3,8 +3,6 @@ title: "Centralized and Decentralized Blockchain: Control and Trade-Offs"
 description: "Compare centralized and decentralized blockchain designs by examining control, transaction validation, operational trade-offs, and payment-system evaluation criteria"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["centralized decentralized blockchain"]

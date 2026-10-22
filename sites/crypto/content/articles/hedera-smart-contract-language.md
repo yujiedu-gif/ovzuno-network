@@ -3,8 +3,6 @@ title: "Hedera smart contract language: what developers need to know"
 description: "Learn what hedera smart contract language refers to, which language developers use, and how smart-contract code relates to Hedera's execution environment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

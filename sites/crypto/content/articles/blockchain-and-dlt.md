@@ -3,8 +3,6 @@ title: "Blockchain and DLT: How They Differ in Payment Systems"
 description: "Understand blockchain and dlt, how blockchain fits within distributed ledger technology, and which design questions matter for payment systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["dlt and blockchain", "blockchain dlt"]

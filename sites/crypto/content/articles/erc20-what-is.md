@@ -3,8 +3,6 @@ title: "ERC20 What Is: A Definition of the Ethereum Token Standard"
 description: "ERC20 what is explained: learn how this Ethereum token interface standard defines common functions and events for compatible tokens."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["erc20"]

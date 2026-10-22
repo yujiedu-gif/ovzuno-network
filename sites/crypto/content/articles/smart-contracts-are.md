@@ -3,8 +3,6 @@ title: "Smart contracts are: how blockchain code executes"
 description: "Smart contracts are programs stored on a blockchain that follow coded rules. Learn how transactions trigger execution, update state, and carry limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

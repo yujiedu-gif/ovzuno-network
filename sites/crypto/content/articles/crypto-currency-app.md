@@ -3,8 +3,6 @@ title: "Crypto Currency App: How Exchange-Market Infrastructure Supports Core Fu
 description: "Learn how a crypto currency app may connect to exchange-market infrastructure, from order handling and liquidity access to custody boundaries and checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

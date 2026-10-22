@@ -3,8 +3,6 @@ title: "Steam crypto payment: what users should verify before checkout"
 description: "Learn how to check whether Steam offers a steam crypto payment option in your region, distinguish direct checkout from third-party routes, and verify the terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["Steam payment methods", "crypto payments for games"]

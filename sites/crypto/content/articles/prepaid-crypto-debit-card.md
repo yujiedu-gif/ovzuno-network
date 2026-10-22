@@ -3,8 +3,6 @@ title: "Prepaid Crypto Debit Card: Funding, Payments, and Key Distinctions"
 description: "Learn how a prepaid crypto debit card may be funded and used, how it differs from other crypto-linked cards, and which terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

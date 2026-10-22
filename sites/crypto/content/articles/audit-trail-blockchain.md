@@ -3,8 +3,6 @@ title: "Audit Trail Blockchain: What Payment Records Can Show"
 description: "Learn how an audit trail blockchain can record payment events, what on-chain data can help verify, and why it does not establish identity or business context alone."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain audit trail"]

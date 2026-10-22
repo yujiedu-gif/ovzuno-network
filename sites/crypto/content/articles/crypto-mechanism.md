@@ -3,8 +3,6 @@ title: "Crypto mechanism: how mining and consensus relate"
 description: "Learn what a crypto mechanism means in blockchain mining, how proof of work supports agreement on blocks, and why mining and consensus are distinct concepts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

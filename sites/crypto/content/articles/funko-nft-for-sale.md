@@ -3,8 +3,6 @@ title: "Funko NFT for sale: what a listing represents"
 description: "Learn what a Funko NFT for sale may represent, how to distinguish its token from linked content or physical collectibles, and what listing terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["funko nft sale"]

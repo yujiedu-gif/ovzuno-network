@@ -3,8 +3,6 @@ title: "san crypto: Meaning and How to Verify the Reference"
 description: "Learn what san crypto may refer to, how to verify an asset or network through authoritative identifiers, and when staking or validators are relevant."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

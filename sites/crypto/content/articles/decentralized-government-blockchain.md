@@ -3,8 +3,6 @@ title: "Decentralized Government Blockchain: Meaning and Decision-Making"
 description: "Learn what a decentralized government blockchain means, how protocol decisions may be proposed and implemented, and why governance is not the same as validation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["decentralized governance blockchain"]

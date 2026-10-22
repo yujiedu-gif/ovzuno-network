@@ -3,8 +3,6 @@ title: "DAO swap governance: from proposal to execution"
 description: "Learn how a DAO swap of controlled assets can move from proposal and governance approval to execution controls and records, without assuming one universal process."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

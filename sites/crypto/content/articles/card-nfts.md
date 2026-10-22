@@ -3,8 +3,6 @@ title: "Card NFTs: Possible Roles in Card-Linked Crypto Systems"
 description: "Explore what card NFTs may represent in crypto spending systems, how they differ from payment functions, and what operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

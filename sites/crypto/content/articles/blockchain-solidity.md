@@ -3,8 +3,6 @@ title: "Blockchain Solidity: How the Language Powers Smart Contracts"
 description: "Learn how blockchain solidity is used to define smart-contract behavior, how code is compiled and deployed, and what users interact with on a blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

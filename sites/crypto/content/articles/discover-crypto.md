@@ -3,8 +3,6 @@ title: "Discover crypto: understanding the card-network role in crypto spending"
 description: "Discover crypto explained: learn how card-network acceptance differs from crypto conversion, issuer authorization, and settlement in a card purchase."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

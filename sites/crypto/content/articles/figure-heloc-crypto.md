@@ -3,8 +3,6 @@ title: "Figure HELOC Crypto: Meaning, Mechanics, and Risks"
 description: "Understand what figure heloc crypto refers to, how home-equity borrowing differs from crypto-backed loans, and which product terms and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

@@ -3,8 +3,6 @@ title: "Jump Crypto Staking: What Its Infrastructure Role Means"
 description: "Learn what jump crypto staking refers to, how to assess documented validator and infrastructure activity, and which claims require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

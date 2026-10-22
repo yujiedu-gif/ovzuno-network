@@ -3,8 +3,6 @@ title: "DEX Crypto Exchange: How Decentralized Trading Infrastructure Works"
 description: "A dex crypto exchange coordinates digital-asset trades through blockchain-based contracts or other decentralized mechanisms. Learn its core components and trade flow"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

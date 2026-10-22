@@ -3,8 +3,6 @@ title: "Unity Smart Contracts: How Unity Apps Interact With Blockchain"
 description: "Learn how Unity smart contracts are accessed from a game or app, compare wallet-mediated and service-mediated calls, and identify key trust and security checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

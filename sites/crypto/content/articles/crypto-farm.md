@@ -3,8 +3,6 @@ title: "Crypto Farm: Meaning, Mining Infrastructure, and Key Risks"
 description: "Learn what a crypto farm is, how mining equipment and supporting infrastructure work, and which operational risks matter when assessing a mining setup."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

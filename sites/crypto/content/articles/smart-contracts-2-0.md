@@ -3,8 +3,6 @@ title: "Smart contracts 2.0: Meaning, capabilities, and limits of the term"
 description: "Learn what smart contracts 2.0 can mean, how the label relates to conventional smart contracts, and why it should not be assumed to name a formal standard."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contracts 2 0"]

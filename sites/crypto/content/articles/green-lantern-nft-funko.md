@@ -3,8 +3,6 @@ title: "Green Lantern NFT Funko: What the Digital Collectible Means"
 description: "Learn what green lantern nft funko may refer to, how a branded digital collectible relates to its blockchain token, and what ownership does not automatically grant."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

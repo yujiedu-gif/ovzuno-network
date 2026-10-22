@@ -3,8 +3,6 @@ title: "Blockchain Java: Meaning and Uses in Blockchain Software"
 description: "Learn what blockchain Java means, how Java can be used to build blockchain-related software or connect to networks, and what the term does not imply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain in java"]

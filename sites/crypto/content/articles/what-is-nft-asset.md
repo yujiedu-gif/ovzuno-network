@@ -3,8 +3,6 @@ title: "What Is NFT Asset? Token, Item, and Rights Explained"
 description: "Learn what is nft asset: distinguish an NFT token from the digital item it may reference and the rights that may or may not come with it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft asset"]

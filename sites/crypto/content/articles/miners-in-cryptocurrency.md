@@ -3,8 +3,6 @@ title: "Miners in Cryptocurrency: Their Role in Proof-of-Work Consensus"
 description: "Learn what miners in cryptocurrency do in proof-of-work networks, how their work contributes to block production, and how miners differ from validators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

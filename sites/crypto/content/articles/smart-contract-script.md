@@ -3,8 +3,6 @@ title: "Smart contract script: meaning and role in a decentralized application"
 description: "Learn what a smart contract script refers to, how on-chain contract code differs from application scripts, and where it fits in a decentralized application."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract scripting"]

@@ -3,8 +3,6 @@ title: "Mining machine crypto: operational fit and infrastructure considerations
 description: "Learn how to assess mining machine crypto for operational fit, including power, cooling, connectivity, maintenance, and the jurisdiction-specific checks operators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["payfi_defi_agentic"]
 tags: ["crypto mining machine"]

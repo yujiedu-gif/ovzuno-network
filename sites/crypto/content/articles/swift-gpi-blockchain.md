@@ -3,8 +3,6 @@ title: "SWIFT gpi blockchain: how payment messaging and ledgers differ"
 description: "Learn how SWIFT gpi blockchain discussions relate payment messaging and tracking to blockchain ledgers, settlement roles, and implementation questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

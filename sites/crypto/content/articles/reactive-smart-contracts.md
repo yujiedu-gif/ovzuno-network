@@ -3,8 +3,6 @@ title: "Reactive smart contracts: definition and event-driven execution"
 description: "Learn what reactive smart contracts are, how blockchain events can trigger later actions, and which execution, trust, and security assumptions to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

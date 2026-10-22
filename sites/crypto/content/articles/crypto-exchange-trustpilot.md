@@ -3,8 +3,6 @@ title: "Crypto exchange trustpilot reviews: how to assess them"
 description: "Learn how to assess crypto exchange trustpilot reviews, recognize their limits, and identify independent evidence to check before relying on an exchange."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["trustpilot crypto exchanges"]

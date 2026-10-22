@@ -3,8 +3,6 @@ title: "crypto booster review: assess payment features and open questions"
 description: "A crypto booster review for business decision-makers: examine verifiable payment functions, operating requirements, and unresolved risks before assessing fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["crypto_payments"]
 tags: []

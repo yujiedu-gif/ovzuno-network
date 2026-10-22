@@ -3,8 +3,6 @@ title: "Smart NFT: Meaning, Contract Logic, and Ownership Limits"
 description: "Learn what a smart NFT means, how contract logic may shape token behavior, and why an NFT record alone may not establish control, access, or legal rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

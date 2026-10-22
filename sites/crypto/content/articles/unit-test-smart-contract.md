@@ -3,8 +3,6 @@ title: "Unit Test Smart Contract: Meaning, Scope, and Limits"
 description: "Learn what a unit test smart contract checks in isolation, how it differs from broader testing, and why passing tests do not prove a contract is secure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract unit testing"]

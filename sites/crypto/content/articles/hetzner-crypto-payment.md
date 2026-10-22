@@ -3,8 +3,6 @@ title: "Hetzner Crypto Payment: What Customers Should Verify"
 description: "Check whether Hetzner crypto payment is currently supported, how to verify official options, and what account, location, and payment conditions may apply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

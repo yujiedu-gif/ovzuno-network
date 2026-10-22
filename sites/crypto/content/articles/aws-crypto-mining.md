@@ -3,8 +3,6 @@ title: "AWS crypto mining: feasibility, policies, and operational checks"
 description: "Learn how AWS crypto mining relates to proof-of-work workloads, and what provider policies, infrastructure limits, costs, and local requirements to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

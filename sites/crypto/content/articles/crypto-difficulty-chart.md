@@ -3,8 +3,6 @@ title: "How to Read a Crypto Difficulty Chart"
 description: "Learn how to read a crypto difficulty chart by checking its network, metric, units, time range, adjustment context, and limits before interpreting trends."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

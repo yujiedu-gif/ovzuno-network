@@ -3,8 +3,6 @@ title: "Crypto Funding Rates: How Perpetual Futures Payments Work"
 description: "Learn how crypto funding rates work in perpetual futures, why traders exchange periodic payments, and what a rate can—and cannot—tell you."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["funding rates crypto"]

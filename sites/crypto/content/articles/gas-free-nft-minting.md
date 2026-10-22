@@ -3,8 +3,6 @@ title: "Gas Free NFT Minting: Who Pays the Blockchain Transaction Cost?"
 description: "Learn what gas free nft minting means, how sponsors or other payment models may cover transaction costs, and what users should check before minting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

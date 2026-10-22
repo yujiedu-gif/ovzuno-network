@@ -3,8 +3,6 @@ title: "NFT Tokenomics Explained: Supply, Utility, Incentives, and Limits"
 description: "NFT tokenomics explained: learn how supply, utility, incentives, and value flows may shape an NFT project—and what token economics cannot guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft tokenomics"]

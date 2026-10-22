@@ -3,8 +3,6 @@ title: "Walrus blockchain: What it is and how it relates to Sui"
 description: "Understand what the walrus blockchain refers to, how Walrus relates to Sui, and how its decentralized data-storage role differs from transaction processing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

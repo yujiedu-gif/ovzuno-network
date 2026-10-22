@@ -3,8 +3,6 @@ title: "Smart contract system: components, execution, and boundaries"
 description: "Understand how a smart contract system connects contract code, blockchain execution, applications, and external inputs—and where its boundaries lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

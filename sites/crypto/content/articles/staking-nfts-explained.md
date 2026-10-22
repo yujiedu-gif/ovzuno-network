@@ -3,8 +3,6 @@ title: "Staking NFTs Explained: What It Means and How It Works"
 description: "Staking NFTs explained: learn what NFT staking means, how programs may work, how it differs from validator staking, and which risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["staking nfts"]

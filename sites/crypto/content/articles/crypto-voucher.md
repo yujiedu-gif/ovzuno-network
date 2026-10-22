@@ -3,8 +3,6 @@ title: "Crypto voucher: what it represents and how redemption differs from NFT o
 description: "A crypto voucher can represent a claim to receive crypto, but it is not necessarily an NFT. Learn how redemption and blockchain ownership records differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

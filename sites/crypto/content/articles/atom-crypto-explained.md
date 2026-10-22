@@ -3,8 +3,6 @@ title: "atom crypto explained: What ATOM Does in the Cosmos Hub"
 description: "Learn what atom crypto explained means: how ATOM relates to the Cosmos Hub, what roles the asset may serve, and how it differs from the wider Cosmos ecosystem."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["atom crypto"]

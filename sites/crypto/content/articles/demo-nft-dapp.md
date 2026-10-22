@@ -3,8 +3,6 @@ title: "Demo NFT dApp: Purpose, Components, and Limitations"
 description: "Learn what a demo NFT dApp demonstrates, which smart-contract and interface components it may include, and why a demo is not proof of production readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

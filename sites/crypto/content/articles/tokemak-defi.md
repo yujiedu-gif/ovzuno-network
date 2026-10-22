@@ -3,8 +3,6 @@ title: "Tokemak DeFi: Purpose, Liquidity Routing, and Risks"
 description: "Learn what Tokemak DeFi is designed to do, how its liquidity-routing model is described, and which governance, security, and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["Tokemak protocol", "DeFi liquidity", "liquidity provision"]

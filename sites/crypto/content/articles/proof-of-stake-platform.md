@@ -3,8 +3,6 @@ title: "How to evaluate a proof of stake platform"
 description: "Assess a proof of stake platform by examining network design, validator operations, tooling, reliability, security controls, and evidence before choosing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["staking_validators"]
 tags: ["proof stake platform"]

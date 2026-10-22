@@ -3,8 +3,6 @@ title: "Browser crypto mining: how it works and where it falls short"
 description: "Learn what browser crypto mining means, how it relates to proof-of-work, and why browser limits, user consent, and security shape its practical use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

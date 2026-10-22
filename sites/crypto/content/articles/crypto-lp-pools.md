@@ -3,8 +3,6 @@ title: "Crypto LP Pools: How Liquidity Provision Works and What to Check"
 description: "Learn how crypto lp pools hold contributed assets, how provider positions may be accounted for, and which design details and risks to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

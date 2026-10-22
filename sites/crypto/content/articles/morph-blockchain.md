@@ -3,8 +3,6 @@ title: "Morph blockchain: architecture and payment-use considerations"
 description: "Learn how the Morph blockchain is described, how its architecture relates to payment applications, and which operational and regulatory details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

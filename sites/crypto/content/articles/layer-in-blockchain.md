@@ -3,8 +3,6 @@ title: "Layer in Blockchain: Meaning, Context, and Architectural Role"
 description: "Learn what layer in blockchain means, how context shapes the term, and how to describe an architectural role without confusing it with a specific network design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

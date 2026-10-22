@@ -3,8 +3,6 @@ title: "t token crypto: What It Is and Its Role in Threshold Network"
 description: "Learn what t token crypto refers to, how the T token is described within Threshold Network, and which technical or regulatory details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

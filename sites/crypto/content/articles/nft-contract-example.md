@@ -3,8 +3,6 @@ title: "NFT contract example: core components and limitations"
 description: "Explore an nft contract example through token identity, ownership tracking, metadata references, and the limits of a minimal illustrative pattern."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT smart contract", "ERC-721", "ERC-1155", "tokenURI"]

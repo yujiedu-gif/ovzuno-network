@@ -3,8 +3,6 @@ title: "SpongeBob Token Crypto: Identity and Verification"
 description: "Learn what “spongebob token crypto” may refer to, why a name alone cannot identify an asset, and how to verify a token’s network and claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

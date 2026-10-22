@@ -3,8 +3,6 @@ title: "Explanation of Crypto: How Protocols, Networks, and Digital Assets Fit T
 description: "An explanation of crypto as a technology ecosystem: learn how protocols, networks, cryptographic keys, and digital assets relate without investment advice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["explanation crypto"]

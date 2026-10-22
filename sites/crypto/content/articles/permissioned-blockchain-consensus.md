@@ -3,8 +3,6 @@ title: "Permissioned blockchain consensus: how authorized networks agree"
 description: "Learn how permissioned blockchain consensus lets authorized participants agree on transactions, and how its model differs from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["permissioned network", "proof of authority", "consensus mechanism"]

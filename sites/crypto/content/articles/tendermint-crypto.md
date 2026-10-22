@@ -3,8 +3,6 @@ title: "Tendermint crypto: How consensus differs from mining"
 description: "Learn what Tendermint crypto refers to, how validator-based consensus reaches agreement, and how it differs from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Tendermint consensus", "Byzantine fault tolerance", "proof of stake consensus"]

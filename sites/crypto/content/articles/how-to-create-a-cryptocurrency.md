@@ -3,8 +3,6 @@ title: "How to create a cryptocurrency: tokens, blockchains, and build stages"
 description: "Learn how to create a cryptocurrency by comparing token issuance with building a blockchain, then map design, implementation, testing, and launch decisions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["create cryptocurrency"]

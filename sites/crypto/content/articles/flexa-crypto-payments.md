@@ -3,8 +3,6 @@ title: "Flexa Crypto Payments: How the Payment Flow Works"
 description: "Learn how Flexa crypto payments work at a high level, who participates in the payment flow, and which current operational details businesses should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["flexa crypto payment"]

@@ -3,8 +3,6 @@ title: "Crypto proof in staking: consensus and cryptographic meanings"
 description: "Learn what crypto proof can mean in staking-validator systems, how consensus evidence differs from cryptographic verification, and where the terms overlap."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

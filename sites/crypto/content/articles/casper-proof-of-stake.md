@@ -3,8 +3,6 @@ title: "Casper Proof of Stake: Validators, Finality, and Security"
 description: "Learn what Casper proof of stake refers to, how validators and finality fit into the consensus model, and why details can vary by implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["casper proof stake"]

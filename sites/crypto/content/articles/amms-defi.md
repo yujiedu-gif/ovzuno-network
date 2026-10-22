@@ -3,8 +3,6 @@ title: "AMMs DeFi: How Pool-Based Trading Works in Protocols"
 description: "Learn how AMMs DeFi protocols use liquidity pools to facilitate swaps, how pricing relates to pool balances, and what liquidity providers do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

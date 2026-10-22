@@ -3,8 +3,6 @@ title: "Crypto Token Marketing: Scope, Claims, and Risks"
 description: "Learn what crypto token marketing covers, how it differs from token design, and why project claims, risks, and jurisdiction-specific rules need careful review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Mining Update: Meaning and How to Interpret One"
 description: "Learn what a crypto mining update refers to, how software and operational changes differ from consensus-rule changes, and what to verify in a report."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

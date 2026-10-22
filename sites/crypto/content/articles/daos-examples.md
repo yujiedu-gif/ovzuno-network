@@ -3,8 +3,6 @@ title: "daos examples: Comparing Governance Models in Practice"
 description: "Explore daos examples through their stated purposes, governance participants, and decision-making approaches, with careful notes on scope and change over time."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["dao_governance"]
 tags: []

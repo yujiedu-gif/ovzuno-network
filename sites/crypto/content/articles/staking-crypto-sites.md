@@ -3,8 +3,6 @@ title: "How to Evaluate staking crypto sites for Validator and Staking Services"
 description: "Use this neutral checklist to assess staking crypto sites by service model, custody and control, fees, security disclosures, validator risks, and compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["staking_validators"]
 tags: []

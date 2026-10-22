@@ -3,8 +3,6 @@ title: "NFT securities: how token design, rights, and infrastructure relate"
 description: "Learn how NFT securities arrangements may connect token design, legal rights, transfer controls, and ongoing administration, and where jurisdiction-specific review"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain Tokenization Example: How an Asset Becomes a Token"
 description: "Follow a blockchain tokenization example from asset representation to transfer records, and see what the on-chain record can and cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

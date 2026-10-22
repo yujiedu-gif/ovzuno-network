@@ -3,8 +3,6 @@ title: "NFT Real Assets: How Tokens Connect to Off-Chain Property"
 description: "Learn how NFT real assets may connect on-chain tokens to off-chain property, what rights depend on legal and operating arrangements, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

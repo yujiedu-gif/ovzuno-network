@@ -3,8 +3,6 @@ title: "AI Tokens Crypto: Roles Across AI, DeFi, and Agentic Systems"
 description: "Learn what ai tokens crypto can refer to across AI infrastructure, DeFi, and agentic systems, and how to assess claims without treating labels as proof."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["payfi_defi_agentic"]
 tags: ["ai crypto tokens"]

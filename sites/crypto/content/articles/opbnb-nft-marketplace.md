@@ -3,8 +3,6 @@ title: "opbnb nft marketplace: Meaning and How It Relates to NFTs"
 description: "Learn what an opbnb nft marketplace is, how it relates to NFT records on opBNB, and which marketplace, content, and rights distinctions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Telegram Promotion: Communications and Payment-Operation Risks"
 description: "Learn how crypto Telegram promotion intersects with payment communications, user support, impersonation risks, and operational safeguards, without treating Telegram"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["telegram crypto promotion"]

@@ -3,8 +3,6 @@ title: "Staking Mining Crypto: How Staking and Mining Differ"
 description: "Understand what staking mining crypto means, how proof-of-stake validation differs from proof-of-work mining, and why the phrase can be misleading."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["staking_validators"]
 tags: []

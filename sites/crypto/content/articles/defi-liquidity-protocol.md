@@ -3,8 +3,6 @@ title: "DeFi Liquidity Protocol: Definition and Cross-Chain Role"
 description: "Learn what a defi liquidity protocol does, how its components support decentralized markets, and how cross-chain designs introduce coordination and security risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["cross_chain_interoperability"]
 tags: ["liquidity protocol defi"]

@@ -3,8 +3,6 @@ title: "Ethereum Images: What the Phrase Can Mean"
 description: "Learn what ethereum images can mean, from visuals associated with Ethereum apps or tokens to software images used in blockchain infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum image"]

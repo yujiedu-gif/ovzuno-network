@@ -3,8 +3,6 @@ title: "Zero knowledge network: meaning and role in blockchain scaling"
 description: "Learn what zero knowledge network means in blockchain scaling, how proofs support verification, and which architectural trade-offs shape network design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

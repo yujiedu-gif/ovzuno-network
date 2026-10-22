@@ -3,8 +3,6 @@ title: "Crypto Market Maker: Role, Quoting, and Exchange Operations"
 description: "Learn how a crypto market maker places and updates quotes, manages inventory exposure, and interacts with exchange infrastructure—without provider rankings."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

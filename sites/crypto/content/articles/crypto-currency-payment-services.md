@@ -3,8 +3,6 @@ title: "Crypto Currency Payment Services: Roles and Payment Flow"
 description: "Learn how crypto currency payment services fit into a payment flow, what roles providers may perform, and which operational details businesses should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency payment services", "crypto payment service providers", "payment service models"]

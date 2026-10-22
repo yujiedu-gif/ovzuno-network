@@ -3,8 +3,6 @@ title: "How to learn smart contract auditing: a practical learning path"
 description: "Learn smart contract auditing through a staged path covering Solidity foundations, threat modeling, testing, safe practice, and responsible reporting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

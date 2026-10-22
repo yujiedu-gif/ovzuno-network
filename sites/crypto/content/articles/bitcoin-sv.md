@@ -3,8 +3,6 @@ title: "bitcoin sv: Protocol, Native Asset, and Meaning"
 description: "Learn what bitcoin sv refers to, how its protocol relates to its native asset, and what historical context helps distinguish the term from Bitcoin."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoinsv"]

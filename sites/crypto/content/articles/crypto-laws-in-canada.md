@@ -3,8 +3,6 @@ title: "Crypto laws in canada: a practical overview of regulation and tax report
 description: "Understand crypto laws in canada through a neutral overview of regulatory roles, tax reporting, and the official guidance to check for your activity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto laws canada"]

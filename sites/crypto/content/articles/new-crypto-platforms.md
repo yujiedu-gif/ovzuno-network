@@ -3,8 +3,6 @@ title: "New crypto platforms: roles in crypto payment infrastructure"
 description: "Explore how new crypto platforms may support payment infrastructure, distinguish common roles, and identify operational, security, and regulatory questions to verify"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Liquidity mining crypto: how cross-chain systems fit"
 description: "Learn how liquidity mining crypto can involve multiple blockchain networks, the interoperability mechanisms that connect them, and the risks to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

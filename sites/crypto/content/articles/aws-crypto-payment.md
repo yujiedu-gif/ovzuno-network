@@ -3,8 +3,6 @@ title: "AWS Crypto Payment Infrastructure: Components and Responsibilities"
 description: "Learn how AWS crypto payment workflows may use cloud-hosted application components, where blockchain and payment services fit, and what operators must assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["AWS payment infrastructure for cryptocurrency"]

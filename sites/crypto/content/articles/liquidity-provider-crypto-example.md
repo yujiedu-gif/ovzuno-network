@@ -3,8 +3,6 @@ title: "Liquidity Provider Crypto Example: A Cross-Chain Swap Walkthrough"
 description: "Follow a liquidity provider crypto example through a hypothetical cross-chain swap, showing how liquidity, coordination, settlement, and risk fit together."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["cross-chain liquidity provider", "liquidity pool", "atomic swap"]

@@ -3,8 +3,6 @@ title: "Bitcoin transaction hash: what it identifies and what it proves"
 description: "Learn what a bitcoin transaction hash identifies, how it serves as a reference to a Bitcoin transaction, and what it cannot establish on its own."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["transaction hash bitcoin"]

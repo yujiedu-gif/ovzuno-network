@@ -3,8 +3,6 @@ title: "Monolith crypto card: wallet and payment roles explained"
 description: "Learn what the monolith crypto card is, how its wallet and card-payment roles relate, and which product, availability, and regulatory details need checking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

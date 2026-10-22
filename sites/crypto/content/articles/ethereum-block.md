@@ -3,8 +3,6 @@ title: "Ethereum block: definition, contents, and role in the network"
 description: "Learn what an ethereum block is, the kinds of data it contains, and how blocks organize Ethereum transactions into a verifiable chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum blocks"]

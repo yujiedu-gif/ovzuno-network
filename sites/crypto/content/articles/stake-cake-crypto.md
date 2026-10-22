@@ -3,8 +3,6 @@ title: "Stake CAKE Crypto: How Token Staking Works and What to Verify"
 description: "Learn what it means to stake CAKE crypto, how token staking differs from validator staking, and which product terms and risks to verify first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["CAKE staking", "PancakeSwap CAKE staking", "staking pool"]

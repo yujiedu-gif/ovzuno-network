@@ -3,8 +3,6 @@ title: "How to get crypto card: eligibility, setup, and what to check"
 description: "Learn how to get crypto card, from checking eligibility and setting up an account to reviewing funding, conversion, fees, security, and local requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

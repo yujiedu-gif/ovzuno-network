@@ -3,8 +3,6 @@ title: "How to create dapp website: a developer’s implementation guide"
 description: "Learn how to create dapp website interfaces by mapping smart-contract interactions, connecting wallets, handling transaction states, and testing safely."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["decentralized application website", "smart contract integration", "wallet connection", "testnet deployment"]

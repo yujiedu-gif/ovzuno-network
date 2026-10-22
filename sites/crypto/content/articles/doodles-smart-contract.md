@@ -3,8 +3,6 @@ title: "Doodles smart contract: meaning and how to verify its role"
 description: "Learn what “doodles smart contract” may refer to, how to check a contract’s identity and documented role, and what the label alone cannot confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

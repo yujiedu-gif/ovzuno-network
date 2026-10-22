@@ -3,8 +3,6 @@ title: "Crypto staking course: topics, skills, and evaluation checklist"
 description: "Explore what a crypto staking course can cover, from staking concepts to validator operations, and use a neutral checklist to assess scope and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

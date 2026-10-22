@@ -3,8 +3,6 @@ title: "Learning Smart Contracts: Concepts, Context, and a Study Roadmap"
 description: "Learning smart contracts starts with understanding program logic, blockchain execution, and dApp interactions, then builds toward safe, practical study."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

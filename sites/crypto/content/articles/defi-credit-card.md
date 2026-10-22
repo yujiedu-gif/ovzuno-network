@@ -3,8 +3,6 @@ title: "DeFi Credit Card: Meaning, Mechanisms, and Key Risks"
 description: "Learn what a defi credit card may mean, how DeFi borrowing could connect to card payments, and which mechanisms, risks, and disclosures to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

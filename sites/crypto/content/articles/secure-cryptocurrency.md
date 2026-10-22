@@ -3,8 +3,6 @@ title: "Secure cryptocurrency: U.S. security controls and reporting obligations"
 description: "Assess secure cryptocurrency practices alongside U.S. regulatory and tax-reporting duties, identify evidence to verify, and flag questions for qualified advisers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["regulation_tax_reporting"]
 tags: ["cryptocurrency security"]

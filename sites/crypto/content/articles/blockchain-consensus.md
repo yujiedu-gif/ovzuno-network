@@ -3,8 +3,6 @@ title: "Blockchain Consensus: How Networks Agree on Valid Updates"
 description: "Learn what blockchain consensus means, how networks agree on valid updates, and how consensus differs from transaction verification and mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

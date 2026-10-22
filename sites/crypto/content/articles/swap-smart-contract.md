@@ -3,8 +3,6 @@ title: "Swap smart contract: how token exchanges execute on-chain"
 description: "Learn what a swap smart contract does, how token exchanges are executed on-chain, and which design and security considerations shape its behavior."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

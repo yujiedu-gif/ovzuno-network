@@ -3,8 +3,6 @@ title: "1155 nft standard: How ERC-1155 Represents Multiple Token Types"
 description: "Learn how the 1155 nft standard organizes token types and transfers in a shared contract, and what its on-chain records do—and do not—represent."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["ERC-1155", "multi-token standard", "fungible and non-fungible tokens"]

@@ -3,8 +3,6 @@ title: "Bored Ape Yacht Club Smart Contract: How to Read Its On-Chain Role"
 description: "Learn how the bored ape yacht club smart contract represents NFTs on Ethereum, what contract records and metadata can show, and how to verify claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["BAYC Ethereum contract", "ERC-721 NFT contract", "NFT metadata", "contract address verification"]

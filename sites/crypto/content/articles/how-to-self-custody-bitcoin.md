@@ -3,8 +3,6 @@ title: "How to self custody bitcoin: a practical security guide"
 description: "Learn how to self custody bitcoin with a wallet setup, private-key safeguards, backup checks, and recovery planning before transferring funds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: ["self custody bitcoin"]

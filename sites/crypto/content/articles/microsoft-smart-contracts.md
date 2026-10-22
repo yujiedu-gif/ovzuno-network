@@ -3,8 +3,6 @@ title: "Microsoft smart contracts: meaning and technology context"
 description: "Understand what Microsoft smart contracts can refer to, how blockchain code differs from related tools and infrastructure, and what needs verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

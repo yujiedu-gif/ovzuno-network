@@ -3,8 +3,6 @@ title: "Explain NFT to Me Like Im 5: What an NFT Represents"
 description: "Explain NFT to me like im 5: learn what an NFT records on a blockchain and why owning the token does not automatically mean owning the linked content or rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["explain nft me like im 5"]

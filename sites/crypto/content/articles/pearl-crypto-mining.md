@@ -3,8 +3,6 @@ title: "Pearl crypto mining: meaning and how to verify the project"
 description: "Understand what pearl crypto mining may refer to, how to identify the relevant network, and what evidence to check before accepting claims about its consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

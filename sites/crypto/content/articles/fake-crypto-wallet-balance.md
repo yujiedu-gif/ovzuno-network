@@ -3,8 +3,6 @@ title: "Fake crypto wallet balance: how to verify a displayed amount"
 description: "Learn how to investigate a fake crypto wallet balance by checking the selected network, token details, transaction status, and relevant on-chain data."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: ["crypto wallet balance discrepancy", "blockchain explorer", "wallet interface"]

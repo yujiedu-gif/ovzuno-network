@@ -3,8 +3,6 @@ title: "near smart contract audit: scope, findings, and limitations"
 description: "Learn what a near smart contract audit may examine, how to interpret findings and scope, and why an audit is not a guarantee of security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

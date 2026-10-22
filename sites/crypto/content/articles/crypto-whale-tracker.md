@@ -3,8 +3,6 @@ title: "Crypto whale tracker: on-chain signals, limits, and controls"
 description: "Learn what a crypto whale tracker can reveal about large on-chain transfers, where wallet attribution and alerts can mislead, and which operational controls to check"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

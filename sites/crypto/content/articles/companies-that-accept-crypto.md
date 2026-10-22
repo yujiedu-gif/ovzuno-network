@@ -3,8 +3,6 @@ title: "Companies That Accept Crypto: Payment Models and Key Considerations"
 description: "Learn what companies that accept crypto do, how payment and settlement models differ, and which operational and jurisdiction-specific questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

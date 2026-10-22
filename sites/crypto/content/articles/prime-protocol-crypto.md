@@ -3,8 +3,6 @@ title: "Prime Protocol Crypto: What the DeFi Protocol Is"
 description: "Learn what Prime Protocol crypto refers to, what its documentation says the DeFi system does, and which operational and risk details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

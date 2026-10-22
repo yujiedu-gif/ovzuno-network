@@ -3,8 +3,6 @@ title: "Understanding proof of stake: how validators support consensus"
 description: "Understanding proof of stake means examining how validators use protocol-defined stake to participate in consensus, receive incentives, and face penalties."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["understanding proof stake"]

@@ -3,8 +3,6 @@ title: "Liquidity score crypto: meaning and cross-chain limits"
 description: "Learn what a liquidity score crypto may represent across chains, which measurement assumptions to inspect, and why a score alone cannot establish route quality."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["cross-chain liquidity", "liquidity metrics"]

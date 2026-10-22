@@ -3,8 +3,6 @@ title: "Can bitcoin still be mined? How Bitcoin mining works"
 description: "Can bitcoin still be mined? Learn how mining supports Bitcoin’s transaction history and security, and how the block subsidy changes over time."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["can bitcoins still be mined"]

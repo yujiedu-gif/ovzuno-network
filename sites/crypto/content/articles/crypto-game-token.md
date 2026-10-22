@@ -3,8 +3,6 @@ title: "Crypto Game Token: Roles, Design, and Limitations"
 description: "Learn what a crypto game token is, the roles it may serve in a blockchain game, and the design, usability, and risk questions players and developers should check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

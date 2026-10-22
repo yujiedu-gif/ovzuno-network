@@ -3,8 +3,6 @@ title: "erc 721 standard for nfts: Core Interface and Scope"
 description: "Learn what the erc 721 standard for nfts specifies about unique token identifiers, ownership, transfers, optional metadata, and the limits of the standard."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["erc 721 standard nfts"]

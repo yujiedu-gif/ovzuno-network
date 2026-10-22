@@ -3,8 +3,6 @@ title: "Mine Crypto for Free: What “Free” Mining Really Requires"
 description: "Learn what it can mean to mine crypto for free, which costs may remain, how proof-of-work requires resources, and what to verify before taking part."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["mine crypto free"]

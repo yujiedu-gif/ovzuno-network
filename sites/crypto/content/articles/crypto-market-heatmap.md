@@ -3,8 +3,6 @@ title: "Crypto Market Heatmap: What It Shows and How to Read It"
 description: "Learn what a crypto market heatmap displays, how tile size and color may encode market data, and why settings and time windows matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto market heat map"]

@@ -3,8 +3,6 @@ title: "Smart Contract WordPress Integration: Architecture and Key Consideration
 description: "Understand smart contract WordPress integration, including what runs in WordPress, what happens on-chain, common connection patterns, and key security checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

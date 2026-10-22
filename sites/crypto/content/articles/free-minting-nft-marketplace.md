@@ -3,8 +3,6 @@ title: "Free minting nft marketplace: what the term means and what to check"
 description: "Learn what free minting nft marketplace can mean, how costs may be deferred or arise elsewhere, and which marketplace terms to verify before minting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["free mint nft marketplace"]

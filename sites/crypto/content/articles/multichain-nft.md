@@ -3,8 +3,6 @@ title: "Multichain NFT: Meaning, Representations, and Ownership Records"
 description: "Learn what a multichain NFT means, how NFTs may be represented across blockchain networks, and why records, metadata, and rights can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT interoperability", "cross-chain NFT", "NFT bridging", "blockchain networks"]

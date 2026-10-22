@@ -3,8 +3,6 @@ title: "NBS Crypto: What the Term Means and How to Verify It"
 description: "Learn how to identify what “nbs crypto” refers to, check project and token identifiers, and assess whether the term has a verified crypto-payments connection."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Freelance crypto payment: How receiving crypto for client work works"
 description: "Learn how freelance crypto payment works, what to agree with a client, how to verify receipt, and which recordkeeping, security, and local checks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["getting paid in cryptocurrency as a freelancer", "crypto payments for freelancers"]

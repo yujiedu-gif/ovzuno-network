@@ -3,8 +3,6 @@ title: "Cryptocurrency scam reporting: preserve evidence and find the right chan
 description: "Cryptocurrency scam reporting starts with preserving transaction records and finding the right official channel; reporting routes and procedures vary by jurisdiction"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["regulation_tax_reporting"]
 tags: ["reporting crypto scams", "report a cryptocurrency scam", "crypto fraud reporting"]

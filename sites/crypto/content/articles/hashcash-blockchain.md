@@ -3,8 +3,6 @@ title: "Hashcash blockchain: how proof of work influenced Bitcoin"
 description: "Explore hashcash blockchain history, how Hashcash proof of work works, and how Bitcoin adapted the idea without treating the systems as identical."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Hashcash proof of work", "Bitcoin mining"]

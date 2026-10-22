@@ -3,8 +3,6 @@ title: "Proof of space blockchain: how storage-based consensus works"
 description: "Learn how a proof of space blockchain uses storage in consensus, how the mechanism differs from proof of work, and what trade-offs to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof space blockchain"]

@@ -3,8 +3,6 @@ title: "PayFi NG: Understanding PayFi, DeFi, and Agentic Systems"
 description: "Understand payfi ng in the context of payments, decentralized finance, and agentic systems, and learn which claims need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["payfi_defi_agentic"]
 tags: []

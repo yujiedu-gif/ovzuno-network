@@ -3,8 +3,6 @@ title: "Crypto Mining Website: What It Does and What to Verify"
 description: "Learn what a crypto mining website may offer, how browser-mining claims differ from network mining, and what to verify before interacting with a service."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining on website"]

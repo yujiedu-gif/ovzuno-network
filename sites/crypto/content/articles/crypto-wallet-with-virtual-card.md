@@ -3,8 +3,6 @@ title: "Crypto Wallet with Virtual Card: How the Payment Model Works"
 description: "Learn what a crypto wallet with virtual card means, how wallet balances may connect to card payments, and which product and jurisdiction details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

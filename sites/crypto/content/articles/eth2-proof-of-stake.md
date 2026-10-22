@@ -3,8 +3,6 @@ title: "eth2 proof of stake: Ethereum’s transition and validators"
 description: "Learn what “eth2 proof of stake” means in Ethereum, why ETH2 is a legacy label, and how validators participate in proof-of-stake consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["eth2 proof stake"]

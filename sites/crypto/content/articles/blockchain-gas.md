@@ -3,8 +3,6 @@ title: "Blockchain gas: how transaction execution uses gas"
 description: "Learn what blockchain gas measures, how gas limits relate to transaction execution, and why the fee paid depends on a network’s pricing rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["gas fees", "transaction execution", "gas limit"]

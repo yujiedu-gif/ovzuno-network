@@ -3,8 +3,6 @@ title: "Digital assets of a company: types, control, and records"
 description: "Learn what may count as digital assets of a company, how to distinguish crypto asset types and business uses, and what records support a preliminary inventory."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital asset company", "digital assets company"]

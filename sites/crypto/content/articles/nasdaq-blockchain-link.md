@@ -3,8 +3,6 @@ title: "Nasdaq Blockchain Link: What the Name Refers To"
 description: "Learn what Nasdaq Blockchain Link refers to, how its stated role relates to financial-market infrastructure, and which details require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

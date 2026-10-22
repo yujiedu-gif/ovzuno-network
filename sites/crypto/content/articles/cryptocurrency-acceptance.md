@@ -3,8 +3,6 @@ title: "Cryptocurrency Acceptance: Business Workflow and Key Considerations"
 description: "Understand cryptocurrency acceptance for businesses, from payment flow and operational choices to risk checks and questions that depend on jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["accepting cryptocurrency", "crypto payment acceptance", "cryptocurrency payments for businesses"]

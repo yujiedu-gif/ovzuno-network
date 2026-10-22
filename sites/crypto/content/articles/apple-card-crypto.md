@@ -3,8 +3,6 @@ title: "Apple Card crypto: what the card does and what to verify"
 description: "Understand what Apple Card crypto can mean, distinguish card functionality from third-party crypto payment routes, and check current terms before relying on one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

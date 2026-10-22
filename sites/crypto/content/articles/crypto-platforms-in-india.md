@@ -3,8 +3,6 @@ title: "Crypto Platforms in India: Roles in the Crypto Payments Ecosystem"
 description: "Learn what crypto platforms in india can mean, how platform roles differ across a payment flow, and which operational questions help clarify the technology."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto platform in india"]

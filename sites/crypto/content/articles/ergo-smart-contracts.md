@@ -3,8 +3,6 @@ title: "Ergo Smart Contracts: How the Execution Model Works"
 description: "Learn how ergo smart contracts work, how applications use their execution model, and which technical and operational questions developers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

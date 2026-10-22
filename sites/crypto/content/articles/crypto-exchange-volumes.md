@@ -3,8 +3,6 @@ title: "Crypto Exchange Volumes: How Global Trading Activity Is Measured"
 description: "Learn how crypto exchange volumes are reported and compared, including units, time windows, venue coverage, aggregation methods, and data limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

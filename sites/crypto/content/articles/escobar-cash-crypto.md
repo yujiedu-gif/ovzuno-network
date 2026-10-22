@@ -3,8 +3,6 @@ title: "Escobar Cash crypto: what the name refers to and what is verifiable"
 description: "Escobar Cash crypto: learn how to identify the entity behind the name, check claims about its payment function, and separate documented facts from uncertainty."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

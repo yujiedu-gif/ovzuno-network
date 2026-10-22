@@ -3,8 +3,6 @@ title: "Solidity learning curve: skills, concepts, and practical limits"
 description: "Explore the Solidity learning curve, from programming prerequisites and language fundamentals to smart-contract concepts and the limits of independent practice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity programming", "smart contract development", "Solidity fundamentals"]

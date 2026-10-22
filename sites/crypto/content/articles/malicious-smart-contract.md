@@ -3,8 +3,6 @@ title: "Malicious Smart Contract: Common Warning Signs and Evidence Limits"
 description: "Learn what can make a malicious smart contract risky, which code and on-chain indicators merit scrutiny, and why surface checks cannot prove safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Explain a Blockchain: A Clear Definition and Basic Process"
 description: "Explain a blockchain in plain language: learn what a shared ledger is, how transactions are checked and recorded, and what the basic definition leaves out."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["explain blockchain"]

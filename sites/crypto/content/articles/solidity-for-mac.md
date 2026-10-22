@@ -3,8 +3,6 @@ title: "Solidity for Mac: Set Up a Local Development Workflow"
 description: "Set up Solidity for Mac with a local compiler and development workflow, then verify the environment with a basic compile and test before building further."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["solidity mac"]

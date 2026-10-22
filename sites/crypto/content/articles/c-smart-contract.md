@@ -3,8 +3,6 @@ title: "C++ Smart Contract Development: Platforms, Toolchains, and Constraints"
 description: "Learn how C++ smart contract development depends on a blockchain’s supported execution environment, compatible toolchain, and deployment constraints."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["c smart contract"]

@@ -3,8 +3,6 @@ title: "Blockchain Merchant App: Roles, Components, and Payment Flow"
 description: "Learn what a blockchain merchant app may do, how payment information moves from customer to merchant, and which operational risks need careful review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain app"]

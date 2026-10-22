@@ -3,8 +3,6 @@ title: "How to accept crypto payments shopify: a merchant setup guide"
 description: "Learn how to accept crypto payments shopify by checking integration requirements, configuring checkout, testing payment flows, and planning operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["accept crypto payment shopify"]

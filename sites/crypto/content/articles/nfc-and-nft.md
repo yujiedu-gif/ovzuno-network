@@ -3,8 +3,6 @@ title: "NFC and NFT: What the Technologies Mean and How They Connect"
 description: "Learn what NFC and NFT mean, how a tag can link an object to token information, and why that connection alone does not prove authenticity or ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft and nfc", "nfc nft"]

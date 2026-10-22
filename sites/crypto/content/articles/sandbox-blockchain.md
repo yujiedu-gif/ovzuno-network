@@ -3,8 +3,6 @@ title: "Sandbox blockchain: meaning, uses, and limits"
 description: "Learn what a sandbox blockchain means, how testing environments differ from production networks, and what builders should verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

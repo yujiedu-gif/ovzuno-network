@@ -3,8 +3,6 @@ title: "Concurrent zero knowledge: How parallel proof generation works"
 description: "Learn what concurrent zero knowledge means, how parallel proof generation is organized, and which dependencies and trade-offs affect blockchain scaling."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

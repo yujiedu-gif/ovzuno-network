@@ -3,8 +3,6 @@ title: "Citadel Securities Crypto: What Public Information Shows"
 description: "A neutral review of citadel securities crypto references, separating publicly documented positions and activity from speculation and unresolved questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: ["tokenized securities", "digital asset market structure"]

@@ -3,8 +3,6 @@ title: "SHA Crypto: What the Hash Function Means"
 description: "Learn what sha crypto means, how SHA hash functions relate to blockchain data, and why hashing is different from staking and validator operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

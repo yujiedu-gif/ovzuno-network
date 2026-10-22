@@ -3,8 +3,6 @@ title: "Understanding NFT Market Infrastructure: Participants and Transaction Fl
 description: "Understanding NFT market infrastructure means tracing how creators, marketplaces, buyers, and blockchain networks support NFT discovery, exchange, and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

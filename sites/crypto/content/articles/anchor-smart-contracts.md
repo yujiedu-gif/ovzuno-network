@@ -3,8 +3,6 @@ title: "Anchor smart contracts: How the Solana development framework works"
 description: "Learn what anchor smart contracts are, how the Anchor framework supports Solana program development, and what to verify when assessing a project."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Anchor framework", "Solana programs", "Rust smart contracts"]

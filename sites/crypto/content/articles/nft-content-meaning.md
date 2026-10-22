@@ -3,8 +3,6 @@ title: "NFT content meaning: how tokens, metadata, and files differ"
 description: "Understand NFT content meaning by separating the token, its metadata, and linked digital files, and learn what to check before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft content"]

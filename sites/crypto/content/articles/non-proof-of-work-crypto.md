@@ -3,8 +3,6 @@ title: "Non proof of work crypto: how alternative consensus works"
 description: "Learn how non proof of work crypto networks reach consensus, how common approaches differ from proof of work, and what trade-offs readers should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["non proof work crypto"]

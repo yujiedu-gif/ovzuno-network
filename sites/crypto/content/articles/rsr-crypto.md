@@ -3,8 +3,6 @@ title: "RSR Crypto: What the Token Is and Its Role in Reserve"
 description: "Learn what RSR crypto refers to, how the token is intended to fit into the Reserve ecosystem, and what to verify before relying on claims about it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

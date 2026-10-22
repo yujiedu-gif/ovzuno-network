@@ -3,8 +3,6 @@ title: "NFT Generate Code: Create and Validate Collection Metadata"
 description: "Learn how nft generate code can produce consistent NFT collection metadata, validate asset references and fields, and prepare files for a separate minting workflow."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["nfts_digital_ownership"]
 tags: ["nft generator code"]

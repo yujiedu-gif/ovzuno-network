@@ -3,8 +3,6 @@ title: "RGT Crypto: What the Name Refers to and How to Verify It"
 description: "Learn what RGT crypto refers to, how to check project and token details in reliable documentation, and which claims need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

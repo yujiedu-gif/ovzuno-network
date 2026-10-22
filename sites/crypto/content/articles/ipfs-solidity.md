@@ -3,8 +3,6 @@ title: "IPFS Solidity: How Smart Contracts Refer to Off-Chain Content"
 description: "Learn how IPFS Solidity designs connect contract state to off-chain content, what a content identifier represents, and what retrieval and persistence depend on."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["IPFS content addressing", "Solidity smart contract storage", "IPFS CID"]

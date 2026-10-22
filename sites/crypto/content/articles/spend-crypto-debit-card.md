@@ -3,8 +3,6 @@ title: "Spend crypto debit card: how purchases work and what to check"
 description: "Learn how a spend crypto debit card purchase may move from crypto balance to card authorization and settlement, and what fees and rules to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Hedera Solidity: How Smart Contracts Fit the Network"
 description: "Learn how Hedera Solidity relates to EVM-compatible smart contracts, what deployment differences to check, and where network-specific behavior may matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity on Hedera", "Hedera Smart Contract Service", "EVM compatibility"]

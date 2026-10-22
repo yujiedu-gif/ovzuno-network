@@ -3,8 +3,6 @@ title: "AMM Crypto Meaning: A Clear Definition"
 description: "Learn the AMM crypto meaning: what the abbreviation stands for, the basic role of an automated market maker, and how the term is used in DeFi."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: ["amm crypto"]

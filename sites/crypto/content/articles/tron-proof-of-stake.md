@@ -3,8 +3,6 @@ title: "TRON Proof of Stake: How Staking and Validators Support Consensus"
 description: "Understand how TRON proof of stake relates to TRX staking, validator selection, and consensus, and which network details readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["tron proof stake"]

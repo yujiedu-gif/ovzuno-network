@@ -3,8 +3,6 @@ title: "Splinterlands Validator Nodes: Roles, Requirements, and What to Verify"
 description: "Learn what splinterlands validator nodes refer to, how to verify their network roles and operating requirements, and which current details remain uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

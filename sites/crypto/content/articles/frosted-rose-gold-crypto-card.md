@@ -3,8 +3,6 @@ title: "Frosted rose gold crypto card: appearance, function, and what to verify"
 description: "Learn what “frosted rose gold crypto card” may describe, how appearance differs from payment functionality, and which product details to verify before relying on a"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

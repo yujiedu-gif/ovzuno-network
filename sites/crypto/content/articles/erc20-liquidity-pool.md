@@ -3,8 +3,6 @@ title: "ERC20 Liquidity Pool: How Token Pools Work"
 description: "Learn how an erc20 liquidity pool uses a smart contract, token reserves, and liquidity providers to enable swaps, and what risks its mechanics leave unresolved."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["automated market maker", "liquidity providers", "pool reserves", "smart contract risk"]

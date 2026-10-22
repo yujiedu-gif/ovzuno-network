@@ -3,8 +3,6 @@ title: "Pi crypto mining: meaning and how it differs from proof of work"
 description: "Learn what Pi crypto mining refers to, how its participation model differs from proof-of-work computation, and what protocol claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

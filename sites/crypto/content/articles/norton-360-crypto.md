@@ -3,8 +3,6 @@ title: "Norton 360 crypto: mining features and consensus explained"
 description: "Understand what Norton 360 crypto refers to, how any mining feature relates to proof-of-work consensus, and what product documentation to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto investigations: meaning, evidence, and regulatory context"
 description: "Learn what crypto investigations examine, how blockchain evidence fits into broader inquiries, and why regulatory and tax-reporting duties vary by jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto investigator"]

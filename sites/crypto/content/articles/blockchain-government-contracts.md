@@ -3,8 +3,6 @@ title: "Blockchain government contracts: payment infrastructure and practical co
 description: "Explore how blockchain government contracts may involve payment infrastructure, what it can and cannot do, and which operational and governance questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain in public procurement", "government blockchain payments"]

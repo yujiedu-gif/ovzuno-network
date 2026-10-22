@@ -3,8 +3,6 @@ title: "Solidity Function Return Array: Syntax and Key Rules"
 description: "Learn how a Solidity function return array is declared and used, including data-location choices, state reads, and important compiler-version caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

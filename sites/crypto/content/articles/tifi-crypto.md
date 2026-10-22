@@ -3,8 +3,6 @@ title: "Tifi crypto: how to identify the project and verify its claims"
 description: "Learn how to assess what tifi crypto refers to, distinguish a project from a token or protocol, and verify claims against authoritative documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

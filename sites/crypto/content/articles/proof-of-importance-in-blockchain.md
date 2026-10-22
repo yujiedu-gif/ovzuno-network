@@ -3,8 +3,6 @@ title: "Proof of importance in blockchain: how the consensus mechanism works"
 description: "Learn what proof of importance in blockchain means, how it can use network activity in consensus selection, and why implementations vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof importance in blockchain"]

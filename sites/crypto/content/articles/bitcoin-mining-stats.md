@@ -3,8 +3,6 @@ title: "Bitcoin Mining Stats: What the Key Measurements Mean"
 description: "Understand what bitcoin mining stats measure, how common indicators differ, and what to check about units, time periods, and estimation limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

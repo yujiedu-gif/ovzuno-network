@@ -3,8 +3,6 @@ title: "Crypto Websites: How to Evaluate Mining and Consensus Claims"
 description: "Learn how to assess mining and consensus claims on crypto websites by checking network details, evidence, key omissions, and the limits of published information."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: []

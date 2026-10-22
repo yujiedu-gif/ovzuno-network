@@ -3,8 +3,6 @@ title: "Mooncard crypto: what the phrase means and how to verify product claims"
 description: "Explore what “mooncard crypto” may refer to, how to verify official product claims, and why availability, terms, and eligibility can vary by market."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["Mooncard crypto card", "crypto card issuer"]

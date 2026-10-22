@@ -3,8 +3,6 @@ title: "VeVe NFT withdrawal: meaning and key distinctions"
 description: "Understand veve nft withdrawal, how it differs from viewing a collectible in an app, and which current platform and item details to verify first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

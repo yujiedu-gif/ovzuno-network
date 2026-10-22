@@ -3,8 +3,6 @@ title: "Bitcoin miner code: components, workflow, and review checklist"
 description: "Learn what bitcoin miner code does, how mining software connects work to proof-of-work, and what developers should inspect before evaluating an implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoin miner codes"]

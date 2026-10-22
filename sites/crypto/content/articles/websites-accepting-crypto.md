@@ -3,8 +3,6 @@ title: "Websites accepting crypto: how online checkout works"
 description: "Learn how websites accepting crypto present checkout options, what customers verify before paying, and how merchants handle payment status and completion."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

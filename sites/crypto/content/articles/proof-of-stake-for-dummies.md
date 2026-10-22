@@ -3,8 +3,6 @@ title: "Proof of stake for dummies: how validators help secure a blockchain"
 description: "Proof of stake for dummies: learn how validators use stake to propose and check blocks, how networks reach agreement, and why rules vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake dummies"]

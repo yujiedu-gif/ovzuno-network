@@ -3,8 +3,6 @@ title: "Blockchain intelligence: how on-chain data becomes useful insight"
 description: "Learn what blockchain intelligence means, how on-chain records become analytical signals, and why attribution, coverage, and inference limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: ["on-chain data analysis", "blockchain data interpretation"]

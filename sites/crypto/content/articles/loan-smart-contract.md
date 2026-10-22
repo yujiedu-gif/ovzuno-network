@@ -3,8 +3,6 @@ title: "Loan smart contract: how on-chain lending logic works"
 description: "Learn how a loan smart contract encodes lending terms, tracks state, and handles repayment or collateral, plus the dependencies and risks to evaluate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

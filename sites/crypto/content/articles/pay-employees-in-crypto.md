@@ -3,8 +3,6 @@ title: "Pay employees in crypto: employer considerations and payroll steps"
 description: "Pay employees in crypto only after assessing local employment rules, payroll and tax treatment, valuation, custody, consent, and recordkeeping requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

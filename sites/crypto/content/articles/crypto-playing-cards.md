@@ -3,8 +3,6 @@ title: "Crypto playing cards: themed decks or crypto payment cards?"
 description: "Crypto playing cards can mean a themed physical deck or a payment card linked to cryptocurrency. Learn how to distinguish them and verify claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto playing card"]

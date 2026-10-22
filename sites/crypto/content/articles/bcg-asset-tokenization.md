@@ -3,8 +3,6 @@ title: "BCG Asset Tokenization: Concepts, Operating Models, and Open Questions"
 description: "Explore BCG asset tokenization through a source-bounded explanation of its concepts, potential operating models, infrastructure dependencies, and open questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

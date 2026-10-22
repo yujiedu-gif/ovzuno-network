@@ -3,8 +3,6 @@ title: "Mining Pi Crypto: What the Term Means in Pi Network"
 description: "Learn what mining Pi crypto means in Pi Network, how its described consensus model differs from proof-of-work, and which claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

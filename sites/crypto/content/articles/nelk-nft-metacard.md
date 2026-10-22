@@ -3,8 +3,6 @@ title: "Nelk NFT Metacard: Meaning and What It May Represent"
 description: "Understand what nelk nft metacard refers to, how an NFT record may relate to a card or access rights, and what details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

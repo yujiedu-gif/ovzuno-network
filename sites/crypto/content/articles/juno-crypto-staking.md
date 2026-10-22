@@ -3,8 +3,6 @@ title: "Juno Crypto Staking: Validators, Delegation, and Risks"
 description: "Learn how juno crypto staking involves delegation and validators, what can affect rewards and access to tokens, and which risks require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

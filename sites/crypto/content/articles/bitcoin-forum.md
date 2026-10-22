@@ -3,8 +3,6 @@ title: "Bitcoin forum: meaning, common uses, and how to assess posts"
 description: "Learn what a bitcoin forum is, what Bitcoin topics members discuss, and how to assess posts against reliable sources rather than treating them as advice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins forum"]

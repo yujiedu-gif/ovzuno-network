@@ -3,8 +3,6 @@ title: "Booking com crypto payment: what travelers should verify"
 description: "Learn how to check whether a Booking com crypto payment is offered for a specific reservation, distinguish direct support from third-party options, and verify terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

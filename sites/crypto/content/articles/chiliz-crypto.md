@@ -3,8 +3,6 @@ title: "Chiliz crypto: its role in blockchain and fan tokens"
 description: "Learn what Chiliz crypto refers to, how its blockchain and fan-token context differs from crypto payment cards, and which claims need current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

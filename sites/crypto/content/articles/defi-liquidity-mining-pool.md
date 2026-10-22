@@ -3,8 +3,6 @@ title: "DeFi Liquidity Mining Pool: Meaning, Mechanics, and Risks"
 description: "Learn what a defi liquidity mining pool means, how liquidity provision and incentives work, and how it differs from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

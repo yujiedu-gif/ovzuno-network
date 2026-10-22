@@ -3,8 +3,6 @@ title: "SmartCheck smart contract analysis: scope and limitations"
 description: "Learn what SmartCheck smart contract static analysis can reveal about Solidity code, how to interpret findings, and why results do not prove a contract is secure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

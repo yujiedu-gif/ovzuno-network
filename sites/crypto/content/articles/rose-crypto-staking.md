@@ -3,8 +3,6 @@ title: "ROSE Crypto Staking: How Delegation and Validators Work"
 description: "Learn how ROSE crypto staking works, how delegation differs from running a validator, and which network rules, rewards, and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

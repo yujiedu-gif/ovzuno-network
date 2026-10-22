@@ -3,8 +3,6 @@ title: "Husky Token Crypto: How to Identify the Asset"
 description: "Husky token crypto can refer to a named asset, but a name alone does not verify its identity. Check its network, contract address, and project sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

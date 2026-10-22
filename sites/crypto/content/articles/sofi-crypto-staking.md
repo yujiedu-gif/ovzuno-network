@@ -3,8 +3,6 @@ title: "SoFi Crypto Staking: Availability, Eligibility, and Terms to Verify"
 description: "Learn how to verify SoFi crypto staking availability, eligibility, supported assets, and current service terms in the United States before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

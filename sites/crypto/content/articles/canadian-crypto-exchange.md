@@ -3,8 +3,6 @@ title: "Canadian Crypto Exchange: Infrastructure and Operating Considerations"
 description: "Explore the infrastructure behind a canadian crypto exchange, including custody, trading, payment rails, and jurisdiction-specific questions that require current,"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Arkham blockchain explorer: purpose, data, and attribution limits"
 description: "Learn what the arkham blockchain explorer presents, how blockchain records differ from entity attributions, and why labels should be interpreted cautiously."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

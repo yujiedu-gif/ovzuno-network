@@ -3,8 +3,6 @@ title: "Proof of work mechanism: how block validation and consensus operate"
 description: "Learn how the proof of work mechanism helps networks validate blocks, verify computational proofs, and coordinate consensus, including key assumptions and trade-offs"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work mechanism"]

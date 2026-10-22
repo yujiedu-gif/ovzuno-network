@@ -3,8 +3,6 @@ title: "Blockchain automation framework: role in payment workflows"
 description: "Learn what a blockchain automation framework does in payment workflows, how it connects triggers and on-chain actions, and what operators should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

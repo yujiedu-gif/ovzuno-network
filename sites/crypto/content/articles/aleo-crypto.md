@@ -3,8 +3,6 @@ title: "Aleo crypto: privacy-focused blockchain and operational considerations"
 description: "Learn what Aleo crypto refers to, how its privacy-focused blockchain is described, and what operators should verify about security, compliance, and deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["crypto aleo"]

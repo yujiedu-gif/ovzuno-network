@@ -3,8 +3,6 @@ title: "GoDaddy Crypto Payment Options: What Website Owners Should Verify"
 description: "Explore GoDaddy crypto payment integration paths, platform compatibility, processor terms, and the operational and jurisdictional details to verify before setup."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

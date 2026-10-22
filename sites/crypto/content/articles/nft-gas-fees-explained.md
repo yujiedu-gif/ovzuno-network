@@ -3,8 +3,6 @@ title: "NFT gas fees explained: what they pay for and when they apply"
 description: "NFT gas fees explained: learn what network charges cover, what can affect them, and how they differ from marketplace fees during common NFT transactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["nft gas fee"]

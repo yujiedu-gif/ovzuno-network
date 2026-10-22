@@ -3,8 +3,6 @@ title: "worldpay crypto: What the Term Means and How to Verify It"
 description: "Learn what “worldpay crypto” may refer to, how to verify any documented cryptocurrency payment capability, and which jurisdiction-specific details to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

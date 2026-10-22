@@ -3,8 +3,6 @@ title: "Oracle Solidity: How Smart Contracts Use External Data"
 description: "Learn what oracle Solidity means, how oracle infrastructure delivers off-chain data to smart contracts, and what developers should consider about trust and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity oracle", "oracle contract", "off-chain data"]

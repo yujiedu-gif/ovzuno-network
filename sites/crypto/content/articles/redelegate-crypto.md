@@ -3,8 +3,6 @@ title: "Redelegate crypto: meaning, process, and network-specific rules"
 description: "Learn what it means to redelegate crypto, how stake reassignment differs from unstaking, and which network-specific rules and risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

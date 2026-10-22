@@ -3,8 +3,6 @@ title: "Develop Dapp: A Practical Guide to Architecture, Testing, and Deployment
 description: "Learn how to develop dapp software by defining requirements, choosing an architecture, testing smart contracts, integrating a frontend, and planning operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["decentralized application", "smart contract", "dapp architecture", "blockchain network", "wallet integration", "smart contract testing"]

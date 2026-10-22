@@ -3,8 +3,6 @@ title: "Crypto Bank Token: Meaning, Issuer, and Use Cases"
 description: "Learn what crypto bank token can mean, how bank issuance differs from banking-related use, and which issuer, rights, and jurisdiction details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bank crypto token"]

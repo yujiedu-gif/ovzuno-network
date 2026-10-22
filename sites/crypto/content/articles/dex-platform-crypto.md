@@ -3,8 +3,6 @@ title: "How to evaluate a dex platform crypto for a product or business"
 description: "Learn how to assess a dex platform crypto for protocol mechanics, integration needs, operational dependencies, and risks using evidence suited to your use case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: []

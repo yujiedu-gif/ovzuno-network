@@ -3,8 +3,6 @@ title: "Proof of stake node: roles, validation, and operating requirements"
 description: "Learn what a proof of stake node does, how it differs from a validator, and which network-specific operating requirements to check before setup."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake node"]

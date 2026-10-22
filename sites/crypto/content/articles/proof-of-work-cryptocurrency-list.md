@@ -3,8 +3,6 @@ title: "Proof of work cryptocurrency list: networks and verification criteria"
 description: "Use this proof of work cryptocurrency list to identify candidate networks, check consensus classifications, and note hybrid or changed mechanisms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["proof work cryptocurrency list"]

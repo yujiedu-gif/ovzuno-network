@@ -3,8 +3,6 @@ title: "LLM Blockchain: How Language Models Can Interact With Payment Infrastruc
 description: "Learn how an llm blockchain workflow can connect language models to payment software, where signing and verification occur, and what risks need review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

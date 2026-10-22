@@ -3,8 +3,6 @@ title: "Hive crypto mining: what the term refers to"
 description: "Learn what hive crypto mining may refer to, how to identify the intended project or network, and which mining details need reliable verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

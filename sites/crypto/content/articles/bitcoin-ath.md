@@ -3,8 +3,6 @@ title: "Bitcoin ATH: Meaning, Measurement, and Market Context"
 description: "Learn what bitcoin ath means, why reported records can vary by market and measurement method, and how to interpret an all-time high without treating it as a forecast"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins ath"]

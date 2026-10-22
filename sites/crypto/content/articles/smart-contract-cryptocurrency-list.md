@@ -3,8 +3,6 @@ title: "Smart contract cryptocurrency list: networks and native assets"
 description: "Use this smart contract cryptocurrency list to identify networks that support programmable contracts and distinguish native assets from tokens and dApps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract platforms", "blockchain networks with smart contracts", "decentralized applications"]

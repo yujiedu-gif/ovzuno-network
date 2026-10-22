@@ -3,8 +3,6 @@ title: "Smart blockchain network: programmable capabilities for payment workflow
 description: "Learn how a smart blockchain network can support programmable payment workflows, what its components do, and which operational limits to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

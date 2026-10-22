@@ -3,8 +3,6 @@ title: "Smart contract list: how to identify and verify entries"
 description: "A smart contract list is useful only when entries identify the network, address, purpose, and evidence. Learn how to check records and note limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract examples", "decentralized application contracts", "contract address"]

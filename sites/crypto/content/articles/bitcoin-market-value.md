@@ -3,8 +3,6 @@ title: "Bitcoin Market Value: Meaning, Calculation, and Limits"
 description: "Learn what bitcoin market value means, how circulating-supply market capitalization is calculated, and why the measure does not show realized proceeds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins market value"]

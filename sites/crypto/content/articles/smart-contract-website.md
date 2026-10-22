@@ -3,8 +3,6 @@ title: "Smart Contract Website: How Interfaces Connect to On-Chain Code"
 description: "Learn how a smart contract website connects its interface, wallet, and on-chain code, what users can check before interacting, and what remains uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["dApp frontend", "smart contract interaction", "blockchain wallet"]

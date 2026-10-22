@@ -3,8 +3,6 @@ title: "Digital NFT Meaning: What the Token Represents"
 description: "Learn the digital nft meaning: how an NFT token relates to a digital item, metadata, and associated rights, and what its blockchain record does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["digital nft"]

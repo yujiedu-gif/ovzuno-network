@@ -3,8 +3,6 @@ title: "Crypto Mining Payout: How Block Rewards Reach Miners"
 description: "Learn how a crypto mining payout can combine block rewards and transaction fees, and how pool rules differ from the blockchain’s reward process."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["block reward", "transaction fees", "mining pool payout methods"]

@@ -3,8 +3,6 @@ title: "solfarm crypto: Is It Mining, Yield Farming, or Something Else?"
 description: "Learn what solfarm crypto refers to, how yield farming differs from proof-of-work mining and consensus, and what evidence is needed to assess current status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["sol farm crypto"]

@@ -3,8 +3,6 @@ title: "CPU crypto mining: how processors participate in proof-of-work"
 description: "Learn what CPU crypto mining means, how processors perform proof-of-work, and how network rules and hardware design shape participation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

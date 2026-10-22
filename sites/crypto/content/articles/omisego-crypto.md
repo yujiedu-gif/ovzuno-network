@@ -3,8 +3,6 @@ title: "OmiseGO Crypto: What the Network and OMG Token Refer To"
 description: "Learn what omisego crypto refers to, how the OMG Network and OMG token are related, and what to verify before relying on claims about current operation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["OMG Network", "OMG token", "Ethereum Layer 2"]

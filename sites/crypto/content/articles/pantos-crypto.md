@@ -3,8 +3,6 @@ title: "Pantos crypto: How the cross-chain protocol is designed"
 description: "Learn what pantos crypto refers to, how its protocol is intended to support cross-chain token transfers, and what technical claims to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Pantos protocol", "cross-chain token transfers", "blockchain interoperability"]

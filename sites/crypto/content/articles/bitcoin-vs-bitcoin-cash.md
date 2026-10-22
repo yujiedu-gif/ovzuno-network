@@ -3,8 +3,6 @@ title: "Bitcoin vs Bitcoin Cash: Protocol and Practical Differences"
 description: "Compare bitcoin vs bitcoin cash across protocol design, transaction handling, ecosystem, and practical considerations, with guidance on what readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoin bitcoin cash"]

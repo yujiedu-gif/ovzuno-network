@@ -3,8 +3,6 @@ title: "LP tokens crypto: what they represent in liquidity pools"
 description: "Learn what LP tokens crypto protocols may issue for liquidity-pool deposits, what position they represent, and why redemption rights and risks vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["lp token crypto"]

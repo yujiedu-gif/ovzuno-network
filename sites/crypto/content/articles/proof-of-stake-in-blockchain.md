@@ -3,8 +3,6 @@ title: "Proof of stake in blockchain: how consensus works"
 description: "Learn how proof of stake in blockchain networks uses validators, staked assets, and protocol rules to coordinate consensus and address conflicting blocks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake in blockchain"]

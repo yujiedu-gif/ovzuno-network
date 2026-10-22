@@ -3,8 +3,6 @@ title: "First digital asset bank: meaning and how to verify the claim"
 description: "Learn what “first digital asset bank” can mean, how banking differs from custody and brokerage, and what jurisdiction-specific evidence can verify the claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

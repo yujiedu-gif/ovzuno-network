@@ -3,8 +3,6 @@ title: "Blockchain pow pos: How Proof-of-Work and Proof-of-Stake Differ"
 description: "Compare blockchain pow pos: see how proof-of-work and proof-of-stake select participants, validate blocks, and differ in security assumptions and resource use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

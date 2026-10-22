@@ -3,8 +3,6 @@ title: "Telegram crypto payment: components, flow, and key checks"
 description: "Understand how a Telegram crypto payment may connect a chat interface, bot, wallet, blockchain, and external services, and what to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

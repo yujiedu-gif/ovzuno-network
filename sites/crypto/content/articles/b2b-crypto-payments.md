@@ -3,8 +3,6 @@ title: "B2B Crypto Payments: How Business-to-Business Transfers Work"
 description: "Learn how b2b crypto payments move between businesses, what affects settlement and reconciliation, and which operational, security, and compliance questions to check"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["b2b crypto payment"]

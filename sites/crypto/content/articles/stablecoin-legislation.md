@@ -3,8 +3,6 @@ title: "Stablecoin legislation: key issues and jurisdictional differences"
 description: "Learn what stablecoin legislation may address, how rules can differ by jurisdiction, and which issuance, reserve, redemption, and oversight questions need local."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

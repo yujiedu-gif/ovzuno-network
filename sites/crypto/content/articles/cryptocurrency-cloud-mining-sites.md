@@ -3,8 +3,6 @@ title: "Cryptocurrency Cloud Mining Sites: Claims and Due Diligence"
 description: "Learn how cryptocurrency cloud mining sites describe their services, which contract and operational claims to verify, and what evidence remains uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

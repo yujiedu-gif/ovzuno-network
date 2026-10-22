@@ -3,8 +3,6 @@ title: "Propy NFT Real Estate: How Tokens Relate to Property Transactions"
 description: "Learn how Propy NFT real estate connects blockchain tokens with property transactions, and why legal ownership depends on documents and jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: ["Propy real estate NFTs", "real estate NFT transaction"]

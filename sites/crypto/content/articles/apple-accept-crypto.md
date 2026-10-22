@@ -3,8 +3,6 @@ title: "Apple Accept Crypto: What Users and Merchants Should Know"
 description: "Apple accept crypto can mean several different payment flows. Learn how to distinguish Apple services from direct crypto acceptance and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

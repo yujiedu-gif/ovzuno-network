@@ -3,8 +3,6 @@ title: "Starbucks accepting cryptocurrency: what is officially supported?"
 description: "Find out how to verify claims about Starbucks accepting cryptocurrency, distinguish direct acceptance from third-party workarounds, and check current official terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

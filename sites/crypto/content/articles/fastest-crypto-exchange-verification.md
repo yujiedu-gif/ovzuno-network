@@ -3,8 +3,6 @@ title: "Fastest crypto exchange verification: what affects the timeline"
 description: "Learn what fastest crypto exchange verification can mean, how automated and manual checks differ, and why account, document, and jurisdiction factors affect timing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["fastest verification crypto exchange"]

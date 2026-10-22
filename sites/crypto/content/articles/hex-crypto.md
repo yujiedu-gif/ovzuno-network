@@ -3,8 +3,6 @@ title: "Hex Crypto: What HEX Is and How Its Consensus Differs From Mining"
 description: "Understand what hex crypto refers to, how HEX participation is described, and why its consensus model is distinct from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

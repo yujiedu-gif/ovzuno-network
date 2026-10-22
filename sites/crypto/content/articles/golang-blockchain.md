@@ -3,8 +3,6 @@ title: "Golang Blockchain: A Technical Guide to Go-Based Infrastructure"
 description: "Learn what golang blockchain development covers, where Go can fit in payment infrastructure, and which technical and operational factors to evaluate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

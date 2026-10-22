@@ -3,8 +3,6 @@ title: "Layer 2 Lightning Network: How Bitcoin Payment Channels Work"
 description: "Learn how the layer 2 lightning network uses payment channels for off-chain Bitcoin payments, how channels connect, and where on-chain settlement fits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Lightning Network", "payment channels", "Bitcoin layer 2"]

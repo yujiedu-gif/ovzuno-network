@@ -3,8 +3,6 @@ title: "Mars DAO Crypto: Project, Governance, and Ecosystem"
 description: "Learn what Mars DAO crypto refers to, how its documented governance and ecosystem fit together, and which project details readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["Mars DAO governance", "Mars ecosystem", "governance proposals"]

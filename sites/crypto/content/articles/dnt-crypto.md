@@ -3,8 +3,6 @@ title: "DNT Crypto: What the Term Can Mean and How to Verify It"
 description: "Learn what “DNT crypto” may refer to, why a ticker alone is not definitive, and which project and network details to check before identifying an asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

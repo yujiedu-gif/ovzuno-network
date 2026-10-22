@@ -3,8 +3,6 @@ title: "BSV crypto: what it is and how it relates to card spending"
 description: "Learn what BSV crypto refers to, how its network and token differ, and what to verify before relying on BSV for a crypto-card payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

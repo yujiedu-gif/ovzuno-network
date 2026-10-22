@@ -3,8 +3,6 @@ title: "Algo crypto staking: what the term means for ALGO holders"
 description: "Learn what algo crypto staking may mean, how ALGO network participation differs from third-party reward programs, and which protocol details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Examples of Decentralized Crypto Exchanges: Protocols by Trading Design"
 description: "Explore examples of decentralized crypto exchanges, grouped by trading design and network scope, with clear distinctions between protocols and aggregators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["examples decentralized crypto exchanges"]

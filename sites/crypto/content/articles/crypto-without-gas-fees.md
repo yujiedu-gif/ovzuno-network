@@ -3,8 +3,6 @@ title: "Crypto Without Gas Fees: What Gasless Transactions Really Mean"
 description: "Learn what crypto without gas fees means, how fee sponsorship and abstraction work, and why a transaction may still carry an underlying network cost."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto without gas fee"]

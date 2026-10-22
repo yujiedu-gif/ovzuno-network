@@ -3,8 +3,6 @@ title: "Crypto gifting: how transfers work and what to check"
 description: "Learn how crypto gifting works, what senders and recipients should verify before a transfer, and why fees, security, and rules vary by context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["gift crypto"]

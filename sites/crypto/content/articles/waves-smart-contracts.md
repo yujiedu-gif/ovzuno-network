@@ -3,8 +3,6 @@ title: "Waves smart contracts: how they work and what to assess"
 description: "Learn how waves smart contracts fit into the Waves platform, what applications they support, how execution works, and what developers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

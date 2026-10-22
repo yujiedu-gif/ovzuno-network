@@ -3,8 +3,6 @@ title: "WAX NFT Marketplace: How Discovery and Trading Work"
 description: "Learn how a WAX NFT marketplace presents collections and facilitates activity, what blockchain records can show, and which platform details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

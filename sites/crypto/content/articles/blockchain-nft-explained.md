@@ -3,8 +3,6 @@ title: "Blockchain NFT Explained: Token, Record, and Digital Ownership"
 description: "Blockchain NFT explained: learn how an NFT’s blockchain record relates to a digital item, ownership claims, and rights that may exist outside the token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["blockchain nft"]

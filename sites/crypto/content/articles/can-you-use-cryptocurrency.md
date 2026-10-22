@@ -3,8 +3,6 @@ title: "Can You Use Cryptocurrency? Legal, Tax, and Reporting Considerations"
 description: "Can you use cryptocurrency for payments? Learn how legal acceptance, merchant policies, tax treatment, and reporting rules vary by jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

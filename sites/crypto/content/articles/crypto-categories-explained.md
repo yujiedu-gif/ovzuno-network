@@ -3,8 +3,6 @@ title: "Crypto categories explained: a framework for assets and protocols"
 description: "Crypto categories explained through a neutral framework for classifying assets, protocols, and functions, with notes on overlap, limits, and context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto categories"]

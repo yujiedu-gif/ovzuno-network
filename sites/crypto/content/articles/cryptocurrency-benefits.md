@@ -3,8 +3,6 @@ title: "Cryptocurrency Benefits: Potential Uses, Limits, and Reporting Considera
 description: "Explore cryptocurrency benefits by use case, including potential advantages, practical limitations, and the regulation and tax-reporting questions that may matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["benefits of cryptocurrency"]

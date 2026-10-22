@@ -3,8 +3,6 @@ title: "How to Program Solidity: From Source Code to Smart Contract"
 description: "Learn how to program solidity by tracing how contract source code is compiled, deployed to a blockchain, and invoked through transactions and applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

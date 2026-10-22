@@ -3,8 +3,6 @@ title: "Average Bitcoin Transaction Fee: How to Interpret the Metric"
 description: "Understand how the average bitcoin transaction fee is calculated, what it can and cannot show, and why individual Bitcoin transaction costs vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: ["bitcoin average transaction fee"]

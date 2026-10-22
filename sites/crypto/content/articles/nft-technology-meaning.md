@@ -3,8 +3,6 @@ title: "NFT Technology Meaning: Tokens, Metadata, and Digital Ownership"
 description: "Understand nft technology meaning, how tokens and metadata connect to digital assets, and why control of an NFT does not automatically grant copyright."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft technology"]

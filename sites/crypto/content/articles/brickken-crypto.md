@@ -3,8 +3,6 @@ title: "Brickken crypto: what the platform does in asset tokenization"
 description: "Learn what Brickken crypto refers to, how asset tokenization platforms work in general, and which details to verify before relying on platform or token claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Brickken platform", "tokenization platform", "real-world asset tokenization"]

@@ -3,8 +3,6 @@ title: "DAO in crypto meaning: a concise definition"
 description: "Understand the dao in crypto meaning, what the term describes, and why it does not by itself establish a DAO’s design, legal status, or responsibilities."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["dao_governance"]
 tags: ["dao in crypto"]

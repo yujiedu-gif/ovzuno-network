@@ -3,8 +3,6 @@ title: "SPL Network Crypto: What SPL Means in the Solana Ecosystem"
 description: "Understand spl network crypto: what SPL means in Solana, how token standards and programs relate, and what distinguishes an SPL asset from SOL."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

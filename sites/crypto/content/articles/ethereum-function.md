@@ -3,8 +3,6 @@ title: "Ethereum function: network role and smart-contract meaning"
 description: "Understand the ethereum function at network level and in smart contracts, with a clear distinction between Ethereum’s capabilities and callable code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

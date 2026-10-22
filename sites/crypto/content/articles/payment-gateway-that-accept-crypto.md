@@ -3,8 +3,6 @@ title: "How to Evaluate a Payment Gateway That Accept Crypto"
 description: "Evaluate a payment gateway that accept crypto by reviewing supported assets, settlement, fees, security, recovery, compliance, and operational fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["payment gateways that accept crypto"]

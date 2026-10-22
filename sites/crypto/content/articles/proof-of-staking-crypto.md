@@ -3,8 +3,6 @@ title: "Proof of staking crypto: meaning, validators, and consensus"
 description: "Learn what proof of staking crypto means, how staking relates to proof-of-stake consensus and validators, and why protocol rewards and risks can vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof staking crypto"]

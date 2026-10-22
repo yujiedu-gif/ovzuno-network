@@ -3,8 +3,6 @@ title: "Blockchain bookkeeping: What the ledger records and what it does not"
 description: "Learn what blockchain bookkeeping records, how shared ledgers preserve transaction history, and why network data alone may not provide complete business accounts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

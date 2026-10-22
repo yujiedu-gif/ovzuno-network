@@ -3,8 +3,6 @@ title: "Carbon Token Crypto: How Tokenization Relates to Carbon Units"
 description: "Learn what carbon token crypto can mean, how tokens may represent carbon-related units, and why environmental claims depend on evidence beyond the blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

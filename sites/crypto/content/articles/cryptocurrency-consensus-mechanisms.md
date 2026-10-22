@@ -3,8 +3,6 @@ title: "Cryptocurrency consensus mechanisms: How networks agree"
 description: "Learn how cryptocurrency consensus mechanisms help networks agree on valid updates, how proof-of-work and proof-of-stake differ, and what trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

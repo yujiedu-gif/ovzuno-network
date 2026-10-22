@@ -3,8 +3,6 @@ title: "Cryptocurrency conclusion: what regulatory and tax analysis should summa
 description: "Learn what a cryptocurrency conclusion should summarize about regulation and tax reporting, and why legal and tax findings depend on jurisdiction and context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin mining os: Meaning, functions, and how it differs from consensus
 description: "Learn what a bitcoin mining os is, how it fits into a mining setup, and how operational software differs from Bitcoin’s consensus rules and hardware."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["Bitcoin mining operating system", "mining rig management software"]

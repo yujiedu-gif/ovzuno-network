@@ -3,8 +3,6 @@ title: "Cryptocurrency WazirX: Exchange Infrastructure and What to Verify"
 description: "A neutral overview of cryptocurrency wazirx as exchange infrastructure, covering its market role and the operational, jurisdictional, and security details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

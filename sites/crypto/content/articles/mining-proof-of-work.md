@@ -3,8 +3,6 @@ title: "Mining proof of work: how miners help establish blockchain consensus"
 description: "Learn how mining proof of work links computational effort to block proposals, node validation, and transaction confirmations, and where its limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["mining proof work"]

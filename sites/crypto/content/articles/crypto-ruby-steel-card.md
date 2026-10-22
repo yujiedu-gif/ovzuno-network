@@ -3,8 +3,6 @@ title: "Crypto ruby steel card: what the phrase may describe"
 description: "Learn what “crypto ruby steel card” may describe, how to separate card appearance from crypto payment features, and what product details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

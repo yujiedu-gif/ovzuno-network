@@ -3,8 +3,6 @@ title: "Blockchain proof: what it means and how verification works"
 description: "Learn what blockchain proof can mean, how cryptographic evidence differs from consensus, and what proof of work and proof of stake establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof of work", "proof of stake", "cryptographic proof"]

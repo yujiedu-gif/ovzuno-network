@@ -3,8 +3,6 @@ title: "Anchorage crypto token: asset, service, or mistaken label?"
 description: "Find out whether “anchorage crypto token” identifies a verifiable asset or is being confused with Anchorage Digital’s tokenization and custody infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Anchorage Digital", "crypto custody", "digital asset infrastructure", "tokenization"]

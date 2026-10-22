@@ -3,8 +3,6 @@ title: "How the bayc smart contract handles NFT ownership"
 description: "Learn what the bayc smart contract does for NFT ownership and transfers, what can be checked on-chain, and where metadata or legal claims need separate evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Bored Ape Yacht Club contract", "ERC-721 NFT contract", "NFT metadata", "Ethereum contract address"]

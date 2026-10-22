@@ -3,8 +3,6 @@ title: "Crypto self custody: operational risks and practical controls"
 description: "Crypto self custody shifts key control to the holder. Understand key-handling, transaction, backup, and recovery risks, plus controls and their limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["wallets_custody"]
 tags: []

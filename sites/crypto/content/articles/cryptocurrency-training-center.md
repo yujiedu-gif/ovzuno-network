@@ -3,8 +3,6 @@ title: "Cryptocurrency training center: assessing institutional treasury educati
 description: "Learn how institutions can assess a cryptocurrency training center's treasury relevance, curriculum scope, and limits without treating education as professional or"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

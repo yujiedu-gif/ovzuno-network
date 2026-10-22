@@ -3,8 +3,6 @@ title: "Quantum Crypto Coin: What the Term Means for Consensus and Mining"
 description: "Learn what quantum crypto coin can mean, how quantum computing differs from quantum-resistant cryptography, and what either implies for consensus and mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

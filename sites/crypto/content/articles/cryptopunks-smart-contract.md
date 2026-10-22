@@ -3,8 +3,6 @@ title: "How the cryptopunks smart contract represents the CryptoPunks collection
 description: "Learn what the cryptopunks smart contract records, how its functions relate to CryptoPunks ownership, and what readers should verify on-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["CryptoPunks contract address", "CryptoPunks NFT", "Ethereum smart contract"]

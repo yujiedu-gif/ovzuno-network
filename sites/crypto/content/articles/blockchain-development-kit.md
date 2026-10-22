@@ -3,8 +3,6 @@ title: "Blockchain Development Kit: Evaluate Payment Integration Requirements"
 description: "Learn how to assess a blockchain development kit for payment integration, map core requirements to capabilities, and identify design and verification needs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

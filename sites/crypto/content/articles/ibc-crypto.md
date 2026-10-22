@@ -3,8 +3,6 @@ title: "IBC crypto: How Inter-Blockchain Communication Connects Networks"
 description: "Learn how IBC crypto enables compatible blockchains to exchange messages, what clients and packets do, and where interoperability has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

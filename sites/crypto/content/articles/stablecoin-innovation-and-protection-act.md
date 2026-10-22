@@ -3,8 +3,6 @@ title: "stablecoin innovation and protection act: scope, status, and stablecoin 
 description: "Learn what the stablecoin innovation and protection act says, how to verify its U.S. legislative status, and what its documented scope could mean for settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoin innovation protection act"]

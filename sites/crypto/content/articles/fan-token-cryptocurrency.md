@@ -3,8 +3,6 @@ title: "Fan Token Cryptocurrency: Uses, Rights, and Risks"
 description: "Learn what a fan token cryptocurrency is, how token-based participation may work, and which rights, limitations, and risks to verify for a specific token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

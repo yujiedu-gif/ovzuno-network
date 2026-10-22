@@ -3,8 +3,6 @@ title: "Soccer crypto tokens: uses, rights, and limitations"
 description: "Learn what soccer crypto tokens are, how projects may use them for fan engagement, and how to distinguish stated utility from rights and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["fan tokens", "sports tokens", "blockchain fan engagement"]

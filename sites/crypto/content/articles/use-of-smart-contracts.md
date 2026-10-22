@@ -3,8 +3,6 @@ title: "Use of smart contracts: common roles in decentralized applications"
 description: "Explore the use of smart contracts in decentralized applications, from coordinating transactions to enforcing rules, and understand their limits and dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["use smart contracts"]

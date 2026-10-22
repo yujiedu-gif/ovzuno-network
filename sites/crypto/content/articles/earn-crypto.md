@@ -3,8 +3,6 @@ title: "Earn crypto: mechanisms, operations, and risks to verify"
 description: "Learn how earn crypto programs may work, where custody and operational risks arise, and what security, compliance, and jurisdiction-specific questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

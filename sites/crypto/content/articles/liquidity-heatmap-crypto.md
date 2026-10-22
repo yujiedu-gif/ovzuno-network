@@ -3,8 +3,6 @@ title: "Liquidity Heatmap Crypto: What It Shows and What It Cannot Prove"
 description: "Learn what a liquidity heatmap crypto visualization may show, how to interpret its signals, and why displayed liquidity or liquidation estimates have limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["cross_chain_interoperability"]
 tags: ["crypto liquidation heatmap"]

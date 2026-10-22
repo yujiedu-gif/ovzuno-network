@@ -3,8 +3,6 @@ title: "Gas in cryptocurrency: how blockchain transaction costs work"
 description: "Learn what gas in cryptocurrency means, how it relates to transaction execution, and why blockchain networks may calculate transaction fees differently."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

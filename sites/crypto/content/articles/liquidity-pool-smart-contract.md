@@ -3,8 +3,6 @@ title: "Liquidity Pool Smart Contract: How It Manages Assets and Swaps"
 description: "Learn how a liquidity pool smart contract holds pooled tokens, processes swaps, and accounts for liquidity, while noting design differences and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["automated market maker", "liquidity provider", "pool reserves"]

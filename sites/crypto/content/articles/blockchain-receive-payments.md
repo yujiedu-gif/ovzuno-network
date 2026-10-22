@@ -3,8 +3,6 @@ title: "Blockchain Receive Payments: How the Receipt Process Works"
 description: "Learn how blockchain receive payments work, from sharing a compatible destination to checking transaction status and deciding when to record receipt."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain receive payment"]

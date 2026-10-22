@@ -3,8 +3,6 @@ title: "How to Set Up Crypto Mining: A Proof-of-Work Readiness Guide"
 description: "Learn how to set up crypto mining with a proof-of-work checklist covering protocol choice, hardware, power, network configuration, monitoring, and local compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["crypto mining setup"]

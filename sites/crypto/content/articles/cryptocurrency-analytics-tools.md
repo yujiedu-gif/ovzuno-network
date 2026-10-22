@@ -3,8 +3,6 @@ title: "Cryptocurrency analytics tools: how they support smart-contract and dApp
 description: "Learn how cryptocurrency analytics tools collect and interpret blockchain data, which smart-contract and dApp metrics they can show, and where their limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

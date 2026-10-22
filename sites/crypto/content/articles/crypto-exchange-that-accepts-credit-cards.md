@@ -3,8 +3,6 @@ title: "How a crypto exchange that accepts credit cards processes purchases"
 description: "Learn how a crypto exchange that accepts credit cards may process a purchase, what to verify about eligibility and costs, and where card payments can fail."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto exchange that accepts credit card"]

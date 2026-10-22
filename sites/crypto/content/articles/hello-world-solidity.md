@@ -3,8 +3,6 @@ title: "Hello World Solidity: A Minimal Contract, Explained"
 description: "Learn what a minimal hello world solidity contract contains, how its code is compiled, and how to test basic contract behavior in a controlled environment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity example contract", "Solidity compiler", "smart contract deployment"]

@@ -3,8 +3,6 @@ title: "US Crypto Exchange Infrastructure: Functions and Verification"
 description: "Explore how a us crypto exchange connects trading, custody, settlement, and market access, and what jurisdiction-specific details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

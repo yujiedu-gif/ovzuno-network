@@ -3,8 +3,6 @@ title: "mSOL crypto: How the Liquid Staking Token Relates to SOL"
 description: "Learn what mSOL crypto represents in relation to SOL and Marinade staking, how protocol and validator roles differ, and which mechanics and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["Marinade staked SOL", "mSOL liquid staking token", "Solana staking"]

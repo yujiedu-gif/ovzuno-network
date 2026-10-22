@@ -3,8 +3,6 @@ title: "Earn nano crypto: ways to receive Nano and what to check"
 description: "Learn what it can mean to earn nano crypto through work or sales, how receiving Nano works at a high level, and which payment, records, and local rules to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["Nano (XNO)", "earning cryptocurrency", "Nano payments"]

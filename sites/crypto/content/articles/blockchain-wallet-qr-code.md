@@ -3,8 +3,6 @@ title: "Blockchain Wallet QR Code: Design and Safety Guide"
 description: "Learn how to design a blockchain wallet QR code flow, choose what data to encode, and add checks that help users verify addresses and payment details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: []

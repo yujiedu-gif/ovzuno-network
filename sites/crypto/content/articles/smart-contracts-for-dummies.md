@@ -3,8 +3,6 @@ title: "Smart contracts for dummies: How blockchain programs work"
 description: "Smart contracts for dummies: Learn what these blockchain programs do, how they execute rules, where external data fits, and what their limits mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contracts dummies"]

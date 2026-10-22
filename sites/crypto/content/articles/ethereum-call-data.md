@@ -3,8 +3,6 @@ title: "Ethereum call data: what transaction input means"
 description: "Learn what ethereum call data is, where it appears in a transaction, how smart contracts use it, and why encoded input is not the same as stored state."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum calldata"]

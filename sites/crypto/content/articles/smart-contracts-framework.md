@@ -3,8 +3,6 @@ title: "Smart contracts framework: meaning, components, and role in development"
 description: "Learn what a smart contracts framework is, which development tasks it may support, and how it differs from a programming language or blockchain protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract frameworks"]

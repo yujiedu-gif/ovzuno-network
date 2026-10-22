@@ -3,8 +3,6 @@ title: "Tokenization cryptocurrency: how infrastructure supports real-world asse
 description: "Explore how tokenization cryptocurrency infrastructure supports real-world assets through issuance, transfer, and administration, and where off-chain systems matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

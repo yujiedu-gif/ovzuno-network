@@ -3,8 +3,6 @@ title: "Famous NFT Tokens: Examples, Categories, and What They Represent"
 description: "Explore famous nft tokens through selected examples, their categories, and stated functions, with clear distinctions between token ownership and associated rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

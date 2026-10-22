@@ -3,8 +3,6 @@ title: "Chainlist crypto: network discovery, regulation, and tax reporting"
 description: "Learn what Chainlist crypto does for EVM network discovery and wallet configuration, and why a network listing alone does not determine regulation or tax reporting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["Chainlist", "EVM networks", "RPC endpoints", "network configuration"]

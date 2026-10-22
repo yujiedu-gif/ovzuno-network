@@ -3,8 +3,6 @@ title: "Decentralized computing platform crypto: architecture and evaluation"
 description: "Understand how a decentralized computing platform crypto model coordinates execution and verification, and what technical trade-offs teams should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: []

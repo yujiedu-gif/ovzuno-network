@@ -3,8 +3,6 @@ title: "DIMO Blockchain: How It Fits Into a Connected-Vehicle Data Network"
 description: "Learn what the dimo blockchain refers to, how it relates to connected-vehicle data and network participants, and which architecture details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

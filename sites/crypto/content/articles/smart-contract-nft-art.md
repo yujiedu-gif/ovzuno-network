@@ -3,8 +3,6 @@ title: "Smart Contract NFT Art: How Tokens Connect to Digital Artwork"
 description: "Learn how smart contract nft art connects token records, metadata, and digital files, and what on-chain versus off-chain storage means for readers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["generative NFT art", "on-chain metadata", "NFT smart contract"]

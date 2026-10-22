@@ -3,8 +3,6 @@ title: "a16z crypto stablecoins: Settlement Claims and Context"
 description: "Explore a16z crypto stablecoins commentary on settlement, the claims it makes, what evidence readers should check, and where implementation questions remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["a16z crypto stablecoin"]

@@ -3,8 +3,6 @@ title: "Contract Factory Solidity: How the Factory Pattern Works"
 description: "Learn how a contract factory solidity pattern creates and tracks contracts, what deployment choices matter, and which security questions developers should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity contract factory", "factory pattern smart contracts", "contract deployment factory"]

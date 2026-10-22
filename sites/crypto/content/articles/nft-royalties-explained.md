@@ -3,8 +3,6 @@ title: "NFT royalties explained: meaning, mechanisms, and limitations"
 description: "NFT royalties explained: learn what royalty terms represent, how NFT systems may handle resale payments, and why actual payment depends on implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft royalties"]

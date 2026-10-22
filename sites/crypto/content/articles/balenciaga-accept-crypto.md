@@ -3,8 +3,6 @@ title: "Balenciaga Accept Crypto: Verify Current Payment Options"
 description: "Learn how to verify whether Balenciaga accept crypto for a specific purchase channel and location using current official information before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

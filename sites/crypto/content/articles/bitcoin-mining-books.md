@@ -3,8 +3,6 @@ title: "Bitcoin mining books: what they cover and how to assess them"
 description: "Learn what bitcoin mining books may cover, how to assess their technical depth and evidence, and why protocol details and operating conditions can change."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

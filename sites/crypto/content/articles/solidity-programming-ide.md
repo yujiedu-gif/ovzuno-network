@@ -3,8 +3,6 @@ title: "Solidity programming ide: roles in smart contract development"
 description: "Learn what a solidity programming ide can do for Solidity authoring, compilation, testing, and debugging, and which workflow factors to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity IDE", "smart contract development environment", "Solidity compiler", "smart contract debugging"]

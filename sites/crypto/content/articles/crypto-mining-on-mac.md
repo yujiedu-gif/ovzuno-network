@@ -3,8 +3,6 @@ title: "Crypto Mining on Mac: Hardware, Compatibility, and Limits"
 description: "Learn how crypto mining on Mac depends on hardware, software compatibility, and operating limits, and how to assess whether a device suits a proof-of-work task."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

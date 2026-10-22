@@ -3,8 +3,6 @@ title: "Cryptocurrency Institutional Treasury: Core Operating Decisions"
 description: "Learn what cryptocurrency institutional treasury operations cover, from governance and custody roles to accounting, controls, and jurisdiction-specific review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

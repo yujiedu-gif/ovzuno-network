@@ -3,8 +3,6 @@ title: "CAKE Crypto Staking: How the Mechanism Works and What to Check"
 description: "Learn how CAKE crypto staking differs from validator staking, what staking mechanisms may involve, and which current terms, risks, and claims to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["CAKE staking", "PancakeSwap CAKE staking", "staking pool"]

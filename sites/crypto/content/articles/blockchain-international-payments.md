@@ -3,8 +3,6 @@ title: "How Blockchain International Payments Work: Flow, Roles, and Limits"
 description: "Learn how blockchain international payments may move value across borders, which services surround the transaction, and what limits and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain international payment"]

@@ -3,8 +3,6 @@ title: "Blockchain Web Wallets: Access, Custody, and Architecture"
 description: "Learn how a blockchain web wallet connects a browser to blockchain networks, what custody models mean, and which security and compliance questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

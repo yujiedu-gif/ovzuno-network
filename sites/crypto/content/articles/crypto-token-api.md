@@ -3,8 +3,6 @@ title: "Crypto token api: assess capabilities and plan an integration"
 description: "Learn how to assess a crypto token api for payments infrastructure, define integration requirements, validate data and errors, and plan operational safeguards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

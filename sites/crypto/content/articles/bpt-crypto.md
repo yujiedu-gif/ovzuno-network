@@ -3,8 +3,6 @@ title: "BPT Crypto: How to Identify What the Acronym Means"
 description: "Learn how to identify what BPT crypto refers to by checking the protocol, documentation, and context, without assuming the acronym has one universal meaning."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

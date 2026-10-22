@@ -3,8 +3,6 @@ title: "Crypto currency simple explanation: how digital assets work"
 description: "A crypto currency simple explanation of digital assets, networks, transaction records, and key limitations, without investment or jurisdiction-specific advice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Federal Regulations Cryptocurrency: A U.S. Overview by Activity"
 description: "Understand federal regulations cryptocurrency in the U.S., how oversight may depend on activity, and which primary authorities to check for current rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["cryptocurrency federal regulation"]

@@ -3,8 +3,6 @@ title: "Hyperunit crypto: What the name refers to in institutional treasury"
 description: "Learn what Hyperunit crypto refers to, what evidence can establish about its role in institutional treasury infrastructure, and which details remain unverified."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

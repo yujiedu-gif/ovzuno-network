@@ -3,8 +3,6 @@ title: "How to Evaluate New Crypto Coins With Potential"
 description: "Learn how to assess new crypto coins with potential through project purpose, technical evidence, governance, token design, and risk signals—not price predictions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto project evaluation", "tokenomics", "blockchain development"]

@@ -3,8 +3,6 @@ title: "Crypto dot com card: how crypto-linked card spending works"
 description: "Learn what the crypto dot com card is, how crypto-linked payments may be funded, and which eligibility, fees, rewards, and rules require local verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

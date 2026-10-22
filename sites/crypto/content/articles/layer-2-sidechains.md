@@ -3,8 +3,6 @@ title: "Layer 2 Sidechains: Comparing Execution, Settlement, and Security"
 description: "Compare layer 2 sidechains by execution, settlement, and security assumptions, then identify the documentation and project-specific risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Layer 2 networks", "sidechain architecture", "blockchain settlement", "bridge security"]

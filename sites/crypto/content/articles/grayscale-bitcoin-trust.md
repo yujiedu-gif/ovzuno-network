@@ -3,8 +3,6 @@ title: "Grayscale Bitcoin Trust: Structure, Shares, and Bitcoin"
 description: "Learn what Grayscale Bitcoin Trust is, how its trust structure relates to Bitcoin, and how owning trust shares differs from holding Bitcoin directly."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

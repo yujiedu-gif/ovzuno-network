@@ -3,8 +3,6 @@ title: "Dapp programming: how decentralized application components work together
 description: "Learn how dapp programming connects user interfaces, wallets, smart contracts, and off-chain services, including key architecture and security considerations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

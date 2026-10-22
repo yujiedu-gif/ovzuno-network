@@ -3,8 +3,6 @@ title: "Amex crypto card: what the label means and how to verify it"
 description: "Learn what an amex crypto card label may mean, how to verify the issuer, network, and crypto funding claims, and why terms vary by market."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card payment networks", "crypto-backed card", "card issuer"]

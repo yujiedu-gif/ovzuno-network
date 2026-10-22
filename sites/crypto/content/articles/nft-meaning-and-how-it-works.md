@@ -3,8 +3,6 @@ title: "NFT Meaning and How It Works: Tokens, Records, and Digital Content"
 description: "Learn the nft meaning and how it works: what a blockchain token records, how it can point to digital content, and what holding one does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft it works"]

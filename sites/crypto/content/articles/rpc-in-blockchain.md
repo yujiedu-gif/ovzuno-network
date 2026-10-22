@@ -3,8 +3,6 @@ title: "RPC in blockchain: meaning, role, and limits"
 description: "Learn what RPC in blockchain means, how applications request node data or submit transactions, and why an RPC response is not proof of consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["rpc blockchain"]

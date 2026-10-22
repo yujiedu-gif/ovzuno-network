@@ -3,8 +3,6 @@ title: "New crypto tokens: purpose, issuance, and protocol design"
 description: "Learn how new crypto tokens are designed, issued, and distributed, and what to check when assessing their stated role in a protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token launch", "tokenomics", "token distribution"]

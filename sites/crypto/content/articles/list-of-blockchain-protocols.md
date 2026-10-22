@@ -3,8 +3,6 @@ title: "List of blockchain protocols: roles, designs, and examples"
 description: "Explore a list of blockchain protocols grouped by role and design, with a neutral framework for distinguishing networks without ranking them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain protocols list", "list blockchain protocols"]

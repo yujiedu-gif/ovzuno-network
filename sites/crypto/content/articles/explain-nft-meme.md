@@ -3,8 +3,6 @@ title: "Explain NFT Meme: What the Term Means"
 description: "Explain NFT meme: understand what the phrase means, what an NFT records, and how the token differs from the meme image or content it references."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

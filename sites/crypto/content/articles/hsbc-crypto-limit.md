@@ -3,8 +3,6 @@ title: "HSBC crypto limit: what the phrase may mean and how to verify restrictio
 description: "Learn what “HSBC crypto limit” may refer to, distinguish card and transfer limits from crypto-payment restrictions, and verify current terms with the relevant HSBC"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

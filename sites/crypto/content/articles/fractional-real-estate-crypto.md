@@ -3,8 +3,6 @@ title: "Fractional real estate crypto: how tokenized interests work"
 description: "Learn how fractional real estate crypto can represent interests on-chain, and why legal rights, property structures, and ongoing administration still matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

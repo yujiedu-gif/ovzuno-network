@@ -3,8 +3,6 @@ title: "Blockchain data: what it includes and how to understand it"
 description: "Learn what blockchain data includes, from transactions and events to state, and how recorded onchain information differs from decoded or interpreted data."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["onchain_data_analytics"]
 tags: []

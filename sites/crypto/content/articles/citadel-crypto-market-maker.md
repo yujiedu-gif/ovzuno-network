@@ -3,8 +3,6 @@ title: "Citadel crypto market maker: what the phrase refers to"
 description: "Learn what “citadel crypto market maker” may refer to, how to assess claims about a Citadel connection, and what evidence is needed to distinguish fact from conject"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

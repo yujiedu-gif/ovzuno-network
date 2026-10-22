@@ -3,8 +3,6 @@ title: "NFT Meaning Banking: What the Term Means for Financial Institutions"
 description: "Learn the nft meaning banking context: what NFT banking can refer to, how NFTs differ from bank accounts and deposits, and where uses require evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft banking"]

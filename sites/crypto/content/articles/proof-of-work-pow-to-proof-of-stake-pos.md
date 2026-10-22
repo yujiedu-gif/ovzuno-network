@@ -3,8 +3,6 @@ title: "Proof of work pow to proof of stake pos: How a Network Transition Works"
 description: "Understand proof of work pow to proof of stake pos: how a blockchain changes consensus, what happens to miners and validators, and which transition risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof work pow proof stake pos"]

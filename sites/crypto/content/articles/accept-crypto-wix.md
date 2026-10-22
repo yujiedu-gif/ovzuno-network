@@ -3,8 +3,6 @@ title: "How to accept crypto wix: a Wix setup and verification guide"
 description: "Learn how to accept crypto wix by checking platform and provider compatibility, reviewing operational requirements, and verifying checkout behavior before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

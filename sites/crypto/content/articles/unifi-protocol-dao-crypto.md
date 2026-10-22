@@ -3,8 +3,6 @@ title: "unifi protocol dao crypto: What the Protocol and DAO Refer To"
 description: "Learn what unifi protocol dao crypto refers to, how the protocol and DAO are described, and what readers should verify before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

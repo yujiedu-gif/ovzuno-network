@@ -3,8 +3,6 @@ title: "erc20 assets: What the Ethereum token standard defines"
 description: "Learn what erc20 assets are, which common contract functions and events the standard defines, and what ERC-20 compatibility does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 standard", "fungible tokens", "token contract"]

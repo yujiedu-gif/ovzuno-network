@@ -3,8 +3,6 @@ title: "Decentralized DAO: How Governance Connects to DeFi Protocols"
 description: "Learn what a decentralized dao means in DeFi, how proposals and votes may lead to protocol changes, and why governance participation does not guarantee control."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

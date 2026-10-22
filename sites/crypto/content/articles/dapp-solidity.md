@@ -3,8 +3,6 @@ title: "dapp solidity: How Smart Contracts Fit into Decentralized Applications"
 description: "Learn how dapp solidity fits into decentralized application architecture, including smart contracts, user interfaces, blockchain interactions, and supporting off}-?"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity dApp smart contracts", "decentralized application architecture", "on-chain and off-chain components"]

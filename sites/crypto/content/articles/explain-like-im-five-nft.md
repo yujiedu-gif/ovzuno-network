@@ -3,8 +3,6 @@ title: "Explain Like Im Five NFT: What the Token Represents"
 description: "Explain like im five nft: learn what a unique blockchain token represents, how it can link to digital content, and what ownership does not automatically include."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

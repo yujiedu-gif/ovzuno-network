@@ -3,8 +3,6 @@ title: "Crypto Coin Staking: Validator Roles and Participation Paths"
 description: "Learn how crypto coin staking supports validator participation, how delegation differs from operating a validator, and why rules and risks vary by network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Mining Difficulty in Blockchain: How Proof-of-Work Targets Work"
 description: "Mining difficulty in blockchain explained: learn how proof-of-work targets, block timing, and difficulty adjustments shape network block production."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

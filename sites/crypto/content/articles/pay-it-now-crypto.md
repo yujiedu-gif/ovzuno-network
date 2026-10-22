@@ -3,8 +3,6 @@ title: "Pay it now crypto: what the phrase means and what to check"
 description: "Learn what “pay it now crypto” may mean, why the phrase alone does not identify a payment service, and what to verify before sending cryptocurrency."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT collector cards: how digital trading cards work"
 description: "Learn how nft collector cards connect digital card content to blockchain tokens, what ownership records establish, and what collectors should verify before acquiring"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["nft collector card"]

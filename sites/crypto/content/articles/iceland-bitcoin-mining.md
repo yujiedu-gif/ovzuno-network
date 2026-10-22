@@ -3,8 +3,6 @@ title: "Iceland Bitcoin Mining: How It Works and What Local Conditions Matter"
 description: "Learn what iceland bitcoin mining involves, how Bitcoin proof of work fits in, and which local infrastructure, energy, climate, and operating claims need checking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["bitcoin mining iceland"]

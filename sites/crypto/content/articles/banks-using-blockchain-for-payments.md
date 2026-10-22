@@ -3,8 +3,6 @@ title: "Banks Using Blockchain for Payments: Models, Workflows, and Trade-Offs"
 description: "Learn how banks using blockchain for payments may structure transfers, settlement, and coordination, plus the operational dependencies and limitations to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["banks using blockchain payment"]

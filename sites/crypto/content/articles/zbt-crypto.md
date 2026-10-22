@@ -3,8 +3,6 @@ title: "zbt crypto: Meaning and Identification"
 description: "Learn how to identify what zbt crypto refers to by checking verifiable project and token identifiers, while accounting for ambiguity and avoiding unsupported claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

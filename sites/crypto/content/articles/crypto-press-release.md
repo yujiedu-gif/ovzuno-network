@@ -3,8 +3,6 @@ title: "Crypto press release: meaning, typical contents, and how to assess claim
 description: "Learn what a crypto press release communicates, what details it typically includes, and how to check attributed facts, payment claims, and promotional language."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

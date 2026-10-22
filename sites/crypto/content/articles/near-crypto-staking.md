@@ -3,8 +3,6 @@ title: "Near crypto staking: NEAR validators, delegation, and risks"
 description: "Learn how near crypto staking works on NEAR Protocol, including validator roles, delegation, reward mechanics, and risks to verify before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["NEAR Protocol staking", "NEAR validators", "NEAR delegation"]

@@ -3,8 +3,6 @@ title: "Celsius Crypto Exchange: What the Label Means and What It Misses"
 description: "Learn why “celsius crypto exchange” can be a misleading label, how Celsius differed from exchange infrastructure, and what evidence is needed for status claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

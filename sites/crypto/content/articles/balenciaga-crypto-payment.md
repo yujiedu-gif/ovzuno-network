@@ -3,8 +3,6 @@ title: "Balenciaga crypto payment: what shoppers should verify"
 description: "A neutral guide to checking Balenciaga crypto payment availability by store and checkout, verifying current terms, and distinguishing confirmed details from unknowns"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

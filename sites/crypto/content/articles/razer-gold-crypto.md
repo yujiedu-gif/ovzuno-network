@@ -3,8 +3,6 @@ title: "Razer Gold Crypto: How the Gaming Payment Product Relates to Digital Ass
 description: "Razer Gold crypto explained: learn how Razer Gold differs from cryptocurrency and how external payment routes may connect digital assets to gaming spending."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

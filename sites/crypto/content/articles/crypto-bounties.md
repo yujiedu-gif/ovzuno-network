@@ -3,8 +3,6 @@ title: "Crypto Bounties: How Programs, Tasks, and Rewards Work"
 description: "Learn how crypto bounties define tasks, eligibility, and rewards, how security programs differ from promotional campaigns, and what terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto bug bounty", "blockchain bug bounty programs", "crypto bounty rewards"]

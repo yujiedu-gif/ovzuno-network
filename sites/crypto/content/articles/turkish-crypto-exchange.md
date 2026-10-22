@@ -3,8 +3,6 @@ title: "Turkish crypto exchange infrastructure: operating layers and checks"
 description: "Understand the infrastructure layers of a turkish crypto exchange, from custody and order handling to fiat connectivity, and identify Turkey-specific claims to check"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

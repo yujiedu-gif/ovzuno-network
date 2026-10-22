@@ -3,8 +3,6 @@ title: "VOX Cryptocurrency Explained: How to Identify the Asset"
 description: "VOX cryptocurrency explained: learn how to identify the asset or project, verify its claimed function, and separate documented details from ambiguity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["vox cryptocurrency"]

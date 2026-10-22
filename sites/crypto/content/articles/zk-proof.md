@@ -3,8 +3,6 @@ title: "zk proof: Meaning, Core Properties, and Limits"
 description: "Learn what a zk proof is, how prover and verifier roles work, and what completeness, soundness, and zero-knowledge do—and do not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

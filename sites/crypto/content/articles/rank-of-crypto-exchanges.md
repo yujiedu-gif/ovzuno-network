@@ -3,8 +3,6 @@ title: "Rank of crypto exchanges: meaning and ranking criteria"
 description: "Learn what the rank of crypto exchanges means, which criteria may shape a ranking, and how to assess its evidence, scope, and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["crypto exchange ranking", "rank crypto exchanges"]

@@ -3,8 +3,6 @@ title: "How to Pay Rent with Crypto: Agreements, Payment Steps, and Risks"
 description: "Learn how to pay rent with crypto, what renters and landlords should agree on, how to verify payment, and which legal, tax, and security issues need checking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency rent payment", "landlord crypto payments", "rent payment options"]

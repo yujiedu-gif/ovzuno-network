@@ -3,8 +3,6 @@ title: "Blockchain AI / ML: How the Technologies Can Work Together"
 description: "Explore blockchain AI / ML concepts, common integration patterns, and practical trade-offs, including what blockchain can and cannot contribute to AI systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["ai ml blockchain", "blockchain ai ml"]

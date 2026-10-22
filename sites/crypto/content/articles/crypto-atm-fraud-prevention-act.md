@@ -3,8 +3,6 @@ title: "Crypto atm fraud prevention act: proposed measures and operational impli
 description: "Review the crypto atm fraud prevention act through its verified legislative status and text, separating proposed fraud controls from current U.S. requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["security_compliance_operations"]
 tags: []

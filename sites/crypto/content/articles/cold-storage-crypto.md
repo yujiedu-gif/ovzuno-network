@@ -3,8 +3,6 @@ title: "Cold Storage Crypto: How Offline Keys Relate to Blockchain Consensus"
 description: "Learn what cold storage crypto means, how offline key custody differs from mining and consensus, and which security risks it can and cannot reduce."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto cold storage"]

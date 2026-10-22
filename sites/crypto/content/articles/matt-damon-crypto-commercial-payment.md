@@ -3,8 +3,6 @@ title: "Matt Damon Crypto Commercial Payment: What the Ad Shows"
 description: "Understand what the Matt Damon crypto commercial payment message refers to, what reliable evidence can verify, and what an advertisement cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

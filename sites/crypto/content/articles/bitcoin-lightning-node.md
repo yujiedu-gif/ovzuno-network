@@ -3,8 +3,6 @@ title: "Bitcoin Lightning Node: Meaning and Role in the Network"
 description: "Learn what a bitcoin lightning node is, how it supports Lightning payment routing and channels, and how its role differs from an on-chain Bitcoin node."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Satoshi Bitcoin: What a Satoshi Means and How It Relates to BTC"
 description: "Learn what a satoshi bitcoin unit represents, how satoshis convert to BTC, and why Bitcoin software may show balances in satoshis or bitcoin."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoin satoshi"]

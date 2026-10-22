@@ -3,8 +3,6 @@ title: "Ganache smart contract development: local deployment and testing"
 description: "Learn how Ganache smart contract workflows use a local blockchain for deployment and testing, and what those results do not establish about production."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

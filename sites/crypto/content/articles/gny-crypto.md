@@ -3,8 +3,6 @@ title: "GNY crypto: what the project and token are"
 description: "Learn what GNY crypto refers to, how its token relates to the GNY network, and what primary documentation says about its role and operation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

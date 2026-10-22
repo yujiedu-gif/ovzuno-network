@@ -3,8 +3,6 @@ title: "Cryptocurrency WooCommerce: Checkout Setup and Operations"
 description: "Learn how cryptocurrency WooCommerce checkout fits into order creation, payment confirmation, refunds, and reconciliation, plus the checks to make before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

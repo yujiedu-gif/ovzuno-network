@@ -3,8 +3,6 @@ title: "Swipe Card Crypto: Meaning and How Payments Work"
 description: "Learn what swipe card crypto means, how crypto-backed card payments may work at checkout, and why conversion, settlement, and product rules can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card spending", "crypto card payment flow"]

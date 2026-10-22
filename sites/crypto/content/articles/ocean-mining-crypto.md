@@ -3,8 +3,6 @@ title: "Ocean mining crypto: meaning, infrastructure, and feasibility"
 description: "Learn what ocean mining crypto could mean as a physical mining setup, how it differs from consensus, and which infrastructure and regulatory questions require proof."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["ocean-based crypto mining", "proof-of-work mining infrastructure"]

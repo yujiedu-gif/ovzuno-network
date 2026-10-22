@@ -3,8 +3,6 @@ title: "Solidity ERC721: How the NFT Standard Maps to Smart Contracts"
 description: "Explore how solidity erc721 contracts express NFT ownership, transfers, and standard interfaces in Solidity, plus implementation considerations for developers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 interface", "Solidity NFT contract", "ERC-721 implementation"]

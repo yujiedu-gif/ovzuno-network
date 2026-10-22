@@ -3,8 +3,6 @@ title: "Pay pal crypto: What the Phrase Means and How Payment Flows Differ"
 description: "Learn what pay pal crypto can refer to, how crypto-related services differ from direct merchant payments, and which product details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

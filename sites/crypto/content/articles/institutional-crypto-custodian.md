@@ -3,8 +3,6 @@ title: "Institutional crypto custodian: roles, controls, and boundaries"
 description: "Understand what an institutional crypto custodian may do, how custody differs from treasury and trading, and which controls and boundaries to clarify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

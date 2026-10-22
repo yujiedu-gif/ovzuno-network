@@ -3,8 +3,6 @@ title: "Blockchain easy: How a blockchain payment works"
 description: "Blockchain easy: Understand how a payment is initiated, checked by a network, recorded on a blockchain, and confirmed, plus what varies by network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

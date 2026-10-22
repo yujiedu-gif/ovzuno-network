@@ -3,8 +3,6 @@ title: "Crypto broker api integration: a technical evaluation and testing guide"
 description: "Learn how to evaluate a crypto broker api, map brokerage workflows, review API documentation, test integrations, and identify operational controls before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

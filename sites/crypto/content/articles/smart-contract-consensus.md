@@ -3,8 +3,6 @@ title: "Smart Contract Consensus: How Networks Agree on State Changes"
 description: "Learn how smart contract consensus relates to transaction validation, execution, and shared blockchain state—and why agreement does not prove code is correct."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["blockchain consensus", "smart contract execution", "transaction validation"]

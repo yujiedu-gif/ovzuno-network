@@ -3,8 +3,6 @@ title: "Crypto funding rate explained: mechanics and meaning"
 description: "Crypto funding rate explained: learn why perpetual futures use funding payments, who pays whom, how rates are applied, and what to verify in contract rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto funding rate"]

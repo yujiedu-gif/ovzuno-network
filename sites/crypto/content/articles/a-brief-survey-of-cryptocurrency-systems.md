@@ -3,8 +3,6 @@ title: "A Brief Survey of Cryptocurrency Systems: Design and Reporting Context"
 description: "A brief survey of cryptocurrency systems, covering network designs, ledgers, consensus, and transaction records that may inform regulatory and tax-reporting research"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["brief survey cryptocurrency systems"]

@@ -3,8 +3,6 @@ title: "Sonic token crypto: what the token does on its blockchain"
 description: "Learn what sonic token crypto refers to, how the token relates to the Sonic blockchain, and which functions and token-design details official sources support."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Sonic blockchain", "Sonic token utility", "Sonic tokenomics"]

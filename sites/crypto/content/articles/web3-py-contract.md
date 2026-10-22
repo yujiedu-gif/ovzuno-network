@@ -3,8 +3,6 @@ title: "Web3 py contract: Connect to and interact with a deployed smart contract
 description: "Learn how a web3 py contract uses a network connection, contract address, and ABI to read data or prepare a transaction in Python."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

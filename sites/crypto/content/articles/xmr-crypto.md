@@ -3,8 +3,6 @@ title: "xmr crypto: Monero Privacy, Security, and Operational Considerations"
 description: "Learn what xmr crypto means in practice: how Monero’s privacy design works, what it can and cannot reveal, and which security and compliance questions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

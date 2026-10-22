@@ -3,8 +3,6 @@ title: "USDT Blockchain Explorer: What It Shows and How to Read a Record"
 description: "Learn what a usdt blockchain explorer can show about a token transfer or balance, why the network matters, and what public records cannot verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: []

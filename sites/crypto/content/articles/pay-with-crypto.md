@@ -3,8 +3,6 @@ title: "Pay with crypto: How a cryptocurrency payment works"
 description: "Learn how to pay with crypto, from selecting a payment method and checking transaction details to confirmation, fees, and practical risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cryptopayment"]

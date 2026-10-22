@@ -3,8 +3,6 @@ title: "STEP crypto token: identity, network, and stated use"
 description: "Learn how to identify a STEP crypto token, verify its network and official asset details, and distinguish similarly named tokens without relying on price claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

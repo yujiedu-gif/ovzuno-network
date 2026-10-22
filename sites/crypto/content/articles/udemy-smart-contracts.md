@@ -3,8 +3,6 @@ title: "udemy smart contracts: What to Expect and How to Evaluate Courses"
 description: "Explore what udemy smart contracts courses may cover, common prerequisites, hands-on learning formats, and checks for evaluating course listings and fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

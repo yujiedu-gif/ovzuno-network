@@ -3,8 +3,6 @@ title: "Ren crypto: protocol purpose, token role, and status"
 description: "Learn what Ren crypto refers to, how the Ren protocol was designed to move assets across blockchains, and what to verify about its current status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

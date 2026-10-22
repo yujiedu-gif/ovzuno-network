@@ -3,8 +3,6 @@ title: "ERC721 minting: How an NFT token is created"
 description: "Learn what ERC721 minting does, how a contract assigns token ownership and links metadata, and which implementation details builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

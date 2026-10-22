@@ -3,8 +3,6 @@ title: "Auto staking crypto coins: how automatic staking works"
 description: "Learn what auto staking crypto coins can mean, how delegation and reward handling vary, and which network, custody, fee, and security details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["automatic crypto staking", "staking rewards distribution", "validator staking mechanics"]

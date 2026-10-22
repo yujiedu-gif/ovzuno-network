@@ -3,8 +3,6 @@ title: "War token crypto: how to identify and verify a token"
 description: "War token crypto can refer to different assets. Learn how to check a token’s chain, contract address, project documentation, and claimed function."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["wars token crypto"]

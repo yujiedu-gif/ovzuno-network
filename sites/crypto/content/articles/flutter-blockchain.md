@@ -3,8 +3,6 @@ title: "Flutter Blockchain: Meaning and App Integration Basics"
 description: "Understand what flutter blockchain means, how Flutter apps interact with blockchain networks, and which integration, security, and compliance questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["flutter with blockchain"]

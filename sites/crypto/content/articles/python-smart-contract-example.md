@@ -3,8 +3,6 @@ title: "Python Smart Contract Example: Patterns and What They Demonstrate"
 description: "Explore a python smart contract example through representative contract patterns, what each demonstrates, and the limits of illustrative code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract python example"]

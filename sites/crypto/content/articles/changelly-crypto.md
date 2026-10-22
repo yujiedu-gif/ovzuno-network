@@ -3,8 +3,6 @@ title: "Changelly crypto: role and infrastructure overview"
 description: "Explore Changelly crypto’s stated role in exchange infrastructure, the transaction-flow details to verify, and the limits of a general overview."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

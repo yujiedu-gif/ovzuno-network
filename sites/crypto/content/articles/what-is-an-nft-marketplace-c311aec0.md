@@ -3,8 +3,6 @@ title: "What Is an NFT Marketplace? Functions, Listings, and Ownership"
 description: "Learn what is an nft marketplace, how platforms can display NFT listings and facilitate transactions, and why a token transfer may not grant rights to linked content"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["what is nft marketplace", "nft marketplace"]

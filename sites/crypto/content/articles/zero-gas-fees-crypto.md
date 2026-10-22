@@ -3,8 +3,6 @@ title: "Zero Gas Fees Crypto: What the Claim Means and Who Pays"
 description: "Learn what zero gas fees crypto means, how transaction costs may be sponsored or subsidized, and what users and operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["zero gas fee crypto"]

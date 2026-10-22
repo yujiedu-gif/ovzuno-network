@@ -3,8 +3,6 @@ title: "Eco blockchain: What the term means and how to assess claims"
 description: "Learn what eco blockchain can mean, which environmental measures matter, and how to assess claims about network energy use and related impacts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["energy-efficient blockchain", "blockchain energy use", "proof of stake", "proof of work"]

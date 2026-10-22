@@ -3,8 +3,6 @@ title: "Digital property NFT: what the token represents"
 description: "Learn what a digital property NFT can represent, how token ownership differs from owning a file, and why associated rights depend on their terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

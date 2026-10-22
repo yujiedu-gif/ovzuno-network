@@ -3,8 +3,6 @@ title: "Genesis Crypto Mining: What the Term Means"
 description: "Learn what genesis crypto mining can mean, how a blockchain’s genesis block differs from later proof-of-work blocks, and why network details matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

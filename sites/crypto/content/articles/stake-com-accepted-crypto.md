@@ -3,8 +3,6 @@ title: "stake com accepted crypto: verify deposit assets and networks"
 description: "Learn how to verify stake com accepted crypto and its deposit network using current official instructions; deposit support alone does not establish staking support."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

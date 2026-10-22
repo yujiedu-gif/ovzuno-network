@@ -3,8 +3,6 @@ title: "Crypto Market Exchange Infrastructure: Core Functions and Connections"
 description: "Explore how a crypto market exchange connects participants, trading systems, custody, settlement, and oversight, and what details require jurisdiction-specific proof"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

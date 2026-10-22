@@ -3,8 +3,6 @@ title: "Newton Crypto Staking: What the Phrase Refers To and What to Verify"
 description: "Learn what newton crypto staking may refer to, how to verify whether a specific offering exists, and which network, jurisdiction, and risk details matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

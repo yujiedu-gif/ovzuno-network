@@ -3,8 +3,6 @@ title: "Infinity Token Crypto: How to Identify the Asset"
 description: "Learn how to identify what infinity token crypto refers to, distinguish similarly named assets, and check project claims against primary documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

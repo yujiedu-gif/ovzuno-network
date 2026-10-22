@@ -3,8 +3,6 @@ title: "coingate crypto: Role in Payment Workflows and What to Verify"
 description: "Explore coingate crypto in business payment workflows, distinguish provider functions from blockchain processes, and learn what details to verify before adoption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin PoS: What the Term Means and How Bitcoin Reaches Consensus"
 description: "Learn what bitcoin pos means, whether Bitcoin uses proof of stake, and how its proof-of-work consensus differs at a basic conceptual level."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

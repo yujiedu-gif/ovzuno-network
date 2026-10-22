@@ -3,8 +3,6 @@ title: "Pinlink crypto: What it refers to and whether it supports payments"
 description: "Learn what pinlink crypto refers to, how to verify its stated function, and what evidence is needed before treating it as payment infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["pin link crypto"]

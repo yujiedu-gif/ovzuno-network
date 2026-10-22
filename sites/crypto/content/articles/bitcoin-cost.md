@@ -3,8 +3,6 @@ title: "Bitcoin cost: a framework for comparing transaction and service charges"
 description: "Understand bitcoin cost by separating network fees, provider charges, and other scenario-dependent expenses when evaluating a Bitcoin transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins cost"]

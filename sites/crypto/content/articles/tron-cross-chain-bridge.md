@@ -3,8 +3,6 @@ title: "TRON cross chain bridge: how transfers work and what to verify"
 description: "Learn how a tron cross chain bridge can route assets between TRON and another blockchain, how representations are handled, and what risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

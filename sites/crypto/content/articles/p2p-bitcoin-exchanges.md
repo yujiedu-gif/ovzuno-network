@@ -3,8 +3,6 @@ title: "P2P Bitcoin Exchanges: How Peer-to-Peer Trades Work"
 description: "Learn how p2p bitcoin exchanges match buyers and sellers, coordinate payment and Bitcoin settlement, and handle escrow, disputes, and transaction risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["p2p bitcoin exchange"]

@@ -3,8 +3,6 @@ title: "DeFi Crypto: What Decentralized Finance Protocols Are"
 description: "Learn what defi crypto means, how decentralized finance protocols coordinate on-chain activity, and where their design differs from conventional financial services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cryptocurrency Merchant: Roles and Payment Operations Explained"
 description: "Learn what a cryptocurrency merchant does, how a crypto payment moves from customer to settlement, and which operational and compliance questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency"]

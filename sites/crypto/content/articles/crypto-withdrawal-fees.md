@@ -3,8 +3,6 @@ title: "Crypto Withdrawal Fees: Platform Charges and Network Costs"
 description: "Learn what crypto withdrawal fees may include, how platform charges differ from blockchain network costs, and why the amount can vary by asset and service."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto withdrawal fee"]

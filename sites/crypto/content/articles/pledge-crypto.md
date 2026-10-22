@@ -3,8 +3,6 @@ title: "Pledge crypto: meaning, legal considerations, and tax reporting question
 description: "Learn what it means to pledge crypto, how transaction structure can affect legal and tax treatment, and which questions depend on your jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto pledge"]

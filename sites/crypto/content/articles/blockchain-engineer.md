@@ -3,8 +3,6 @@ title: "Blockchain engineer: role in payment system design"
 description: "Learn what a blockchain engineer contributes to payment systems, from transaction flow and application integration to reliability, security, and operational trade"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

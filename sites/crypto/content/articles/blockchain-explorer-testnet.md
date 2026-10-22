@@ -3,8 +3,6 @@ title: "Blockchain explorer testnet: what it shows and how to read it"
 description: "Learn what a blockchain explorer testnet displays, how to inspect blocks and transactions, and why test-network records differ from mainnet activity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain testnet explorer"]

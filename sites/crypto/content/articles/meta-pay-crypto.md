@@ -3,8 +3,6 @@ title: "Meta Pay crypto: what the connection means and what to verify"
 description: "Understand what people mean by Meta Pay crypto, how to distinguish a payment service from crypto support, and which official details to verify before relying on a."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

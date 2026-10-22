@@ -3,8 +3,6 @@ title: "DeFi Token Exchange: How On-Chain Swaps Work"
 description: "Learn how a defi token exchange routes swaps through smart contracts and liquidity, what happens during a transaction, and which protocol-level risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

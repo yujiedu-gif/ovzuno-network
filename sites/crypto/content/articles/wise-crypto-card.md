@@ -3,8 +3,6 @@ title: "Wise crypto card: Can a Wise card spend cryptocurrency?"
 description: "Learn what “wise crypto card” may mean, whether a Wise card spends crypto directly, and which product terms and local rules to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

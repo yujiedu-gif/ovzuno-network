@@ -3,8 +3,6 @@ title: "NFT crypto token: identity, ownership records, and metadata"
 description: "Learn what an NFT crypto token represents, how its blockchain record differs from interchangeable tokens, and where metadata and associated rights fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["non-fungible token", "NFT metadata", "token standards"]

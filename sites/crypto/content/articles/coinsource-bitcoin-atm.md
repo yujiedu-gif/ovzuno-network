@@ -3,8 +3,6 @@ title: "Coinsource Bitcoin ATM: What the Term Means"
 description: "Understand what a Coinsource Bitcoin ATM refers to, how the service relates to Bitcoin, and which operating details require current, location-specific verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

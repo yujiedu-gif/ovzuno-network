@@ -3,8 +3,6 @@ title: "Proof of stake diagram: How validators help add blocks"
 description: "Use this proof of stake diagram to follow how validators are selected, propose blocks, attest to transactions, and help a network reach agreement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake diagram"]

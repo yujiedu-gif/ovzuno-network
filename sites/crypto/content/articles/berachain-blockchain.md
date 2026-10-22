@@ -3,8 +3,6 @@ title: "Berachain Blockchain: Architecture and Proof of Liquidity"
 description: "Learn what the Berachain blockchain is, how its architecture and proof-of-liquidity design are described, and what those features do not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["Berachain proof of liquidity", "Berachain consensus mechanism", "BeraChain EVM compatibility"]

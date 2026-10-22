@@ -3,8 +3,6 @@ title: "Online Shops Accepting Cryptocurrency: How Checkout Works"
 description: "Learn how online shops accepting cryptocurrency typically present checkout, what payment details to verify, and which transaction risks to consider before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

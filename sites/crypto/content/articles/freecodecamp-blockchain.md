@@ -3,8 +3,6 @@ title: "FreeCodeCamp Blockchain: What Learners Can Expect"
 description: "Explore what FreeCodeCamp blockchain learning material may cover, how to verify its current scope and prerequisites, and where to look for further study."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

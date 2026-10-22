@@ -3,8 +3,6 @@ title: "Blockchain sports memorabilia: records, tokens, and limits"
 description: "Learn how blockchain sports memorabilia records may represent collectibles, what a token or ledger entry can document, and why physical authenticity still needs care"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

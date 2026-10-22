@@ -3,8 +3,6 @@ title: "Casper network crypto: how smart contracts support dApps"
 description: "Explore how casper network crypto relates to smart contracts and dApps, the role of network architecture, and what builders should verify in current documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Casper Network smart contracts", "Casper Network dApps", "Casper blockchain architecture"]

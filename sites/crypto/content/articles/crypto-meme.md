@@ -3,8 +3,6 @@ title: "Crypto meme: meaning, community use, and token distinction"
 description: "Learn what a crypto meme is, how memes circulate in crypto communities, and why a meme is not the same thing as a token or project."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["crypto memes"]

@@ -3,8 +3,6 @@ title: "How defi and smart contracts power decentralized finance applications"
 description: "Learn how defi and smart contracts enable decentralized finance applications, where contract logic ends, and which technical dependencies and risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["defi smart contracts"]

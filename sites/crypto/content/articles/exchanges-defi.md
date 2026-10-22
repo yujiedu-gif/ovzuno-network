@@ -3,8 +3,6 @@ title: "Exchanges DeFi: How On-Chain Trading Protocols Work"
 description: "Learn what exchanges DeFi means, how decentralized exchange protocols handle liquidity and trade execution, and which components operate on-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["decentralized exchange", "DeFi exchange architecture", "on-chain trading"]

@@ -3,8 +3,6 @@ title: "Tronscan smart contract: what a contract record can show"
 description: "Learn what a tronscan smart contract record may show, how to check its context, and why explorer data alone cannot establish safety or legitimacy."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

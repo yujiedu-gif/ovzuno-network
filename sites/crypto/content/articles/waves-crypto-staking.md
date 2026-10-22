@@ -3,8 +3,6 @@ title: "Waves Crypto Staking: How Leasing and Block Generation Work"
 description: "Learn how waves crypto staking relates to WAVES leasing, node block generation, and reward distribution, with key mechanics and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

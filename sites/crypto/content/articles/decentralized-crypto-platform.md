@@ -3,8 +3,6 @@ title: "How to Evaluate a Decentralized Crypto Platform for a DeFi Use Case"
 description: "Assess a decentralized crypto platform for a DeFi use case with a neutral checklist covering protocol design, governance, dependencies, operations, and evidence gaps"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: []

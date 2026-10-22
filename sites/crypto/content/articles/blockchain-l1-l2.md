@@ -3,8 +3,6 @@ title: "Blockchain L1 L2: Roles, Differences, and Dependencies"
 description: "Learn what blockchain L1 L2 mean, how base and scaling layers differ, and which functions to examine when assessing their relationship and dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["blockchain 1 2"]

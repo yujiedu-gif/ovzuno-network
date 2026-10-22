@@ -3,8 +3,6 @@ title: "Publicly Traded Crypto Exchanges: What the Listing Means"
 description: "Learn what publicly traded crypto exchanges means, how a platform can differ from its listed parent company, and which disclosures help verify a listing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

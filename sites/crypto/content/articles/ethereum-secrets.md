@@ -3,8 +3,6 @@ title: "Ethereum secrets: what the phrase means on a public blockchain"
 description: "Understand what “ethereum secrets” can mean, which information Ethereum exposes publicly, and why sensitive application data generally needs careful off-chain design"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "xcurrent blockchain: What the Term Means"
 description: "Understand what xcurrent blockchain refers to, how xCurrent relates to blockchain networks and digital assets, and which product claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

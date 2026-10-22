@@ -3,8 +3,6 @@ title: "Metaverse NFT Token: What It Represents and How It May Be Used"
 description: "Learn what a metaverse NFT token may represent, how virtual-world platforms define its uses, and why ownership does not guarantee access or interoperability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["metaverse NFT", "virtual-world digital asset", "NFT interoperability"]

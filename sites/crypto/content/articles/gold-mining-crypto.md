@@ -3,8 +3,6 @@ title: "Gold mining crypto: how physical extraction differs from crypto mining"
 description: "Gold mining crypto can refer to two different processes. Learn how physical gold extraction differs from proof-of-work cryptocurrency mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

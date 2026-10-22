@@ -3,8 +3,6 @@ title: "Blockchain payment network: how payment flows work"
 description: "Learn how a blockchain payment network handles payment instructions, validation, and transaction records, plus the design trade-offs to assess for a use case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

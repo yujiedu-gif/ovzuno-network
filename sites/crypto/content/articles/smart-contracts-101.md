@@ -3,8 +3,6 @@ title: "Smart contracts 101: How blockchain programs work"
 description: "Smart contracts 101 explains how blockchain programs run, how transactions trigger them, what they can do, and the limitations beginners should know."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract", "blockchain transactions", "decentralized applications"]

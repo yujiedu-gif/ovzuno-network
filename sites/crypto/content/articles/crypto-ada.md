@@ -3,8 +3,6 @@ title: "Crypto ADA: What It Is and How Cardano Staking Works"
 description: "Learn what crypto ADA refers to, how the asset relates to Cardano, and how delegation and stake-pool operation fit into the network’s staking model."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["ada crypto"]

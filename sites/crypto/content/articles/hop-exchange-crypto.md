@@ -3,8 +3,6 @@ title: "Hop exchange crypto: identify the product and its infrastructure"
 description: "Learn how to identify what Hop exchange crypto refers to and assess verifiable details about its exchange role, infrastructure, and important unknowns."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "How to start crypto mining: a practical setup guide"
 description: "Learn how to start crypto mining with a proof-of-work setup checklist covering network choice, hardware, software, pool configuration, and operating risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["how to start mining crypto", "start crypto mining"]

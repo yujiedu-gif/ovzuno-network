@@ -3,8 +3,6 @@ title: "Crypto Transaction Map: Meaning, Components, and Limits"
 description: "Learn what a crypto transaction map represents, how it connects transaction data, and why a mapped relationship alone does not establish identity or intent."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

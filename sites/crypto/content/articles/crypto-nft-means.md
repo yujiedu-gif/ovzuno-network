@@ -3,8 +3,6 @@ title: "Crypto NFT Means: A Clear Definition of the Term"
 description: "Learn what crypto NFT means, how a non-fungible token is recorded on a blockchain, and why the token is distinct from the digital item it may represent."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

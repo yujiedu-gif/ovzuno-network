@@ -3,8 +3,6 @@ title: "Crypto Token Standards: Interfaces, Behavior, and Limits"
 description: "Learn how crypto token standards define shared interfaces and behaviors, support compatible applications, and leave implementation and network differences to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

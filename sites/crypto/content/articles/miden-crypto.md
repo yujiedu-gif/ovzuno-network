@@ -3,8 +3,6 @@ title: "Miden Crypto: What It Is and How Its Infrastructure Is Described"
 description: "Learn what miden crypto refers to, how its stated infrastructure approach is described, and which technical or project claims need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

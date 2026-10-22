@@ -3,8 +3,6 @@ title: "Self custody: operational controls for reducing key-management risk"
 description: "Assess self custody risks across key creation, access, backup, and transaction approval, and identify practical controls and limits for organizations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["wallets_custody"]
 tags: []

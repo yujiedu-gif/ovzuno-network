@@ -3,8 +3,6 @@ title: "Blockchain Modules: How They Support Payment-System Functions"
 description: "Learn how blockchain modules divide payment-system responsibilities, interact during transaction processing, and create design trade-offs for builders and operators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

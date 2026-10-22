@@ -3,8 +3,6 @@ title: "Crypto Validator Nodes: Roles, Duties, and Operating Requirements"
 description: "Learn what crypto validator nodes do, how their duties differ by proof-of-stake protocol, and which operating, security, and participation factors to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

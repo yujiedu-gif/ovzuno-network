@@ -3,8 +3,6 @@ title: "Blockchain Link: Meanings in Payment and Technology Contexts"
 description: "Learn what “blockchain link” can mean in payment and technology contexts, how to distinguish a system connection from a data URL or proper name."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

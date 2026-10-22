@@ -3,8 +3,6 @@ title: "Blockchain Payment App: How the Payment Flow Works"
 description: "Learn how a blockchain payment app connects a user’s payment instruction to wallet authorization, network processing, and recipient access, including key design and"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

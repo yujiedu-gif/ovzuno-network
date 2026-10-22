@@ -3,8 +3,6 @@ title: "Ethereum Web3: How Ethereum Relates to Web3 Applications"
 description: "Understand ethereum web3: how Ethereum relates to Web3 applications, what the terms mean, and why Web3 is broader than any single blockchain platform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["web3 ethereum"]

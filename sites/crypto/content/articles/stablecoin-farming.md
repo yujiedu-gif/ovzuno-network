@@ -3,8 +3,6 @@ title: "Stablecoin farming: meaning, mechanisms, and risks"
 description: "Learn what stablecoin farming refers to, how it differs from payment settlement, and which mechanism-level risks and claims readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

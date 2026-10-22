@@ -3,8 +3,6 @@ title: "Skrill crypto transfer: what to verify before moving crypto"
 description: "Learn what a Skrill crypto transfer may involve, how platform activity differs from an external wallet transfer, and what to verify before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

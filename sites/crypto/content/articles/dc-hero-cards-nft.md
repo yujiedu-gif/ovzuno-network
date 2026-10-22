@@ -3,8 +3,6 @@ title: "DC hero cards nft: What the phrase may mean and what to verify"
 description: "Learn what dc hero cards nft may refer to, how to distinguish a digital collectible from a payment card, and what product claims to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["dc hero card nft"]

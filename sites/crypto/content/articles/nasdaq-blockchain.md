@@ -3,8 +3,6 @@ title: "Nasdaq blockchain: disclosed initiatives and market infrastructure"
 description: "Explore Nasdaq blockchain disclosures, how distributed-ledger infrastructure may relate to market workflows, and which implementation details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Nasdaq digital assets", "blockchain in capital markets", "tokenization infrastructure"]

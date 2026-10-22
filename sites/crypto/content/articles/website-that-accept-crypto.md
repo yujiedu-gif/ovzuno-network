@@ -3,8 +3,6 @@ title: "Website That Accept Crypto: How to Check Before You Pay"
 description: "Learn how to spot a website that accept crypto, verify its payment details, and review key risks before sending funds through a crypto checkout."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

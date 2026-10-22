@@ -3,8 +3,6 @@ title: "Manticore smart contract analysis: symbolic execution and its limits"
 description: "Learn how Manticore smart contract analysis uses symbolic execution, what findings can reveal, and why results do not establish that a contract is secure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

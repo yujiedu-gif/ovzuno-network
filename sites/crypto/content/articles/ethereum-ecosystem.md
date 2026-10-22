@@ -3,8 +3,6 @@ title: "Ethereum ecosystem: components, applications, and infrastructure"
 description: "Explore the ethereum ecosystem, from its base network and smart contracts to applications, assets, scaling systems, and supporting infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Ethereum network", "Ethereum applications", "Ethereum scaling"]

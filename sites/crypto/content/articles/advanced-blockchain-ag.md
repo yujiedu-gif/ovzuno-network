@@ -3,8 +3,6 @@ title: "Advanced blockchain ag: payment infrastructure and design considerations
 description: "Explore advanced blockchain ag through the components, payment flows, and operational trade-offs of blockchain payment infrastructure, with questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

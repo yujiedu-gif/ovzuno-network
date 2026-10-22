@@ -3,8 +3,6 @@ title: "Stake Protocol Crypto: How Staking Protocols Work and What to Assess"
 description: "Learn what stake protocol crypto means, how staking protocols coordinate participation and rewards, how models differ, and which risks to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []
