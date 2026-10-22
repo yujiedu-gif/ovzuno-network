@@ -18,19 +18,19 @@ A DeFi wallet is software or a service that manages or uses cryptographic creden
 
 ## What a DeFi wallet does
 
-A wallet is best understood as a credential and interaction tool, not as a container that guarantees the safety of assets or applications. Wallet implementations differ: some are controlled by end users, while others are controlled by a developer’s server. Those labels describe particular control arrangements and should not be treated as universal legal custody categories. [claim_cdp_control_models]
+A wallet is best understood as a credential and interaction tool, not as a container that guarantees the safety of assets or applications. Wallet implementations differ: some are controlled by end users, while others are controlled by a developer’s server. Those labels describe particular control arrangements and should not be treated as universal legal custody categories. [source](<https://docs.cdp.coinbase.com/server-wallets/v2/using-the-wallet-api/managing-accounts>)
 
-For an Ethereum application, an EIP-1193 provider is a minimal request-and-event interface through which an application can access Ethereum via a client. The wallet separately manages keys and signing, and the provider is exposed to an untrusted application environment rather than holding private-key material. [claim_provider_wallet_boundary]
+For an Ethereum application, an EIP-1193 provider is a minimal request-and-event interface through which an application can access Ethereum via a client. The wallet separately manages keys and signing, and the provider is exposed to an untrusted application environment rather than holding private-key material. [source](<https://eips.ethereum.org/EIPS/eip-1193>)
 
 In practical terms, an application may ask a wallet to connect or present a transaction request. The wallet provides the user-facing authorization step; it does not itself define what the application’s smart contracts do. An application stack can also include components beyond the wallet and contracts, such as a front end or off-chain services. A user should therefore distinguish the wallet interface from the application and protocol components it helps access.
 
-“DeFi” is a broad label, not a single uniform technical design. Likewise, Web3 has no one rigid definition and is commonly used as a catch-all for a user-owned, decentralized vision of the internet. [claim_web3_not_rigid] A wallet’s capabilities and the amount of user control depend on its implementation and on the particular application interaction.
+“DeFi” is a broad label, not a single uniform technical design. Likewise, Web3 has no one rigid definition and is commonly used as a catch-all for a user-owned, decentralized vision of the internet. [source](<https://ethereum.org/web3/>) A wallet’s capabilities and the amount of user control depend on its implementation and on the particular application interaction.
 
 ## How a wallet connection and transaction work
 
 Connecting a wallet and authorizing a transaction are different steps. A connection gives an application an avenue to request information or actions through the wallet interface; it is not, by itself, the same as signing a blockchain instruction. The user should examine each authorization request when it appears rather than treating the earlier connection as blanket approval.
 
-A transaction authorization on Ethereum commits the sender to fields that include a destination, value, optional input data, nonce, and fee limits before the signed instruction is broadcast. [claim_transaction_fields] The wallet interface may summarize or decode those fields differently, so a readable label is not a substitute for checking the request’s meaning and context.
+A transaction authorization on Ethereum commits the sender to fields that include a destination, value, optional input data, nonce, and fee limits before the signed instruction is broadcast. [source](<https://ethereum.org/developers/docs/transactions/>) The wallet interface may summarize or decode those fields differently, so a readable label is not a substitute for checking the request’s meaning and context.
 
 After signing and broadcast, the relevant blockchain processes the instruction under its own rules. If the transaction calls a smart contract, the contract’s behavior—not the wallet’s interface label—determines how that call is handled. The wallet’s signature indicates authorization under the key and protocol mechanism; it does not independently certify the application, contract, or intended outcome.
 
@@ -44,14 +44,14 @@ A permission request should be treated as an action to inspect, not as a routine
 
 Changing a permission may itself require an additional transaction, depending on the implementation. That transaction has its own request details and should be reviewed independently. The evidence here does not establish a universal outcome or availability for permission revocation, so readers should check the specific wallet and contract behavior rather than infer a standard process.
 
-Wallet custody terminology also needs care. One documented provider distinguishes end-user-owned wallets from API-key wallets owned and controlled by a developer’s server; this is a provider-specific distinction, not a general legal conclusion about custody. [claim_cdp_control_models] More broadly, a wallet’s interface and control model should be assessed separately from the application’s contract logic and any services operating around it.
+Wallet custody terminology also needs care. One documented provider distinguishes end-user-owned wallets from API-key wallets owned and controlled by a developer’s server; this is a provider-specific distinction, not a general legal conclusion about custody. [source](<https://docs.cdp.coinbase.com/server-wallets/v2/using-the-wallet-api/managing-accounts>) More broadly, a wallet’s interface and control model should be assessed separately from the application’s contract logic and any services operating around it.
 
 ## Risks to review before signing
 
 Use this checklist to review the request in front of you:
 
 - **Action:** Does the requested operation match what you intended to do? If the prompt is unclear, do not infer its meaning from a familiar button or application name.
-- **Destination:** Check the destination shown in the request against the intended interaction. A transaction authorization commits to a destination and may include input data that affects what the transaction does. [claim_transaction_fields]
+- **Destination:** Check the destination shown in the request against the intended interaction. A transaction authorization commits to a destination and may include input data that affects what the transaction does. [source](<https://ethereum.org/developers/docs/transactions/>)
 - **Network:** Confirm that the request is for the network you intended to use. Network and transaction details are part of the authorization context, and an application interface may not communicate every detail in the same way.
 - **Value and permission:** Review the value and any permission-like action the request describes. Do not presume that a permission’s scope or duration is universal; those details depend on the transaction and contract design.
 - **Explanation:** Compare the wallet’s summary with the action you expected. If the request cannot be understood from the available information, pause rather than treating the interface as proof of safety.
@@ -63,7 +63,7 @@ Other risks remain outside what a wallet prompt can settle. A credential could b
 
 A wallet does not by itself establish the safety, solvency, legality, or performance of an application or protocol. Nor does a connection prove that the user has approved a transaction, that a contract is trustworthy, or that an interface has accurately characterized a request. These judgments concern the particular application, protocol, service, and circumstances—not merely the wallet.
 
-Wallet control arrangements also vary. A provider’s documented security architecture, for example, describes a particular server-wallet design in which key generation, encryption, decryption, and signing occur inside an isolated trusted execution environment and are authenticated with a developer Wallet Secret. The documentation explicitly does not eliminate application, credential, policy, provider, or recovery risk. [claim_cdp_tee_security] It should not be generalized into a claim that all DeFi wallets use that architecture or provide the same controls.
+Wallet control arrangements also vary. A provider’s documented security architecture, for example, describes a particular server-wallet design in which key generation, encryption, decryption, and signing occur inside an isolated trusted execution environment and are authenticated with a developer Wallet Secret. The documentation explicitly does not eliminate application, credential, policy, provider, or recovery risk. [source](<https://docs.cdp.coinbase.com/wallet-api-v2/docs/security>) It should not be generalized into a claim that all DeFi wallets use that architecture or provide the same controls.
 
 Availability, fees, security controls, and recovery options depend on the specific wallet, application, and implementation. Their behavior should be checked in the relevant product documentation rather than assumed from the word “DeFi.” This explainer makes no jurisdiction-specific legal, tax, or compliance claim; those questions require current, jurisdiction-specific evidence.
 

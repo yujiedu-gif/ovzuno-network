@@ -30,17 +30,17 @@ A typical payment can be understood as a sequence. The details vary by network a
 
 1. **Checkout creates a request.** The merchant’s checkout or point-of-sale software presents an amount and payment instructions. The system needs a way to relate later transaction activity to the order. How it identifies and matches that activity depends on the implementation.
 
-2. **The customer initiates a wallet payment.** The customer uses a wallet to authorize and send a transaction. For example, an Ethereum transaction includes a sender-authorizing signature, nonce, destination, value or contract data, gas limit, and fee parameters according to its transaction type. Other networks use different transaction formats. [claim_ethereum_signed_transaction_fields]
+2. **The customer initiates a wallet payment.** The customer uses a wallet to authorize and send a transaction. For example, an Ethereum transaction includes a sender-authorizing signature, nonce, destination, value or contract data, gas limit, and fee parameters according to its transaction type. Other networks use different transaction formats. [source](<https://ethereum.org/developers/docs/transactions/>)
 
-3. **The transaction is broadcast.** Broadcast means the transaction has been submitted for network processing; it is not the same as inclusion in a block. On Bitcoin, a full node generally relays a received transaction after checking applicable validity and relay-policy rules. Nodes can have different policies, so observation by one service does not establish that all nodes have accepted the transaction. [claim_bitcoin_peer_validation_relay]
+3. **The transaction is broadcast.** Broadcast means the transaction has been submitted for network processing; it is not the same as inclusion in a block. On Bitcoin, a full node generally relays a received transaction after checking applicable validity and relay-policy rules. Nodes can have different policies, so observation by one service does not establish that all nodes have accepted the transaction. [source](<https://developer.bitcoin.org/devguide/p2p_network.html>)
 
 4. **A gateway or connected service observes activity.** The system looks for activity relevant to the payment request and tries to associate it with the correct order. That association is important: a transaction observation is useful to the merchant only when it can be interpreted in relation to the intended request. The available evidence does not establish one standard matching algorithm.
 
-5. **The network includes and processes the transaction.** Block inclusion is a later event than broadcast. On Ethereum, the lifecycle includes broadcast, selection for a block, execution, and later stronger confirmation or finality. A receipt can report failed execution even when a transaction was included in a block. [claim_eth_transaction_flow]
+5. **The network includes and processes the transaction.** Block inclusion is a later event than broadcast. On Ethereum, the lifecycle includes broadcast, selection for a block, execution, and later stronger confirmation or finality. A receipt can report failed execution even when a transaction was included in a block. [source](<https://ethereum.org/developers/docs/intro-to-ethereum/>)
 
 6. **The merchant receives a status and applies its policy.** The gateway can communicate observed payment information, but the merchant’s system decides what that status means for the order. For example, a business may have a rule for when an order can be fulfilled. A notification does not itself make that business decision.
 
-These stages should not be collapsed. A transaction may be visible before block inclusion, and inclusion is not necessarily enough to satisfy the merchant’s settlement policy. For an on-chain payment, broadcast alone should not trigger fulfillment; the merchant’s configured settlement conditions matter. [claim_broadcast_not_settlement]
+These stages should not be collapsed. A transaction may be visible before block inclusion, and inclusion is not necessarily enough to satisfy the merchant’s settlement policy. For an on-chain payment, broadcast alone should not trigger fulfillment; the merchant’s configured settlement conditions matter. [source](<https://docs.btcpayserver.org/Users/invoices/>)
 
 ## Core components and their responsibilities
 
@@ -52,13 +52,13 @@ A payment flow may involve several components without requiring them to be one p
 - **Blockchain access and monitoring** provides information about network activity. That access might be operated by the gateway or supplied by another service; no single arrangement is universal.
 - **Merchant order and accounting systems** receive status information and apply the business’s own order and accounting processes.
 
-The protocol’s role remains separate from application-level coordination. Ethereum transactions pass through network validation, execution where applicable, commitment, and propagation. Checkout software can observe and report information about that process, but the merchant’s order status is not itself protocol state. [claim_eth_transaction_flow]
+The protocol’s role remains separate from application-level coordination. Ethereum transactions pass through network validation, execution where applicable, commitment, and propagation. Checkout software can observe and report information about that process, but the merchant’s order status is not itself protocol state. [source](<https://ethereum.org/developers/docs/intro-to-ethereum/>)
 
 ## On-chain payment, confirmation, and settlement are different stages
 
 **Detection** means a system has observed transaction activity that may relate to a payment request. **Confirmation** refers to progress under the network’s rules, including block inclusion and any later confirmation or finality conditions relevant to the merchant’s policy. **Merchant settlement** is the business outcome: whether the merchant treats the payment as sufficient for its purposes and what asset it retains or receives through any separate arrangement.
 
-A status message should be understood as a report produced under an implementation’s rules, not as an independent guarantee of settlement. The merchant’s configured conditions determine when an on-chain payment is sufficient for fulfillment; broadcast alone is not enough. [claim_broadcast_not_settlement]
+A status message should be understood as a report produced under an implementation’s rules, not as an independent guarantee of settlement. The merchant’s configured conditions determine when an on-chain payment is sufficient for fulfillment; broadcast alone is not enough. [source](<https://docs.btcpayserver.org/Users/invoices/>)
 
 Settlement can also involve a choice about the received asset. A merchant may retain the digital asset or use a separate conversion arrangement. Conversion is not the same event as recording the on-chain transaction. The evidence here does not establish particular supported networks, conversion availability, fees, settlement timing, or a universal confirmation threshold. Those details depend on the relevant implementation and should not be inferred from the phrase “blockchain based payment gateway.”
 
@@ -76,7 +76,7 @@ Refunds, recovery, security, and compliance are also implementation- or jurisdic
 
 Consider a hypothetical online order. At checkout, the merchant creates a payment request and displays instructions. The customer authorizes a wallet transaction and broadcasts it. A gateway or connected service observes relevant network activity and tries to associate it with the request.
 
-The transaction may be visible before block inclusion, so the merchant’s system can keep the order pending rather than treating broadcast as completed settlement. After the transaction progresses under network rules and the merchant’s configured conditions are satisfied, the gateway can report a status that the merchant uses to update the order. On Ethereum, inclusion and execution are distinct parts of the lifecycle, and a receipt can report failed execution despite inclusion; these events should not be treated as interchangeable. [claim_eth_transaction_flow]
+The transaction may be visible before block inclusion, so the merchant’s system can keep the order pending rather than treating broadcast as completed settlement. After the transaction progresses under network rules and the merchant’s configured conditions are satisfied, the gateway can report a status that the merchant uses to update the order. On Ethereum, inclusion and execution are distinct parts of the lifecycle, and a receipt can report failed execution despite inclusion; these events should not be treated as interchangeable. [source](<https://ethereum.org/developers/docs/intro-to-ethereum/>)
 
 If the payment is not observed, cannot be matched, or has not met the merchant’s conditions, the order may remain unresolved. A status update is information for the merchant’s workflow, not a substitute for applying that workflow. This hypothetical illustrates the stages without prescribing a network, confirmation count, fee, or recovery procedure.
 

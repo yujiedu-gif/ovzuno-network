@@ -18,7 +18,7 @@ Stablecoin infrastructure is the connected set of issuer-operated, blockchain, c
 
 ## What stablecoin infrastructure means
 
-A stablecoin is a digital asset that aims to maintain a stable value relative to a specified asset, currency, or basket through a stated stabilization mechanism. “Stable” describes that objective, not a guarantee that market value or redemption value will always match the reference. [claim_stablecoin_objective]
+A stablecoin is a digital asset that aims to maintain a stable value relative to a specified asset, currency, or basket through a stated stabilization mechanism. “Stable” describes that objective, not a guarantee that market value or redemption value will always match the reference. [source](<https://www.imf.org/-/media/files/publications/dp/2025/english/usea.pdf>)
 
 Infrastructure refers to the systems and processes around the asset: controls for creating or removing tokens, the blockchain that records activity, custody and signing arrangements, and operational interfaces used to coordinate and reconcile activity. These parts may be run by different parties. The term therefore describes a connected operating environment, not a single technical layer.
 
@@ -42,7 +42,7 @@ The blockchain is the shared record on which supported token activity is process
 
 A transaction’s appearance on a network should not automatically be treated as completion of every related settlement step. A transfer can have an on-chain record while a separate reconciliation, redemption, or business process remains distinct. The precise meaning of transaction status and the conditions for treating an activity as complete must be established for the specific network and operating arrangement. This definition does not claim particular availability, fees, finality, or settlement times.
 
-Where activity involves more than one blockchain, the records do not become a single shared ledger merely because an asset is available in multiple environments. Bridge arrangements can coordinate activity between otherwise isolated blockchain environments. They may use lock-and-mint, burn-and-mint, or atomic-swap and liquidity-network mechanisms; implementation details vary. [claim_bridge_asset_mechanisms]
+Where activity involves more than one blockchain, the records do not become a single shared ledger merely because an asset is available in multiple environments. Bridge arrangements can coordinate activity between otherwise isolated blockchain environments. They may use lock-and-mint, burn-and-mint, or atomic-swap and liquidity-network mechanisms; implementation details vary. [source](<https://ethereum.org/developers/docs/bridges>)
 
 That distinction has an operational consequence: an operator should identify which chain and token representation is involved, and what mechanism coordinates any movement between chains. A destination-side record depends on the bridge-side logic accepting the relevant message or transfer condition. Do not treat a transfer mechanism as interchangeable with the original issuer’s issuance or redemption process.
 
@@ -52,7 +52,7 @@ Custody and key management concern how access to token-related assets and transa
 
 For a technical review, document which system initiates a transaction, which process authorizes it, and how the signed transaction reaches the network. Then verify the access-control and recovery procedures with current documentation from the parties responsible. The available evidence here does not establish that any custody model is secure, that assets can be recovered after key loss, or that any particular protection is in place. Those claims require evidence tied to the system and threat conditions under review.
 
-Interfaces also shape what an operator sees. A dashboard or API can expose transaction and invoice states, but its labels are implementation-specific. For example, a BTCPay invoice records a requested amount and a time-limited exchange rate and distinguishes states such as awaiting payment, processing, settled, expired, invalid, partial, overpaid, and late. Those labels describe that product’s invoice workflow; they are not universal blockchain states or a definition of stablecoin settlement. [claim_invoice_quote_and_states]
+Interfaces also shape what an operator sees. A dashboard or API can expose transaction and invoice states, but its labels are implementation-specific. For example, a BTCPay invoice records a requested amount and a time-limited exchange rate and distinguishes states such as awaiting payment, processing, settled, expired, invalid, partial, overpaid, and late. Those labels describe that product’s invoice workflow; they are not universal blockchain states or a definition of stablecoin settlement. [source](<https://docs.btcpayserver.org/Users/invoices/>)
 
 ## Settlement workflows and oversight
 

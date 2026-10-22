@@ -18,9 +18,9 @@ An organization should evaluate an MPC wallet as a service by mapping its requir
 
 ## What an MPC wallet as a service evaluation should establish
 
-Start with the organization’s actual use case: what it needs to authorize, which people or systems take part, and which controls must apply. A wallet is used to generate, manage, store, or use asymmetric keys and blockchain addresses. That broad definition does not specify the wallet’s architecture or decide who has authority over its operation. (claim_nist_wallet_keys)
+Start with the organization’s actual use case: what it needs to authorize, which people or systems take part, and which controls must apply. A wallet is used to generate, manage, store, or use asymmetric keys and blockchain addresses. That broad definition does not specify the wallet’s architecture or decide who has authority over its operation. ([source](<https://csrc.nist.gov/glossary/term/wallet>))
 
-Likewise, key management is broader than signing. It covers the lifecycle of keying material, including generation, storage, distribution, use, recovery, revocation, and destruction. An evaluation should ask about each relevant stage rather than infer a complete operating model from the “MPC wallet as a service” label. (claim_key_management_lifecycle)
+Likewise, key management is broader than signing. It covers the lifecycle of keying material, including generation, storage, distribution, use, recovery, revocation, and destruction. An evaluation should ask about each relevant stage rather than infer a complete operating model from the “MPC wallet as a service” label. ([source](<https://csrc.nist.gov/Projects/Key-Management/Key-Management-Guidelines>))
 
 Keep technical design, organizational governance, and contractual responsibility distinct. A signing design may describe how a transaction is authorized, but the evaluation still needs to establish who initiates and approves actions, who operates each component, and who is responsible for access changes and service continuity. The available evidence here does not define MPC-specific key-share arrangements or determine any provider’s custody status, so those conclusions require service-specific documentation.
 
@@ -30,11 +30,11 @@ Translate the intended use into a short workflow inventory before evaluating a s
 
 Separate must-haves from preferences. A requirement might be an approval step before signing, a connection to an internal system, or an auditable record of who approved an action. Mark the evidence needed to verify each item and identify the team responsible for assessing it. Do not treat an integration, asset, network, or policy feature as available unless current service documentation confirms it for the relevant configuration.
 
-Consider operational capacity as well as transaction features. Payment or settlement infrastructure may need sufficient liquid resources in relevant currencies to meet settlement obligations under normal and stressed conditions. This is a general infrastructure requirement, not evidence that a wallet service provides liquidity or manages settlement for a particular organization. (claim_payment_settlement_liquidity)
+Consider operational capacity as well as transaction features. Payment or settlement infrastructure may need sufficient liquid resources in relevant currencies to meet settlement obligations under normal and stressed conditions. This is a general infrastructure requirement, not evidence that a wallet service provides liquidity or manages settlement for a particular organization. ([source](<https://www.bis.org/committees/cpmi/pfmi/overview>))
 
 ## Clarify custody responsibilities, key shares, and control boundaries
 
-Ask the service provider to document the key-management lifecycle in the actual deployment being considered. Find out how keying material is generated, stored, distributed, used, recovered, revoked, and destroyed, and which party performs or oversees each step. The general key-management lifecycle supplies a useful checklist, but it does not establish how any particular MPC system implements those steps. (claim_key_management_lifecycle)
+Ask the service provider to document the key-management lifecycle in the actual deployment being considered. Find out how keying material is generated, stored, distributed, used, recovered, revoked, and destroyed, and which party performs or oversees each step. The general key-management lifecycle supplies a useful checklist, but it does not establish how any particular MPC system implements those steps. ([source](<https://csrc.nist.gov/Projects/Key-Management/Key-Management-Guidelines>))
 
 Then trace authority through a representative transaction. Identify who can create a request, who can approve it, what component produces the authorization, and whether any one person, system, or provider can complete the process alone. Request explanations of relevant administrative access and controls. If documentation does not answer a question, record it as unverified rather than assuming a safeguard exists.
 
