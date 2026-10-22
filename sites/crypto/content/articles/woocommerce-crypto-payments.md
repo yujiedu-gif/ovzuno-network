@@ -46,7 +46,6 @@ If the integration communicates state changes through webhooks, understand how t
 
 Clarify responsibility boundaries as well. The store operator remains responsible for its order process, customer communications, and fulfillment decision. The integration performs only the functions its documentation describes. Establish who investigates missing notifications, mismatched payment and order records, or customer questions, and which system staff should consult when the order display and payment report differ.
 
-For the related implementation boundary, see [Accept Crypto WordPress: A Practical Integration Guide](/articles/accept-crypto-wordpress/).
 
 ## Operational checks before enabling crypto checkout
 
