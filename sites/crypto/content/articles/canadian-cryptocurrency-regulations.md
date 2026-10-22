@@ -3,8 +3,6 @@ title: "Canadian cryptocurrency regulations: a high-level overview"
 description: "Understand how Canadian cryptocurrency regulations may depend on the activity, business model, and user role, and where to verify current rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

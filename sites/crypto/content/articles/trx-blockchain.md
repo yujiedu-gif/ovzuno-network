@@ -3,8 +3,6 @@ title: "TRX blockchain: meaning, network, and token"
 description: "Learn what TRX blockchain refers to, how the TRON network differs from the TRX token, and which claims about its operation need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

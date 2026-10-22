@@ -3,8 +3,6 @@ title: "Crypto Tokens to Watch: An Evidence-Based Monitoring Framework"
 description: "Learn how to assess crypto tokens to watch through protocol purpose, development, network activity, governance, and documented risks—not price predictions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto tokens watch"]

@@ -3,8 +3,6 @@ title: "US stablecoins: meaning and role in settlement"
 description: "Learn what US stablecoins can mean in a U.S. settlement context, how token transfers fit into settlement flows, and which dependencies need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoins us", "us stablecoin"]

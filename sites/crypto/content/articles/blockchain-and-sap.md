@@ -3,8 +3,6 @@ title: "Blockchain and SAP: How They May Relate in Business Processes"
 description: "Learn how blockchain and SAP may relate in business processes, what data boundaries matter, and which technical and operational questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain sap"]

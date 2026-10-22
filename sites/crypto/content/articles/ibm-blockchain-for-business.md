@@ -3,8 +3,6 @@ title: "IBM Blockchain for Business: Uses, Fit, and Evaluation Questions"
 description: "Explore IBM blockchain for business, the workflow problems shared ledgers may address, key design trade-offs, and evidence to verify before evaluation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["ibm blockchain business"]

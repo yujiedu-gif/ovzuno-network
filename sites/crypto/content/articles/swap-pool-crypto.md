@@ -3,8 +3,6 @@ title: "Swap Pool Crypto: How Token Swaps Use Shared Liquidity"
 description: "Learn what a swap pool crypto arrangement is, how token swaps use pooled assets, and how pricing, liquidity, and transaction execution relate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

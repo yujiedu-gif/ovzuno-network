@@ -3,8 +3,6 @@ title: "Explain Proof of Stake: Validators, Staking, and Consensus"
 description: "Explain proof of stake through validator selection, transaction checks, consensus, and protocol-defined penalties, while clarifying what staking does and does not do"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["explain proof stake"]

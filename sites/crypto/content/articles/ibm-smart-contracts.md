@@ -3,8 +3,6 @@ title: "IBM smart contracts: meaning, roles, and enterprise blockchain context"
 description: "Learn what IBM smart contracts may refer to, how executable business rules fit into enterprise blockchain, and what to verify before assessing a system."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

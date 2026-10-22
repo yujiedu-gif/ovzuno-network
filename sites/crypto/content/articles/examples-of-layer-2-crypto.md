@@ -3,8 +3,6 @@ title: "Examples of layer 2 crypto: networks and designs explained"
 description: "Explore examples of layer 2 crypto, including representative networks, their underlying-chain relationships, and key design differences without rankings."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["examples layer 2 crypto"]

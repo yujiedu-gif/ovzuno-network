@@ -3,8 +3,6 @@ title: "Ethereum programming language: what the term means"
 description: "Learn what the term ethereum programming language means, how smart-contract languages relate to Ethereum, and why the execution environment is distinct."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

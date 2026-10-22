@@ -3,8 +3,6 @@ title: "Tokenization Digital Assets: How the Process Works"
 description: "Learn how tokenization digital assets connects off-chain rights to on-chain records, how the lifecycle works, and which design choices need review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

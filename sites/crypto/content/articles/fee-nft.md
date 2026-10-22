@@ -3,8 +3,6 @@ title: "Fee NFT: A Cost Model for Estimating Blockchain Transactions"
 description: "Use a fee nft cost model to identify network, protocol, and optional payment charges, then estimate an NFT transaction total with transparent inputs and assumptions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

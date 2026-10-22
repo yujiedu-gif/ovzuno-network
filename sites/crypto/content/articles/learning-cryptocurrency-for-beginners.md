@@ -3,8 +3,6 @@ title: "Learning cryptocurrency for beginners: a safe, structured roadmap"
 description: "Learning cryptocurrency for beginners starts with core concepts, careful source checks, and risk awareness—without investment recommendations or assumptions about a"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["learning cryptocurrency beginners"]

@@ -3,8 +3,6 @@ title: "Crypto GPT Token: How to Identify the Asset and Verify Its Claims"
 description: "Learn how to identify a crypto gpt token, check its project and on-chain records, and separate documented mechanics from claims or look-alike names."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

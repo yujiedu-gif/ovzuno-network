@@ -3,8 +3,6 @@ title: "Pixels blockchain game: what it is and how blockchain fits"
 description: "Learn what the pixels blockchain game is, how its gameplay relates to blockchain infrastructure, and which details require current, reliable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

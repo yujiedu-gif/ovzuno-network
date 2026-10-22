@@ -3,8 +3,6 @@ title: "Stablecoin liquidity pool: how it works and what risks to assess"
 description: "Learn how a stablecoin liquidity pool supports swaps and liquidity provision, how pool design affects outcomes, and which risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["stablecoin pool", "liquidity providers", "impermanent loss", "depeg risk"]

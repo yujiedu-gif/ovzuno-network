@@ -3,8 +3,6 @@ title: "Electroneum cryptocurrency: regulation and tax reporting questions"
 description: "Explore how authorities may treat Electroneum cryptocurrency activity, which tax-reporting questions depend on location, and what to verify with local experts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

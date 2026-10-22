@@ -3,8 +3,6 @@ title: "Crypto Report Sprintax: Meaning and What to Verify"
 description: "Learn what “crypto report Sprintax” may refer to, what a software-generated report can cover, and what U.S. taxpayers should verify before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["sprintax crypto report"]

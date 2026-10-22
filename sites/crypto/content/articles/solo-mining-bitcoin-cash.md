@@ -3,8 +3,6 @@ title: "Solo mining bitcoin cash: meaning and how it differs from pool mining"
 description: "Learn what solo mining bitcoin cash means, how independent block discovery differs from pool mining, and which practical details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["solo mine bitcoin cash"]

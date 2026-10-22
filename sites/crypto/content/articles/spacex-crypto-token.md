@@ -3,8 +3,6 @@ title: "spacex crypto token: How to Verify Claims of an Official Connection"
 description: "Learn how to assess a spacex crypto token claim, verify any stated SpaceX authorization, identify the issuer and token rights, and spot evidence gaps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Silver crypto token: meaning, structure, and what to verify"
 description: "Learn what a silver crypto token may represent, how its claimed link to silver can be structured, and which documents to check for rights and redemption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

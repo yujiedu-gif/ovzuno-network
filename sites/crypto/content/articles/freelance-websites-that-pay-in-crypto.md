@@ -3,8 +3,6 @@ title: "Freelance websites that pay in crypto: How payouts work"
 description: "Learn how freelance websites that pay in crypto may structure payouts, what payment terms and wallet details to check, and which legal, tax, and security questions"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto freelance platforms", "getting paid in cryptocurrency for freelance work", "freelance payment methods"]

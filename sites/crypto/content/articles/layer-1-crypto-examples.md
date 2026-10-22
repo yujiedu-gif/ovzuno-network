@@ -3,8 +3,6 @@ title: "layer 1 crypto examples: representative networks and how to identify the
 description: "Explore layer 1 crypto examples by network role and protocol design, and learn how to distinguish a Layer 1 network from a token or Layer 2 system."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

@@ -3,8 +3,6 @@ title: "DeSo crypto exchange: what the term means and how to verify support"
 description: "Learn what “DeSo crypto exchange” can mean, how to distinguish the network from trading venues, and what evidence to check before relying on a DESO listing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

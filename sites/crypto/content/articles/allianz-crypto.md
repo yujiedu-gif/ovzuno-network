@@ -3,8 +3,6 @@ title: "Allianz Crypto: How to Assess Institutional Treasury Claims"
 description: "Learn how to assess “allianz crypto” claims in an institutional treasury context, distinguish verified disclosures from speculation, and identify evidence gaps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["institutional crypto treasury", "crypto treasury management", "institutional digital assets"]

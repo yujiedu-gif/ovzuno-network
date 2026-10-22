@@ -3,8 +3,6 @@ title: "Google play credit to crypto: rules, limits, and risks"
 description: "Learn whether Google play credit to crypto conversion is permitted, why platform and local rules matter, and what to verify before considering any route."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["google play credit crypto"]

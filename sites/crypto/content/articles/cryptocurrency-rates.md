@@ -3,8 +3,6 @@ title: "Cryptocurrency Rates: How Market Data Is Formed and Used"
 description: "Learn how cryptocurrency rates are sourced, calculated, timestamped, and interpreted in market-data infrastructure, including key limitations and validation checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto price data", "market data feeds", "reference rates"]

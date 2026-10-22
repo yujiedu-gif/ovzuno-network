@@ -3,8 +3,6 @@ title: "Compound smart contract: meaning, composition, and dependencies"
 description: "Understand what a compound smart contract means, how contracts compose through on-chain calls, and what dependencies and failure boundaries readers should consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

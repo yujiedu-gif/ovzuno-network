@@ -3,8 +3,6 @@ title: "Crypto AI Tokens: What the Label Means and What to Verify"
 description: "Learn what crypto AI tokens may refer to, how tokens differ from AI agents and financial protocols, and which claims require independent evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["payfi_defi_agentic"]
 tags: ["AI agents in DeFi", "agentic finance", "PayFi"]

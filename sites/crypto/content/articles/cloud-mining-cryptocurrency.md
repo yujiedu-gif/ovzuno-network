@@ -3,8 +3,6 @@ title: "Cloud mining cryptocurrency: how the model works and what to verify"
 description: "Learn how cloud mining cryptocurrency relates to proof-of-work capacity, what a mining arrangement may promise, and which claims require independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["cloud mining", "proof-of-work mining", "hashrate"]

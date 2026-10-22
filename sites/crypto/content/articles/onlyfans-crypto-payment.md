@@ -3,8 +3,6 @@ title: "OnlyFans crypto payment: support, verification, and practical limits"
 description: "Understand what an OnlyFans crypto payment could involve, how to verify current platform support, and which policy, jurisdiction, and payment risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

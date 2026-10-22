@@ -3,8 +3,6 @@ title: "FEG Crypto: Project, Token, and Protocol Explained"
 description: "Learn what FEG crypto refers to, how its token relates to the project and protocol, and which design claims readers should verify independently."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

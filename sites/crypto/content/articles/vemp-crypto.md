@@ -3,8 +3,6 @@ title: "VEMP crypto: documented role in staking and validators"
 description: "Learn what VEMP crypto refers to and how to verify whether project documentation assigns it a role in staking or validator operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

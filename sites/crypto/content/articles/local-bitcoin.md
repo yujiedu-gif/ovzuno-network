@@ -3,8 +3,6 @@ title: "Local bitcoin: How peer-to-peer marketplaces work"
 description: "Learn what local bitcoin means, how peer-to-peer marketplaces connect buyers and sellers, and where escrow, payment, counterparty, and platform risks arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["local bitcoins"]

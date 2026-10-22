@@ -3,8 +3,6 @@ title: "Biggest Proof of Stake Coins: How to Compare Network Scale"
 description: "Compare the biggest proof of stake coins using a dated, stated size measure, and see how validator and staking structures shape what those figures mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["staking_validators"]
 tags: ["biggest proof stake coins"]

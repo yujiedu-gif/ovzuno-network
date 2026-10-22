@@ -3,8 +3,6 @@ title: "MasterChef Smart Contract: Staking and Reward Accounting Explained"
 description: "Learn what a masterchef smart contract is, how pool and user reward accounting is commonly structured, and why implementations must be checked individually."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

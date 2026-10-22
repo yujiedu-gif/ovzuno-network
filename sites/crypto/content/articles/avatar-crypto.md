@@ -3,8 +3,6 @@ title: "Avatar crypto: meaning, uses, and key distinctions"
 description: "Learn what avatar crypto can refer to, how profile images and tokenized avatars differ, and why an avatar alone does not verify identity or ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["crypto avatars"]

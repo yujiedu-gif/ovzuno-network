@@ -3,8 +3,6 @@ title: "No Gas Fee Crypto: How Transaction Costs Are Allocated"
 description: "Understand what no gas fee crypto can mean in a payment workflow, how transaction costs may be sponsored or shifted, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: ["gasless transactions", "transaction fees", "sponsored gas"]

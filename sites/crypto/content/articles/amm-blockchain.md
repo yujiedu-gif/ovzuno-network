@@ -3,8 +3,6 @@ title: "amm blockchain: How Automated Market Makers Work"
 description: "Learn how an amm blockchain enables swaps through smart contracts and liquidity pools, how execution works, and which operational risks to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

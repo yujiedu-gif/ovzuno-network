@@ -3,8 +3,6 @@ title: "Example of NFT Tokens: Common Uses and What They Represent"
 description: "Explore an example of NFT tokens across digital collectibles, gaming, tickets, and other uses, with notes on what a token represents and does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["example nft tokens"]

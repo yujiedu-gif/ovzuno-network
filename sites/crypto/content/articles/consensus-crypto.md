@@ -3,8 +3,6 @@ title: "Consensus Crypto: How Networks Agree on Valid Transactions"
 description: "Learn what consensus crypto means, how networks agree on valid transactions and ledger state, and where proof-of-work mining fits among consensus approaches."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

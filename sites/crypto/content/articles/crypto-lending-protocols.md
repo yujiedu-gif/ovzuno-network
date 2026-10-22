@@ -3,8 +3,6 @@ title: "Crypto Lending Protocols: How On-Chain Borrowing Works"
 description: "Learn how crypto lending protocols coordinate supplied assets, collateral, borrowing, repayment, and liquidation through on-chain rules and components."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

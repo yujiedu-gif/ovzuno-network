@@ -3,8 +3,6 @@ title: "Bitcoin Asia: Meaning and Context"
 description: "Learn what bitcoin asia may refer to, how the phrase differs from Bitcoin itself, and what context to check before identifying a specific event or organization."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

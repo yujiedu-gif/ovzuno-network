@@ -3,8 +3,6 @@ title: "Drip Network Crypto: Protocol Overview and Evidence Checks"
 description: "Learn what Drip Network crypto refers to, how its protocol is described, and which claims about mechanics, risks, and operation require independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

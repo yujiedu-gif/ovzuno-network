@@ -3,8 +3,6 @@ title: "polygon dapp development: A Practical Build and Testing Guide"
 description: "Learn the core steps in polygon dapp development, from defining contract behavior and connecting a frontend to testing and preparing a deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

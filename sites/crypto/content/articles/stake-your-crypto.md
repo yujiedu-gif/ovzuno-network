@@ -3,8 +3,6 @@ title: "Stake Your Crypto: How Participation and Validators Work"
 description: "Learn what it means to stake your crypto, how validator participation can work, and which network rules, lockups, penalties, and operational risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

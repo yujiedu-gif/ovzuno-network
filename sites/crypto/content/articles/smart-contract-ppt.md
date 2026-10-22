@@ -3,8 +3,6 @@ title: "Smart contract ppt: a clear, evidence-based presentation outline"
 description: "Plan a smart contract ppt that explains how code executes, how applications use contracts, and which security, governance, and real-world limits to show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Smart contract with rust: concepts, platforms, and development"
 description: "Learn what smart contract with rust means, how platform-specific runtimes shape execution, and what developers should verify when building and testing contracts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

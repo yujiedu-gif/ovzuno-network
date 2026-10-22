@@ -3,8 +3,6 @@ title: "Blockchain Based Payment Gateway: How the Payment Flow Works"
 description: "Understand how a blockchain based payment gateway connects checkout, wallet payments, blockchain confirmation, transaction status, and merchant settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain frameworks: architecture, tools, and evaluation criteria"
 description: "Learn what blockchain frameworks provide, how architecture, consensus, and developer tools differ, and what criteria help assess fit for an application."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain framework"]

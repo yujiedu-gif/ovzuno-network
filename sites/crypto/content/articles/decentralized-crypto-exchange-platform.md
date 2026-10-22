@@ -3,8 +3,6 @@ title: "Decentralized crypto exchange platform: an evaluation framework"
 description: "Evaluate a decentralized crypto exchange platform by examining its trading model, custody assumptions, liquidity, security evidence, and operational dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: []

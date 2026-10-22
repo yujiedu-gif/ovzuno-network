@@ -3,8 +3,6 @@ title: "Digital asset treasury mNAV: meaning, calculation, and limits"
 description: "Understand digital asset treasury mNAV, the inputs used to calculate it, how to interpret the ratio, and why it is not a standalone measure of treasury value."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

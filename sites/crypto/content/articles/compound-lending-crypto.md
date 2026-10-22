@@ -3,8 +3,6 @@ title: "Compound lending crypto: how supply, borrowing, and liquidation work"
 description: "Learn how compound lending crypto works, from supplying assets and collateral-based borrowing to interest accrual, liquidation triggers, and key risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

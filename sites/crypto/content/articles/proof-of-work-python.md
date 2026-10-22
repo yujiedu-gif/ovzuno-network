@@ -3,8 +3,6 @@ title: "Proof of work Python: A Small Nonce-Search Demonstration"
 description: "See how proof of work Python can demonstrate nonce search and hash-target checks, and learn why a small example is not a production miner."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work python"]

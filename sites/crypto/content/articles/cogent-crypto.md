@@ -3,8 +3,6 @@ title: "Cogent Crypto: What Businesses Should Verify About Its Payment Offering"
 description: "Learn what Cogent Crypto says it offers for crypto payments, which operating details businesses should verify, and where jurisdiction-specific evidence matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

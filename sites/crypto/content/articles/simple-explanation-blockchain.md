@@ -3,8 +3,6 @@ title: "Simple Explanation Blockchain: How Shared Records Are Verified"
 description: "A simple explanation blockchain readers can use to understand how transactions are grouped, checked by a network, and added to a shared ledger."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain transactions", "distributed ledger", "consensus mechanism"]

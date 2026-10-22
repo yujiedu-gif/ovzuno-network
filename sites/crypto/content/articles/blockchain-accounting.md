@@ -3,8 +3,6 @@ title: "Blockchain accounting: connecting on-chain records to business books"
 description: "Learn how blockchain accounting connects on-chain transaction data with business records, and what reconciliation, interpretation, and control limits to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain account"]

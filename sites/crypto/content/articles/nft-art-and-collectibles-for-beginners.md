@@ -3,8 +3,6 @@ title: "NFT Art and Collectibles for Beginners: Tokens, Rights, and Risks"
 description: "NFT art and collectibles for beginners: learn what a token may represent, how ownership records differ from copyright, and what to verify before interacting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft art collectibles beginners"]

@@ -3,8 +3,6 @@ title: "ENS Ethereum: What the Naming System Does"
 description: "Learn what ENS Ethereum is, how names can resolve to blockchain identifiers and records, and what the system does not establish on its own."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

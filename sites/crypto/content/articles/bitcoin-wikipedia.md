@@ -3,8 +3,6 @@ title: "bitcoin wikipedia: Bitcoin, the Network, and the Protocol Explained"
 description: "A neutral guide to bitcoin wikipedia searches: understand Bitcoin as an asset, network, and protocol, and learn how to check claims in general references."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins wikipedia"]

@@ -3,8 +3,6 @@ title: "Solidity Storage Contract: How Persistent State Works"
 description: "Learn how a solidity storage contract keeps persistent state, how Solidity storage differs from memory and calldata, and why storage layout matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

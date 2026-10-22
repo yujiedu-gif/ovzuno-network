@@ -3,8 +3,6 @@ title: "Consensus layer blockchain: how networks agree on shared state"
 description: "Learn what the consensus layer blockchain does, how it differs from execution and data availability, and how networks coordinate agreement on shared state."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

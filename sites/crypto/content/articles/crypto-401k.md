@@ -3,8 +3,6 @@ title: "Crypto 401k: Meaning and How the Term Is Used"
 description: "Learn what crypto 401k means, how the phrase describes possible cryptocurrency exposure through a retirement plan, and what the term alone does not tell you."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["401k crypto"]

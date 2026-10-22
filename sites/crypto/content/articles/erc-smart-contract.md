@@ -3,8 +3,6 @@ title: "ERC smart contract: How Ethereum standards relate to code"
 description: "Learn what an ERC smart contract refers to, how Ethereum standards describe interfaces, and why a standard does not guarantee identical implementations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Ethereum Request for Comments", "ERC standards", "Ethereum smart contracts", "ERC-20", "ERC-721"]

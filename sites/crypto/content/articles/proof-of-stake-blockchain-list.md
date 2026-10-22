@@ -3,8 +3,6 @@ title: "Proof of stake blockchain list: networks and consensus checks"
 description: "Explore a proof of stake blockchain list with clear inclusion criteria, example networks, and checks for current consensus and validator documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["staking_validators"]
 tags: ["proof stake blockchain list"]

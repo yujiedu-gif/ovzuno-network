@@ -3,8 +3,6 @@ title: "Benefit of staking crypto: network and participant benefits"
 description: "Explore the benefit of staking crypto for blockchain networks and participants, including security and participation, with protocol-dependent limits and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["benefit staking crypto"]

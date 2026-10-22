@@ -3,8 +3,6 @@ title: "TrueFi crypto: protocol mechanics, lending model, and risks"
 description: "Learn how TrueFi crypto’s protocol-based lending model is described, who participates, and what risks, limitations, and changing details readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

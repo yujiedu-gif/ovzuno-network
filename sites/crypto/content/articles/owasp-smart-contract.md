@@ -3,8 +3,6 @@ title: "OWASP Smart Contract: Meaning, Scope, and Security Guidance"
 description: "Learn what OWASP smart contract refers to, what its security resources can help explain, and why guidance is not a substitute for a contract audit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["OWASP Smart Contract Top 10", "smart contract security risks", "OWASP"]

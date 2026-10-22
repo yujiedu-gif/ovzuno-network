@@ -3,8 +3,6 @@ title: "Blockchain liquidity pool: structure, protocol role, and risks"
 description: "Learn what a blockchain liquidity pool contains, how protocols use pooled assets, and which design, transaction, and participation risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

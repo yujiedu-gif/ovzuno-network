@@ -3,8 +3,6 @@ title: "Random Bitcoin Wallet Address: How It Is Generated"
 description: "Learn what a random Bitcoin wallet address means, how it relates to private keys, and what to check before using an address to receive bitcoin."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["Bitcoin address generation", "Bitcoin address reuse", "Bitcoin private key"]

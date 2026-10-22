@@ -3,8 +3,6 @@ title: "Stablecoin report: How to assess settlement workflows and infrastructure
 description: "A stablecoin report framework for examining settlement stages, infrastructure dependencies, operational trade-offs, and limits that decision-makers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoin settlement", "stablecoin payment systems", "on-chain settlement"]

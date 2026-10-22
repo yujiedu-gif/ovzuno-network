@@ -3,8 +3,6 @@ title: "AVAX Proof of Stake: How Avalanche Staking and Validators Work"
 description: "Learn how AVAX proof of stake relates to Avalanche consensus, including the roles of staking and validators and what the terms do not imply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["avax proof stake"]

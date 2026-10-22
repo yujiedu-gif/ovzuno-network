@@ -3,8 +3,6 @@ title: "Holochain crypto: staking, validators, and data validation"
 description: "Learn whether Holochain crypto uses staking or blockchain validators, and how its agent-centric approach to data validation differs from consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["Holochain agent-centric architecture", "Holochain validation", "Holochain consensus"]

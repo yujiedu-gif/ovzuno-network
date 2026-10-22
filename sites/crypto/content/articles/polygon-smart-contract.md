@@ -3,8 +3,6 @@ title: "Polygon smart contract: how it works on Polygon networks"
 description: "Learn what a polygon smart contract is, how Polygon networks execute contract code, and what to check when evaluating deployment, interaction, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

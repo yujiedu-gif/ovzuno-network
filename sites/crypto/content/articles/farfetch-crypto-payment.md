@@ -3,8 +3,6 @@ title: "Farfetch crypto payment: checkout options and what to verify"
 description: "Learn what a Farfetch crypto payment may involve, how to verify checkout availability and terms for your order, and what to check about settlement and refunds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["luxury retail crypto payments", "crypto payment checkout", "cryptocurrency payment policy"]

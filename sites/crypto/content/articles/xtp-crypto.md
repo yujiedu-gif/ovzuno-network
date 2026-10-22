@@ -3,8 +3,6 @@ title: "XTP crypto: what the name may refer to and how to verify it"
 description: "Learn what XTP crypto may refer to, why a ticker alone can be ambiguous, and which project and network details to verify before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

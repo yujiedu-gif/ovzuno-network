@@ -3,8 +3,6 @@ title: "BitMEX crypto: role and infrastructure in digital asset markets"
 description: "Explore BitMEX crypto as an exchange-infrastructure topic: its market role, core system functions, and what requires current evidence to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

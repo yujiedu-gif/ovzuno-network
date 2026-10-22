@@ -3,8 +3,6 @@ title: "Crypto Market Making Services: Scope, Workflow, and Infrastructure"
 description: "Understand crypto market making services, their exchange infrastructure interfaces, typical operating workflows, and key questions for evaluating an arrangement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

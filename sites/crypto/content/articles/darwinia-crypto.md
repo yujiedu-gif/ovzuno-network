@@ -3,8 +3,6 @@ title: "Darwinia crypto: network design, interoperability, and token roles"
 description: "Learn what Darwinia crypto refers to, how Darwinia Network approaches cross-chain interoperability, and what its associated assets are documented to do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Darwinia Network", "cross-chain interoperability", "RING token", "KTON token"]

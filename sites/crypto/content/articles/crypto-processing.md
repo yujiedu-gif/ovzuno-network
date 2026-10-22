@@ -3,8 +3,6 @@ title: "Crypto Processing: How a Payment Moves from Request to Reconciliation"
 description: "Learn how crypto processing moves a payment from request through network confirmation and reconciliation, including the roles and operational handoffs involved."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

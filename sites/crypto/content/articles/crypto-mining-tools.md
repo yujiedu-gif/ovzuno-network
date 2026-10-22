@@ -3,8 +3,6 @@ title: "Crypto Mining Tools: Categories, Uses, and Limitations"
 description: "Explore crypto mining tools by operational role, from configuration and monitoring to maintenance, with practical checks on dependencies and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto gift cards: How purchase and redemption work"
 description: "Learn how crypto gift cards move from cryptocurrency payment to retailer redemption, what terms can limit use, and which risks and rules to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto gift card"]

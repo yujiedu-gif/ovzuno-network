@@ -3,8 +3,6 @@ title: "Dapp Python: Where Python Fits in Decentralized Applications"
 description: "Explore dapp python architecture, including off-chain services, blockchain interaction, smart-contract boundaries, and practical security considerations for builders"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Python blockchain development", "smart contract application"]

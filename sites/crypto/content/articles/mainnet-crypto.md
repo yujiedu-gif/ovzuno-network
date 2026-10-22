@@ -3,8 +3,6 @@ title: "Mainnet crypto: how live blockchain networks relate to NFTs"
 description: "Learn what mainnet crypto means for NFTs, how live blockchain records relate to tokens and digital files, and what those records do not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

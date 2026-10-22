@@ -3,8 +3,6 @@ title: "Institutional custody crypto: a risk-control review"
 description: "A neutral review of institutional custody crypto risks, covering governance, key management, transaction approvals, resilience, and due-diligence evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: []

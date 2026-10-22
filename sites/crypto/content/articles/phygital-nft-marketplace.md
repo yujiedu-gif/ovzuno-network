@@ -3,8 +3,6 @@ title: "Phygital NFT Marketplace: How Tokens Connect to Physical Items"
 description: "Learn how a phygital nft marketplace can link NFTs to physical goods, what redemption and ownership records may mean, and which trust assumptions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["physical-to-digital assets", "NFT redemption"]

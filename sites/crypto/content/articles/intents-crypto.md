@@ -3,8 +3,6 @@ title: "Intents Crypto: How Intent-Based Transactions Can Shape Payments"
 description: "Learn what intents crypto means, how intent-based transactions work, and how users, solvers, constraints, and settlement fit into crypto payment flows."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto intents"]

@@ -3,8 +3,6 @@ title: "Cryptocurrency Investigation Certification: Scope and Evaluation"
 description: "Learn what a cryptocurrency investigation certification may cover, how to assess its curriculum and assessment, and what to verify about recognition and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency investigator certification"]

@@ -3,8 +3,6 @@ title: "Crypto Layer 2 Projects: How Their Architectures Relate to Base Chains"
 description: "Understand crypto layer 2 projects through their base-chain relationship, execution model, data availability, and settlement or proof design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["layer 2 blockchain", "rollup", "data availability", "settlement layer"]

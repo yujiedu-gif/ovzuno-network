@@ -3,8 +3,6 @@ title: "STEPN smart contract: what runs on-chain and what to verify"
 description: "Learn how to assess the STEPN smart contract, distinguish on-chain actions from app functions, and verify contract claims against reliable network evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["STEPN contract addresses", "STEPN on-chain mechanics", "STEPN NFTs"]

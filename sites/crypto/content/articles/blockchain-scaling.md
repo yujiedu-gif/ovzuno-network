@@ -3,8 +3,6 @@ title: "Blockchain Scaling: Approaches to Increasing Network Capacity"
 description: "Learn what blockchain scaling means, how on-chain and layered approaches address transaction capacity, and which security and decentralization trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

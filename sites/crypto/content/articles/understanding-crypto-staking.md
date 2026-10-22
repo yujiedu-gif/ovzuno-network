@@ -3,8 +3,6 @@ title: "Understanding Crypto Staking: Roles, Process, and Risks"
 description: "Understanding crypto staking means knowing how participants support proof-of-stake networks, what validators do, and which rules and risks vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking validators", "staking rewards", "validator responsibilities", "staking risks"]

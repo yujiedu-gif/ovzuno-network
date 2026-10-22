@@ -3,8 +3,6 @@ title: "DeSo Cryptocurrency: Blockchain, Token, and Social Applications"
 description: "Explore deso cryptocurrency by distinguishing its blockchain, native token, and social applications, and see which technical and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

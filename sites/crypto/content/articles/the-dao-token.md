@@ -3,8 +3,6 @@ title: "The DAO token: its role in The DAO and its history"
 description: "Learn what the DAO token represented in The DAO project, how it related to the project's intended governance, and how the 2016 exploit and Ethereum fork shaped its."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["dao token"]

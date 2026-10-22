@@ -3,8 +3,6 @@ title: "Tokenization in blockchain: how digital tokens represent assets and righ
 description: "Learn how tokenization in blockchain links on-chain tokens to assets or rights, how token rules work, and what technical and legal limits to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain tokenization", "on-chain token"]

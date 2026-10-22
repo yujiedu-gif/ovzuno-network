@@ -3,8 +3,6 @@ title: "Crypto exchanges in uae: jurisdiction and authorization checks"
 description: "Learn how to assess crypto exchanges in uae by checking jurisdiction, activity scope, authorization claims, and operational disclosures against current official"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["uae crypto exchange"]

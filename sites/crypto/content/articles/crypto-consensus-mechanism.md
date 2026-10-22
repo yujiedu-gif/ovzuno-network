@@ -3,8 +3,6 @@ title: "Crypto consensus mechanism: how blockchain networks agree"
 description: "Learn what a crypto consensus mechanism does, how networks agree on valid state changes, and how proof of work differs from proof of stake."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

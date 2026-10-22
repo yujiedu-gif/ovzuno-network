@@ -3,8 +3,6 @@ title: "Cards Crypto: How Crypto-Linked Payment Cards Are Structured"
 description: "Cards crypto explained: learn the core participants, account and custody models, and design choices behind crypto-linked payment cards, without provider rankings."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card", "card crypto"]

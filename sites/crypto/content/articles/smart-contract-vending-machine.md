@@ -3,8 +3,6 @@ title: "Smart contract vending machine: how the concept works"
 description: "Learn what a smart contract vending machine means, how on-chain rules may interact with physical hardware, and where operational limits and risks remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

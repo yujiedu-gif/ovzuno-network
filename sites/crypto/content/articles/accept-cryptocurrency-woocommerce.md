@@ -3,8 +3,6 @@ title: "How to Accept Cryptocurrency WooCommerce: Setup and Testing Guide"
 description: "Learn how to accept cryptocurrency woocommerce by assessing a WooCommerce payment integration, configuring checkout settings, and validating order handling before a"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["WooCommerce crypto payment gateway", "crypto payment plugin for WooCommerce", "WooCommerce cryptocurrency checkout"]

@@ -3,8 +3,6 @@ title: "Moonbirds smart contract: how to identify and interpret it"
 description: "Learn how to identify the Moonbirds smart contract, inspect verified code and on-chain records, and separate what the blockchain shows from what it cannot confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

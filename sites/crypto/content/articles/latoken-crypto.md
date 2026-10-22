@@ -3,8 +3,6 @@ title: "LATOKEN Crypto: Platform, Tokens, and Listed Assets Explained"
 description: "Learn what LATOKEN crypto may refer to, how the platform differs from associated tokens and listed assets, and which details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

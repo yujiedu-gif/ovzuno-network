@@ -3,8 +3,6 @@ title: "Blockchain securities settlement: process, records, and finality"
 description: "Understand blockchain securities settlement, from transaction authorization and asset records to settlement finality, dependencies, and questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

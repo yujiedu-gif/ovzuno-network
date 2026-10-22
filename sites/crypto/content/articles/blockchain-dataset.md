@@ -3,8 +3,6 @@ title: "Blockchain dataset: meaning, contents, and scope"
 description: "Learn what a blockchain dataset is, which records it may contain, how datasets differ by scope, and why coverage and completeness can vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["on-chain data", "blockchain data", "transaction data"]

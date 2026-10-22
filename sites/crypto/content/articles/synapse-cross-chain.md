@@ -3,8 +3,6 @@ title: "Synapse cross chain: How the interoperability design works"
 description: "Understand how Synapse cross chain is designed to connect blockchain networks, which components support that flow, and what technical and security details need"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

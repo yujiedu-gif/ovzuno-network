@@ -3,8 +3,6 @@ title: "Old crypto exchanges: meaning, status, and due diligence"
 description: "Learn what old crypto exchanges means, why age does not establish current operating status, and what to verify about access, records, security, and compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["old crypto exchange"]

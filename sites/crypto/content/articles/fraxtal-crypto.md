@@ -3,8 +3,6 @@ title: "Fraxtal crypto: How staking and validators fit the network"
 description: "Understand how Fraxtal crypto relates to staking and validators, which network components perform those roles, and what to verify in current documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

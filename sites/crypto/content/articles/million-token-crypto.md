@@ -3,8 +3,6 @@ title: "Million token crypto: identity, purpose, and what to verify"
 description: "Learn what million token crypto refers to, how to verify the MM token’s identity and published specifications, and which claims need current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

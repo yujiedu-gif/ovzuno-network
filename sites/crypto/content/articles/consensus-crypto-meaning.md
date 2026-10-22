@@ -3,8 +3,6 @@ title: "Consensus crypto meaning: how networks agree on ledger state"
 description: "Learn the consensus crypto meaning: how a network coordinates agreement on valid transactions and shared ledger state, and how consensus differs from mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["consensus crypto"]

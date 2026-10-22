@@ -3,8 +3,6 @@ title: "Proof of work token: how consensus relates to digital assets"
 description: "Learn what proof of work token can mean, how proof-of-work consensus differs from a token, and what to verify in a network’s documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work token"]

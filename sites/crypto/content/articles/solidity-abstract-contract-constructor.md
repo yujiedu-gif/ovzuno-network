@@ -3,8 +3,6 @@ title: "Solidity abstract contract constructor: declaration and inheritance"
 description: "Learn how a solidity abstract contract constructor is declared, when it runs through inheritance, and how derived contracts provide its arguments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["abstract contracts in Solidity", "Solidity constructors", "constructor inheritance"]

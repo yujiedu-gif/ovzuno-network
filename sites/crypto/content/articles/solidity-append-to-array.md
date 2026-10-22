@@ -3,8 +3,6 @@ title: "Solidity Append to Array: How Dynamic Array Growth Works"
 description: "Learn how Solidity append to array operations work for dynamic arrays, how storage differs from memory, and what developers should consider about execution costs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["solidity append array"]

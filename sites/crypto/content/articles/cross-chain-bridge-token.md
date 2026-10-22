@@ -3,8 +3,6 @@ title: "Cross chain bridge token: meanings, roles, and verification"
 description: "Learn what cross chain bridge token can mean, how transferred assets differ from destination-chain representations, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

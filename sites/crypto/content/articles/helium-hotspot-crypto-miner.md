@@ -3,8 +3,6 @@ title: "Helium hotspot crypto miner: what it does and how it differs"
 description: "Learn what a helium hotspot crypto miner does in the Helium network, how its role differs from proof-of-work mining, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

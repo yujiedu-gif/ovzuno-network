@@ -3,8 +3,6 @@ title: "How to create solidity contract: a beginner’s build-and-test guide"
 description: "Learn how to create solidity contract code, understand its structure, test basic behavior, and review key risks before considering deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

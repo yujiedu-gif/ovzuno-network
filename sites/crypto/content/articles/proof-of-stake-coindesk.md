@@ -3,8 +3,6 @@ title: "Proof of stake coindesk: understanding the coverage and consensus term"
 description: "Learn how to interpret proof of stake coindesk searches, distinguish CoinDesk coverage from the consensus mechanism, and verify the context of a claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake coindesk"]

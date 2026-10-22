@@ -3,8 +3,6 @@ title: "uTorrent crypto mining: what the phrase means"
 description: "Understand what “utorrent crypto mining” can refer to, how it differs from uTorrent’s file-sharing function, and what evidence a device-level claim needs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

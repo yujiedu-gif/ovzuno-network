@@ -3,8 +3,6 @@ title: "Tech Pay Blockchain: How Blockchain-Based Payments Work"
 description: "Explore tech pay blockchain fundamentals: how payment instructions move through a network, how transactions are validated and recorded, and what users should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto XLM: What the Stellar Network’s Native Asset Is"
 description: "Learn what crypto XLM refers to, how it relates to the Stellar network, and which claims about its functions or institutional use need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["xlm crypto"]

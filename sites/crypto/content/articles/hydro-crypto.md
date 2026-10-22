@@ -3,8 +3,6 @@ title: "Hydro crypto: identifying the term in DAO governance"
 description: "Learn how to identify what hydro crypto refers to in DAO-governance materials, distinguish project claims from general concepts, and verify primary records."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

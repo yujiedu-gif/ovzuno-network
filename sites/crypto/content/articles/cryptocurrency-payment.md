@@ -3,8 +3,6 @@ title: "Cryptocurrency Payment: How a Transaction Moves from Payer to Recipient"
 description: "Learn how a cryptocurrency payment moves from payer to recipient, including transaction signing, network validation, confirmation, settlement, and key operational."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency payments"]

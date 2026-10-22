@@ -3,8 +3,6 @@ title: "Businesses Accepting Cryptocurrency: Payment Flows and Decisions"
 description: "Learn what businesses accepting cryptocurrency need to assess across customer payment flows, settlement, recordkeeping, operational controls, and jurisdictional risk"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Intellectual property blockchain: what records can and cannot show"
 description: "Understand what an intellectual property blockchain record may document, how it differs from legal ownership, and what evidence still needs verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain intellectual property"]

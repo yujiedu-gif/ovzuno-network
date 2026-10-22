@@ -3,8 +3,6 @@ title: "Cryptocurrency Gas Fee: A Cost Model for Estimating On-Chain Transaction
 description: "A practical cost model for estimating a cryptocurrency gas fee, identifying required network inputs, conversion assumptions, and sources of uncertainty."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

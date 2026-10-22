@@ -3,8 +3,6 @@ title: "Norton Crypto: Its Mining Feature and Proof-of-Work Context"
 description: "Learn what Norton Crypto referred to, how its described mining feature fits proof-of-work, and which product, security, availability, and fee claims need evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

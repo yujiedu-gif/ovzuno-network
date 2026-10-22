@@ -3,8 +3,6 @@ title: "Crypto market insights: data signals and infrastructure context"
 description: "Learn how crypto market insights relate to data coverage, provenance, latency, and limitations when evaluating digital-asset market infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

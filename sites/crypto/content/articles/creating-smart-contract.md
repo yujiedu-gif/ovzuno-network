@@ -3,8 +3,6 @@ title: "Creating Smart Contract: A Developer’s Guide to the Build and Review P
 description: "Learn the stages of creating smart contract code, from defining behavior and testing to security review and deployment checks, with practical limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["create smart contract"]

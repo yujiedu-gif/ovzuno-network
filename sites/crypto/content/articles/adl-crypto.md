@@ -3,8 +3,6 @@ title: "adl crypto: Meaning and Difference From Staking"
 description: "Understand adl crypto terminology, how auto-deleveraging may operate in platform-specific trading systems, and why it is distinct from staking and validator duties."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto adl"]

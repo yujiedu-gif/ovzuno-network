@@ -3,8 +3,6 @@ title: "kryptex crypto: Is It a Staking or Validator Service?"
 description: "Learn what kryptex crypto refers to and whether available evidence supports describing Kryptex as a staking or validator service, without conflating it with mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

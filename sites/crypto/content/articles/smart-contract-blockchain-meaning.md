@@ -3,8 +3,6 @@ title: "Smart Contract Blockchain Meaning: Code, Execution, and Limits"
 description: "Understand smart contract blockchain meaning, how blockchain code runs after transactions, what state changes it can make, and what execution does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract blockchain"]

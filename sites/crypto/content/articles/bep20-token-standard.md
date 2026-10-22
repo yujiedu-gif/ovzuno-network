@@ -3,8 +3,6 @@ title: "BEP20 token standard: interface, behavior, and limits"
 description: "Learn what the BEP20 token standard specifies, which contract functions and events support compatible token interactions, and what compliance does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

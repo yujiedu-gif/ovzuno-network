@@ -3,8 +3,6 @@ title: "NFT blockchain withdrawal: what the term means"
 description: "Understand what NFT blockchain withdrawal can mean, how an NFT transfer differs from withdrawing crypto, and which details depend on a platform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

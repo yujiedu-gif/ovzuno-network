@@ -3,8 +3,6 @@ title: "mine crypto online: Methods, Mechanics, and Limits"
 description: "Learn what it means to mine crypto online, how browser, hosted, and remotely managed mining differ, and which technical and operational limits to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["browser crypto mining", "cloud mining", "proof-of-work mining"]

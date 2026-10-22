@@ -3,8 +3,6 @@ title: "P2P Crypto Exchange: How Matching, Payment, and Settlement Work"
 description: "Learn how a p2p crypto exchange coordinates counterparties, payment confirmation, escrow where used, and crypto settlement, plus the model’s operational risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["peer-to-peer crypto trading", "escrow", "order matching"]

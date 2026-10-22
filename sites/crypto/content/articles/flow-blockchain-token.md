@@ -3,8 +3,6 @@ title: "Flow Blockchain Token: How a Token Transfer Is Processed"
 description: "Follow a flow blockchain token transfer from transaction setup and authorization through Flow network processing, execution, and confirmation of its recorded outcome"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

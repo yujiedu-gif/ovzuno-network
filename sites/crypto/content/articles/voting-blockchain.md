@@ -3,8 +3,6 @@ title: "What is a voting blockchain? Definition, components, and limits"
 description: "A voting blockchain records ballot-related events on a distributed ledger. Learn its components, limits, privacy trade-offs, and how it differs from online voting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain voting"]

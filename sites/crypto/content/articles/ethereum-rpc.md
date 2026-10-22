@@ -3,8 +3,6 @@ title: "Ethereum RPC: What It Is and How It Connects Applications to Ethereum"
 description: "Learn what ethereum rpc means, how JSON-RPC connects applications with Ethereum nodes, and what an RPC interface does—and does not—provide."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["Ethereum JSON-RPC", "RPC endpoint", "Ethereum node"]

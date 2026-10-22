@@ -3,8 +3,6 @@ title: "DeFi Decentralized Exchange: Core Components and Trade Flow"
 description: "Learn how a defi decentralized exchange connects users, smart contracts and blockchain settlement, and what protocol components and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["DEX architecture", "on-chain trade execution", "liquidity pools", "smart contract risks"]

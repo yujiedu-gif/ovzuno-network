@@ -3,8 +3,6 @@ title: "White label crypto wallet: features, custody, and responsibilities"
 description: "Learn what a white label crypto wallet is, which features a business may configure, and how custody, operations, and provider responsibilities differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["branded crypto wallet", "wallet infrastructure", "custody model", "wallet provider"]

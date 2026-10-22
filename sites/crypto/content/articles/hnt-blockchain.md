@@ -3,8 +3,6 @@ title: "hnt blockchain: HNT’s Role in Helium’s Network Architecture"
 description: "Learn what the hnt blockchain term refers to, how HNT relates to Helium’s network architecture, and which technical details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

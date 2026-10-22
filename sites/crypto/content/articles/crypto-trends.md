@@ -3,8 +3,6 @@ title: "Crypto Trends: A Definition for Security, Compliance, and Operations"
 description: "Learn what crypto trends mean for security, compliance, and operations, how to evaluate reported changes, and what evidence to verify before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["trending cryptos"]

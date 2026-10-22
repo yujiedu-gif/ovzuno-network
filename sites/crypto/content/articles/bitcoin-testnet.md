@@ -3,8 +3,6 @@ title: "Bitcoin testnet: purpose, test coins, and limits"
 description: "Learn what bitcoin testnet is, how testnet bitcoins differ from mainnet bitcoin, and why the network is used to test Bitcoin software and workflows."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["testnet bitcoins"]

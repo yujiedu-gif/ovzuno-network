@@ -3,8 +3,6 @@ title: "Tao blockchain: What the term means and how it relates to TAO"
 description: "Learn what tao blockchain refers to, how the term relates to TAO and Bittensor, and which network details should be checked against current documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

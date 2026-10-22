@@ -3,8 +3,6 @@ title: "Candy Netflix NFT: What the Phrase Could Mean"
 description: "Learn what candy netflix nft may refer to, how to verify claims about a Netflix-related NFT, and why a token does not by itself establish media ownership or rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "ondo crypto symbol: What ONDO Identifies and Its Staking Role"
 description: "Learn what the ondo crypto symbol identifies and how to verify whether ONDO has a documented role in staking or validator operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

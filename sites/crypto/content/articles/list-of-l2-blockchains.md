@@ -3,8 +3,6 @@ title: "List of l2 blockchains: examples and how they differ"
 description: "Explore a non-exhaustive list of l2 blockchains, with clear criteria for identifying Layer 2 networks and distinguishing their scaling approaches."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["list 2 blockchains"]

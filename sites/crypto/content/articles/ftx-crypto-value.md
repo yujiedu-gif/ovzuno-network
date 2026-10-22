@@ -3,8 +3,6 @@ title: "FTX crypto value: what the figure may refer to"
 description: "Learn what FTX crypto value may mean, how FTT token figures differ from business valuations and bankruptcy claims, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

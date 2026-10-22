@@ -3,8 +3,6 @@ title: "Crypto Pools in Exchange Market Infrastructure: Meaning and Models"
 description: "Learn what crypto pools can mean in exchange-market infrastructure, how pooled liquidity is organized and routed, and how this differs from DeFi pools."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

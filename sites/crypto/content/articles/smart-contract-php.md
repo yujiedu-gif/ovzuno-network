@@ -3,8 +3,6 @@ title: "Smart Contract PHP: Where PHP Fits in Blockchain Applications"
 description: "Learn how smart contract PHP fits into blockchain applications, what PHP can do off-chain, and why contract execution happens on supported networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["php smart contracts"]

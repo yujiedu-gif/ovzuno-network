@@ -3,8 +3,6 @@ title: "Ethereum mempool: What it is and how pending transactions work"
 description: "Learn what the ethereum mempool is, how nodes handle pending transactions, and why a transaction's presence there does not guarantee block inclusion."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["mempool ethereum"]

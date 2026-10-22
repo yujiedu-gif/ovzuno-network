@@ -3,8 +3,6 @@ title: "Carbon Credits Blockchain: How On-Chain Tracking Works"
 description: "Learn how carbon credits blockchain systems can represent and track credits, how transfers may be recorded, and why ledger data alone cannot verify outcomes."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

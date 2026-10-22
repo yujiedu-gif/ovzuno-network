@@ -3,8 +3,6 @@ title: "How to integrate a crypto currency converter api safely"
 description: "Learn how to integrate a crypto currency converter api, handle rate freshness and API failures, and distinguish indicative conversions from payment settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

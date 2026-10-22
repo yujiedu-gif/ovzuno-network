@@ -3,8 +3,6 @@ title: "Dash crypto: what it is and how its payment network works"
 description: "Learn what dash crypto is, how the Dash network relates to payments, and which transaction, security, and jurisdiction-specific details to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["Dash cryptocurrency", "Dash network", "Dash payments"]

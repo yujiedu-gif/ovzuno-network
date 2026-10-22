@@ -3,8 +3,6 @@ title: "Multi coin crypto payment gateway: how multi-asset payments work"
 description: "Learn how a multi coin crypto payment gateway handles asset selection, payment instructions, confirmation, settlement, and operational checks for businesses."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Decentralized exchange cryptocurrency: how a DEX trade works"
 description: "Learn how a decentralized exchange cryptocurrency trade moves from wallet authorization through protocol execution and on-chain settlement, including key limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["DEX trading", "non-custodial exchange", "on-chain trade execution"]

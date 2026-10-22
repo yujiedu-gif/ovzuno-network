@@ -3,8 +3,6 @@ title: "Truffle Smart Contract Workflows: Development, Testing, and Deployment"
 description: "Learn how truffle smart contract workflows organize project setup, compilation, testing, and deployment, plus what developers should verify before relying on tooling"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Truffle Suite", "smart contract development framework", "contract compilation", "local blockchain testing"]

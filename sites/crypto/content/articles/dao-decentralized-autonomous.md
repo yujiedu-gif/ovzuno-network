@@ -3,8 +3,6 @@ title: "DAO Decentralized Autonomous: How Governance Decisions Work"
 description: "Understand how DAO decentralized autonomous governance connects proposals, participant decisions, and execution, and where processes may extend beyond on-chain code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

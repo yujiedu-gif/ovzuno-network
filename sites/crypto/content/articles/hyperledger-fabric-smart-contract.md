@@ -3,8 +3,6 @@ title: "Hyperledger Fabric Smart Contract: How Chaincode Works"
 description: "Learn how a Hyperledger Fabric smart contract, commonly called chaincode, defines business logic and participates in transaction endorsement and ledger updates."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Nick Szabo Smart Contracts 1994: The Original Concept and Its Limits"
 description: "Explore Nick Szabo smart contracts 1994: the proposal’s core idea, its vending-machine analogy, and how it differs from blockchain-based programs today."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain transaction explained: from submission to confirmation"
 description: "Blockchain transaction explained: follow a network-neutral transaction from submission through validation, block inclusion, and confirmation, with key terms defined."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain transaction"]

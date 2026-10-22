@@ -3,8 +3,6 @@ title: "Metal Crypto Debit Card: What the Material Means"
 description: "Learn what a metal crypto debit card’s physical construction does and does not indicate, and which payment, account, and jurisdiction-specific details require review"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

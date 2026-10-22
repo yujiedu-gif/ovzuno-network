@@ -3,8 +3,6 @@ title: "How to bitcoin mine: a technical setup guide"
 description: "Learn how to bitcoin mine by understanding proof of work, hardware and power needs, pool and wallet setup, and operational risks before you begin."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoin mine"]

@@ -3,8 +3,6 @@ title: "Aptos crypto token: its role in the Aptos network"
 description: "Learn what the Aptos crypto token is, how it relates to the Aptos network, and which protocol functions it serves, without investment or price claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto exchange platform: an infrastructure evaluation framework"
 description: "Assess a crypto exchange platform by operating model, custody and security controls, trading functions, integrations, resilience, and verifiable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["exchange_market_infrastructure"]
 tags: []

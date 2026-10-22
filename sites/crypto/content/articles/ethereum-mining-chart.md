@@ -3,8 +3,6 @@ title: "Ethereum Mining Chart: Meaning and Historical Context"
 description: "Understand what an ethereum mining chart may measure, how to read its historical proof-of-work context, and why it does not describe current Ethereum mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum mining charts"]

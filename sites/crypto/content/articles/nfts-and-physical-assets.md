@@ -3,8 +3,6 @@ title: "NFTs and Physical Assets: How the Link Works"
 description: "Learn how NFTs and physical assets can be linked through identifiers, records, and custody processes—and why an on-chain token alone may not prove ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: ["nfts physical assets"]

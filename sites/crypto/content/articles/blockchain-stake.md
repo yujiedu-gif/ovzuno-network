@@ -3,8 +3,6 @@ title: "Blockchain stake: meaning in consensus systems"
 description: "Learn what blockchain stake means in consensus systems, how stake can influence block validation, and why rules differ across protocols."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain staking"]

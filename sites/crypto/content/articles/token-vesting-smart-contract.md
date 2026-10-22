@@ -3,8 +3,6 @@ title: "Token vesting smart contract: schedules, mechanics, and risks"
 description: "Learn how a token vesting smart contract can govern scheduled token releases, which parameters shape a vesting plan, and what implementation risks to review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

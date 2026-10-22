@@ -3,8 +3,6 @@ title: "Dutch auction smart contract: mechanics, lifecycle, and risks"
 description: "Learn how a dutch auction smart contract models price changes, bids, and settlement, and what design, security, and verification questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

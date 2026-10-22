@@ -3,8 +3,6 @@ title: "Cryptocurrency farming explained: meaning, mechanisms, and risks"
 description: "Cryptocurrency farming explained: learn what the term means, how common reward mechanisms work, and what protocol, security, and participation risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency farming"]

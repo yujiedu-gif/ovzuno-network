@@ -3,8 +3,6 @@ title: "Consensus Algorithm in Blockchain PPT: A Clear Explainer"
 description: "A consensus algorithm in blockchain ppt guide explaining how distributed nodes agree on valid transactions, with a clear comparison of core mechanisms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

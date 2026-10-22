@@ -3,8 +3,6 @@ title: "Quantum computer crypto mining: meaning and potential impact"
 description: "Learn what quantum computer crypto mining means, how it differs from conventional proof-of-work mining, and what evidence is needed to assess its potential impact."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

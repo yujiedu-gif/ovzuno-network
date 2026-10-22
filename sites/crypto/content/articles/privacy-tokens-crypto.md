@@ -3,8 +3,6 @@ title: "Privacy tokens crypto: how privacy mechanisms work"
 description: "Learn how privacy tokens crypto use cryptographic techniques to limit transaction visibility, what information may remain exposed, and where privacy can fall short."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["privacy token crypto"]

@@ -3,8 +3,6 @@ title: "Open source crypto exchange: what the software includes and leaves to op
 description: "Learn what an open source crypto exchange makes available, what its software may include, and which security, operational, and legal duties remain with operators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

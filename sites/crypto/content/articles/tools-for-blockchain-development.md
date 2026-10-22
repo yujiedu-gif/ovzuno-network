@@ -3,8 +3,6 @@ title: "Tools for blockchain development: a workflow-based selection guide"
 description: "Learn how to evaluate tools for blockchain development across smart-contract coding, testing, deployment, and maintenance, with practical selection criteria."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["tools blockchain development"]

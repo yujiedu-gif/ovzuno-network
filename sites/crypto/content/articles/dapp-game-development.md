@@ -3,8 +3,6 @@ title: "Dapp Game Development: A Practical Planning and Implementation Guide"
 description: "A practical guide to dapp game development, covering on-chain boundaries, game architecture, smart-contract testing, security reviews, and release planning."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

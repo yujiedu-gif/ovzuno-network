@@ -3,8 +3,6 @@ title: "Ether crypto: What Ether is and how it relates to Ethereum"
 description: "Learn what ether crypto means, how Ether differs from Ethereum, and how ETH may relate to crypto-card spending without conflating card payments with on-chain use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

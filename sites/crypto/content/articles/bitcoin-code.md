@@ -3,8 +3,6 @@ title: "bitcoin code: How Protocol Rules and Node Software Fit Together"
 description: "Explore what bitcoin code defines, how node software applies protocol rules, and why a software implementation is not the Bitcoin network itself."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins code"]

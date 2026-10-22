@@ -3,8 +3,6 @@ title: "Scaling crypto: What it means and how approaches differ"
 description: "Learn what scaling crypto means, which parts of a blockchain system can change, and how capacity approaches involve trade-offs in verification and coordination."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

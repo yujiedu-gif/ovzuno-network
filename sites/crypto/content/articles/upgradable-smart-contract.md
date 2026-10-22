@@ -3,8 +3,6 @@ title: "Upgradable smart contract: how post-deployment changes work"
 description: "Learn how an upgradable smart contract separates stored state from replaceable logic, how upgrades are controlled, and what security and trust trade-offs arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract upgradeability", "proxy contract", "implementation contract", "upgrade administrator"]

@@ -3,8 +3,6 @@ title: "Gnosis Safe smart contract: owners, approvals, and execution"
 description: "Learn how a Gnosis Safe smart contract coordinates owners, approval thresholds, and transaction execution, plus which deployment details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

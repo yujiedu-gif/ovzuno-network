@@ -3,8 +3,6 @@ title: "Candy WWE NFT: What the Digital Collectible Represents"
 description: "Learn what a candy wwe nft represents, how its token relates to associated digital content, and where to verify any holder rights or access terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "AMM DeFi Platform Evaluation: A Framework for Teams"
 description: "Use this framework to evaluate an amm defi platform by its market design, integration needs, operational dependencies, and evidence gaps—without vendor rankings."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["defi_protocols"]
 tags: []

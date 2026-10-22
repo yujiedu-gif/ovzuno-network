@@ -3,8 +3,6 @@ title: "Biggest DEX Crypto: What “Biggest” Means Across Trading Metrics"
 description: "Biggest dex crypto claims depend on the metric, time window, chains, and data source used. Learn how to compare DEX size measures without assuming one winner."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

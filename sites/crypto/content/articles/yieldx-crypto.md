@@ -3,8 +3,6 @@ title: "Yieldx crypto: What the Term Refers To and How to Verify Its Staking Cla
 description: "Learn how to identify what yieldx crypto refers to, verify any documented staking or validator functions, and separate evidence from assumptions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

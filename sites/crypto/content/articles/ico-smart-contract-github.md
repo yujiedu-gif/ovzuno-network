@@ -3,8 +3,6 @@ title: "ICO Smart Contract GitHub: What a Repository Can Tell You"
 description: "Learn what an ICO smart contract GitHub repository may contain, how to review its code and documentation, and what GitHub alone cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

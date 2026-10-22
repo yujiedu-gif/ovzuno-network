@@ -3,8 +3,6 @@ title: "Piston token crypto: how to verify its identity and stated purpose"
 description: "Learn how to verify the identity, blockchain, project affiliation, and stated function of Piston token crypto using authoritative records and cautious checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Etherland crypto: what the name refers to and how to verify it"
 description: "Learn what etherland crypto may refer to, how to assess available documentation and identifiers, and what to verify before treating a name as a project or asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

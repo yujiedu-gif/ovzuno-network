@@ -3,8 +3,6 @@ title: "NFT collectables: tokens, digital content, and ownership explained"
 description: "Understand NFT collectables by separating the blockchain token from linked digital content and clarifying what ownership records do—and do not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

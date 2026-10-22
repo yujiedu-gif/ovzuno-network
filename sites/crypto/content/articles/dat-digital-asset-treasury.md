@@ -3,8 +3,6 @@ title: "DAT Digital Asset Treasury: Meaning and DAO Governance"
 description: "Learn what a dat digital asset treasury means in a DAO context, how governance relates to treasury decisions, and which topics this overview does not cover."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["digital asset treasury", "corporate crypto holdings", "treasury governance"]

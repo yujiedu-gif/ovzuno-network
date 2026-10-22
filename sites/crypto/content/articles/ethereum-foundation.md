@@ -3,8 +3,6 @@ title: "ethereum foundation: Role and Relationship to Ethereum"
 description: "Learn what the ethereum foundation is, how its role relates to the Ethereum ecosystem, and why the organization should not be confused with the network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["Ethereum Foundation role", "Ethereum ecosystem"]

@@ -3,8 +3,6 @@ title: "EarnX crypto: how to identify the project or asset behind the name"
 description: "Learn how to identify what “EarnX crypto” refers to, verify project claims against primary documentation, and separate confirmed details from uncertainty."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

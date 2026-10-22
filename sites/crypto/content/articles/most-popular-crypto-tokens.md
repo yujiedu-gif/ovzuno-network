@@ -3,8 +3,6 @@ title: "Most popular crypto tokens: how to interpret adoption measures"
 description: "Learn how to assess most popular crypto tokens using dated adoption and usage measures, and why popularity alone does not establish quality or investment merit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

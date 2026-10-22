@@ -3,8 +3,6 @@ title: "Evolution of Cryptocurrency: Technology, Regulation, and Reporting"
 description: "Trace the evolution of cryptocurrency from early digital money to broader infrastructure, and see how regulation and tax reporting have developed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["evolution cryptocurrency"]

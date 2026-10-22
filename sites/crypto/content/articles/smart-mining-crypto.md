@@ -3,8 +3,6 @@ title: "Smart mining crypto: meaning, mechanisms, and limits"
 description: "Learn what smart mining crypto may refer to, how it differs from conventional mining and automation, and what to verify before trusting specific claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "ADA proof of stake: how Cardano uses stake pools and delegation"
 description: "Learn how ADA proof of stake works on Cardano, including how stake pools and delegation relate to consensus, and what the explainer does not assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["ada proof stake"]

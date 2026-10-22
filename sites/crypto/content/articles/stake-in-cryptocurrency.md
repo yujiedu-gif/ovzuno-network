@@ -3,8 +3,6 @@ title: "Stake in cryptocurrency: what it means and what to check"
 description: "Learn what stake in cryptocurrency means, how committed assets relate to validators, and which protocol-dependent control and loss risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

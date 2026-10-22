@@ -3,8 +3,6 @@ title: "Free cryptocurrency api: how to evaluate access for payment prototypes"
 description: "Learn how to evaluate a free cryptocurrency api for a payment prototype, including data coverage, access limits, terms, and safe testing steps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

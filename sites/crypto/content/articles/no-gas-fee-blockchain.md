@@ -3,8 +3,6 @@ title: "No gas fee blockchain: How to assess the full cost structure"
 description: "Assess what a no gas fee blockchain claim covers, who may pay transaction costs, and which evidence to check before estimating operating expense."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

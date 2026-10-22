@@ -3,8 +3,6 @@ title: "Block Chain Proof of Work: How Consensus Validates Blocks"
 description: "Learn how block chain proof of work supports block validation, how nodes check computational proofs, and what security and resource trade-offs it involves."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["block chain proof work"]

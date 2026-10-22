@@ -3,8 +3,6 @@ title: "Ethereum roadmap: what it covers and how to read it"
 description: "Understand what the ethereum roadmap covers, how its protocol changes are grouped, and how to distinguish proposed work from completed upgrades."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

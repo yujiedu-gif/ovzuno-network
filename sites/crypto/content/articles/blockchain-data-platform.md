@@ -3,8 +3,6 @@ title: "Blockchain Data Platform: Capabilities and Evaluation Criteria"
 description: "Learn how to evaluate a blockchain data platform by data coverage, freshness, query access, operational fit, and risks to verify with providers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["onchain_data_analytics"]
 tags: []

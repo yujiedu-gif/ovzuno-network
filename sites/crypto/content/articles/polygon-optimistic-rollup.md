@@ -3,8 +3,6 @@ title: "Polygon Optimistic Rollup: How the Scaling Model Works"
 description: "Learn what a polygon optimistic rollup is, how transaction batches and fraud-proof disputes work, and which implementation details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["Polygon zkEVM", "optimistic rollup", "fraud proofs", "withdrawal challenge period"]

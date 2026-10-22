@@ -3,8 +3,6 @@ title: "Aptos blockchain token: identity and role in payment flows"
 description: "Understand the Aptos blockchain token, how it differs from the network, and what to verify before assessing its role in blockchain payment flows."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

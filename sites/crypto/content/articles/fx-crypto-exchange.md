@@ -3,8 +3,6 @@ title: "FX Crypto Exchange: Meaning and Market Infrastructure"
 description: "Understand what “fx crypto exchange” can mean, how FX and crypto exchange infrastructure differ, and which operational or regulatory claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

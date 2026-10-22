@@ -3,8 +3,6 @@ title: "Recurring crypto payments: how repeat transfers work"
 description: "Learn how recurring crypto payments can be requested or automated, what authorization and funding each model requires, and how missed or delayed transfers are"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["recurring crypto payment"]

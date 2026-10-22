@@ -3,8 +3,6 @@ title: "Bitcoin Treasuries: Meaning, Uses, and Key Considerations"
 description: "Learn what bitcoin treasuries are, how organizations may hold Bitcoin as a treasury asset, and which governance, custody, accounting, and risk questions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

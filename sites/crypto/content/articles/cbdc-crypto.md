@@ -3,8 +3,6 @@ title: "CBDC Crypto: What the Term Means and How It Differs from Cryptocurrency"
 description: "Learn what cbdc crypto means, how a central bank digital currency relates to crypto, and how issuer, liability, and design distinguish it from cryptocurrency."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "BRC20 smart contract: how the token standard works on Bitcoin"
 description: "Learn what “BRC20 smart contract” means, how BRC-20 uses Bitcoin inscriptions and indexing rules, and why it differs from executable smart contracts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["BRC-20 token standard", "Bitcoin Ordinals", "inscription-based token"]

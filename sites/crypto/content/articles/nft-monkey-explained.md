@@ -3,8 +3,6 @@ title: "nft monkey explained: meaning, tokens, and digital images"
 description: "Learn what nft monkey explained means, how a monkey-themed NFT relates to its token and digital image, and why associated ownership rights can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft monkey"]

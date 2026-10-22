@@ -3,8 +3,6 @@ title: "Crypto Miner: Role in Proof-of-Work Consensus"
 description: "Learn what a crypto miner is, how miners contribute computing work to proof-of-work consensus, and how that role differs from validating blocks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

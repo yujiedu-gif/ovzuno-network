@@ -3,8 +3,6 @@ title: "Crypto market explained: participants, venues, and infrastructure"
 description: "Crypto market explained: learn how participants, trading venues, and supporting infrastructure connect, and why the market is not a single exchange."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto market"]

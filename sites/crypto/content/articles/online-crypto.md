@@ -3,8 +3,6 @@ title: "Online crypto: how cryptocurrency payments work at checkout"
 description: "Understand online crypto payments, from direct merchant checkout to card-based conversion, and what to check about authorization, settlement, fees, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto online"]

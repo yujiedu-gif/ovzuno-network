@@ -3,8 +3,6 @@ title: "Hyperliquid blockchain: network, architecture, and ecosystem"
 description: "Learn what the hyperliquid blockchain refers to, how its core architecture fits together, and how the network relates to the wider Hyperliquid ecosystem."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

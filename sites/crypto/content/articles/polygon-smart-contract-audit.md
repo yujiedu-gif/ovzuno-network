@@ -3,8 +3,6 @@ title: "Polygon smart contract audit: scope, findings, and limits"
 description: "Learn what a polygon smart contract audit may examine, how to read its scope and findings, and which deployment and operational risks may remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Polygon smart contract security review", "smart contract audit scope"]

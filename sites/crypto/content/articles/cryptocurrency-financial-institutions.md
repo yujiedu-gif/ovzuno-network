@@ -3,8 +3,6 @@ title: "Cryptocurrency Financial Institutions: Roles in Crypto Infrastructure"
 description: "Learn how cryptocurrency financial institutions may connect to crypto infrastructure, distinguish core service roles, and identify questions that depend on local law"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto checker: what it checks in a payment workflow"
 description: "Learn what a crypto checker may verify in a payment workflow, how to read its result, and why a check alone cannot establish finality, legitimacy, or compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin website: types, purpose, and how to assess one"
 description: "Learn what a bitcoin website may offer, how protocol resources differ from third-party services, and what to check about operators, claims, and risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

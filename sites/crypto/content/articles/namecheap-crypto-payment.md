@@ -3,8 +3,6 @@ title: "Namecheap crypto payment: how to verify current options"
 description: "Learn how to verify whether Namecheap crypto payment is available for your purchase, where to check current checkout options, and what terms to confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

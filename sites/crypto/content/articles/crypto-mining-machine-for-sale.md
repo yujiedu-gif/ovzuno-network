@@ -3,8 +3,6 @@ title: "Crypto Mining Machine for Sale: What Buyers Should Verify"
 description: "Evaluate a crypto mining machine for sale by checking network compatibility, hardware specifications, operating needs, seller claims, and purchase risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["crypto mining machine sale"]

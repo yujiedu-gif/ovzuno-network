@@ -3,8 +3,6 @@ title: "Smart contract in nft: what it does in an NFT system"
 description: "Learn what a smart contract in nft does, how it can define token records and actions, and why metadata, media, and legal rights may be separate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["nft smart contract"]

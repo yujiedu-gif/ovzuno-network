@@ -3,8 +3,6 @@ title: "Timelock smart contract: how delayed execution works"
 description: "Learn how a timelock smart contract queues actions, applies a delay before execution, and shapes control, flexibility, and operational risk in decentralized systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract timelock", "time-delayed execution", "queued transaction", "delay period"]

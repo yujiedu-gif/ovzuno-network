@@ -3,8 +3,6 @@ title: "Hacken Crypto Audit: Scope, Findings, and Limitations"
 description: "Learn how to read a hacken crypto audit by checking its documented scope, methods, findings, remediation status, and limits on security assurance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

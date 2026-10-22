@@ -3,8 +3,6 @@ title: "Multi-Party Computation Blockchain: How Distributed Signing Works"
 description: "Learn how multi-party computation blockchain systems distribute signing work, how a transaction moves from request to broadcast, and what security assumptions remain"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["multiparty computation blockchain", "multi party computation blockchain"]

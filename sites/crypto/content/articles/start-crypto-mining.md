@@ -3,8 +3,6 @@ title: "Start Crypto Mining: A Pre-Setup Checklist for Proof-of-Work Operations"
 description: "Start crypto mining with a checklist for proof-of-work compatibility, equipment, software, power, cooling, operating costs, and local obligations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["proof-of-work mining", "mining hardware", "mining software", "mining operating costs"]

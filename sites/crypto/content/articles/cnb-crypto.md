@@ -3,8 +3,6 @@ title: "CNB Crypto: How to Identify What the Abbreviation Means"
 description: "Learn how to interpret CNB crypto references, distinguish an abbreviation from a verified asset or project, and check evidence before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

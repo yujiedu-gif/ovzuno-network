@@ -3,8 +3,6 @@ title: "Ethereum currency: what Ether is and how it relates to Ethereum"
 description: "Learn what ethereum currency usually means, how Ether relates to the Ethereum network, and why it is distinct from tokens issued on Ethereum."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ETH", "Ether", "Ethereum network"]

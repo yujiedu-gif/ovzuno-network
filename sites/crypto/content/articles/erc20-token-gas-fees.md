@@ -3,8 +3,6 @@ title: "ERC20 token gas fees: when they apply and what affects the cost"
 description: "Learn when ERC20 token gas fees apply, which actions require an Ethereum transaction, what affects the charge, and what to check before estimating it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["erc20 token gas fee"]

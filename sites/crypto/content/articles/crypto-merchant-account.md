@@ -3,8 +3,6 @@ title: "Crypto Merchant Account: Meaning, Roles, and Key Questions"
 description: "Understand what a crypto merchant account may refer to, how roles and funds flows differ, and what a business should clarify before choosing an arrangement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto account"]

@@ -3,8 +3,6 @@ title: "Payment Gateway Blockchain: How Gateway Workflows Connect to On-Chain Pa
 description: "Learn how a payment gateway blockchain workflow connects checkout, transaction submission, and network confirmation, and where gateway tasks differ from on-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

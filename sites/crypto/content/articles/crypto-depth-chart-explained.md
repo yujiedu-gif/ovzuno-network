@@ -3,8 +3,6 @@ title: "Crypto depth chart explained: reading bids, asks, and liquidity"
 description: "Crypto depth chart explained: learn how order-book bids and asks appear on a chart, what visible liquidity can indicate, and where interpretation has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto depth chart"]

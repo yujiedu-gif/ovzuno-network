@@ -3,8 +3,6 @@ title: "DeFi Wealth Management: Wallet Custody and Operational Controls"
 description: "Explore how wallet custody, transaction signing, and protocol access fit into DeFi wealth management, with operational risks and controls to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["DeFi portfolio management", "wallet custody", "on-chain asset management"]

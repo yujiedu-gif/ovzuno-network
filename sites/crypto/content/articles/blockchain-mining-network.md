@@ -3,8 +3,6 @@ title: "Blockchain Mining Network: How Proof of Work Supports Block Production"
 description: "Learn how a blockchain mining network uses proof of work to propose blocks, how other participants check them, and why mining is not the same as full network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof of work", "mining nodes", "block validation"]

@@ -3,8 +3,6 @@ title: "Azure Blockchain Development Kit: Purpose and Project Fit"
 description: "Learn what the azure blockchain development kit was intended to support, how to verify its current status, and what payment-project teams should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Explain blockchain like im 5: a simple guide to shared records"
 description: "Explain blockchain like im 5 with a simple shared-record analogy, how transactions are checked, and where the comparison has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain for beginners", "blockchain transactions"]

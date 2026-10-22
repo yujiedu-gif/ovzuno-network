@@ -3,8 +3,6 @@ title: "Azure crypto mining: technical fit, policies, and checks"
 description: "Understand Azure crypto mining, how proof-of-work workloads relate to cloud infrastructure, and which current policy, cost, security, and jurisdictional details to—"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["mining crypto on azure"]

@@ -3,8 +3,6 @@ title: "Whop crypto payments: how the checkout flow works"
 description: "Learn how Whop crypto payments may fit a digital-business checkout, what operators should verify about availability and transaction flow, and which details require a"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["whop crypto payment"]

@@ -3,8 +3,6 @@ title: "Digital Asset Summit: Meaning and How to Interpret the Term"
 description: "Learn what digital asset summit can mean in crypto-industry coverage, how a summit differs from the broader field, and which event details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

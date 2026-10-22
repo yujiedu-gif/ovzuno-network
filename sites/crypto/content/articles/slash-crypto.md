@@ -3,8 +3,6 @@ title: "Slash crypto: What slashing means in proof-of-stake networks"
 description: "Learn what slash crypto means in proof-of-stake networks, why validators may be penalized, how stake can be affected, and why rules vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["slashing crypto"]

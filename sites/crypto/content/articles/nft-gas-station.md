@@ -3,8 +3,6 @@ title: "NFT Gas Station: How Sponsored Fees Work in NFT Apps"
 description: "Learn what an nft gas station means, how NFT apps may sponsor or abstract network fees, and what users should verify about limits, security, and transactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Learning Solidity: A Beginner’s Roadmap to Smart Contracts"
 description: "Learning Solidity starts with programming fundamentals, then moves through contract structure, testing, and security concepts before any deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

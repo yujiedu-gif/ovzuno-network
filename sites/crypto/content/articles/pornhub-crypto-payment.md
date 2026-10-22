@@ -3,8 +3,6 @@ title: "Pornhub crypto payment: what the term means and how to verify availabili
 description: "Learn what “Pornhub crypto payment” refers to, how to check official payment information, and why availability and terms may vary by region and change over time."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Most Scalable Crypto: What Scalability Means in Practice"
 description: "Learn what most scalable crypto can mean, why results depend on workload, and which capacity, reliability, cost, and decentralization measures matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

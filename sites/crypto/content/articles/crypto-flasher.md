@@ -3,8 +3,6 @@ title: "Crypto flasher: meaning, payment claims, and verification"
 description: "Understand what crypto flasher may mean in payment claims, how it differs from verified crypto transactions, and what readers should check before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

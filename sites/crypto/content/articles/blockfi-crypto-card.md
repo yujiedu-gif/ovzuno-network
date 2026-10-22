@@ -3,8 +3,6 @@ title: "BlockFi crypto card: how it worked and what to verify now"
 description: "Learn how the BlockFi crypto card was structured, what its rewards and payment process involved, and how to verify current U.S. availability and cardholder terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Total liquidity crypto: measuring liquidity across blockchain networks"
 description: "Learn how total liquidity crypto figures may aggregate liquidity across blockchain networks, what definitions and data limits affect them, and how to compare totals."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

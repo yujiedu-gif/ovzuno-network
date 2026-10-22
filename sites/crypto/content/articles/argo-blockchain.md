@@ -3,8 +3,6 @@ title: "argo blockchain: What the Name Refers To"
 description: "Learn what argo blockchain refers to, how to distinguish the name from blockchain payment technology, and which claims need current, reliable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

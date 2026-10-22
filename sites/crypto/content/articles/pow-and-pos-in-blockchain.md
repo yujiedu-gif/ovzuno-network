@@ -3,8 +3,6 @@ title: "pow and pos in blockchain: How Proof of Work and Proof of Stake Compare"
 description: "Compare pow and pos in blockchain: see how proof of work and proof of stake support consensus, differ in participation, and involve distinct trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["blockchain_payment_foundations"]
 tags: ["pow pos in blockchain"]

@@ -3,8 +3,6 @@ title: "Stacks crypto: network design, security, and operational considerations"
 description: "Learn how Stacks crypto is structured, what its network model means for builders and operators, and which security, operational, and compliance details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["stacking crypto"]

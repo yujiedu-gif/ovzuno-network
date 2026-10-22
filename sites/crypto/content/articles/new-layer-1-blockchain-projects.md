@@ -3,8 +3,6 @@ title: "How to assess new layer 1 blockchain projects"
 description: "Learn how to identify new layer 1 blockchain projects, verify their Layer 1 status, and assess architecture, scaling claims, and development evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_scaling"]
 tags: []

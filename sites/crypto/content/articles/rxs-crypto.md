@@ -3,8 +3,6 @@ title: "RXS Crypto: How to Identify What the Name Refers To"
 description: "Learn how to assess what RXS crypto refers to, verify a project or asset using primary documentation, and avoid assuming a name proves its identity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

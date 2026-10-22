@@ -3,8 +3,6 @@ title: "Proof of Work Validation: How Nodes Check Proposed Blocks"
 description: "Learn how proof of work validation checks a proposed block, how nodes verify its contents, and why a valid proof alone does not guarantee acceptance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work validation"]

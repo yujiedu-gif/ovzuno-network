@@ -3,8 +3,6 @@ title: "Cronos validator node: role, operation, and what to verify"
 description: "Learn what a cronos validator node does, how it participates in network operations, and which technical, security, and policy details operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "ShapeShift Crypto: Its Exchange Model and Market Infrastructure Role"
 description: "Explore shapeshift crypto, its exchange-model context, and how transaction routing relates to digital-asset market infrastructure—without assuming current services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

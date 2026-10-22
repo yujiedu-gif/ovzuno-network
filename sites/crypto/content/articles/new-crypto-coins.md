@@ -3,8 +3,6 @@ title: "New crypto coins: how to understand launches and network assets"
 description: "Learn how new crypto coins relate to blockchain networks, distinguish live launches from planned assets, and identify documents and claims to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["new cryptocurrency projects", "crypto coin launch", "blockchain network launch"]

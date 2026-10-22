@@ -3,8 +3,6 @@ title: "Buterin Proof of Stake: How Validators Support Consensus"
 description: "Explore buterin proof of stake through attributed explanations of validator selection, attestations, incentives, and how consensus differs from user staking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["buterin proof stake"]

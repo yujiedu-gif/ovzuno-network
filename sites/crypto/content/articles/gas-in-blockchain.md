@@ -3,8 +3,6 @@ title: "Gas in blockchain: how execution resources relate to transaction fees"
 description: "Learn what gas in blockchain represents, how it relates to transaction fees, which protocol-specific factors affect costs, and what to verify when interpreting them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

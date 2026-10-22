@@ -3,8 +3,6 @@ title: "ouroboros blockchain: what the protocol does in Cardano"
 description: "Understand what ouroboros blockchain refers to, how its proof-of-stake protocol coordinates block production in Cardano, and what its design can establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Proof of stake verification: how validators check blocks"
 description: "Learn how proof of stake verification works, what validators check in proposed blocks, and how protocol rules shape acceptance across networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake verification"]

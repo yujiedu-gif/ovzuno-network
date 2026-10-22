@@ -3,8 +3,6 @@ title: "Settle blockchain: what payment settlement means"
 description: "Learn what settle blockchain means for payments, how submission and confirmation differ from settlement finality, and which network-specific factors matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

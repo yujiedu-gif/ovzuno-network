@@ -3,8 +3,6 @@ title: "Klarna cryptocurrency: what the connection means for payments"
 description: "Learn what Klarna cryptocurrency can refer to, how crypto-related services differ from paying with crypto, and what details to verify in current terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

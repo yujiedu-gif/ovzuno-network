@@ -3,8 +3,6 @@ title: "Maestro crypto: meanings and how to identify the context"
 description: "Learn how to interpret maestro crypto in context, distinguish possible crypto-project references from Maestro card terminology, and verify a specific claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

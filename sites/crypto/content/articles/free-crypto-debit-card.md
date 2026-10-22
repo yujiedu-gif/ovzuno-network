@@ -3,8 +3,6 @@ title: "Free Crypto Debit Card: What “Free” Covers and What to Check"
 description: "Learn what a free crypto debit card may include, which fees and conditions to verify, and why costs, eligibility, and terms can vary by issuer and location."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

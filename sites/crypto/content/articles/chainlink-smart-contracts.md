@@ -3,8 +3,6 @@ title: "Chainlink smart contracts: how oracle services connect applications"
 description: "Learn how chainlink smart contracts can use oracle services for external data or actions, and what trust assumptions and integration checks developers should review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Chainlink oracles", "off-chain data", "decentralized applications"]

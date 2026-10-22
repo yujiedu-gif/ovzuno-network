@@ -3,8 +3,6 @@ title: "Cross chain decentralized exchange: how swaps work across blockchains"
 description: "Learn how a cross chain decentralized exchange coordinates swaps across blockchains, what architectures and trust assumptions are involved, and where risks arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["cross-chain swaps", "cross-chain bridges", "decentralized exchange"]

@@ -3,8 +3,6 @@ title: "ICP smart contract: How Internet Computer contracts work"
 description: "Learn what an ICP smart contract is, how contracts execute on the Internet Computer, and how they fit into applications, with key limits and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

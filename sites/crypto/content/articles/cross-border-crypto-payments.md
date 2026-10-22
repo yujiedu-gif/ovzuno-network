@@ -3,8 +3,6 @@ title: "Cross Border Crypto Payments: How the Transaction Flow Works"
 description: "Understand cross border crypto payments, from network transfer and conversion to settlement, counterparties, and jurisdiction-specific operational checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cross border crypto payment"]

@@ -3,8 +3,6 @@ title: "ASIC Crypto: How Specialized Hardware Fits Proof-of-Work Mining"
 description: "Learn what ASIC crypto mining means, how application-specific hardware performs proof-of-work computations, and the trade-offs its specialization can create."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "pi crypto coin: What “Mining” Means and How Consensus Works"
 description: "Learn what “mining” means for pi crypto coin, how its consensus approach is described in technical sources, and how it differs from proof-of-work."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

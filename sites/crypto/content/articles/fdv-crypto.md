@@ -3,8 +3,6 @@ title: "FDV Crypto: Meaning, Calculation, and Key Limitations"
 description: "Learn what FDV crypto means, how fully diluted valuation is calculated, how it differs from circulating market capitalization, and what its limits are."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

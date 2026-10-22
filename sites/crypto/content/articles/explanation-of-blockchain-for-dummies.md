@@ -3,8 +3,6 @@ title: "Explanation of blockchain for dummies: How a payment gets recorded"
 description: "An explanation of blockchain for dummies, following a hypothetical payment from submission to verification and recording while clarifying what the ledger can show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["explanation blockchain dummies"]

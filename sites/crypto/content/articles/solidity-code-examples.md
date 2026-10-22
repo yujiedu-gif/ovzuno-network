@@ -3,8 +3,6 @@ title: "Solidity Code Examples: A Practical Guide to Core Contract Patterns"
 description: "Explore Solidity code examples for contract structure, state changes, access controls, and basic tests, with notes on assumptions and safe adaptation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

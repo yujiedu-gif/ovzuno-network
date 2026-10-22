@@ -3,8 +3,6 @@ title: "UTXO Blockchain List: Notable Networks and Scope"
 description: "Explore a scoped UTXO blockchain list, with notable network examples, inclusion criteria, and distinctions to verify before comparing transaction models."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["utxo blockchains list"]

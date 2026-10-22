@@ -3,8 +3,6 @@ title: "Flexepin crypto: what the phrase means and what to verify"
 description: "Learn what “flexepin crypto” may refer to, how a voucher differs from cryptocurrency, and what to verify before using a claimed crypto payment route."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

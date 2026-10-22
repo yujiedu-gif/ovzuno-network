@@ -3,8 +3,6 @@ title: "Assessing the polygon layer 2 solution for blockchain payments"
 description: "Assess the polygon layer 2 solution for blockchain payments by examining architecture, settlement assumptions, integrations, operational trade-offs, and evidence to"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: ["Polygon PoS", "Ethereum scaling", "blockchain payments"]

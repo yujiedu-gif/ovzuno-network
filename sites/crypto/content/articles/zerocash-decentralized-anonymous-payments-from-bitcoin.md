@@ -3,8 +3,6 @@ title: "zerocash: decentralized anonymous payments from bitcoin explained"
 description: "Learn what zerocash: decentralized anonymous payments from bitcoin describes, how its privacy model relates to Bitcoin, and what the term does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["zerocash decentralized anonymous payment from bitcoin"]

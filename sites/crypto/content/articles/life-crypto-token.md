@@ -3,8 +3,6 @@ title: "Life crypto token: How to identify the project and verify its claims"
 description: "Learn how to identify a life crypto token by matching its name, ticker, network, and contract address, and evaluate what project documents actually establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

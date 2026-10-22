@@ -3,8 +3,6 @@ title: "Starbucks crypto payment: direct acceptance or intermediary checkout?"
 description: "Learn how to distinguish direct Starbucks crypto payment acceptance from intermediary checkout, and what location-specific evidence to verify before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

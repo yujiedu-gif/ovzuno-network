@@ -3,8 +3,6 @@ title: "Plutus Smart Contract Language: Meaning and Cardano Context"
 description: "Learn what the plutus smart contract language is, how it relates to Cardano smart contracts, and which distinctions matter when reading technical explanations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

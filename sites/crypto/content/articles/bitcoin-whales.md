@@ -3,8 +3,6 @@ title: "Bitcoin whales: what large holders reveal—and what they don’t"
 description: "Learn what bitcoin whales means, how large Bitcoin balances appear on-chain, and why wallet data alone cannot establish identity, ownership, or intent."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin large holders", "on-chain wallet balances", "Bitcoin UTXOs", "wallet clustering"]

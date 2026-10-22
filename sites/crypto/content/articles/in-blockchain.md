@@ -3,8 +3,6 @@ title: "What Does “in blockchain” Mean for Payments?"
 description: "Learn what “in blockchain” means for payments, how a blockchain can record and verify transaction data, and what the phrase does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchains"]

@@ -3,8 +3,6 @@ title: "Mac Studio Crypto Mining: Hardware Fit and Practical Limits"
 description: "Learn how to assess Mac Studio crypto mining by checking workload compatibility, software support, hardware constraints, and operational risks before testing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Mining Domains: A Map of the Main Technical Layers"
 description: "Explore crypto mining domains across consensus, hardware, software, network coordination, and operations, with clear boundaries between each layer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Virtual card crypto: how crypto-linked virtual payments work"
 description: "Learn how a virtual card crypto payment may connect card credentials, a funding source, conversion, and settlement, and what details to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto virtual card", "virtual payment card"]

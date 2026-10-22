@@ -3,8 +3,6 @@ title: "Coinmama Cryptocurrency: Service Model and Exchange Context"
 description: "Learn how Coinmama cryptocurrency fits into exchange-market infrastructure, how transaction services differ from order-book exchanges, and what details require live,"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

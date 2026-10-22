@@ -3,8 +3,6 @@ title: "Solidity interface example: define and call an external contract"
 description: "Use this solidity interface example to declare a contract interface, call a compatible function, and understand return types and external-call caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

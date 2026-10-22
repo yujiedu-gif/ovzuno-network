@@ -3,8 +3,6 @@ title: "NFT Token ERC: What the Phrase Means"
 description: "Learn what NFT token ERC refers to, how ERC-721 and ERC-1155 relate to non-fungible tokens, and why the phrase is not one standard."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

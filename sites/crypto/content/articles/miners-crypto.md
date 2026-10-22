@@ -3,8 +3,6 @@ title: "Miners Crypto: Roles in Proof-of-Work Networks"
 description: "Learn what miners crypto refers to, how miners contribute proof-of-work to block production and consensus, and how their role differs from nodes."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Hard Drive Crypto Mining: How Storage-Based Consensus Works"
 description: "Learn how hard drive crypto mining uses storage capacity in proof-of-space systems, how participation generally works, and how it differs from proof of work."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

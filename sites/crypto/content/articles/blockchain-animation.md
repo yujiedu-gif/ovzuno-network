@@ -3,8 +3,6 @@ title: "Blockchain Animation: Meaning, Uses, and Limits"
 description: "Learn what blockchain animation means, how it can illustrate blocks and transactions, and why a visual depiction is not necessarily live or complete network data."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

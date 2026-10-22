@@ -3,8 +3,6 @@ title: "Unit testing solidity: scope, test cases, and limitations"
 description: "Learn how unit testing solidity checks individual contract behaviors, structures test cases and assertions, isolates dependencies, and where test results fall short."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity unit tests", "smart contract testing", "test cases", "mock dependencies"]

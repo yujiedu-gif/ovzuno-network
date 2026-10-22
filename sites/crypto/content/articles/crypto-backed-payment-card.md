@@ -3,8 +3,6 @@ title: "How a crypto backed payment card processes a purchase"
 description: "Learn how a crypto backed payment card may connect a crypto balance to a card purchase, including conversion, authorization, settlement, and key caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto-funded card", "crypto-to-fiat conversion", "card payment settlement"]

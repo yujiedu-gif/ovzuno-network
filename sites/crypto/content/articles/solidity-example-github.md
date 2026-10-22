@@ -3,8 +3,6 @@ title: "Solidity Example GitHub: Find and Assess Smart Contract Repositories"
 description: "Learn how to find a solidity example github repository and assess its documentation, compiler context, tests, dependencies, and security caveats before adapting code"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

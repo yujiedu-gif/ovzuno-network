@@ -3,8 +3,6 @@ title: "New ISO 20022 crypto: what the standard does—and doesn’t mean"
 description: "New ISO 20022 crypto claims can blur payment messaging and blockchain technology. Learn what the standard covers and how to assess compatibility claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

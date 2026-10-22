@@ -3,8 +3,6 @@ title: "OSMO Crypto Staking: How Delegation and Validators Work"
 description: "Learn how OSMO crypto staking works on Osmosis, including delegation, validator roles, unbonding, and risks to verify before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["Osmosis staking", "OSMO validator", "delegation", "unbonding period", "slashing"]

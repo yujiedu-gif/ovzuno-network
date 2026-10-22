@@ -3,8 +3,6 @@ title: "bat crypto: What Basic Attention Token Is and What Operators Should Chec
 description: "Learn what bat crypto refers to, how Basic Attention Token relates to the Brave ecosystem, and which technical, security, and compliance details operators should"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

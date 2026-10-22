@@ -3,8 +3,6 @@ title: "Cryptocurrency explained: meaning, features, and boundaries"
 description: "Cryptocurrency explained: learn what the term means, how digital assets use cryptographic systems, and how to distinguish core features from common variations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency"]

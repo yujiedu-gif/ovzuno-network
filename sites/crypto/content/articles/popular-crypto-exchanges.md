@@ -3,8 +3,6 @@ title: "Popular crypto exchanges: what popularity measures can and cannot show"
 description: "Learn how to assess popular crypto exchanges using distinct measures of activity, access, and infrastructure—and why these signals do not establish reliability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

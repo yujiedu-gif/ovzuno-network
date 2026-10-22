@@ -3,8 +3,6 @@ title: "Crypto Nodes Explained: What They Are and What They Do"
 description: "Crypto nodes explained: learn what a node is, how it checks and shares blockchain data, and how nodes differ from miners, validators, wallets, and explorers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto nodes"]

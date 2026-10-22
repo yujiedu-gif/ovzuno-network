@@ -3,8 +3,6 @@ title: "Can You Mine Free Cryptocurrency? Costs, Conditions, and Risks"
 description: "Learn what mine free cryptocurrency claims may mean, which costs or conditions can remain, and what to verify about access, rewards, and withdrawals."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

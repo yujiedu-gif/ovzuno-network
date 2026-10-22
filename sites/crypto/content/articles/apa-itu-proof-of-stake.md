@@ -3,8 +3,6 @@ title: "Apa Itu Proof of Stake? Cara Validator Mendukung Konsensus Blockchain"
 description: "Pelajari apa itu proof of stake, bagaimana stake memengaruhi pemilihan validator, dan bagaimana validator membantu jaringan blockchain mencapai konsensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["apa itu proof stake"]

@@ -3,8 +3,6 @@ title: "Proof of work coins to mine: a technical evaluation guide"
 description: "Learn how to assess proof of work coins to mine by checking consensus rules, compatible hardware, network conditions, and operational constraints."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work coins mine"]

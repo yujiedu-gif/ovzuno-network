@@ -3,8 +3,6 @@ title: "Hyperion crypto: identifying the project and checking staking claims"
 description: "Learn how to identify what Hyperion crypto refers to, check authoritative project identifiers, and verify whether public documentation supports staking or validator."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

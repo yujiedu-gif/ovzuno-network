@@ -3,8 +3,6 @@ title: "Who accepts bitcoin as payment? Merchant types and how to check"
 description: "Learn who accepts bitcoin as payment, which merchant categories may offer it, and how to verify current options with a seller before checkout."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

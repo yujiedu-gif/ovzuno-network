@@ -3,8 +3,6 @@ title: "Stablecoin PDF: What a Useful Guide Should Explain"
 description: "A stablecoin pdf should explain how stablecoins work, what settlement involves, and which risks and limits readers should understand before relying on a guide."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["stablecoins_settlement"]
 tags: []

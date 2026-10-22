@@ -3,8 +3,6 @@ title: "Free crypto cloud mining: what “free” means and what to verify"
 description: "Learn what free crypto cloud mining may mean, how cloud-mining claims can be structured, and what to verify about costs, payouts, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

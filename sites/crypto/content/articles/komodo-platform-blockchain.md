@@ -3,8 +3,6 @@ title: "Komodo Platform Blockchain: Architecture and Use-Case Assessment"
 description: "Understand the Komodo platform blockchain through its documented components, operating considerations, and evidence gaps to assess relevance to a specific use case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

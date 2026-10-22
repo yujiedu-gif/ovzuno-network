@@ -3,8 +3,6 @@ title: "vim solidity: Meaning and Editor-Tool Context"
 description: "Understand what vim solidity refers to, how it differs from the Solidity language, and what to check when identifying relevant Vim editor support."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

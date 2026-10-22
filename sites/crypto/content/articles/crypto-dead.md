@@ -3,8 +3,6 @@ title: "Crypto dead: meaning, context, and how to assess the claim"
 description: "Learn what crypto dead means, how the phrase is used in market commentary, and how to distinguish broad claims from evidence about a specific crypto project."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["dead crypto"]

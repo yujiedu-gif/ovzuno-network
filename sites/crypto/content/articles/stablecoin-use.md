@@ -3,8 +3,6 @@ title: "Stablecoin use in settlement: meaning and workflow"
 description: "Learn what stablecoin use means in settlement, how on-chain transfers fit into a workflow, and which redemption and operational dependencies matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: []

@@ -3,8 +3,6 @@ title: "Free NFT Tokens Claim: Meaning, Mechanics, and Risks"
 description: "Learn what a free NFT tokens claim involves, how wallet-based claim flows work, and what to verify before signing or approving a transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["claim free nft tokens"]

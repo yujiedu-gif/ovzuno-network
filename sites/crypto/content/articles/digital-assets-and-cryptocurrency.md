@@ -3,8 +3,6 @@ title: "Digital Assets and Cryptocurrency: How Protocols Connect Them"
 description: "Understand how digital assets and cryptocurrency relate, what protocols do, and which technical, governance, and risk questions to check before evaluation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital assets and cryptocurrencies", "digital assets cryptocurrency"]

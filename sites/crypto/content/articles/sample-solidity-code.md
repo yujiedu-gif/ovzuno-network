@@ -3,8 +3,6 @@ title: "Sample Solidity Code: A Minimal Contract and Test-First Walkthrough"
 description: "Explore sample solidity code with an annotated minimal contract, a test-first workflow, and clear limits on what an example can establish before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

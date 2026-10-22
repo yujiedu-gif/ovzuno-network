@@ -3,8 +3,6 @@ title: "Web3 crypto tokens: roles and dependencies in decentralized systems"
 description: "Learn how web3 crypto tokens can support access, incentives, governance, and value transfer, and what protocol dependencies readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

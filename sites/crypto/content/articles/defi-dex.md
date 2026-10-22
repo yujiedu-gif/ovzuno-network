@@ -3,8 +3,6 @@ title: "DeFi DEX: How Decentralized Exchange Protocols Work"
 description: "Learn what a defi dex is, how a wallet interacts with exchange contracts and on-chain settlement, and where execution, security, and access risks arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

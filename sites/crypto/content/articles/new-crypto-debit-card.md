@@ -3,8 +3,6 @@ title: "New crypto debit card: What to verify before relying on one"
 description: "Learn how to assess a new crypto debit card by checking its funding path, conversion and settlement, eligibility, fees, controls, and documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

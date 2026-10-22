@@ -3,8 +3,6 @@ title: "Blockchain shield: meaning, context, and how to verify the term"
 description: "Learn what blockchain shield may mean, distinguish a named feature from a broad security claim, and check the context and evidence behind the phrase."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

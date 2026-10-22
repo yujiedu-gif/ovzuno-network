@@ -3,8 +3,6 @@ title: "Is Crypto Mining Dead? What the Evidence Can Show"
 description: "Is crypto mining dead? Separate mining’s continuing proof-of-work role from claims about whether particular networks or mining operations remain viable."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: ["crypto mining dead"]

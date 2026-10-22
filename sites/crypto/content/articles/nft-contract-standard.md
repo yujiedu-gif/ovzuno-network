@@ -3,8 +3,6 @@ title: "NFT contract standard: interfaces, token behavior, and compatibility"
 description: "Learn what an NFT contract standard specifies, how common token models differ, and what to verify about interfaces, compatibility, and implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["ERC-721", "ERC-1155", "token interface", "smart contract"]

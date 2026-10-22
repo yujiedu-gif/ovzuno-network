@@ -3,8 +3,6 @@ title: "Crypto Swap Exchange: How Conversion Routing and Settlement Work"
 description: "Learn how a crypto swap exchange routes an asset conversion, executes it through available infrastructure, and settles the resulting transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

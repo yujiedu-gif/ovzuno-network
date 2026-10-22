@@ -3,8 +3,6 @@ title: "Merkle Tree in Blockchain Technology: Definition and How It Works"
 description: "Learn what a merkle tree in blockchain technology is, how hashes form a root, and how inclusion proofs verify data without sharing every record."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

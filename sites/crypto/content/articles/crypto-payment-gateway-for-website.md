@@ -3,8 +3,6 @@ title: "Crypto Payment Gateway for Website: Checkout Flow and Key Considerations
 description: "Learn how a crypto payment gateway for website checkout handles payment requests, blockchain confirmation, order status, and key integration checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment gateway website"]

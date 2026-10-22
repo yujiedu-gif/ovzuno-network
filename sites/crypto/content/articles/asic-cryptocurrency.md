@@ -3,8 +3,6 @@ title: "ASIC Cryptocurrency: How Specialized Mining Hardware Works"
 description: "Learn what ASIC cryptocurrency mining means, how specialized chips perform proof-of-work hashing, and why their usefulness depends on network design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["ASIC mining", "proof-of-work", "hashing algorithm", "mining hardware"]

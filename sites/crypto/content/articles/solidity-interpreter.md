@@ -3,8 +3,6 @@ title: "Solidity interpreter: meaning, role, and how it differs from a compiler"
 description: "Learn what a Solidity interpreter refers to, how interpretation differs from compilation, and why the term alone does not describe a complete smart-contract workflow"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "pnut crypto: What the Name Refers to in Payment Contexts"
 description: "Learn what pnut crypto may refer to, how to verify an asset or project’s identity, and what evidence supports claims about crypto payment use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

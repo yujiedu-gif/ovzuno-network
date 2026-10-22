@@ -3,8 +3,6 @@ title: "NFT Market Contract: How Listings, Sales, and Settlement Work"
 description: "Learn what an nft market contract can do in an NFT marketplace, how listings and sales may settle, and which ownership and enforcement limits to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT marketplace smart contract", "NFT listing and sale mechanics", "royalty enforcement"]

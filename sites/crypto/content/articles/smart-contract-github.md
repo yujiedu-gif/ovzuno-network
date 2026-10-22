@@ -3,8 +3,6 @@ title: "Smart contract github: How to read a repository and check deployment cla
 description: "Learn how to inspect a smart contract github repository, understand its source and history, and distinguish published code from evidence about deployed contracts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

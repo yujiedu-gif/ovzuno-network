@@ -3,8 +3,6 @@ title: "bitmart crypto: role and functions in exchange infrastructure"
 description: "See what current public documentation can establish about bitmart crypto, its exchange infrastructure role, and claims that require further verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

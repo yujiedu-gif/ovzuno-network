@@ -3,8 +3,6 @@ title: "Stake meaning crypto: a clear definition of the term"
 description: "Understand stake meaning crypto: how the term refers to assets committed to staking or participation in a staking process, and why context matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["stake crypto"]

@@ -3,8 +3,6 @@ title: "What Is BNB Crypto? A Neutral Guide to the Token and Its Role"
 description: "What is bnb crypto? Learn what BNB is, how it relates to its associated blockchain networks, and what to verify before considering it for payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["bnb crypto"]

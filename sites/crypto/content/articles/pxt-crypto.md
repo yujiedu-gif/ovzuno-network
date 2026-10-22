@@ -3,8 +3,6 @@ title: "PXT crypto: how to identify what the name refers to"
 description: "Learn how to identify what PXT crypto refers to, check authoritative project and network records, and separate verifiable details from unconfirmed claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

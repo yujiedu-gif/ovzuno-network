@@ -3,8 +3,6 @@ title: "Cryptocurrency mining software: its role in proof-of-work mining"
 description: "Learn what cryptocurrency mining software does, how it connects hardware to mining work, and where pools and network consensus fit in."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["cryptocurrency mining softwares"]

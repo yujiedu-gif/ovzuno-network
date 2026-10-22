@@ -3,8 +3,6 @@ title: "Ethereum grant: meaning, purposes, and program terms"
 description: "Learn what an ethereum grant means, what Ethereum ecosystem work it may support, and which program terms, eligibility rules, and obligations to review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

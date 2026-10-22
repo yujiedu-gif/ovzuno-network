@@ -3,8 +3,6 @@ title: "Crypto Token Scanner: What It Checks and What Its Results Mean"
 description: "Learn what a crypto token scanner may inspect, how it presents technical signals, and why findings are limited evidence—not a complete safety judgment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

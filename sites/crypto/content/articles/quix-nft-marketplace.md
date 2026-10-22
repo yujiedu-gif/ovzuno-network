@@ -3,8 +3,6 @@ title: "Quix NFT marketplace: what it does and what NFT ownership means"
 description: "Learn what the Quix NFT marketplace refers to, how marketplace functions differ from NFT records and represented rights, and which service details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

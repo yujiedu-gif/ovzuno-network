@@ -3,8 +3,6 @@ title: "Cryptocurrency mining: how proof-of-work networks reach agreement"
 description: "Learn how cryptocurrency mining supports proof-of-work consensus, from proposing blocks and performing computational work to network verification and rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

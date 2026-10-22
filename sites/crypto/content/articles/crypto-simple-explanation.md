@@ -3,8 +3,6 @@ title: "Crypto Simple Explanation: How Networks, Records, and Digital Assets Fit
 description: "A crypto simple explanation of shared records, network validation, protocol rules, digital assets, and the risks readers should understand before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

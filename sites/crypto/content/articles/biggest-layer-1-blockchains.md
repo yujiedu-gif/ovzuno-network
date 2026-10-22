@@ -3,8 +3,6 @@ title: "Biggest layer 1 blockchains: how network size is measured"
 description: "Learn how to interpret the biggest layer 1 blockchains by defining network-scale measures, checking their limits, and comparing data consistently."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

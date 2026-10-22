@@ -3,8 +3,6 @@ title: "Bitcoin mining cost: components and a practical estimation framework"
 description: "Understand bitcoin mining cost by separating equipment, electricity, facility, and operating expenses, then identify assumptions to verify before estimating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

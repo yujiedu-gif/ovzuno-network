@@ -3,8 +3,6 @@ title: "Hyper Deflationary Cryptocurrency: Meaning and Supply Mechanisms"
 description: "Learn what hyper deflationary cryptocurrency means, how token supply mechanisms may reduce total or circulating supply, and what evidence can verify the claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

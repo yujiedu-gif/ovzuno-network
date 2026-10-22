@@ -3,8 +3,6 @@ title: "Solar crypto: how solar power can support proof-of-work mining"
 description: "Solar crypto explains how solar generation, storage, grid connections, and mining loads interact, plus the operational constraints readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["solar-powered crypto mining", "renewable energy in crypto mining"]

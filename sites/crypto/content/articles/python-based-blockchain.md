@@ -3,8 +3,6 @@ title: "Python Based Blockchain: What the Term Means in Practice"
 description: "Learn what python based blockchain can mean, how Python may support protocol code or surrounding tools, and which technical trade-offs to evaluate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

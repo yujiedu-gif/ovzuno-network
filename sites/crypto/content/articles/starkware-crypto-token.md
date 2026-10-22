@@ -3,8 +3,6 @@ title: "StarkWare crypto token: what the phrase means"
 description: "Understand what “StarkWare crypto token” refers to, how StarkWare, Starknet, and STRK differ, and which token details to verify in primary documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto proof of stake list: networks and verification criteria"
 description: "Use this crypto proof of stake list to identify networks using proof-of-stake consensus, understand inclusion criteria, and verify each model."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto proof stake list"]

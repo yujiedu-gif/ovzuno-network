@@ -3,8 +3,6 @@ title: "Mojaloop Blockchain: What the Payment-System Architecture Means"
 description: "Understand what “mojaloop blockchain” means, how Mojaloop’s payment-system architecture differs from a blockchain, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

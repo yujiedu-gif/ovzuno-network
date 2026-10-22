@@ -3,8 +3,6 @@ title: "r/cryptocurrency: What the Reddit Community Is"
 description: "Learn what r/cryptocurrency is, what its Reddit community discusses, and how to assess user-generated posts without treating them as verified advice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["r cryptocurrency"]

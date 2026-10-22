@@ -3,8 +3,6 @@ title: "Identity tokens crypto: meaning, roles, and limits"
 description: "Learn what identity tokens crypto may represent, how they can relate to identity claims, and why a token alone does not prove identity or guarantee privacy."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto identity token"]

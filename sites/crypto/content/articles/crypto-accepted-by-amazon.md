@@ -3,8 +3,6 @@ title: "Crypto accepted by amazon: Direct Payments and Alternatives"
 description: "Find out whether crypto accepted by amazon means direct checkout support, how to verify current payment options, and what risks indirect routes may involve."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["Amazon payment methods", "Amazon gift cards and cryptocurrency"]

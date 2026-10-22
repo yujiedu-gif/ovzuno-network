@@ -3,8 +3,6 @@ title: "Crypto Layer 2 Solutions: How They Work in Payment Systems"
 description: "Learn how crypto layer 2 solutions process transactions alongside base blockchains, where settlement and security assumptions arise, and what payment operators must评"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

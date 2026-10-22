@@ -3,8 +3,6 @@ title: "How to Evaluate a zero knowledge proof github Repository"
 description: "Learn how to assess a zero knowledge proof github repository by reviewing its purpose, code, tests, documentation, maintenance signals, and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

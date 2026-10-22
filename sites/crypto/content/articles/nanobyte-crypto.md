@@ -3,8 +3,6 @@ title: "Nanobyte crypto: What Nano is and how its network works"
 description: "Learn what nanobyte crypto refers to, how Nano’s block-lattice network processes transactions, and what its design does—and does not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Nano cryptocurrency", "Nano (XNO)", "block-lattice", "feeless cryptocurrency"]

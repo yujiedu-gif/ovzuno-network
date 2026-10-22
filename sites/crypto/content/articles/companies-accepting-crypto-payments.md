@@ -3,8 +3,6 @@ title: "Companies Accepting Crypto Payments: What the Option Means"
 description: "Learn what it means when companies accepting crypto payments offer that option, why availability can vary, and how to verify it before a purchase."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["companies accepting crypto payment"]

@@ -3,8 +3,6 @@ title: "Crypto Whiteboard: Meaning in Mining and Consensus Discussions"
 description: "Learn what “crypto whiteboard” means in mining and consensus discussions, how diagrams communicate technical ideas, and what they do not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["whiteboard crypto"]

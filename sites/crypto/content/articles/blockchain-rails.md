@@ -3,8 +3,6 @@ title: "Blockchain rails: how blockchain-based payment flows work"
 description: "Learn what blockchain rails mean in payments, how a transaction moves from initiation to settlement, and which operational trade-offs teams should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["rails blockchain"]

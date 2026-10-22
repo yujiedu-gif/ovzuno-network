@@ -3,8 +3,6 @@ title: "INX crypto: meaning, issuance, and tokenization context"
 description: "Learn what INX crypto refers to, how documented INX infrastructure relates to digital-asset issuance and tokenization, and what claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

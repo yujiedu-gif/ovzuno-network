@@ -3,8 +3,6 @@ title: "Private Proof of Stake: Meaning, Design Choices, and Trade-offs"
 description: "Private proof of stake describes privacy-oriented designs for staking networks. Learn what the term can mean, which data may be private, and key trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["private proof stake"]

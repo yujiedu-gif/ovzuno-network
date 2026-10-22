@@ -3,8 +3,6 @@ title: "How to make a smart contract call external api data safely"
 description: "Learn how a smart contract call external api data can work through an oracle, what the request and response flow involves, and which design checks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["oracle", "off-chain data", "oracle callback"]

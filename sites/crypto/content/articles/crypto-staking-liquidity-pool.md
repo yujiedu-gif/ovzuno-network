@@ -3,8 +3,6 @@ title: "Crypto Staking Liquidity Pool: How the Mechanism Works"
 description: "Learn what a crypto staking liquidity pool may mean, how staking and liquidity provision differ, and which design-dependent risks to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

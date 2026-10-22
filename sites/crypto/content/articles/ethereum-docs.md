@@ -3,8 +3,6 @@ title: "Ethereum docs: what they cover and how to use them"
 description: "Learn what ethereum docs refer to, how they relate to the Ethereum protocol, and how to find documentation suited to a technical question."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

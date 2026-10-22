@@ -3,8 +3,6 @@ title: "Anchorage Digital Asset Custody: Security Controls Institutions Should V
 description: "Assess anchorage digital asset custody through an institutional security checklist covering key governance, transaction controls, resilience, and evidence gaps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: []

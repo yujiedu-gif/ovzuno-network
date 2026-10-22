@@ -3,8 +3,6 @@ title: "Google Crypto Payment: What the Phrase Means and How to Verify It"
 description: "Understand what “google crypto payment” may mean, how to distinguish a Google payment feature from direct cryptocurrency acceptance, and what to verify in official,"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

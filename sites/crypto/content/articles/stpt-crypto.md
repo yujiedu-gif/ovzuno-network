@@ -3,8 +3,6 @@ title: "STPT crypto: identity, project context, and documented role"
 description: "Learn what STPT crypto refers to, how to assess its documented role and project context, and which technical claims require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

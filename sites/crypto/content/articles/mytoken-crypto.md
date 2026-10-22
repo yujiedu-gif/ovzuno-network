@@ -3,8 +3,6 @@ title: "MyToken Crypto: How to Identify the Asset or Project"
 description: "Learn how to identify what mytoken crypto refers to, verify project-specific documentation, and distinguish confirmed technical details from claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

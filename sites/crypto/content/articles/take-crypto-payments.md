@@ -3,8 +3,6 @@ title: "Take Crypto Payments: How the Basic Business Workflow Works"
 description: "Learn what it means to take crypto payments, how a customer transfer moves through confirmation and reconciliation, and which operational decisions a business must."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["take crypto payment"]

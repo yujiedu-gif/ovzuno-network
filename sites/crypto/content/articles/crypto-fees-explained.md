@@ -3,8 +3,6 @@ title: "Crypto fees explained: what transaction charges mean"
 description: "Crypto fees explained: learn why blockchain transactions may incur network charges, how these differ from provider fees, and what can affect them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto fee"]

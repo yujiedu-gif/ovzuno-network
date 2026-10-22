@@ -3,8 +3,6 @@ title: "NFT Digital Currency: How NFTs Differ from Fungible Tokens"
 description: "Understand how nft digital currency relates to NFTs, fungible tokens, blockchain records, and linked digital items—and what a token record does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

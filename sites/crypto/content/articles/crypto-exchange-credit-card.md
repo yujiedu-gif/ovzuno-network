@@ -3,8 +3,6 @@ title: "Crypto Exchange Credit Card: How the Model Works"
 description: "Learn how a crypto exchange credit card may handle credit, crypto collateral, repayment, and card payments, and what to verify before relying on one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto-backed credit card", "crypto collateral", "credit limit", "repayment"]

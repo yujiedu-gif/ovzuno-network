@@ -3,8 +3,6 @@ title: "AQW Crypto Token: How to Identify the Asset and Verify Its Details"
 description: "Learn how to identify the aqw crypto token using project documentation, network and contract details, and cautious checks of unverified claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto token aqw"]

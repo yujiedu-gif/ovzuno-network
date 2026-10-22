@@ -3,8 +3,6 @@ title: "Crypto DAOs: How Proposals Become Decisions"
 description: "Learn how crypto daos handle proposals, deliberation, voting, and execution—and what to check when formal voting rules may not reflect practical influence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["DAO governance", "on-chain governance", "off-chain governance", "proposal process"]

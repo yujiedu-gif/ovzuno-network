@@ -3,8 +3,6 @@ title: "Staking crypto meaning: a clear explanation of the term"
 description: "Understand the staking crypto meaning, how staked assets can support proof-of-stake validation, and why participation does not guarantee rewards or remove risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["staking crypto"]

@@ -3,8 +3,6 @@ title: "Dutch blockchain: meaning and context"
 description: "Learn what “dutch blockchain” may refer to, how to distinguish a named network from Netherlands-based activity, and what context to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

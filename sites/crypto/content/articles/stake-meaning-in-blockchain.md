@@ -3,8 +3,6 @@ title: "Stake Meaning in Blockchain: A Plain-Language Definition"
 description: "Learn the stake meaning in blockchain, including how a stake can represent an economic commitment and support participation in some consensus systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["stake in blockchain"]

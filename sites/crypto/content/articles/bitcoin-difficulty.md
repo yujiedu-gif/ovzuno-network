@@ -3,8 +3,6 @@ title: "Bitcoin difficulty: meaning and protocol adjustment"
 description: "Learn what bitcoin difficulty measures, how Bitcoin’s protocol adjusts it as blocks are produced, and what the metric does—and does not—indicate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

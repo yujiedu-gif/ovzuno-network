@@ -3,8 +3,6 @@ title: "Crypto NFT Real Estate: How Tokens Connect to Property Rights"
 description: "Learn how crypto nft real estate models link NFTs to property-related interests, what the blockchain record can show, and what legal and operational details to check"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

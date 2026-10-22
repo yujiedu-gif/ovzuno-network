@@ -3,8 +3,6 @@ title: "Cryptocurrency technology explained: how the core components work"
 description: "Cryptocurrency technology explained through the components that record, authorize, and verify transactions, with clear limits on what each component does."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency technology"]

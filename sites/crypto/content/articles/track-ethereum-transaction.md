@@ -3,8 +3,6 @@ title: "How to Track Ethereum Transaction Status by Transaction Hash"
 description: "Learn how to track ethereum transaction activity using a transaction hash, read common status and confirmation details, and understand what a public record can’t"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

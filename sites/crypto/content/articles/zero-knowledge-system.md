@@ -3,8 +3,6 @@ title: "Zero knowledge system: how it can support blockchain scaling"
 description: "Learn how a zero knowledge system can support blockchain scaling, what proof verification changes, and which performance, data, and trust assumptions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

@@ -3,8 +3,6 @@ title: "Self destruct contract solidity: EVM behavior and current rules"
 description: "Learn what self destruct contract solidity means under current EVM rules, including code and storage behavior, balance transfers, and the creation-transaction caveat"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity selfdestruct", "EIP-6780", "contract deletion semantics"]

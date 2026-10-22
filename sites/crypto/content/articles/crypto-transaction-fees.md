@@ -3,8 +3,6 @@ title: "Crypto transaction fees: what they pay for and why they vary"
 description: "Learn what crypto transaction fees pay for, why network conditions can change them, and how fee models differ across blockchains without relying on live estimates."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto transaction fee"]

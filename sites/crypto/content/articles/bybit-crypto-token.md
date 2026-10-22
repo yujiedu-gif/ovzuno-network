@@ -3,8 +3,6 @@ title: "Bybit crypto token: identity, issuer, and utility explained"
 description: "Learn what “bybit crypto token” may refer to, how to verify a token’s issuer and official documentation, and how to assess stated utility and lookalike claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["BYBIT token", "exchange token", "token utility", "tokenomics"]

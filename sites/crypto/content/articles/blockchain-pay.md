@@ -3,8 +3,6 @@ title: "Blockchain pay: how blockchain-based payments work"
 description: "Learn how blockchain pay moves from sender authorization through network validation to recipient access, and which design choices shape the payment flow."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Stake Cronos Crypto: How Staking and Validators Work"
 description: "Learn how stake cronos crypto works, how validators fit into the process, and which network terms, risks, and current details participants should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["Cronos staking", "Cronos validators", "CRO staking"]

@@ -3,8 +3,6 @@ title: "Zero-knowledge policy: meaning in blockchain systems"
 description: "Learn what zero-knowledge policy can mean in blockchain systems, how policy rules differ from proofs, and what design questions builders should examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_scaling"]
 tags: ["zero knowledge policy"]

@@ -3,8 +3,6 @@ title: "Aero Crypto: Meaning and NFT Context"
 description: "Learn what “aero crypto” may refer to in NFT and digital-ownership contexts, how to verify the specific asset, and what a token record does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

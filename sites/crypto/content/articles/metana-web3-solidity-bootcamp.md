@@ -3,8 +3,6 @@ title: "Metana Web3 Solidity Bootcamp: Curriculum and What to Verify"
 description: "Review the Metana web3 solidity bootcamp’s stated curriculum and learning format, and see what prospective learners should verify before making a decision."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity training", "smart contract development", "Web3 development course"]

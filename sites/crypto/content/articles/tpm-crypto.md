@@ -3,8 +3,6 @@ title: "TPM Crypto: What Trusted Platform Modules Can Protect"
 description: "Learn what TPM crypto means, how a Trusted Platform Module can support key protection, and what its limits mean for institutional crypto systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["trusted platform module crypto", "hardware security module", "crypto key management"]

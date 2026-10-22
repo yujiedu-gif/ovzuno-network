@@ -3,8 +3,6 @@ title: "Header Blockchain: Meaning, Structure, and Role"
 description: "Understand header blockchain terminology, the metadata a block header can carry, how it links blocks, and why its fields vary between protocols."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain header"]

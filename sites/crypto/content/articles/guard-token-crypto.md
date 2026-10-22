@@ -3,8 +3,6 @@ title: "Guard token crypto: meaning, identification, and verification"
 description: "Learn what guard token crypto may refer to, how to verify a specific token’s identity and stated function, and what its name alone cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

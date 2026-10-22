@@ -3,8 +3,6 @@ title: "What Is P2P Crypto? Meaning, Participants, and Intermediaries"
 description: "Learn what is p2p crypto, who participates in a peer-to-peer transfer, how intermediaries may be involved, and why rules vary by jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["p2p crypto"]

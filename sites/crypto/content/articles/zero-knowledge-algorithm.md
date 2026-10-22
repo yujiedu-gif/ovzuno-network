@@ -3,8 +3,6 @@ title: "Zero Knowledge Algorithm: How Proving and Verification Work"
 description: "Learn what a zero knowledge algorithm means, how a prover and verifier use a proof, and why the term does not identify one specific cryptographic method."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["zero-knowledge proof", "prover", "verifier", "cryptographic protocol"]

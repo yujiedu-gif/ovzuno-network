@@ -3,8 +3,6 @@ title: "Blockchain explained in plain english: a simple guide"
 description: "Blockchain explained in plain english: learn how a shared digital record groups transactions, how network rules check them, and what the basics do not mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain in plain english"]

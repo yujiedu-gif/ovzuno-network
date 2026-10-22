@@ -3,8 +3,6 @@ title: "Team Tokens Crypto: Allocations, Vesting, and What to Check"
 description: "Learn what team tokens crypto refers to, how project allocations may vest and unlock, and which documents to review when assessing rights and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

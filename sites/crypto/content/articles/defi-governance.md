@@ -3,8 +3,6 @@ title: "DeFi governance: how protocol decisions are made"
 description: "Learn how defi governance proposals, voting, delegation, and execution can shape protocol changes—and why participation does not guarantee control."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["governance tokens", "on-chain voting", "protocol governance"]

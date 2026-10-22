@@ -3,8 +3,6 @@ title: "Dapp smart contract: How contracts fit into decentralized apps"
 description: "Learn how a dapp smart contract handles on-chain rules, interacts with a user interface and supporting services, and what its limits mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["dApp architecture", "on-chain logic", "smart contract interaction"]

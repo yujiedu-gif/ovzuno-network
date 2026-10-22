@@ -3,8 +3,6 @@ title: "Blockchain Pool Mining: How It Relates to Proof-of-Work Consensus"
 description: "Learn how blockchain pool mining coordinates proof-of-work effort, how miners submit work, and why network consensus rules still determine accepted blocks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

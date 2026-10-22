@@ -3,8 +3,6 @@ title: "Blockchain Node JS: How Node.js Connects to Blockchain Networks"
 description: "Learn what blockchain node JS means, how Node.js applications communicate with blockchain nodes, and why connecting to a node differs from operating one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["node js blockchain"]

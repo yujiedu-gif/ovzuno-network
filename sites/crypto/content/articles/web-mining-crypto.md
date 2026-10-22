@@ -3,8 +3,6 @@ title: "Web mining crypto: meaning, mechanics, and limitations"
 description: "Web mining crypto can describe browser-based computation or a mining claim. Learn how it relates to proof-of-work consensus and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

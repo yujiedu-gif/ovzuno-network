@@ -3,8 +3,6 @@ title: "Farm token crypto: What FARM is and its role in Harvest Finance"
 description: "Learn what farm token crypto refers to, how FARM relates to Harvest Finance, and how to assess claims about its utility, governance, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["FARM token", "Harvest Finance", "yield farming protocol token"]

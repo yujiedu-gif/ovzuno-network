@@ -3,8 +3,6 @@ title: "web3 0 api: A Developer’s Integration Guide for Smart-Contract Dapps"
 description: "Learn how to plan a web3 0 api integration for a smart-contract dapp, map required calls, review documentation, and prepare security checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "What Countries Accept Crypto as Payment? A Business Research Guide"
 description: "Learn how to assess what countries accept crypto as payment by separating legal status from merchant use and checking local tax, licensing, and compliance rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["countries accept crypto as payment"]

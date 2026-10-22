@@ -3,8 +3,6 @@ title: "Token standard erc721: Core Interfaces and NFT Behavior"
 description: "Learn what token standard erc721 specifies, including ownership, transfers, token identifiers, metadata conventions, and integration considerations for builders."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 token standard", "non-fungible token standard", "token ID", "metadata", "safe transfer"]

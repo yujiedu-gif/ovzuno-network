@@ -3,8 +3,6 @@ title: "Cronos crypto card: ecosystem, payment flow, and what to verify"
 description: "Understand what a Cronos crypto card may mean, how network, issuer, and payment roles differ, and what eligibility, fees, and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

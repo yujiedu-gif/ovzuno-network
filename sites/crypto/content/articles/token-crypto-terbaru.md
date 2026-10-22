@@ -3,8 +3,6 @@ title: "How to Verify a token crypto terbaru Claim"
 description: "Learn how to check a token crypto terbaru claim against dated protocol documents, network records, and independent evidence—without treating recency as proof of risk"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

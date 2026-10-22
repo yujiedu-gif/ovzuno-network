@@ -3,8 +3,6 @@ title: "Blockchain branching: how competing chain histories resolve"
 description: "Learn what blockchain branching means, why competing histories can form, how consensus resolves them, and why confirmations may remain uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain branch", "chain reorganization", "competing blocks"]

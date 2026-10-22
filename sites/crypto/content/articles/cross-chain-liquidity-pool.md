@@ -3,8 +3,6 @@ title: "Cross Chain Liquidity Pool: How It Works Across Networks"
 description: "Learn what a cross chain liquidity pool is, how liquidity can support swaps across networks, and which architectural and operational risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

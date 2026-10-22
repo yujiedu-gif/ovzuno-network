@@ -3,8 +3,6 @@ title: "Most Popular Smart Contracts: Categories and Adoption Measures"
 description: "Explore most popular smart contracts by application category, the metrics used to assess adoption, and why popularity claims need clear scope and evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

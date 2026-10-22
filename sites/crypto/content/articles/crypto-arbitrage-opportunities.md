@@ -3,8 +3,6 @@ title: "Crypto arbitrage opportunities: how validator infrastructure affects exe
 description: "Explore how validator infrastructure, transaction inclusion, and network finality can shape crypto arbitrage opportunities without implying predictable profits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

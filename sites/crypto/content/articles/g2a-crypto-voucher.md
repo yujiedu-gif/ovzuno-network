@@ -3,8 +3,6 @@ title: "G2A Crypto Voucher: What It Is and Whether It Involves NFTs"
 description: "Learn what a g2a crypto voucher may represent, how voucher redemption differs from NFT ownership, and which product terms need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["crypto voucher g2a"]

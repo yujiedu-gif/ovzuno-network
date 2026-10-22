@@ -3,8 +3,6 @@ title: "First Crypto Exchange: Meaning, Early Venues, and Historical Context"
 description: "Explore what “first crypto exchange” means, how early crypto trading venues differed, and why historical claims depend on the definition used."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

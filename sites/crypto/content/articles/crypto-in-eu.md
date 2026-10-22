@@ -3,8 +3,6 @@ title: "Crypto in EU: Regulation and Tax Reporting Explained"
 description: "Learn how crypto in EU regulation and reporting frameworks differ from national tax rules, and what to verify for your country and activity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["MiCA", "crypto-asset regulation EU", "DAC8 crypto reporting"]

@@ -3,8 +3,6 @@ title: "Dapp creation: architecture, development stages, and launch checks"
 description: "A practical overview of dapp creation, covering project scope, smart-contract and client architecture, testing, deployment, security checks, and maintenance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

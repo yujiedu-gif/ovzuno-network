@@ -3,8 +3,6 @@ title: "Decentralized Identity Crypto: Privacy, Proofs, and Infrastructure"
 description: "Understand how decentralized identity crypto can coordinate identifiers, credentials, and proofs while keeping identity data and infrastructure roles distinct."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

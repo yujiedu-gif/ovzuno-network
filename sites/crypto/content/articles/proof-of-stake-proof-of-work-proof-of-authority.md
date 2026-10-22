@@ -3,8 +3,6 @@ title: "Proof of stake proof of work proof of authority: key differences"
 description: "Compare proof of stake proof of work proof of authority by block-producer selection, participation, trust assumptions, and operational trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["staking_validators"]
 tags: ["proof stake proof work proof authority"]

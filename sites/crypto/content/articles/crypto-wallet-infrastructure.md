@@ -3,8 +3,6 @@ title: "Crypto Wallet Infrastructure: Core Components and Responsibilities"
 description: "Explore crypto wallet infrastructure, from key management and transaction workflows to custody controls, operational responsibilities, and evaluation questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

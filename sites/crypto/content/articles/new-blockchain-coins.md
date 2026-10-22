@@ -3,8 +3,6 @@ title: "New blockchain coins: understanding payment and fee roles"
 description: "Learn how new blockchain coins may support network payments or transaction fees, how they differ from tokens, and what evidence to check before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["new blockchain tokens", "native blockchain coin", "blockchain payment networks"]

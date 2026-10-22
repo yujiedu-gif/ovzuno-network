@@ -3,8 +3,6 @@ title: "e radix crypto: Meaning, Network, and Asset Terminology"
 description: "Learn what e radix crypto may refer to, how to distinguish the Radix network from its associated asset, and what terminology to verify in official documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Digital asset currency: meaning, functions, and classification"
 description: "Learn what digital asset currency can mean, how currency-like use differs from other digital assets, and what facts help classify a specific asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

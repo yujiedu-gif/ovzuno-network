@@ -3,8 +3,6 @@ title: "Sol Proof of Stake: How SOL Staking Supports Solana Validators"
 description: "Learn how sol proof of stake relates SOL delegation to validator participation and Solana consensus, including the roles and limits of staking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["sol proof stake"]

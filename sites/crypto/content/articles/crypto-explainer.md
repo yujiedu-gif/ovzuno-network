@@ -3,8 +3,6 @@ title: "Crypto explainer: how assets and protocols work together"
 description: "A crypto explainer on how digital assets relate to protocols, how transactions are coordinated, and what builders and operators should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Solidity cron job: how recurring smart-contract actions are triggered"
 description: "Learn what a solidity cron job means, why contracts need an external trigger, and which design and operational risks matter for recurring on-chain actions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract automation", "on-chain scheduled execution", "external automation service"]

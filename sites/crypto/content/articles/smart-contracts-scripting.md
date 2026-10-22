@@ -3,8 +3,6 @@ title: "Smart contracts scripting: off-chain scripts and on-chain execution"
 description: "Learn how smart contracts scripting supports development, testing, deployment, and interaction, and how off-chain scripts differ from on-chain contract execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract scripting"]

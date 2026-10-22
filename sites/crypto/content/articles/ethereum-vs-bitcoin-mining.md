@@ -3,8 +3,6 @@ title: "ethereum vs bitcoin mining: How the Networks Differ"
 description: "Compare ethereum vs bitcoin mining by examining Bitcoin’s proof-of-work process and Ethereum’s current consensus approach, including the key distinction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["mining_consensus"]
 tags: ["bitcoin mining vs ethereum mining", "ethereum bitcoin mining"]

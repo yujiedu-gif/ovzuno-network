@@ -3,8 +3,6 @@ title: "DeFi Crypto Exchanges: How On-Chain Trade Execution Works"
 description: "Learn how DeFi crypto exchanges route and execute on-chain trades, what protocol components shape the process, and which operational risks merit review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["defi crypto exchange"]

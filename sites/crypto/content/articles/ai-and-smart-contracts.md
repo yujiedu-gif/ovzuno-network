@@ -3,8 +3,6 @@ title: "AI and Smart Contracts: How They Work Together"
 description: "Learn how AI and smart contracts can interact, where model computation and contract execution happen, and what design limits and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ai smart contracts"]

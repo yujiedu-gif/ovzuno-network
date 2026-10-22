@@ -3,8 +3,6 @@ title: "Privacy crypto coins: How transaction privacy works and where it has lim
 description: "Learn what privacy crypto coins aim to conceal, how transaction privacy approaches differ, and why metadata, user choices, and design limits still matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

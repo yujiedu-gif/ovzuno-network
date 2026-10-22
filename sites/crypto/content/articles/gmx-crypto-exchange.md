@@ -3,8 +3,6 @@ title: "GMX Crypto Exchange: How Its Decentralized Trading Infrastructure Works"
 description: "Learn what the GMX crypto exchange is, how its decentralized trading and liquidity infrastructure is structured, and which protocol details require current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

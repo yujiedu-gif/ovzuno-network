@@ -3,8 +3,6 @@ title: "How blockchain payment processing companies fit into a payment flow"
 description: "Learn how blockchain payment processing companies can connect payer instructions, blockchain transactions, and merchant settlement—and where their role ends."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

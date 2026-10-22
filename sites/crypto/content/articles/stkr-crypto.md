@@ -3,8 +3,6 @@ title: "STKR crypto: How to identify the staking-related project or asset"
 description: "STKR crypto can refer to a project, token, or staking service. Learn how to identify the specific reference and verify claims from primary sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

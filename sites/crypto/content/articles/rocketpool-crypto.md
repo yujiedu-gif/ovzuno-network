@@ -3,8 +3,6 @@ title: "rocketpool crypto: How Rocket Pool’s Ethereum Staking Protocol Works"
 description: "Learn what rocketpool crypto refers to, how Rocket Pool coordinates Ethereum staking, and how rETH and RPL serve different roles in the protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Rocket Pool", "Ethereum staking", "liquid staking", "RPL token"]

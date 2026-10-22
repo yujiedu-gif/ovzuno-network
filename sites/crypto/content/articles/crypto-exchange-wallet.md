@@ -3,8 +3,6 @@ title: "Crypto Exchange Wallet: Custody, Access, and Key Trade-Offs"
 description: "Understand how a crypto exchange wallet holds customer assets, who controls access, and which custody, security, and operational trade-offs to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["custodial wallet", "exchange wallet custody", "private key management", "hot and cold storage"]

@@ -3,8 +3,6 @@ title: "White label crypto payment gateway: model, roles, and due diligence"
 description: "Learn what a white label crypto payment gateway may include, how provider and business responsibilities can differ, and what to verify before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

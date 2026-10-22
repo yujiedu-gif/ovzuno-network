@@ -3,8 +3,6 @@ title: "Web3 Decentralized Exchange: Components and Trade Flow"
 description: "Understand how a web3 decentralized exchange connects user wallets, smart contracts, and blockchain networks to coordinate trades, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["DEX architecture", "on-chain trade execution", "decentralized exchange smart contracts"]

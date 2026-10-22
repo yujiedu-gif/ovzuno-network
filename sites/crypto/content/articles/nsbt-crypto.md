@@ -3,8 +3,6 @@ title: "NSBT crypto: how to identify the asset or protocol"
 description: "Learn how to identify what NSBT crypto refers to, verify an asset or protocol against primary documentation, and separate confirmed details from uncertainty."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

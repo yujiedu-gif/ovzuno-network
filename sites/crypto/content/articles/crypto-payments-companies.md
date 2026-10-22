@@ -3,8 +3,6 @@ title: "Crypto Payments Companies: Roles, Infrastructure, and Payment Flows"
 description: "Learn what crypto payments companies do, how their infrastructure supports payment flows, and where processing, settlement, custody, and compliance may differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment company", "crypto payment companies"]

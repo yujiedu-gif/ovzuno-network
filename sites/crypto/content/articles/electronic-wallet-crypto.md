@@ -3,8 +3,6 @@ title: "Electronic Wallet Crypto: What It Does and How Custody Works"
 description: "Learn what an electronic wallet crypto tool does, how keys support blockchain transactions, and how custodial and self-managed arrangements differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

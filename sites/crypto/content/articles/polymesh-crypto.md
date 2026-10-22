@@ -3,8 +3,6 @@ title: "Polymesh crypto: protocol design and regulated-asset use"
 description: "Learn what Polymesh crypto is designed to do, how its protocol approaches identity and compliance, and what readers should verify before evaluating its use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

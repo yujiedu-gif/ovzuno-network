@@ -3,8 +3,6 @@ title: "Zano Crypto Mining: How Mining Fits Into Network Consensus"
 description: "Learn how Zano crypto mining relates to consensus and block production, which protocol details to verify, and what this explainer does not cover."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Zano proof-of-work", "Zano mining algorithm", "Zano mining rewards"]

@@ -3,8 +3,6 @@ title: "Consensus in blockchain meaning: how networks agree"
 description: "Learn the consensus in blockchain meaning: how participating nodes agree on valid ledger updates, and how consensus differs from mining and transaction checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["consensus in blockchain"]

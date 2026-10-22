@@ -3,8 +3,6 @@ title: "Ethereum graph: meaning, structure, and data caveats"
 description: "Learn what an ethereum graph means, how nodes and edges can represent Ethereum data relationships, and why graph models depend on scope and data interpretation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

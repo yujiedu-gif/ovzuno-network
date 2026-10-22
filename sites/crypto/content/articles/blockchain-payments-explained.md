@@ -3,8 +3,6 @@ title: "Blockchain payments explained: how a transfer works"
 description: "Blockchain payments explained: follow a value transfer from initiation to network confirmation, and understand the practical limits of settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain payment"]

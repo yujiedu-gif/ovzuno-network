@@ -3,8 +3,6 @@ title: "FDIC Stablecoin: Meaning and Deposit Insurance Basics"
 description: "Understand what fdic stablecoin means, how stablecoins differ from bank deposits, and why FDIC insurance claims require careful, current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoin fdic"]

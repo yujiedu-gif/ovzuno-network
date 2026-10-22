@@ -3,8 +3,6 @@ title: "Stealth cryptocurrency: meaning and privacy limits"
 description: "Learn what stealth cryptocurrency means, how stealth-address techniques can obscure recipient addresses, and why the term does not guarantee complete anonymity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Virtual crypto coin: meaning, distinctions, and treasury context"
 description: "Learn what virtual crypto coin can mean, how coins differ from tokens, and which asset details institutional teams should clarify before treasury assessment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["virtual coin crypto"]

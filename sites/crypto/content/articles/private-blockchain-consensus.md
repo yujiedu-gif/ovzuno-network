@@ -3,8 +3,6 @@ title: "Private Blockchain Consensus: How Permissioned Networks Agree"
 description: "Learn how private blockchain consensus coordinates agreement among permitted participants, what assumptions mechanisms make, and where trade-offs arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

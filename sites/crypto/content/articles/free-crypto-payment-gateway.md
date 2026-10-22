@@ -3,8 +3,6 @@ title: "Free crypto payment gateway: what “free” can include"
 description: "Learn what a free crypto payment gateway may include, which charges can still apply, and what business operators should verify in provider terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment gateway fees", "crypto payment processing costs"]

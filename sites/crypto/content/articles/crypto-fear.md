@@ -3,8 +3,6 @@ title: "Crypto fear: meaning, context, and limits in market commentary"
 description: "Learn what crypto fear means in market commentary, how sentiment differs from measurable evidence, and why fear alone cannot establish future prices or risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

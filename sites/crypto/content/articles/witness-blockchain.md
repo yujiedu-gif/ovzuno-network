@@ -3,8 +3,6 @@ title: "Witness blockchain: meanings and roles across protocols"
 description: "Learn what witness blockchain can mean across protocol designs, how witness roles differ, and why the specific network determines the definition."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

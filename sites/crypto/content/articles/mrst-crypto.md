@@ -3,8 +3,6 @@ title: "MRST crypto: how to identify the asset and verify its claims"
 description: "Learn how to identify what MRST crypto refers to, check project and blockchain records, and distinguish verifiable details from unconfirmed claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

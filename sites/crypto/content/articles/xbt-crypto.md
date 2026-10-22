@@ -3,8 +3,6 @@ title: "XBT crypto: what the ticker means in institutional records"
 description: "Learn what XBT crypto denotes, how to distinguish a market ticker from a network or treasury function, and which record details institutions should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

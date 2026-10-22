@@ -3,8 +3,6 @@ title: "Chipotle crypto payment: how to check current acceptance"
 description: "Learn how to check whether Chipotle offers chipotle crypto payment directly, distinguish intermediary routes, and verify current options before ordering."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

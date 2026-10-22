@@ -3,8 +3,6 @@ title: "What Is a near validator node? Role, Operation, and Key Checks"
 description: "Learn what a near validator node does, how validator operation differs from delegation, and which protocol, operational, and risk details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["NEAR validator requirements", "NEAR staking delegation", "validator node operation"]

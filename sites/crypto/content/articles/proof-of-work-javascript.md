@@ -3,8 +3,6 @@ title: "Proof of work javascript: hashing, difficulty, and a safe demonstration"
 description: "Learn how proof of work javascript can illustrate hashing and difficulty, and why a small demonstration differs from production blockchain consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work javascript"]

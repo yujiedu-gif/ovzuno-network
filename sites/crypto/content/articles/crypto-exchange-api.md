@@ -3,8 +3,6 @@ title: "Crypto exchange API: a practical integration guide"
 description: "Plan a crypto exchange API integration with guidance on interface selection, credential controls, request handling, testing, failure recovery, and operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["exchange_market_infrastructure"]
 tags: []

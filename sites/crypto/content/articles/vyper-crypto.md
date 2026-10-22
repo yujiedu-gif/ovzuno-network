@@ -3,8 +3,6 @@ title: "Vyper crypto: what the term means and how it relates to staking"
 description: "Vyper crypto usually refers to Vyper, a smart-contract programming language—not a cryptocurrency or staking system. Learn how it differs from validator technology."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

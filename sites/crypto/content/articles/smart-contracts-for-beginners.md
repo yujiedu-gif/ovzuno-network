@@ -3,8 +3,6 @@ title: "Smart contracts for beginners: how blockchain code works"
 description: "Smart contracts for beginners: learn what blockchain-based programs do, how transactions trigger execution, and where their capabilities and limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contracts beginners"]

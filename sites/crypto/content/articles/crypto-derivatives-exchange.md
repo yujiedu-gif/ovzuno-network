@@ -3,8 +3,6 @@ title: "Crypto Derivatives Exchange: How the Market Infrastructure Works"
 description: "Understand how a crypto derivatives exchange organizes contracts, order handling, margin, funding, and settlement, and how its infrastructure differs from spot."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

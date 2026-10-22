@@ -3,8 +3,6 @@ title: "Bitget crypto: an exchange infrastructure overview"
 description: "Explore Bitget crypto as exchange infrastructure: review documented system categories, business evaluation questions, and details that require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

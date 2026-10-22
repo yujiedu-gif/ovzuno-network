@@ -3,8 +3,6 @@ title: "Is VeVe NFT Legit? What the NFT Record Does and Does Not Prove"
 description: "Is VeVe NFT legit? Learn what an NFT record can establish, what platform terms may limit, and which details to verify before relying on ownership claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["veve nft legit"]

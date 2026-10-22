@@ -3,8 +3,6 @@ title: "Community token crypto: meaning, uses, and limits"
 description: "Learn what community token crypto means, how tokens may support participation or utility, and why rights and features depend on their design and terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["community tokens crypto"]

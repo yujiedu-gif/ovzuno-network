@@ -3,8 +3,6 @@ title: "Layer 1 Blockchain Tokens: Meaning and Network Roles"
 description: "Learn what layer 1 blockchain tokens are, how native network assets may support protocol functions, and how they differ from tokens issued on a chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

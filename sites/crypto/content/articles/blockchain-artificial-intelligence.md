@@ -3,8 +3,6 @@ title: "Blockchain Artificial Intelligence: Uses in On-Chain Data Analytics"
 description: "Learn how blockchain artificial intelligence can support on-chain data analysis, where it may help, and why data quality, validation, and human review matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: ["AI for on-chain data analysis", "blockchain AI applications"]

@@ -3,8 +3,6 @@ title: "erc20 contract github: How to Find and Assess Source Code"
 description: "Learn how to find and assess an erc20 contract github repository, distinguish examples from deployed contracts, and review source, dependencies, and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 reference implementation", "token contract source code", "OpenZeppelin ERC20"]

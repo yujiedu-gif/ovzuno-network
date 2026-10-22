@@ -3,8 +3,6 @@ title: "Crypto what does staking mean? A plain-language explanation"
 description: "Crypto what does staking mean? Learn how stake relates to validator participation in proof-of-stake networks, and why mechanics and risks vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto staking mean"]

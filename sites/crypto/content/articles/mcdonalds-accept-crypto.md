@@ -3,8 +3,6 @@ title: "Does Mcdonalds accept crypto? How to verify payment options"
 description: "Find out whether mcdonalds accept crypto at a specific location or ordering channel, and learn which current official payment details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["McDonald's crypto payments", "restaurant crypto payment policies"]

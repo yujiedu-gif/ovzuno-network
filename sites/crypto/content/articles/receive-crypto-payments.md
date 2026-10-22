@@ -3,8 +3,6 @@ title: "How to Receive Crypto Payments: From Transaction to Confirmation"
 description: "Learn how businesses receive crypto payments, from a customer's transaction and network confirmation to custody, reconciliation, and access to funds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["receive crypto payment"]

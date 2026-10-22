@@ -3,8 +3,6 @@ title: "Blockchain encryption explained: privacy, hashing, and signatures"
 description: "Blockchain encryption explained: learn how encryption differs from hashing and digital signatures, and what those methods can—and cannot—hide on a blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain encryption"]

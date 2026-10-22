@@ -3,8 +3,6 @@ title: "Digital assets 1040: understanding the U.S. tax-return question"
 description: "Learn what digital assets 1040 refers to, how the Form 1040 question is framed, and where to check official instructions for the relevant tax year."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital assets on 1040"]

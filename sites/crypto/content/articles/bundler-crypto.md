@@ -3,8 +3,6 @@ title: "Bundler crypto: how account-abstraction transactions are submitted"
 description: "Learn what a bundler crypto service does in account abstraction, how it handles UserOperations, and which operational limits organizations should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["account abstraction", "ERC-4337", "UserOperation", "transaction bundling", "paymaster"]

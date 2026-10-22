@@ -3,8 +3,6 @@ title: "DAO treasury: governance, assets, and operational controls"
 description: "Learn what a DAO treasury may hold, how governance can authorize its use, and which operational controls support transparent, accountable execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["DAO treasury management", "onchain treasury"]

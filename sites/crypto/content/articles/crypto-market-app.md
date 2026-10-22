@@ -3,8 +3,6 @@ title: "Crypto Market App: Functions, Data, and Infrastructure"
 description: "Learn what a crypto market app may do, how it connects to market data and trading services, and which infrastructure, custody, and jurisdictional details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto app market"]

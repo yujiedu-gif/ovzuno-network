@@ -3,8 +3,6 @@ title: "Onchain data: What blockchain records show and what they do not"
 description: "Learn what onchain data records, how it can describe blockchain activity, and why visible transactions do not by themselves establish identity, intent, or context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

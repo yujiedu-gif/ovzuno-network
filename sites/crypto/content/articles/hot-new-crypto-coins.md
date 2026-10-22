@@ -3,8 +3,6 @@ title: "Hot New Crypto Coins: How to Assess Recent Launches"
 description: "Learn what hot new crypto coins means, how to check launch claims and protocol evidence, and why attention alone does not establish technical quality."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

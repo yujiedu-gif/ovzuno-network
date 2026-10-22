@@ -3,8 +3,6 @@ title: "Pi Network Smart Contract: Capabilities and Verification"
 description: "Explore pi network smart contract capabilities, how to verify documented support, and how to distinguish available functionality from plans or unknowns."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

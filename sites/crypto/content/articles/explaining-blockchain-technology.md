@@ -3,8 +3,6 @@ title: "Explaining blockchain technology for payment systems"
 description: "Explaining blockchain technology through a payment flow: see how networks validate and record transactions, and where speed, finality, and privacy trade-offs arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain payment networks", "distributed ledger", "consensus mechanism", "transaction finality"]

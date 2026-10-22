@@ -3,8 +3,6 @@ title: "Solidity in Visual Studio: Set Up, Compile, and Test a Contract"
 description: "Learn how to edit Solidity in Visual Studio Code, connect a compiler, check a contract, and test locally while understanding what the editor does not do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

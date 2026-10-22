@@ -3,8 +3,6 @@ title: "NFT ERC 721: Token Identity, Ownership, and Metadata Explained"
 description: "Understand nft erc 721 through token identifiers, ownership records, metadata references, and interface behavior—and what these elements mean for NFT applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

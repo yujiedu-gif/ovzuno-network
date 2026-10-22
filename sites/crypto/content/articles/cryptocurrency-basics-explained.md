@@ -3,8 +3,6 @@ title: "Cryptocurrency Basics Explained: How Networks Record Transfers"
 description: "Cryptocurrency basics explained: follow how network rules, cryptographic authorization, validation, and ledger updates fit together, with protocol-specific caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency basics"]

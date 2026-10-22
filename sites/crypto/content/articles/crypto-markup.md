@@ -3,8 +3,6 @@ title: "Crypto markup: meaning in a transaction quote"
 description: "Understand crypto markup in a transaction quote, how it may differ from a reference price or separate fee, and which details to clarify before comparison."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["crypto trading markup", "cryptocurrency spread", "quoted price"]

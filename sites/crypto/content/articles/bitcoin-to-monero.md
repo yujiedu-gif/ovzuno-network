@@ -3,8 +3,6 @@ title: "Bitcoin to Monero: How Cross-Network Conversion Works"
 description: "Learn what bitcoin to monero conversion means across separate networks, how Bitcoin and Monero differ, and which privacy and operational details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoin monero"]

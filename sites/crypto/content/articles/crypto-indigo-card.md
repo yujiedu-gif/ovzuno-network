@@ -3,8 +3,6 @@ title: "Crypto Indigo Card: What the Label Means and What to Verify"
 description: "Learn what “crypto indigo card” may refer to, why the label alone does not establish card benefits, and which issuer terms to verify before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card tiers", "crypto card eligibility", "crypto card spending limits"]

@@ -3,8 +3,6 @@ title: "Pancake swap crypto: how PancakeSwap’s exchange infrastructure works"
 description: "Learn how Pancake swap crypto works as decentralized exchange infrastructure, including its core components, swap flow, and details that require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

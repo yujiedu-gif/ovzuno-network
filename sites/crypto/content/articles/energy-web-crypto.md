@@ -3,8 +3,6 @@ title: "Energy Web Crypto: Organization, Blockchain, and Energy-Sector Context"
 description: "Learn what energy web crypto refers to, how Energy Web relates to blockchain and digital assets, and what its energy-sector applications do—and do not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

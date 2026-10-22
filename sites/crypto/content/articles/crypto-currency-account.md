@@ -3,8 +3,6 @@ title: "Crypto Currency Account: Functions, Records, and Wallet Boundaries"
 description: "Learn what a crypto currency account can represent on a trading platform, how balances and permissions differ from a blockchain wallet, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

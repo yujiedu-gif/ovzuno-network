@@ -3,8 +3,6 @@ title: "Blockchain account: what it represents and how it works"
 description: "Learn what a blockchain account represents, how control and authorization work, and why account-based and UTXO networks model payment activity differently."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

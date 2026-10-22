@@ -3,8 +3,6 @@ title: "Blockchain in hospitality industry: uses, workflows, and limits"
 description: "Learn what blockchain in hospitality industry means, which workflows it may support, and what operational, privacy, and regulatory limits decision-makers should test"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain hospitality industry"]

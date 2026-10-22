@@ -3,8 +3,6 @@ title: "Changelly Crypto Exchange: Role and Operating Model"
 description: "Learn what the Changelly crypto exchange service does, how its exchange flow fits into crypto infrastructure, and which current operating details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: []

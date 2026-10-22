@@ -3,8 +3,6 @@ title: "JV crypto: meaning in business and institutional contexts"
 description: "Understand what “jv crypto” may mean in institutional and business contexts, how to check whether it is generic or a proper name, and what needs verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

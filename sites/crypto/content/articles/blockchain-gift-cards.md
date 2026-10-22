@@ -3,8 +3,6 @@ title: "Blockchain gift cards: how issuance, transfer, and redemption work"
 description: "Learn how blockchain gift cards may handle issuance, transfers, redemption, and recordkeeping, and what to verify about issuer terms and access."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain gift card"]

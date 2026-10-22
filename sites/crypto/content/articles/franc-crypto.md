@@ -3,8 +3,6 @@ title: "Franc crypto: what the term may refer to"
 description: "Understand what “franc crypto” may mean, how to verify the specific asset or concept, and why its name alone does not establish a link to a franc."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["france crypto"]

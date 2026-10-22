@@ -3,8 +3,6 @@ title: "Rainbow Token Crypto: How to Identify and Verify the Asset"
 description: "Learn how to verify rainbow token crypto by checking its contract, network, project documentation, and stated purpose, and distinguish it from the Rainbow wallet."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Institutional crypto wallet: functions, controls, and operational bounda
 description: "Learn what an institutional crypto wallet does, how organizational approval and access controls work, and where wallet functions differ from custody."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

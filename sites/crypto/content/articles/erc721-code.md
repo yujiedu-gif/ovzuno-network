@@ -3,8 +3,6 @@ title: "A Practical Guide to erc721 code"
 description: "Learn how erc721 code is structured, what its core functions do, and which implementation and deployment checks developers should verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

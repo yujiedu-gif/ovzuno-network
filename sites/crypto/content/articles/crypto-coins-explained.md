@@ -3,8 +3,6 @@ title: "Crypto Coins Explained: Native Assets and Blockchain Roles"
 description: "Crypto coins explained through their relationship to a blockchain: learn what native assets do and how coins differ from tokens in common usage."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto coins"]

@@ -3,8 +3,6 @@ title: "Free crypto tokens: how distributions work and what to check"
 description: "Learn what free crypto tokens means, how token distributions work, and what eligibility rules, transaction costs, security risks, and legal conditions to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

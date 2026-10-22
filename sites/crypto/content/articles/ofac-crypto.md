@@ -3,8 +3,6 @@ title: "OFAC Crypto: U.S. Sanctions Considerations for Digital Assets"
 description: "Understand OFAC crypto sanctions considerations in the United States, where organizational exposure can arise, and what to review with qualified counsel."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

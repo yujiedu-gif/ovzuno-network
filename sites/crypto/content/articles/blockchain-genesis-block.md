@@ -3,8 +3,6 @@ title: "Blockchain genesis block: definition and role in a network"
 description: "Learn what a blockchain genesis block is, how it anchors a network’s block history, and why its structure and setup can vary between blockchain systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["genesis block in blockchain"]

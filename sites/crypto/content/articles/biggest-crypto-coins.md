@@ -3,8 +3,6 @@ title: "Biggest crypto coins: how mining consensus differs across networks"
 description: "Explore how the biggest crypto coins differ in consensus design, which networks use proof-of-work mining, and why those distinctions matter for infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

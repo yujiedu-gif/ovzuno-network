@@ -3,8 +3,6 @@ title: "Bybit crypto card: how it works and what to check"
 description: "Learn how the bybit crypto card processes payments, what eligibility and asset support can depend on, and which local terms to verify before applying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

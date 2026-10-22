@@ -3,8 +3,6 @@ title: "NFT internet: meaning, digital ownership, and limits"
 description: "Learn what NFT internet means, how NFT records can relate to digital items and online services, and why a token alone does not establish every right."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["internet nft"]

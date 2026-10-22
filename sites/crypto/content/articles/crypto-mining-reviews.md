@@ -3,8 +3,6 @@ title: "Crypto Mining Reviews: How to Assess Evidence and Claims"
 description: "Learn how to assess crypto mining reviews by checking their scope, evidence, disclosures, and limits, and identify claims that need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: ["crypto mine review"]

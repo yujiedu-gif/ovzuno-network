@@ -3,8 +3,6 @@ title: "Crypto Skrill: What the Phrase Means and What to Verify"
 description: "Learn what “crypto Skrill” may refer to, how platform-mediated crypto features differ from on-chain payments, and which details to verify before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

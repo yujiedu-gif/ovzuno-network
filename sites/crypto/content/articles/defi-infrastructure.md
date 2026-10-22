@@ -3,8 +3,6 @@ title: "DeFi infrastructure: components, transaction flows, and dependencies"
 description: "Explore DeFi infrastructure layers, how applications connect to blockchain networks, and the operational dependencies teams should assess before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

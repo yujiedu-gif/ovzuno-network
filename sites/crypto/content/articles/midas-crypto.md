@@ -3,8 +3,6 @@ title: "Midas crypto: what the name may refer to and how to verify it"
 description: "Learn what “midas crypto” may refer to, how to distinguish similarly named entities, and which authoritative records to check before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

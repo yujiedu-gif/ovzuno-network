@@ -3,8 +3,6 @@ title: "Bitcoin Digital Signature: How Transaction Authorization Works"
 description: "Learn what a bitcoin digital signature does in transaction authorization, how public-key verification works, and what signature checks do—and do not—prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

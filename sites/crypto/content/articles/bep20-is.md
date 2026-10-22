@@ -3,8 +3,6 @@ title: "BEP20 Is a Token Standard: What It Means on BNB Smart Chain"
 description: "BEP20 is a token standard for BNB Smart Chain. Learn what its interface specifies, how token contracts use it, and what to verify before a transfer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bep20"]

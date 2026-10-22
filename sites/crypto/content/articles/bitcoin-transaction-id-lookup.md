@@ -3,8 +3,6 @@ title: "Bitcoin transaction id lookup: Find and interpret a transaction"
 description: "Learn how a bitcoin transaction id lookup can locate a network record, which details and confirmation indicators it may show, and what it cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

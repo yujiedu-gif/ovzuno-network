@@ -3,8 +3,6 @@ title: "Proof of stake example: a validator scenario, step by step"
 description: "Follow a hypothetical proof of stake example showing validator selection, block checks, and attestations, with protocol-dependent details clearly identified."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake example"]

@@ -3,8 +3,6 @@ title: "Stake Token Crypto: Meaning, Roles, and Key Distinctions"
 description: "Learn what stake token crypto can refer to, how staking differs from a token, and why token rights and risks depend on the specific protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["staking token", "proof of stake", "staking rewards", "liquid staking token"]

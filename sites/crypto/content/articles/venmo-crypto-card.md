@@ -3,8 +3,6 @@ title: "Venmo crypto card: verify whether crypto spending is supported"
 description: "Check whether the venmo crypto card supports crypto-funded purchases, how to verify current US availability, and which official terms clarify its operation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

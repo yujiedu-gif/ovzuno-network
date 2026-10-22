@@ -3,8 +3,6 @@ title: "Consensus mechanism in blockchain: how networks agree"
 description: "Learn how a consensus mechanism in blockchain helps distributed networks validate transactions and agree on ledger updates, with a clear proof-of-work and proof-of-"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

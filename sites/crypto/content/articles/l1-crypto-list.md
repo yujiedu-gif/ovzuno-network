@@ -3,8 +3,6 @@ title: "L1 crypto list: a scoped reference to Layer 1 networks"
 description: "Use this l1 crypto list to identify candidate Layer 1 networks, understand inclusion criteria, and verify classifications without treating tokens as networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["1 crypto list"]

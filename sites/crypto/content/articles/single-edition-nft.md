@@ -3,8 +3,6 @@ title: "Single edition NFT: Meaning, uniqueness, and rights"
 description: "Learn what a single edition NFT means, how token uniqueness differs from the digital work, and what to check about provenance, terms, and rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

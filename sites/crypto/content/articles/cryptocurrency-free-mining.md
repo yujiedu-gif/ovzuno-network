@@ -3,8 +3,6 @@ title: "Cryptocurrency Free Mining: What “Free” Means and What to Check"
 description: "Cryptocurrency free mining can mean different things. Learn who supplies the computing power, which costs and conditions remain, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

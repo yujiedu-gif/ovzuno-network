@@ -3,8 +3,6 @@ title: "My Crypto Funding: Meaning and Verification"
 description: "Learn what my crypto funding could refer to, why context matters, and what to verify before relying on claims about a crypto-funding process or service."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

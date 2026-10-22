@@ -3,8 +3,6 @@ title: "Crypto chip token: meanings, context, and how to tell them apart"
 description: "Crypto chip token can refer to different things. Learn how context distinguishes a blockchain asset from a chip-based credential or an unclear product term."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

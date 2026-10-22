@@ -3,8 +3,6 @@ title: "NFT gas fee: what drives the cost of an NFT transaction"
 description: "Learn what an NFT gas fee covers, which transaction and network factors affect it, and how to interpret a current estimate without treating it as guaranteed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

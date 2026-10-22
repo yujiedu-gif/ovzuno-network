@@ -3,8 +3,6 @@ title: "Crypto mining bros: the phrase and the proof-of-work reality"
 description: "Learn what “crypto mining bros” may mean in informal discussion, why it is not a technical category, and how miners contribute to proof-of-work consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

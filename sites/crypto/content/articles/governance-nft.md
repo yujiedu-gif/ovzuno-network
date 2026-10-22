@@ -3,8 +3,6 @@ title: "Governance NFT: What It Represents and What It Can Authorize"
 description: "Learn what a governance NFT may represent, how participation rights relate to proposals and votes, and why token ownership alone may not confer authority."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "Estonia Crypto: Institutional Treasury Questions to Verify"
 description: "Estonia crypto considerations for institutional treasury teams, including legal status, provider oversight, tax questions, and operational checks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["crypto estonia"]

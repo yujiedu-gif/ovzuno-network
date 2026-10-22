@@ -3,8 +3,6 @@ title: "Crypto Birthday Card: What It Is and How Digital-Asset Gifts Work"
 description: "Learn what a crypto birthday card can mean, how a digital-asset gift may be delivered, and what senders and recipients should check before using one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

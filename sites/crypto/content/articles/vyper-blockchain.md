@@ -3,8 +3,6 @@ title: "Vyper blockchain: how the language relates to smart-contract networks"
 description: "Learn what “Vyper blockchain” means, how Vyper relates to smart-contract networks, and what happens between contract source code and on-chain execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

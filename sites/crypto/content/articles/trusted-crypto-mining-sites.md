@@ -3,8 +3,6 @@ title: "Trusted crypto mining sites: how to evaluate claims and evidence"
 description: "Learn how to evaluate trusted crypto mining sites by checking operational disclosures, verifiable evidence, contract terms, and warning signs before relying on their"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

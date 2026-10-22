@@ -3,8 +3,6 @@ title: "New Tesla Crypto Coin: How to Check the Claim"
 description: "Learn how to assess a claim about a new tesla crypto coin, check for reliable evidence of a Tesla connection, and avoid risky interactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

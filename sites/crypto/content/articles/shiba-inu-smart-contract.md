@@ -3,8 +3,6 @@ title: "Shiba Inu Smart Contract: Meaning and Verification Basics"
 description: "Learn what “shiba inu smart contract” may refer to, how to identify a specific on-chain contract, and what documentation and code checks can establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

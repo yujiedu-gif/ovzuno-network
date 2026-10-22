@@ -3,8 +3,6 @@ title: "NFT Based Meaning: What the Term Says About Digital Ownership"
 description: "Understand NFT based meaning, how an NFT may function in a product or record, and why a token alone does not establish rights to an associated asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft based"]

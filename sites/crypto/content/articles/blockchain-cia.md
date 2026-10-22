@@ -3,8 +3,6 @@ title: "Blockchain CIA: Applying the Confidentiality, Integrity, Availability Mo
 description: "Learn how blockchain CIA applies confidentiality, integrity, and availability to blockchain systems, and where network design and surrounding controls matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["confidentiality integrity availability", "CIA triad", "blockchain security"]

@@ -3,8 +3,6 @@ title: "Blockchain next: What may shape payment infrastructure"
 description: "Explore blockchain next in payment infrastructure: assess emerging design approaches, potential benefits, trade-offs, and the evidence needed before drawing broader"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["next blockchain"]

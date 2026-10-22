@@ -3,8 +3,6 @@ title: "Bitcoin node: what it is and what it does"
 description: "Learn what a bitcoin node is, how it validates and relays Bitcoin data, and how its role differs from miners and wallets."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

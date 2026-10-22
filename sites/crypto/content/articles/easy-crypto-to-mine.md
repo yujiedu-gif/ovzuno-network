@@ -3,8 +3,6 @@ title: "Easy Crypto to Mine: What the Claim Means"
 description: "Learn what “easy crypto to mine” means, which proof-of-work factors affect accessibility, and why easier mining does not guarantee profit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["easy crypto mine"]

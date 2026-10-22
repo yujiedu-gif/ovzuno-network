@@ -3,8 +3,6 @@ title: "Nifty Gateway NFT: How the Marketplace Model Works"
 description: "Learn what Nifty Gateway NFT means, how an NFT marketplace connects creators and collectors, and why this model differs from business payment gateways."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

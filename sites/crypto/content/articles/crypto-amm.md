@@ -3,8 +3,6 @@ title: "Crypto AMM: How Pool-Based Trading and Pricing Work"
 description: "Learn how a crypto amm uses liquidity pools and pricing rules to facilitate trades, and understand key design trade-offs and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

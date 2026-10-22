@@ -3,8 +3,6 @@ title: "One token crypto: meanings of an ambiguous phrase"
 description: "One token crypto can refer to a single asset, a token unit, or a project name. Learn how context and verifiable identifiers help distinguish the meanings."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["1 token crypto"]

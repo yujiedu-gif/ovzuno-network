@@ -3,8 +3,6 @@ title: "ERC 20 governance token: meaning, voting, and limits"
 description: "Learn what an ERC 20 governance token is, how ERC-20 functionality relates to voting, and why participation rights depend on project rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

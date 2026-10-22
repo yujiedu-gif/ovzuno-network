@@ -3,8 +3,6 @@ title: "Crypto payment accept: a business readiness guide"
 description: "Use this crypto payment accept guide to map payment-flow choices, operational controls, and jurisdiction-specific legal, tax, and security questions before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

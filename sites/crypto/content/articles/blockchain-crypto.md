@@ -3,8 +3,6 @@ title: "Blockchain Crypto: Meaning, Networks, Assets, and Payments"
 description: "Learn what blockchain crypto means, how blockchain networks relate to crypto assets, and where payment activity fits without confusing technology with tokens."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

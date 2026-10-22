@@ -3,8 +3,6 @@ title: "matic crypto staking: How Delegation and Validators Work"
 description: "Learn how matic crypto staking works, how delegation relates to validators, what the staking process involves, and which operational and participation risks to check"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

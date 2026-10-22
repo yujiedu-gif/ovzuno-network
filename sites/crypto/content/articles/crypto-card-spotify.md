@@ -3,8 +3,6 @@ title: "Crypto card Spotify payments: compatibility and billing checks"
 description: "Learn how a crypto card Spotify payment may work, what to verify about recurring billing and card acceptance, and which fees or limits to check first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

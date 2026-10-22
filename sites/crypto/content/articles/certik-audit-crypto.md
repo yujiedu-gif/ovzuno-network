@@ -3,8 +3,6 @@ title: "certik audit crypto: What a Smart Contract Audit Can and Cannot Show"
 description: "Learn what a certik audit crypto report may cover, how to read findings and remediation evidence, and why an audit is not a guarantee of security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

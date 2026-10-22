@@ -3,8 +3,6 @@ title: "NFT for contracts: what the token can and cannot establish"
 description: "Learn how an NFT for contracts may record or link information, what it does not establish by itself, and which legal and technical questions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft contracts"]

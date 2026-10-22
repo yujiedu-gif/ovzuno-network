@@ -3,8 +3,6 @@ title: "Dapp Development Platform: A Guide to Building Smart-Contract Dapps"
 description: "Learn how to evaluate a dapp development platform and plan a smart-contract dapp workflow, from architecture and testing to deployment considerations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

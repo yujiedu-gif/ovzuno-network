@@ -3,8 +3,6 @@ title: "Codius smart contracts: hosting, execution, and trust assumptions"
 description: "Learn what Codius smart contracts refers to, how hosted application logic differs from blockchain execution, and which dependencies and trust assumptions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

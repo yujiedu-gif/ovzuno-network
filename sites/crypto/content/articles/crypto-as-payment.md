@@ -3,8 +3,6 @@ title: "Crypto as payment: how the transaction flow works"
 description: "Learn what crypto as payment means, how a transaction moves from payer to merchant, and which settlement, security, and compliance questions need review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency payments", "crypto payment acceptance", "payment settlement"]

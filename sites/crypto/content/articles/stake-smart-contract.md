@@ -3,8 +3,6 @@ title: "Stake Smart Contract: How Staking Logic Works"
 description: "Learn how a stake smart contract can handle deposits, reward accounting, and withdrawals, and what technical risks to review before using or deploying one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["staking contract", "staking rewards", "unstaking"]

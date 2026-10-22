@@ -3,8 +3,6 @@ title: "Consensus Protocol Blockchain: How Distributed Agreement Works"
 description: "Learn what a consensus protocol blockchain uses to coordinate distributed participants, validate transactions, and maintain shared network state."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

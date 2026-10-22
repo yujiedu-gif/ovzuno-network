@@ -3,8 +3,6 @@ title: "Cronos crypto staking: validators, delegation, and key checks"
 description: "Learn how Cronos crypto staking relates to validators and delegation, which network-specific mechanics to verify, and what risks and rules may apply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

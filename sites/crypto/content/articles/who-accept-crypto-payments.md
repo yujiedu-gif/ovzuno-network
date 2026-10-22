@@ -3,8 +3,6 @@ title: "Who Accept Crypto Payments? Merchant Categories and How to Check"
 description: "See who accept crypto payments, which merchant categories may offer them, and how to verify current checkout options and terms before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["who accept crypto payment"]

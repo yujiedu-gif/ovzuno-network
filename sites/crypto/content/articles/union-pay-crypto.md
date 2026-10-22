@@ -3,8 +3,6 @@ title: "Union pay crypto: how crypto-funded UnionPay payments may work"
 description: "Learn what union pay crypto may refer to, how crypto funding and card payments can connect, and which provider, card, and jurisdiction details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["pay crypto"]

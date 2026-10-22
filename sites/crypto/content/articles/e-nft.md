@@ -3,8 +3,6 @@ title: "E-NFT: Meaning, Usage, and Context"
 description: "Learn what e-nft means, how the label relates to NFTs and digital ownership, and why its interpretation can depend on the context where it appears."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["enft", "e nft"]

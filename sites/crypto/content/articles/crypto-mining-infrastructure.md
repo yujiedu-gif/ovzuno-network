@@ -3,8 +3,6 @@ title: "Crypto Mining Infrastructure: Systems Behind Proof-of-Work"
 description: "Understand crypto mining infrastructure, from computing hardware and power delivery to network connectivity, cooling, and operational dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work infrastructure", "mining hardware", "mining facility"]

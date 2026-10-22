@@ -3,8 +3,6 @@ title: "NFT explanation: what the token records and what ownership means"
 description: "An nft explanation of how a token’s blockchain record relates to digital content, and why holding a token does not automatically grant copyright or access."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

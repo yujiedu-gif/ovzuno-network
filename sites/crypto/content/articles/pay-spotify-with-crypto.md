@@ -3,8 +3,6 @@ title: "Can You Pay Spotify with Crypto? Direct and Indirect Options"
 description: "Learn whether you can pay Spotify with crypto directly or through an indirect option, and what country, plan, redemption, and payment terms to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["Spotify gift card cryptocurrency"]

@@ -3,8 +3,6 @@ title: "Anchor crypto staking: roles, mechanics, and key distinctions"
 description: "Understand anchor crypto staking, clarify what Anchor refers to, and distinguish protocol functions from validator and participant responsibilities."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT technical explanation: how tokens connect to digital items"
 description: "An nft technical explanation of token records, metadata, linked files, and transfer mechanics—and what an NFT alone cannot establish about rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

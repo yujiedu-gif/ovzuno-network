@@ -3,8 +3,6 @@ title: "Vajra blockchain: identity, architecture, and payment claims"
 description: "Learn what Vajra blockchain refers to, how to assess its documented architecture and payment role, and which network claims still need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Perpetual crypto: meaning, mechanics, and how it differs from spot"
 description: "Learn what perpetual crypto usually means, how perpetual contracts differ from spot transactions, and why derivatives are not crypto payment methods."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["perpetuals crypto"]

@@ -3,8 +3,6 @@ title: "Cryptocurrency exchanges in africa: infrastructure across diverse market
 description: "Explore how cryptocurrency exchanges in africa connect trading, custody, payments, and local markets, and why operating conditions must be assessed country by coun"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

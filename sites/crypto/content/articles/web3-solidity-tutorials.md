@@ -3,8 +3,6 @@ title: "Web3 Solidity Tutorials: A Beginner’s Path to a Tested dApp"
 description: "Follow web3 solidity tutorials from Solidity basics to a locally tested contract and simple dApp connection, with safety checks before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity development", "smart contract testing", "decentralized applications"]

@@ -3,8 +3,6 @@ title: "Blockchain development environment: configure a payment integration work
 description: "Plan a blockchain development environment for payment integration testing: separate workspaces, configure network access, protect credentials, and verify controlled."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

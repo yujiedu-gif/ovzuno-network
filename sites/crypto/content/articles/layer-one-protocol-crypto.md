@@ -3,8 +3,6 @@ title: "Layer One Protocol Crypto: How Base-Layer Networks Process Transactions"
 description: "Learn what layer one protocol crypto means, how base-layer networks validate and record transactions, and why their design matters for blockchain scaling."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["layer 1 protocol crypto"]

@@ -3,8 +3,6 @@ title: "GDPR Compliant Blockchain: Assessing Data Protection in Payment Systems"
 description: "Explore how to assess a GDPR compliant blockchain design for payment systems, including personal-data flows, technical trade-offs, and legal review questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["GDPR and blockchain", "personal data on blockchain", "data protection by design"]

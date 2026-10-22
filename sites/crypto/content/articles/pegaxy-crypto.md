@@ -3,8 +3,6 @@ title: "Pegaxy crypto: regulation and tax reporting questions to check"
 description: "Learn how Pegaxy crypto activity may raise tax reporting or regulatory questions, what facts to document, and where to verify rules for your jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

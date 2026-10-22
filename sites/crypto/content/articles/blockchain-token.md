@@ -3,8 +3,6 @@ title: "Blockchain token: meaning, mechanics, and limits"
 description: "Learn what a blockchain token represents, how a network records and transfers it, and why token data alone does not establish legal rights or value."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain tokenization"]

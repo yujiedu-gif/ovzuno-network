@@ -3,8 +3,6 @@ title: "Raspberry Pi 4 Crypto Mining: Capabilities and Limits"
 description: "Learn how raspberry pi 4 crypto mining relates to proof-of-work workloads, hardware constraints, software compatibility, and practical limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

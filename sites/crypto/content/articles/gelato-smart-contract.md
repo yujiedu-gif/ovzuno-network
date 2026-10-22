@@ -3,8 +3,6 @@ title: "Gelato Smart Contract: Meaning, Interaction, and Design Considerations"
 description: "Understand what gelato smart contract refers to, how automation can interact with on-chain logic, and what builders should verify before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

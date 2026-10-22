@@ -3,8 +3,6 @@ title: "Domain crypto payment: How a website domain relates to crypto payments"
 description: "Learn what domain crypto payment can mean, how a domain may connect users to a payment experience, and which payment functions belong to other systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

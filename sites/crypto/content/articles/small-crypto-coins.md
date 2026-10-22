@@ -3,8 +3,6 @@ title: "Small crypto coins: how mining and consensus can differ"
 description: "Small crypto coins can use varied mining and consensus designs. Learn which network mechanics to examine and why coin size alone explains little."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

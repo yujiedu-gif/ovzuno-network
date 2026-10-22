@@ -3,8 +3,6 @@ title: "Tagomi crypto: its role in institutional markets and treasury context"
 description: "Explore Tagomi crypto’s documented institutional market role, how trading infrastructure differs from treasury management, and which details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

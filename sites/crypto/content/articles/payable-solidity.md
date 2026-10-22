@@ -3,8 +3,6 @@ title: "Payable Solidity: Receiving Ether in Functions and Contracts"
 description: "Learn how payable Solidity functions and constructors accept Ether, how to inspect msg.value, and what developers should check when handling payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Simplest way to explain cryptocurrency: a clear definition"
 description: "The simplest way to explain cryptocurrency: what it is, how it relates to a network, and where a simple analogy can mislead."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["simplest way explain cryptocurrency"]

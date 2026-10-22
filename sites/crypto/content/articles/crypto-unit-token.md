@@ -3,8 +3,6 @@ title: "Crypto Unit Token: Meaning and Context"
 description: "Learn what crypto unit token may refer to, how to distinguish a token asset from a denomination or project-specific term, and where to verify its meaning."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain Intelligence Group Certification: What to Verify"
 description: "Learn what blockchain intelligence group certification may refer to, which issuer details to verify, and how to assess scope, recognition, and current status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

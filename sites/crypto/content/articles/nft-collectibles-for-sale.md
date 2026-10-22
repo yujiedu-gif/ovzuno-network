@@ -3,8 +3,6 @@ title: "NFT Collectibles for Sale: What a Listing Represents"
 description: "Learn what NFT collectibles for sale listings say about a token, linked digital media, stated rights, and transaction terms—and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft collectibles sale"]

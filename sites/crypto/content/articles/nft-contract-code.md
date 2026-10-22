@@ -3,8 +3,6 @@ title: "NFT contract code: implementation choices and review checklist"
 description: "Understand NFT contract code, including token standards, minting, metadata, permissions, and tests, with a practical checklist for pre-deployment review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT smart contract", "token standard", "metadata URI", "contract testing", "access control"]

@@ -3,8 +3,6 @@ title: "Free crypto earning: how rewards work and what to check"
 description: "Learn how free crypto earning offers work, what tasks and eligibility rules may apply, and how to check custody, security, and other risks before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["earn free crypto"]

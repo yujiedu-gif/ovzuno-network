@@ -3,8 +3,6 @@ title: "NBA Token Crypto: How to Identify and Verify an NBA-Related Token"
 description: "Learn what “NBA token crypto” may refer to and how to check an asset’s issuer, official NBA relationship, network, contract, purpose, and disclosures."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

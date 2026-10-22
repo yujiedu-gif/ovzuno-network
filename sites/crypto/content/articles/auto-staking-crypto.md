@@ -3,8 +3,6 @@ title: "Auto staking crypto: what is automated and what to check"
 description: "Learn what auto staking crypto automates, how delegation and rewards may be handled, and which custody, withdrawal, penalty, and control details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

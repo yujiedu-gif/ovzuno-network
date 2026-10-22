@@ -3,8 +3,6 @@ title: "Solidity database: what the term means for smart-contract data"
 description: "Understand what a Solidity database usually refers to, how contract state differs from conventional databases, and what to consider when placing data on-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solid database"]

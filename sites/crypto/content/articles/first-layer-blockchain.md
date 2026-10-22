@@ -3,8 +3,6 @@ title: "First Layer Blockchain: Meaning and Core Network Functions"
 description: "Learn what a first layer blockchain is, which core network functions it performs, and how the term describes a network’s base layer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["Layer 1 blockchain", "base layer"]

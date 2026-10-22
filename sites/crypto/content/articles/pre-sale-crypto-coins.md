@@ -3,8 +3,6 @@ title: "Pre sale crypto coins: how presales and token allocations work"
 description: "Learn how pre sale crypto coins may be offered, how allocation and vesting terms can vary, and what to verify before assessing a crypto presale."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto presale", "token presale", "presale token allocation"]

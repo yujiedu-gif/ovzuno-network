@@ -3,8 +3,6 @@ title: "Crypto market cycles explained: phases and infrastructure signals"
 description: "Crypto market cycles explained through commonly described phases and observable exchange activity, with limits on what cycle labels can show or predict."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto market cycles"]

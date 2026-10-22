@@ -3,8 +3,6 @@ title: "bitcoin us: Meaning and How to Identify What It Refers To"
 description: "Understand what bitcoin us may mean in a United States context, how to distinguish Bitcoin references from a named service, and what evidence to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

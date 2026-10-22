@@ -3,8 +3,6 @@ title: "Immutable in Solidity: Assignment Rules, Behavior, and Limitations"
 description: "Learn how immutable in Solidity state variables are assigned and used, how they differ from constants and mutable variables, and what design limits to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

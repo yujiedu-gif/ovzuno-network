@@ -3,8 +3,6 @@ title: "opendao crypto: What the Name Refers To and How Its Components Relate"
 description: "Learn what opendao crypto refers to, how its project, token, and governance components may relate, and which details need primary-source verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

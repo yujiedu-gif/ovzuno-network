@@ -3,8 +3,6 @@ title: "NFTs in Real Estate: What the Tokens Can Represent"
 description: "Learn how nfts in real estate can represent property data, access, or linked interests, and why an NFT alone does not establish property ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

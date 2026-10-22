@@ -3,8 +3,6 @@ title: "Sharding in blockchain: how partitioning works and its trade-offs"
 description: "Learn what sharding in blockchain means, how partitioning can distribute network work, and why coordination, security, and design trade-offs matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain sharding"]

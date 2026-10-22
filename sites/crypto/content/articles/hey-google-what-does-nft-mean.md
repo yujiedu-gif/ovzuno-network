@@ -3,8 +3,6 @@ title: "Hey Google What Does NFT Mean? A Plain-Language Explanation"
 description: "Hey Google what does nft mean? Learn what a non-fungible token is, what its blockchain record can show, and how it differs from linked digital content."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["hey google nft mean"]

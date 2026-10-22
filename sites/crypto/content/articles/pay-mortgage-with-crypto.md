@@ -3,8 +3,6 @@ title: "How to Pay Mortgage With Crypto: Routes and Risks"
 description: "Learn possible routes to pay mortgage with crypto, what to confirm with your servicer, and how conversion, timing, fees, and compliance may affect payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["mortgage payment cryptocurrency", "crypto-to-fiat conversion"]

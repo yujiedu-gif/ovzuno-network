@@ -3,8 +3,6 @@ title: "American Express blockchain: what public evidence shows"
 description: "Learn what public evidence can establish about American Express blockchain payment initiatives, how to assess claims, and which details remain unconfirmed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

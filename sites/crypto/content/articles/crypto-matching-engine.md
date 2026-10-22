@@ -3,8 +3,6 @@ title: "Crypto Matching Engine: Role, Order Flow, and Design"
 description: "Learn what a crypto matching engine does, how it evaluates orders, where it fits in exchange architecture, and which design trade-offs operators consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Base layer crypto: what it means and how it works"
 description: "Learn what base layer crypto means, how a base layer supports transactions and settlement, and how it relates to networks and applications built on top."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

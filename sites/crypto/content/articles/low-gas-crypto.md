@@ -3,8 +3,6 @@ title: "Low gas crypto: How blockchain payment costs work"
 description: "Learn what low gas crypto means, how blockchain transaction costs are calculated, why fees vary, and what businesses should compare beyond the fee amount."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

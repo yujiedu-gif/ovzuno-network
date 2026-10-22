@@ -3,8 +3,6 @@ title: "Proof of stake when: How validators participate in consensus"
 description: "Proof of stake when: learn when validators are selected, propose or confirm blocks, and why participation and finality timing differ by network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake when"]

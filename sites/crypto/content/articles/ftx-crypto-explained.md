@@ -3,8 +3,6 @@ title: "FTX crypto explained: the exchange, related entities, and token distinct
 description: "FTX crypto explained: distinguish the former exchange and related entities from any separately named token, and check current legal or service claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["ftx crypto"]

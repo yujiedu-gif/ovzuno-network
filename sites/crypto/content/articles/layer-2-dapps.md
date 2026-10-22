@@ -3,8 +3,6 @@ title: "Layer 2 dapps: how decentralized applications work on scaling networks"
 description: "Understand how layer 2 dapps connect interfaces, smart contracts, and scaling networks, including transaction flow, trade-offs, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Layer 2", "smart contracts", "decentralized applications"]

@@ -3,8 +3,6 @@ title: "Crypto tokens explained: what they are and how they work"
 description: "Crypto tokens explained: learn how tokens are represented on blockchains, how they differ from native coins, and why functions do not guarantee rights or value."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto tokens"]

@@ -3,8 +3,6 @@ title: "African NFT Art: Digital Ownership, Attribution, and Context"
 description: "Explore how African NFT art connects digital works to blockchain records, and why attribution, copyright, provenance, and cultural context still need scrutiny."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

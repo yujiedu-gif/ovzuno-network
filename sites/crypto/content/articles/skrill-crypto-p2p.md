@@ -3,8 +3,6 @@ title: "Skrill crypto p2p: Meaning, transaction roles, and what to verify"
 description: "Learn what skrill crypto p2p can refer to, how platform-supported features differ from private arrangements, and which terms to verify before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["Skrill peer-to-peer crypto", "Skrill crypto transfers", "peer-to-peer cryptocurrency payments"]

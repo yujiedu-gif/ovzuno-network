@@ -3,8 +3,6 @@ title: "Vesting Smart Contract GitHub: Meaning and Repository Review"
 description: "Learn what vesting smart contract github repositories contain, how vesting schedules are represented, and what to inspect before adapting source code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["token vesting contract", "vesting schedule", "Solidity vesting contract"]

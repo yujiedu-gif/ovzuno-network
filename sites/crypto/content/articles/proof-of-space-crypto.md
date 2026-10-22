@@ -3,8 +3,6 @@ title: "Proof of Space Crypto: How Storage-Based Consensus Works"
 description: "Learn how proof of space crypto uses storage in a blockchain consensus process, how participation generally works, and how it differs from proof of stake."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof space crypto"]

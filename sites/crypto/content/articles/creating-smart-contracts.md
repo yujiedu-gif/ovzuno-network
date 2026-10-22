@@ -3,8 +3,6 @@ title: "Creating smart contracts: a practical development workflow"
 description: "Learn a careful workflow for creating smart contracts, from defining dApp requirements and designing contract behavior to testing and deployment readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

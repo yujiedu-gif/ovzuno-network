@@ -3,8 +3,6 @@ title: "Flare cryptocurrency: Network components and the role of FLR"
 description: "Explore flare cryptocurrency through its documented network components and FLR’s stated role, with a checklist for verifying technical, operational, and jurisdiction"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

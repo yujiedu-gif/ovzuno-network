@@ -3,8 +3,6 @@ title: "DeFi liquidity provider roles in cross-chain interoperability"
 description: "Understand the defi liquidity provider’s role in cross-chain interoperability, including liquidity flows, protocol dependencies, and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["cross_chain_interoperability"]
 tags: []

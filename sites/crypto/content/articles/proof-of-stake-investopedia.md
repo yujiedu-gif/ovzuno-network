@@ -3,8 +3,6 @@ title: "Proof of stake investopedia: meaning and validator role"
 description: "Proof of stake investopedia explained: learn what proof of stake means, how validators participate in blockchain consensus, and what the term does not cover."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake investopedia"]

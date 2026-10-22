@@ -3,8 +3,6 @@ title: "DERO Blockchain: Architecture, Transactions, and Network Design"
 description: "Explore the DERO blockchain’s stated architecture, transaction model, privacy approach, and network operation, with clear limits on what needs verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

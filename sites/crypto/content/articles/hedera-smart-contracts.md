@@ -3,8 +3,6 @@ title: "Hedera Smart Contracts: Execution, Services, and Developer Consideration
 description: "Learn how Hedera smart contracts execute, connect with network services, and shape application design, plus which technical and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

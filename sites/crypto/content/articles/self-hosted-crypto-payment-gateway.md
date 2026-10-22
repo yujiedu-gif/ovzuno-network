@@ -3,8 +3,6 @@ title: "Self Hosted Crypto Payment Gateway: Architecture and Responsibilities"
 description: "Learn what a self hosted crypto payment gateway does, how its components fit together, and which operational, security, and compliance questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

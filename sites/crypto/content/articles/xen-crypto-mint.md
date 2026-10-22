@@ -3,8 +3,6 @@ title: "XEN Crypto Mint: How the Protocol’s Minting Process Works"
 description: "Learn how the xen crypto mint process is structured, including its claim lifecycle, timing concepts, and protocol details to verify before interaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

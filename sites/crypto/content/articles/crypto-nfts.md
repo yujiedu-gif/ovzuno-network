@@ -3,8 +3,6 @@ title: "Crypto NFTs: What They Represent and What They Do Not"
 description: "Learn what crypto NFTs represent, how blockchain records distinguish tokens, and why holding an NFT does not automatically grant rights to linked content."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

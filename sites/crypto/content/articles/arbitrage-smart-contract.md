@@ -3,8 +3,6 @@ title: "Arbitrage Smart Contract: Role, Execution, and Limits"
 description: "Learn what an arbitrage smart contract does, how it fits into on-chain trade execution, and why transaction costs, timing, and execution risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

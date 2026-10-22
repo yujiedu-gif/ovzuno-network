@@ -3,8 +3,6 @@ title: "DeFi Tracker: Meaning, Metrics, and Data Limitations"
 description: "A defi tracker displays selected DeFi protocol or on-chain data. Learn what metrics it may show, where data comes from, and why figures can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

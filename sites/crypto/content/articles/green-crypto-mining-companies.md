@@ -3,8 +3,6 @@ title: "Green crypto mining companies: how to assess environmental claims"
 description: "Learn how to assess green crypto mining companies by examining energy sourcing, emissions boundaries, and the evidence behind environmental claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

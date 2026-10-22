@@ -3,8 +3,6 @@ title: "Goldfinch crypto loan: how the lending model works"
 description: "Understand how a goldfinch crypto loan connects borrowers and crypto capital, how protocol mechanisms fit together, and which risks and terms need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

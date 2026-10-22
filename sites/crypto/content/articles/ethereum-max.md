@@ -3,8 +3,6 @@ title: "ethereum max: What the Name Refers To and What It Does Not Prove"
 description: "Learn what ethereum max refers to, why its name does not by itself prove a connection to Ethereum, and what records to check before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereummax"]

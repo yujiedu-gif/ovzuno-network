@@ -3,8 +3,6 @@ title: "Digital asset reporting: scope, records, and jurisdiction checks"
 description: "Understand digital asset reporting, how organizational activity can shape obligations, which records to assemble, and what to verify under applicable local rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

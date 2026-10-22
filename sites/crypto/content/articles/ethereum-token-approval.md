@@ -3,8 +3,6 @@ title: "Ethereum token approval: what permission does it grant?"
 description: "Understand what an ethereum token approval authorizes, how an ERC-20 allowance works, and what to check before signing a token approval transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["ERC-20 allowance", "token spending permission", "approve transaction"]

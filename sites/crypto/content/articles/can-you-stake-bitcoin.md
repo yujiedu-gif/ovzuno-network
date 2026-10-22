@@ -3,8 +3,6 @@ title: "Can You Stake Bitcoin? Native Protocol vs. Third-Party Options"
 description: "Can you stake bitcoin on its native network? Learn how Bitcoin’s proof-of-work differs from third-party BTC staking claims and what risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

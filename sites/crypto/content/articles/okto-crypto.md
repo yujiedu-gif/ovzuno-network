@@ -3,8 +3,6 @@ title: "Okto crypto: what the name refers to and what to verify"
 description: "Learn what Okto crypto refers to, how to verify the relevant product or organization, and what evidence to check before considering it for treasury use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

@@ -3,8 +3,6 @@ title: "Ownable contract Solidity: ownership and access-control basics"
 description: "Learn how an ownable contract Solidity pattern assigns privileged control, how ownership changes affect access, and what developers should review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["OpenZeppelin Ownable", "Solidity access control", "owner-only functions"]

@@ -3,8 +3,6 @@ title: "Bitcoin Cash Difficulty: Meaning and Role in Block Production"
 description: "Learn what bitcoin cash difficulty measures, how proof-of-work difficulty relates to block production, and why it is not a measure of mining profit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

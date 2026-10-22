@@ -3,8 +3,6 @@ title: "How to accept crypto payments for business: an operational planning guid
 description: "Learn how to accept crypto payments for business by mapping payment flows, settlement, records, security controls, customer handling, and local checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["accept crypto payment business"]

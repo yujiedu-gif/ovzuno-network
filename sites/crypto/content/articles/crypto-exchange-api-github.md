@@ -3,8 +3,6 @@ title: "crypto exchange api github: Evaluate and Integrate a Client Library"
 description: "Learn how to evaluate a crypto exchange api github repository, review its documentation and permissions, and plan a cautious API client integration."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["exchange_market_infrastructure"]
 tags: ["exchange API documentation", "API client library", "websocket market data"]

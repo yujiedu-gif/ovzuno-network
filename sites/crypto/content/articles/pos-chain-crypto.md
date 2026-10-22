@@ -3,8 +3,6 @@ title: "pos chain crypto: Proof of Stake and Cross-Chain Verification"
 description: "Explore pos chain crypto and how proof-of-stake consensus differs from cross-chain verification, including the trust assumptions that shape external-data checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

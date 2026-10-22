@@ -3,8 +3,6 @@ title: "Physical Crypto Card: What the Physical Format Means"
 description: "Learn what a physical crypto card is, how its physical form relates to crypto-linked payments, and which issuer-specific details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

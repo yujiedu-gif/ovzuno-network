@@ -3,8 +3,6 @@ title: "Solo crypto mining: how block finding and rewards work"
 description: "Learn how solo crypto mining works, how block rewards differ from pool payouts, and why a miner’s chance of finding a valid block can vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["solo mining", "block reward", "proof-of-work"]

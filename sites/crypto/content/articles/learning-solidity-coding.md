@@ -3,8 +3,6 @@ title: "Learning Solidity Coding: A Beginner’s Path to a Locally Tested Contra
 description: "A beginner’s guide to learning Solidity coding, covering contract basics, a small example, local tests, common pitfalls, and limits before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

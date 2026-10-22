@@ -3,8 +3,6 @@ title: "fomo pay cryptocurrency: What to Verify About Its Payment Role"
 description: "Learn how to assess claims about fomo pay cryptocurrency, distinguish verified company information from general payment concepts, and identify details to confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

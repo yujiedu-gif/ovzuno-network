@@ -3,8 +3,6 @@ title: "DeFi Llama Crypto: What It Is and How to Read Its Data"
 description: "Learn what defi llama crypto refers to, the DeFi protocol data the platform presents, how to interpret common metrics, and what to verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: ["defillama crypto"]

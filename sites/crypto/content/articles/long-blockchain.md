@@ -3,8 +3,6 @@ title: "Long blockchain: chain length and the longest-chain rule"
 description: "Understand what “long blockchain” can mean, how chain length differs from longest-chain fork choice, and why protocol context matters when interpreting the term."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

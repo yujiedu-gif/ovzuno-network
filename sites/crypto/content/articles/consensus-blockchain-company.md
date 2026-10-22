@@ -3,8 +3,6 @@ title: "Consensus blockchain company: roles in network agreement"
 description: "Learn what a consensus blockchain company may do, how its services relate to network rules, and what evidence helps clarify its role."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["blockchain consensus mechanisms", "proof of work", "proof of stake", "distributed ledger"]

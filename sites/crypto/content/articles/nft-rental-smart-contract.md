@@ -3,8 +3,6 @@ title: "NFT Rental Smart Contract: How Temporary NFT Use Can Work"
 description: "Learn how an nft rental smart contract can coordinate temporary NFT access, what happens during a rental lifecycle, and which design risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

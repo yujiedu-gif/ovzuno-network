@@ -3,8 +3,6 @@ title: "Polygon proof of stake: validators, staking, and checkpoints"
 description: "Learn how polygon proof of stake uses validators, staking, and checkpoints, and what network operators should verify before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["polygon proof stake"]

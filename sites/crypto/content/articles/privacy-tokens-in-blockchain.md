@@ -3,8 +3,6 @@ title: "Privacy tokens in blockchain: meanings, mechanisms, and limits"
 description: "Learn what privacy tokens in blockchain can mean, how privacy features differ across tokens and protocols, and what limits to check before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: ["privacy-preserving transactions", "confidential transactions", "on-chain privacy"]

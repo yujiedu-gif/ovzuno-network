@@ -3,8 +3,6 @@ title: "Blockchain Clearing and Settlement: How the Payment Process Works"
 description: "Learn how blockchain clearing and settlement fit into payment flows, how clearing differs from settlement, and what affects when a transfer is final."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain clearing settlement"]

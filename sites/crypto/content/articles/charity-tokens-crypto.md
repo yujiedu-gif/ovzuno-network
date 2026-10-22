@@ -3,8 +3,6 @@ title: "charity tokens crypto: Meaning and Donation Mechanisms"
 description: "Understand what charity tokens crypto means, how tokens may be linked to donations, and what evidence can substantiate claims about charitable giving."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["charity token crypto"]

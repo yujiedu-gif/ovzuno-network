@@ -3,8 +3,6 @@ title: "STX crypto: what the token is and how it relates to Stacks"
 description: "Learn what STX crypto refers to, how the token relates to the Stacks network, and what operational roles to verify before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

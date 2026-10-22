@@ -3,8 +3,6 @@ title: "KuCoin crypto card: how crypto-funded purchases may work"
 description: "Learn how a KuCoin crypto card may connect crypto holdings to purchases, what can happen during conversion and settlement, and which current terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

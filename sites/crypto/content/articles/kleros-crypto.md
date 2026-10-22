@@ -3,8 +3,6 @@ title: "Kleros Crypto: How the Dispute-Resolution Protocol Works"
 description: "Learn what Kleros crypto is, how its decentralized dispute-resolution process is structured, who participates, and what its decisions may not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Kleros protocol", "decentralized dispute resolution", "crypto arbitration"]

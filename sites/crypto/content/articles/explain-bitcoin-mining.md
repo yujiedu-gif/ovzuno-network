@@ -3,8 +3,6 @@ title: "Explain Bitcoin Mining: Proof of Work and Block Creation"
 description: "Explain bitcoin mining as Bitcoin’s proof-of-work process for proposing blocks, competing to find a valid result, and supporting network consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["mining bitcoins explained"]

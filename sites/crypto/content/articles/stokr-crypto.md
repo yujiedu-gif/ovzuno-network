@@ -3,8 +3,6 @@ title: "STOKR crypto: understanding its role in asset tokenization"
 description: "Learn how STOKR crypto relates to asset tokenization, what a token may represent, and which platform, legal, and jurisdictional details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

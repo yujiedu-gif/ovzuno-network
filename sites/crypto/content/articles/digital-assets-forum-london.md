@@ -3,8 +3,6 @@ title: "Digital assets forum london: topics, participants, and how to assess rel
 description: "A neutral guide to digital assets forum london: review likely infrastructure themes, participant roles, published agendas, and event details before deciding if it is"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital asset forum london"]

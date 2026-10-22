@@ -3,8 +3,6 @@ title: "How to Integrate an erc20 token transfer api"
 description: "Learn how to integrate an erc20 token transfer api, including transfer methods, approvals, signing, transaction confirmation, and key implementation checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

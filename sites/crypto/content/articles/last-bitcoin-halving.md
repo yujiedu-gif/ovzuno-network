@@ -3,8 +3,6 @@ title: "Last Bitcoin Halving: What Changed in Bitcoin’s Block Subsidy"
 description: "Learn what the last bitcoin halving changed in Bitcoin’s block subsidy, how the scheduled reduction works, and what the event does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins last halving"]

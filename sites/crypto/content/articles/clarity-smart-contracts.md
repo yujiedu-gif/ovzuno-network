@@ -3,8 +3,6 @@ title: "Clarity Smart Contracts: How the Language Works and What Its Design Mean
 description: "Learn what clarity smart contracts are, how their language and execution model work, and which design trade-offs builders should understand before evaluating them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Amp smart contract: role, token mechanics, and verification"
 description: "Learn what the Amp smart contract is, how its token functions are described, and which implementation details and risks to verify before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

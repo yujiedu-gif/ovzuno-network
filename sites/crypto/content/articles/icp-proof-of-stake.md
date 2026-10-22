@@ -3,8 +3,6 @@ title: "icp proof of stake: How ICP staking relates to consensus"
 description: "Understand what icp proof of stake means, how ICP neurons and network consensus relate, and which protocol details require current-source verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["icp proof stake", "ICP staking", "ICP neurons", "Internet Computer consensus"]

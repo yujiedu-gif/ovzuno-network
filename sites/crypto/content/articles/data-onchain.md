@@ -3,8 +3,6 @@ title: "Data onchain: What Blockchain Records Can and Cannot Show"
 description: "Learn what data onchain includes, how public blockchain records may be interpreted, and why visibility, attribution, and completeness have important limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

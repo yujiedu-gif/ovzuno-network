@@ -3,8 +3,6 @@ title: "brett crypto: What the Token Name Refers To"
 description: "Learn what brett crypto refers to, how to distinguish token identity from crypto-card spending, and which claims about use or availability require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "How to report a crypto scammer: a U.S. reporting guide"
 description: "Learn how to report a crypto scammer in the United States, preserve incident records, verify official reporting channels, and avoid common follow-up risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["how to report crypto scammer", "report crypto scammer"]

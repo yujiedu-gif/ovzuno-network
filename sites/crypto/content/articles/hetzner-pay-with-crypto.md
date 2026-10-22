@@ -3,8 +3,6 @@ title: "Hetzner pay with crypto: how to verify payment options"
 description: "Hetzner pay with crypto: learn where to check official payment options and what to verify for your service, account, and applicable terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

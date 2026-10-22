@@ -3,8 +3,6 @@ title: "Gaming NFT Tokens: How Digital Items Connect to Blockchain Games"
 description: "Learn what gaming nft tokens represent, how blockchain records relate to in-game use, and which limits can affect transfer, access, and persistence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["in-game NFTs", "blockchain games", "NFT ownership in games"]

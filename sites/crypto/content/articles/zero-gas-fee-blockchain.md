@@ -3,8 +3,6 @@ title: "Zero gas fee blockchain: who pays for transactions?"
 description: "Learn what a zero gas fee blockchain claim means, how sponsored or abstracted fees can work, and which costs to assess beyond the user-facing gas charge."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

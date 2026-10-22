@@ -3,8 +3,6 @@ title: "Oracle in blockchain: How external data reaches smart contracts"
 description: "Learn what an oracle in blockchain does, how external data reaches smart contracts, and why source quality, verification, and trust assumptions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["oracle blockchain"]

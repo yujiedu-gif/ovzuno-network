@@ -3,8 +3,6 @@ title: "BMX Crypto: How to Identify the Asset or Project"
 description: "Learn how to identify what BMX crypto refers to by checking authoritative project and asset identifiers, and distinguish a name from verified details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

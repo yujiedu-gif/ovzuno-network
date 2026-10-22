@@ -3,8 +3,6 @@ title: "Neo smart contract: how it works on the Neo blockchain"
 description: "Learn what a neo smart contract is, how contracts are developed, deployed, and invoked on Neo, and which technical and operational factors to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

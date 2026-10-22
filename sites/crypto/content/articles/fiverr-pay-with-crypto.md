@@ -3,8 +3,6 @@ title: "Fiverr Pay with Crypto: What Buyers Should Verify at Checkout"
 description: "Fiverr pay with crypto: learn how to check current checkout options, distinguish direct platform support from indirect funding, and avoid unsupported assumptions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

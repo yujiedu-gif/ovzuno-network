@@ -3,8 +3,6 @@ title: "BGB crypto: identity, stated utility, and details to verify"
 description: "Learn what BGB crypto refers to, how to assess its stated token role, and which network, contract, utility, and legal details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

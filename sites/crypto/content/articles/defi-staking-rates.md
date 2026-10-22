@@ -3,8 +3,6 @@ title: "DeFi Staking Rates: Meaning, Measurement, and Key Drivers"
 description: "Learn what DeFi staking rates represent, how quoted reward measures are expressed, and why protocol mechanics, incentives, and conditions can affect them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

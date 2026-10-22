@@ -3,8 +3,6 @@ title: "Define Crypto Staking: Meaning and Validator Role"
 description: "Define crypto staking in proof-of-stake networks, clarify how it relates to validator participation, and distinguish it from mining and delegation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

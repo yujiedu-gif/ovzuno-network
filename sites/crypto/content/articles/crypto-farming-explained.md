@@ -3,8 +3,6 @@ title: "Crypto farming explained: meanings, mechanisms, and risks"
 description: "Crypto farming explained: learn how liquidity and staking-related forms work, how they differ, and what risks to assess before considering participation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto farming"]

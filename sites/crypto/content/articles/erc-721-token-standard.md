@@ -3,8 +3,6 @@ title: "ERC 721 token standard: interfaces, ownership, and transfers"
 description: "Learn what the ERC 721 token standard specifies for unique token ownership, transfers, approvals, and optional metadata, and what it does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 interface", "non-fungible token ownership", "token metadata"]

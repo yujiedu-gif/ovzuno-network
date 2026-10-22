@@ -3,8 +3,6 @@ title: "NFT Sale Contract: How Token Transfers and Payment Work"
 description: "Learn how an nft sale contract can coordinate payment and NFT transfer, and why the blockchain transaction alone may not establish file access or legal rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain gas fee: a framework for estimating transaction costs"
 description: "Understand what determines a blockchain gas fee, how to estimate a transaction's network cost, and why the final amount can differ from the estimate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

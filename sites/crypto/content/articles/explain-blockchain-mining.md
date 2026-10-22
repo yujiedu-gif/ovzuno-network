@@ -3,8 +3,6 @@ title: "Explain Blockchain Mining: How Proof of Work Adds Blocks"
 description: "Explain blockchain mining through the proof-of-work block cycle: how transactions are gathered, block proposals are tested, and accepted blocks extend a chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

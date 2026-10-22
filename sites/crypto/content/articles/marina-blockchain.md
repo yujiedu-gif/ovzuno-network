@@ -3,8 +3,6 @@ title: "Marina blockchain: what the name refers to"
 description: "Learn what “marina blockchain” refers to, how to verify whether it names a specific network or project, and which claims need reliable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

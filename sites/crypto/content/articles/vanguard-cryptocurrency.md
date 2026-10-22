@@ -3,8 +3,6 @@ title: "Vanguard cryptocurrency: access, products, and what to verify"
 description: "Understand Vanguard cryptocurrency access in the U.S., distinguish direct holdings from related products, and check current eligibility, restrictions, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["cryptocurrency vanguard"]

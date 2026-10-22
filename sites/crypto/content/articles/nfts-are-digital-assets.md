@@ -3,8 +3,6 @@ title: "NFTs Are Digital Assets: What the Token Represents"
 description: "Learn what it means that NFTs are digital assets, how blockchain records identify tokens, and why token ownership may not confer rights to linked content."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["NFTs", "non-fungible tokens", "blockchain records", "digital ownership"]

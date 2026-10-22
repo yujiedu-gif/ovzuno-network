@@ -3,8 +3,6 @@ title: "Liquidity swap crypto: mechanisms, flows, and cross-chain risks"
 description: "Learn how liquidity swap crypto designs route assets, distinguish same-chain from cross-chain flows, and assess settlement, liquidity, and operational risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["cross-chain swap", "cross-chain liquidity"]

@@ -3,8 +3,6 @@ title: "Spark DeFi: Protocol Architecture and Core Components"
 description: "Understand spark defi through its documented protocol components, how they relate, and what builders and operators should verify before assessing an integration."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["defy sparks"]

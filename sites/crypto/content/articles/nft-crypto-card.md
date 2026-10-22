@@ -3,8 +3,6 @@ title: "NFT crypto card: meaning, possible functions, and what to verify"
 description: "Learn what an NFT crypto card may refer to, how an NFT could relate to card access or benefits, and which payment, custody, and terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

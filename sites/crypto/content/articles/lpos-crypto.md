@@ -3,8 +3,6 @@ title: "lpos crypto: Meaning, Delegation, and Consensus"
 description: "Learn what lpos crypto refers to, how delegated participation can relate to block forging, and why LPoS should not be confused with liquid proof of stake."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

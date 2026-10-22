@@ -3,8 +3,6 @@ title: "Python Blockchain Smart Contracts: On-Chain Code and Off-Chain Tools"
 description: "Explore python blockchain smart contracts: distinguish on-chain execution from off-chain tooling and identify compatibility checks before choosing a development path"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

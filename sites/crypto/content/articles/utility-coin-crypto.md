@@ -3,8 +3,6 @@ title: "Utility coin crypto: what the asset is designed to do"
 description: "Learn what utility coin crypto is designed to do in a protocol, how intended functions differ from other claims, and what to check in project documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

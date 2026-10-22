@@ -3,8 +3,6 @@ title: "XEN Crypto Token: Identity, Protocol Design, and Verification"
 description: "Learn how to identify the XEN crypto token, review its documented protocol design, and verify relevant network details while keeping risks in view."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

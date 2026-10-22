@@ -3,8 +3,6 @@ title: "How does crypto mining work: the proof-of-work process"
 description: "Learn how does crypto mining work in proof-of-work networks, from transaction selection and block proposals to verification, consensus, and rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining work"]

@@ -3,8 +3,6 @@ title: "Skrill crypto wallet: custody, transfers, and what to verify"
 description: "Learn what the Skrill crypto wallet label may mean, how custodial access differs from self-custody, and which transfer and account terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

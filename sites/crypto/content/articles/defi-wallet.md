@@ -3,8 +3,6 @@ title: "DeFi wallet: How it connects to decentralized applications"
 description: "Learn what a DeFi wallet does, how it connects to decentralized applications, and what users should understand about signing transactions and permissions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["DeFi wallet features", "smart contract permissions", "wallet connection risks"]

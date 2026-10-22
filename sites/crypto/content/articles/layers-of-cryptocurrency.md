@@ -3,8 +3,6 @@ title: "Layers of cryptocurrency: a guide to blockchain roles"
 description: "Learn what layers of cryptocurrency mean, how common blockchain roles relate, and why layer labels vary across networks and architecture models."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["layers cryptocurrency"]

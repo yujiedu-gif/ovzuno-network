@@ -3,8 +3,6 @@ title: "How to Use a crypto qr code in NFT and Digital-Ownership Flows"
 description: "Learn how to design and test a crypto qr code flow for NFT and digital-ownership experiences, including payload handling, verification, privacy, and safety checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["nfts_digital_ownership"]
 tags: ["qr code crypto"]

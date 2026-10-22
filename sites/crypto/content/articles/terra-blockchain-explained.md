@@ -3,8 +3,6 @@ title: "Terra blockchain explained: networks, ecosystem, and context"
 description: "Terra blockchain explained: understand the network terminology, ecosystem context, and why current status claims should be checked against reliable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["terra blockchain"]

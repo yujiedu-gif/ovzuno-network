@@ -3,8 +3,6 @@ title: "Smart contracts are immutable: what that means after deployment"
 description: "Smart contracts are immutable at a deployed address in specific ways. Learn what can persist, how upgrades and permissions affect behavior, and what to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

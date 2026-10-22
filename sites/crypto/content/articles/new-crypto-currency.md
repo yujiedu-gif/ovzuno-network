@@ -3,8 +3,6 @@ title: "New crypto currency: exchange infrastructure and trading readiness"
 description: "Learn how a new crypto currency may connect to exchange infrastructure, from token standards and technical review to trading support and operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

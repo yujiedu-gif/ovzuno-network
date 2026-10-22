@@ -3,8 +3,6 @@ title: "NFT Meaning Easy: A Simple Explanation of NFTs"
 description: "Understand NFT meaning easy: learn what a non-fungible token is, what its blockchain record represents, and why token ownership may not include content rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft easy"]

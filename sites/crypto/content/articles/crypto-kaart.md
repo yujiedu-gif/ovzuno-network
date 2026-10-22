@@ -3,8 +3,6 @@ title: "Crypto kaart: meaning and institutional payment context"
 description: "Understand what crypto kaart can mean in organizational payments, how it relates to treasury operations, and which jurisdiction-specific details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

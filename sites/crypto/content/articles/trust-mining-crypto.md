@@ -3,8 +3,6 @@ title: "Trust Mining Crypto: What Participants Verify and What They Still Trust"
 description: "Trust mining crypto explained: see how proof-of-work verification works, where reliance on miners and infrastructure remains, and what to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

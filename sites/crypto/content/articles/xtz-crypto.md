@@ -3,8 +3,6 @@ title: "xtz crypto: Its Role in Tezos Staking and Validators"
 description: "Learn what xtz crypto is in Tezos and how it relates to validators, known as bakers, and delegation, while separating core concepts from changeable terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

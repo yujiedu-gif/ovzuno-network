@@ -3,8 +3,6 @@ title: "How to Evaluate a cross chain bridge github Repository"
 description: "Learn how to assess a cross chain bridge github repository’s architecture, documentation, maintenance signals, and security evidence without mistaking code for proof"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

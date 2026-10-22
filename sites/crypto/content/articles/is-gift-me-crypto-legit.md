@@ -3,8 +3,6 @@ title: "Is Gift Me Crypto Legit? Checks Before You Send Crypto"
 description: "Is gift me crypto legit? Learn how to verify a service's identity, check its claims, spot common warning signs, and limit risk before sending crypto."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["is giftmecrypto legit", "gift me crypto legit"]

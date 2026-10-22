@@ -3,8 +3,6 @@ title: "Crypto Staking Interest: How Rewards Differ from Interest"
 description: "Learn what crypto staking interest can mean, how protocol rewards are generated and distributed, and how these differ from interest-bearing products and their risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

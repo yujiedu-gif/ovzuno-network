@@ -3,8 +3,6 @@ title: "Self Staking Crypto: Wallet Control and Validator Responsibilities"
 description: "Learn what self staking crypto means, how wallet control and validator operations differ from delegated staking, and which responsibilities and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

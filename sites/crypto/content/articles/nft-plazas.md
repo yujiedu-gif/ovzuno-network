@@ -3,8 +3,6 @@ title: "NFT Plazas: Meaning, Uses, and Ownership Limits"
 description: "Learn what nft plazas may describe, how NFTs can relate to digital spaces, and why a token record alone does not establish access, control, or rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["plaza nft"]

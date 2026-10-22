@@ -3,8 +3,6 @@ title: "NFT Gaming Coins: How Tokens and Game NFTs Differ"
 description: "Understand NFT gaming coins, how fungible game tokens differ from NFT assets, and what blockchain records do—and do not—establish about ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["game tokens", "NFT game assets", "fungible and non-fungible tokens"]

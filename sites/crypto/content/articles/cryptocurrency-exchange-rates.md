@@ -3,8 +3,6 @@ title: "Cryptocurrency Exchange Rates: How Quotes and Market Prices Work"
 description: "Understand cryptocurrency exchange rates, how trading pairs express prices, why quotes can vary by venue, and what a displayed rate does—and does not—mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto exchange rate", "trading pair", "quote currency", "price feed"]

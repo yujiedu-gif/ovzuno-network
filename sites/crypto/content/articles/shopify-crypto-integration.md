@@ -3,8 +3,6 @@ title: "Shopify Crypto Integration: How the Ecommerce Payment Flow Works"
 description: "Learn how shopify crypto integration connects checkout, payment providers, blockchain settlement, and Shopify order handling, plus what merchants should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

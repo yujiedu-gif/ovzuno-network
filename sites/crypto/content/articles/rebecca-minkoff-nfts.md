@@ -3,8 +3,6 @@ title: "Rebecca Minkoff NFTs: What the Token and Ownership Claims Mean"
 description: "Learn what Rebecca Minkoff NFTs may represent, how NFT tokens differ from linked content, and why ownership rights depend on documented release terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

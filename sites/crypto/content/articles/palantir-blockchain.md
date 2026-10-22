@@ -3,8 +3,6 @@ title: "Palantir blockchain: what the term means and what evidence shows"
 description: "Learn what “Palantir blockchain” may refer to, how to distinguish documented capabilities from integrations or proposals, and what evidence to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

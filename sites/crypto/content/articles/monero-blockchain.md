@@ -3,8 +3,6 @@ title: "Monero blockchain: how payments are recorded and privacy works"
 description: "Learn how the Monero blockchain records and validates payments, how its privacy design works, and what its protections do not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

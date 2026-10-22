@@ -3,8 +3,6 @@ title: "New cryptocurrency mining: what to verify before participation"
 description: "Learn how to assess new cryptocurrency mining: verify whether a new coin uses proof of work, what its network requires, and which claims need evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

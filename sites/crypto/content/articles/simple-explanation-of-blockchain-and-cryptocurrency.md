@@ -3,8 +3,6 @@ title: "Simple Explanation of Blockchain and Cryptocurrency for Payments"
 description: "A simple explanation of blockchain and cryptocurrency: learn how a digital payment is submitted, checked by a network, and recorded, plus key limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["simple explanation blockchain cryptocurrency"]

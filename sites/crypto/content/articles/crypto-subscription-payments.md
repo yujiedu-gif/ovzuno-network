@@ -3,8 +3,6 @@ title: "Crypto Subscription Payments: How Recurring Billing Works"
 description: "Learn how crypto subscription payments handle recurring billing, authorization, payment collection, failed renewals, and the operational choices behind the model."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto subscription payment"]

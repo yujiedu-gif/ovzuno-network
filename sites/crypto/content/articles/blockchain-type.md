@@ -3,8 +3,6 @@ title: "Blockchain type: how common architectures differ"
 description: "Understand blockchain type distinctions by access, validation, and governance, and see how public, permissioned, and hybrid designs can affect payment systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["types of blockchain"]

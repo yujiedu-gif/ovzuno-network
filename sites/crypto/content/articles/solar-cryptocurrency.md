@@ -3,8 +3,6 @@ title: "Solar cryptocurrency: how solar power can supply mining"
 description: "Learn how solar cryptocurrency mining connects solar generation to proof-of-work operations, and which factors shape power continuity, storage, and system design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

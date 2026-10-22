@@ -3,8 +3,6 @@ title: "Aptos smart contracts: how Move modules are published and executed"
 description: "Learn how Aptos smart contracts use Move modules and resources, how publication and execution fit together, and which design limits to investigate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

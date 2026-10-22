@@ -3,8 +3,6 @@ title: "Layer 1 2 3 Crypto: Roles in Blockchain Infrastructure"
 description: "Understand layer 1 2 3 crypto: how Layer 1, Layer 2, and Layer 3 can divide settlement, scaling, and application-specific functions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain layers", "Layer 2 scaling", "Layer 3 blockchain"]

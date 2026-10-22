@@ -3,8 +3,6 @@ title: "Low liquidity crypto meaning: effects on cross-chain swaps"
 description: "Understand low liquidity crypto meaning in cross-chain swaps, how limited pool depth may affect execution, and what to check before confirming a transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["cross_chain_interoperability"]
 tags: ["low liquidity crypto"]

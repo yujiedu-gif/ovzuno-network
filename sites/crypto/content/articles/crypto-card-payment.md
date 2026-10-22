@@ -3,8 +3,6 @@ title: "Crypto Card Payment: How Authorization and Settlement Work"
 description: "Learn how a crypto card payment can move from authorization through conversion, clearing, and settlement, and where implementation details may differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card transaction", "card network authorization", "crypto-to-fiat conversion"]

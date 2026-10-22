@@ -3,8 +3,6 @@ title: "Cryptocurrency terms explained: a practical crypto infrastructure glossa
 description: "Cryptocurrency terms explained with concise definitions of assets, networks, protocols, wallets, keys and transactions, plus distinctions among related concepts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency terms"]

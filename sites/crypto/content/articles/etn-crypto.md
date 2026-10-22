@@ -3,8 +3,6 @@ title: "ETN Crypto: Meaning and How It Differs from Tokens"
 description: "Learn what ETN crypto commonly refers to, how an exchange-traded note differs from a crypto token or DeFi protocol, and what depends on the product."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: ["etns crypto"]

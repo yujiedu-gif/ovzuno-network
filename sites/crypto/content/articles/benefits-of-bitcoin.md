@@ -3,8 +3,6 @@ title: "Benefits of bitcoin: potential advantages and trade-offs"
 description: "Explore the benefits of bitcoin at the protocol and network level, including potential advantages, practical limits, and factors that affect real-world use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["benefits of bitcoins", "benefits bitcoin"]

@@ -3,8 +3,6 @@ title: "Decentralized smart contract: what decentralization means"
 description: "Learn what a decentralized smart contract means, how on-chain execution differs from its surrounding systems, and what limits decentralization in practice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

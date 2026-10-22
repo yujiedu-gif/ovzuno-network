@@ -3,8 +3,6 @@ title: "Layer 1 cryptocurrencies: how networks and assets relate"
 description: "Learn what layer 1 cryptocurrencies are, how an asset relates to its underlying blockchain, and which network details to verify before evaluating examples."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

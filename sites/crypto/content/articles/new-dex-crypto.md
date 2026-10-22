@@ -3,8 +3,6 @@ title: "New dex crypto: Meaning, protocol design, and what to verify"
 description: "Learn what new dex crypto can refer to, how a decentralized exchange’s design is documented, and what to verify about its operation, risks, and claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

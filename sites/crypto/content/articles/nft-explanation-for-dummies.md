@@ -3,8 +3,6 @@ title: "NFT Explanation for Dummies: What a Token Does—and Doesn’t—Mean"
 description: "This nft explanation for dummies clarifies what an NFT records, how it may link to a digital item, and what token ownership does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft explanation dummies"]

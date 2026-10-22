@@ -3,8 +3,6 @@ title: "Anonymous crypto debit card: what privacy does—and doesn’t—mean"
 description: "Learn what an anonymous crypto debit card can mean, how identity checks and payment records affect privacy, and which claims require careful verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto debit card privacy", "crypto card identity verification", "card payment data"]

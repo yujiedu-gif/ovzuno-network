@@ -3,8 +3,6 @@ title: "Transfer crypto to Skrill: routes, prerequisites, and checks"
 description: "Learn how to assess a transfer crypto to Skrill route, check account and asset support, identify any conversion steps, and verify details before sending."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["transfer crypto skrill"]

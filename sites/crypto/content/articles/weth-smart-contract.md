@@ -3,8 +3,6 @@ title: "WETH smart contract: how wrapping and withdrawal work"
 description: "Learn how a WETH smart contract represents deposited Ether as tokens, how approvals and withdrawals fit the flow, and what contract details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

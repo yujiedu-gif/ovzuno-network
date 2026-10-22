@@ -3,8 +3,6 @@ title: "TRON blockchain: network structure and payment context"
 description: "Learn how the TRON blockchain records transactions, how its network and assets relate, and what builders should assess before considering payment uses."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

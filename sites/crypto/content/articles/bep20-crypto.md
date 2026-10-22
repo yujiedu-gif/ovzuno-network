@@ -3,8 +3,6 @@ title: "BEP20 crypto: How the token standard works on BNB Smart Chain"
 description: "Learn what BEP20 crypto means, how BEP-20 tokens operate on BNB Smart Chain, and which network and contract details to verify before interacting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["BEP-20 token standard", "BNB Smart Chain", "token contract"]

@@ -3,8 +3,6 @@ title: "Get paid in crypto for your data: models, terms, and risks"
 description: "Learn how people may get paid in crypto for your data, how compensation models differ, and what to verify about privacy, terms, payment, and risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: ["get paid in crypto your data"]

@@ -3,8 +3,6 @@ title: "Proof of work environmental impact: energy, emissions, and evidence"
 description: "Explore proof of work environmental impact, including mining energy demand, electricity sources, emissions, other environmental effects, and measurement limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work environmental impact"]

@@ -3,8 +3,6 @@ title: "Squid game cryptocurrency: what the phrase refers to and how to identify
 description: "Learn what squid game cryptocurrency may refer to, how to distinguish similarly named assets, and which identifiers and project records to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

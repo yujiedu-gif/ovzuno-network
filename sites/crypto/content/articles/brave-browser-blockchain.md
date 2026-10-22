@@ -3,8 +3,6 @@ title: "Brave Browser Blockchain: What the Term Means"
 description: "Learn what brave browser blockchain refers to, how a browser can interact with separate networks, and what to verify before relying on feature claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

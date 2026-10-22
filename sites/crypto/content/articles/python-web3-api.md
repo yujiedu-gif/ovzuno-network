@@ -3,8 +3,6 @@ title: "Python Web3 API: A Practical Guide to Smart-Contract Interactions"
 description: "Learn how to use a python web3 api to connect a Python app to a blockchain, read contract data, and prepare transactions with practical checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

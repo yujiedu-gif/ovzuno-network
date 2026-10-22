@@ -3,8 +3,6 @@ title: "Paysafecard to crypto: How the payment route works"
 description: "Learn how paysafecard to crypto transactions may work, what role an intermediary plays, and which location, payment, identity, and fee details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["paysafecard crypto"]

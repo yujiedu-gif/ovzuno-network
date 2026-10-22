@@ -3,8 +3,6 @@ title: "Oil Crypto Token: What It Can Represent and How It Works"
 description: "An oil crypto token may represent different claims or functions. Learn how token design, oil references, custody, and redemption evidence shape what it means."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["oil token crypto"]

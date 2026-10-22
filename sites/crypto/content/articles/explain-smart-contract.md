@@ -3,8 +3,6 @@ title: "Explain Smart Contract: Meaning, Execution, and dApp Role"
 description: "Explain smart contract basics: what code deployed on a blockchain does, how transactions trigger execution, and how contracts can support dApps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

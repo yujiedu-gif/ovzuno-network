@@ -3,8 +3,6 @@ title: "Centralized Exchange Crypto: Infrastructure, Order Flow, and Custody Bou
 description: "Explore centralized exchange crypto infrastructure, from account access and order handling to custody and settlement, with a neutral view of system boundaries."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "TRC 20 blockchain: How TRON’s token standard works"
 description: "Learn what the TRC 20 blockchain term refers to, how TRC-20 tokens relate to TRON, and what happens at a high level when a token transfer is recorded."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

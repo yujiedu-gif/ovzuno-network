@@ -3,8 +3,6 @@ title: "Bone and Leash Crypto: What BONE and LEASH Mean"
 description: "Learn what bone and leash crypto refer to, how BONE and LEASH are described in the Shiba Inu ecosystem, and which details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bone leash crypto"]

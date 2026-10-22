@@ -3,8 +3,6 @@ title: "Crypto market now: meaning, scope, and how to read a snapshot"
 description: "Learn what crypto market now means, what a time-specific market snapshot can show, and why venue coverage, timestamps, and data methods matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto markets now"]

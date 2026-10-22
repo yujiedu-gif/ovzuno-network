@@ -3,8 +3,6 @@ title: "Shrapnel crypto token: purpose, ecosystem role, and verification"
 description: "Learn what the Shrapnel crypto token is intended to do, how it relates to the game ecosystem, and which network, contract, and utility details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

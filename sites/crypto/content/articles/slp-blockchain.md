@@ -3,8 +3,6 @@ title: "SLP blockchain: what the term refers to and how to verify it"
 description: "Learn what “SLP blockchain” may refer to, how protocol and token contexts differ, and what to check in authoritative documentation before relying on the term."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

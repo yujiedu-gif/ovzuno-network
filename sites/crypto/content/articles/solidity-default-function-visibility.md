@@ -3,8 +3,6 @@ title: "Solidity Default Function Visibility: What Developers Need to Know"
 description: "Learn what Solidity default function visibility means, whether functions need an explicit visibility specifier, and how to check behavior for your compiler version."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity visibility specifiers", "external and public functions in Solidity", "private and internal functions in Solidity"]

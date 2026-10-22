@@ -3,8 +3,6 @@ title: "Blockchain generator: meanings, outputs, and limits"
 description: "Learn what blockchain generator can mean, what outputs a generator may create, and how to distinguish those outputs from verification by a blockchain network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain generations"]

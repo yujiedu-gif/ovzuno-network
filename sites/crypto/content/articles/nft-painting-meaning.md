@@ -3,8 +3,6 @@ title: "NFT painting meaning: the artwork, token, and rights"
 description: "Understand nft painting meaning by separating the digital artwork from its NFT token and checking what ownership, copyright, and usage rights are actually granted."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft painting"]

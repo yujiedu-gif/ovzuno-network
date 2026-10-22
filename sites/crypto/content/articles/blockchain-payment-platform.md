@@ -3,8 +3,6 @@ title: "How to Evaluate a blockchain payment platform for a Business Workflow"
 description: "Assess whether a blockchain payment platform fits a business workflow by examining settlement, integration, controls, and evidence to verify before selection."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

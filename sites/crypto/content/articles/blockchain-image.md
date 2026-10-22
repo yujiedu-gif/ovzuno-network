@@ -3,8 +3,6 @@ title: "Blockchain image: meanings, examples, and what visuals can show"
 description: "Learn what blockchain image can mean, how diagrams differ from image data and visualizations, and what a graphic can—and cannot—prove about a blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain images"]

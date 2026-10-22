@@ -3,8 +3,6 @@ title: "Next bitcoin halving date: estimated timing and block trigger"
 description: "The next bitcoin halving date is an estimate based on Bitcoin’s block schedule. Learn the trigger, why timing can shift, and how to check progress."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin halving block height", "Bitcoin halving estimate"]

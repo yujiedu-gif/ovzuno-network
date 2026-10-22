@@ -3,8 +3,6 @@ title: "web3 provider api: A Dapp Infrastructure Evaluation Framework"
 description: "Evaluate a web3 provider api for a smart-contract dapp with a vendor-neutral framework covering requirements, documentation, operations, and security evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

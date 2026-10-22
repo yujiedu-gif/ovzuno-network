@@ -3,8 +3,6 @@ title: "Crypto currency coins: networks, assets, and exchange infrastructure"
 description: "Learn how crypto currency coins relate to blockchain networks and exchange-market infrastructure, and what to verify when assessing asset support."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto coins and tokens", "crypto asset infrastructure", "blockchain networks"]

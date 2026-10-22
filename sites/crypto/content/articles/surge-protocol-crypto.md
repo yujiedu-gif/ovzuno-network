@@ -3,8 +3,6 @@ title: "Surge Protocol Crypto: Purpose, Design, and What Can Be Verified"
 description: "Explore Surge Protocol crypto through its documented purpose, design, and verifiable status, with clear distinctions between confirmed details and open questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

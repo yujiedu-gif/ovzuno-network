@@ -3,8 +3,6 @@ title: "Insurance smart contracts: roles, data, and limitations"
 description: "Learn how insurance smart contracts can encode policy workflows, use external data, and execute payouts—and where claims review, legal terms, and risk remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

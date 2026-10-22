@@ -3,8 +3,6 @@ title: "Solidity Language in Blockchain: A Definition and Its Role"
 description: "Understand the solidity language in blockchain: what Solidity is, how it relates to smart contracts and blockchain networks, and what the term does not mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

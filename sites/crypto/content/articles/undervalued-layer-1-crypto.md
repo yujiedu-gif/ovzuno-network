@@ -3,8 +3,6 @@ title: "Undervalued layer 1 crypto: what the claim can—and cannot—show"
 description: "Learn how to assess an undervalued layer 1 crypto claim by separating network evidence, token economics, market assumptions, and investment risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

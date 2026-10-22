@@ -3,8 +3,6 @@ title: "Cost of deploying smart contract: a practical estimation guide"
 description: "Understand the cost of deploying smart contract, from development and review effort to network fees, and build a transparent estimate before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["cost deploying smart contract"]

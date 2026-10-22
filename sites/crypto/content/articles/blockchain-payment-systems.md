@@ -3,8 +3,6 @@ title: "How Blockchain Payment Systems Work: Flow, Settlement, and Trade-Offs"
 description: "Learn how blockchain payment systems move value from initiation to settlement, which components shape the flow, and what operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["on-chain payments", "payment settlement"]

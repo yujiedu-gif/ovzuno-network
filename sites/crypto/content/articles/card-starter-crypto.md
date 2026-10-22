@@ -3,8 +3,6 @@ title: "Card starter crypto: a beginner’s guide to getting started"
 description: "Learn what card starter crypto means, the typical setup steps, and which eligibility, jurisdiction, security, and product details to verify first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

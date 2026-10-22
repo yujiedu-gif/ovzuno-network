@@ -3,8 +3,6 @@ title: "ZEC crypto: What it is and how it relates to Zcash"
 description: "Learn what ZEC crypto is, how it functions as Zcash’s native cryptocurrency, and how transparent and shielded transactions differ at a high level."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

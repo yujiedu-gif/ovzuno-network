@@ -3,8 +3,6 @@ title: "Wire Transfer Crypto: How Bank Wires Differ from Crypto Transfers"
 description: "Wire transfer crypto compared with bank wires: understand transfer flows, settlement dependencies, fees, compliance checks, and recovery limits to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["crypto_payments"]
 tags: []

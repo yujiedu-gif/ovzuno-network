@@ -3,8 +3,6 @@ title: "Irys blockchain: purpose, architecture, and data role"
 description: "Learn what the irys blockchain is, how its blockchain and data functions relate, and which architecture, access, and security claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

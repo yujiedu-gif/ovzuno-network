@@ -3,8 +3,6 @@ title: "Ellipsis crypto: how to identify the project and verify its status"
 description: "Learn what Ellipsis crypto refers to, how to distinguish its project, protocol, and any associated token, and what evidence to check for current status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

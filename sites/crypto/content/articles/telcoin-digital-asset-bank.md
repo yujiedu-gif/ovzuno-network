@@ -3,8 +3,6 @@ title: "Telcoin Digital Asset Bank: What the Term Means and What to Verify"
 description: "Understand what telcoin digital asset bank may refer to, how to verify the entity and any banking authorization, and what evidence matters to institutions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

@@ -3,8 +3,6 @@ title: "DeFi pools: how shared on-chain asset pools work"
 description: "Learn what defi pools do in decentralized protocols, how pool designs differ, and which technical, operational, and risk details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

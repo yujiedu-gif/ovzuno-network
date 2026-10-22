@@ -3,8 +3,6 @@ title: "Hyperlend crypto: what the protocol does and what to verify"
 description: "Learn what Hyperlend crypto refers to, how its documented lending mechanics work, and which protocol, security, and jurisdiction details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

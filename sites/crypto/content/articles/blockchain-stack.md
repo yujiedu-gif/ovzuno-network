@@ -3,8 +3,6 @@ title: "Blockchain stack: how its layers support payment applications"
 description: "Understand the blockchain stack through its core layers, how they interact in a payment flow, and why architectures differ across blockchain systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["stacks blockchain"]

@@ -3,8 +3,6 @@ title: "Mine Pi Crypto: What the Term Means and How It Differs from Proof of Wor
 description: "Learn what mine pi crypto refers to, how Pi Network describes app-based participation, and why it differs from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

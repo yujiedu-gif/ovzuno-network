@@ -3,8 +3,6 @@ title: "Whiteboard Crypto Proof of Stake: A Validator Consensus Walkthrough"
 description: "A whiteboard crypto proof of stake explainer traces validator participation, block proposals, network agreement, and stake-related incentives in simplified terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["whiteboard crypto proof stake"]

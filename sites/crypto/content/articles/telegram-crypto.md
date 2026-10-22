@@ -3,8 +3,6 @@ title: "Telegram crypto: what the term means and how services differ"
 description: "Telegram crypto can mean platform features or third-party tools. Learn how bots, wallets, and mini apps differ, and what to check before using them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["Telegram bots", "crypto wallet integrations", "Telegram Mini Apps"]

@@ -3,8 +3,6 @@ title: "Tokenworks crypto: what the term refers to and what to verify"
 description: "Learn what Tokenworks crypto refers to, how to verify any institutional treasury connection, and which product, regulatory, and security claims need evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

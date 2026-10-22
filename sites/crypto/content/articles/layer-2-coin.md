@@ -3,8 +3,6 @@ title: "Layer 2 Coin: What the Term Means for Networks and Payments"
 description: "Learn what layer 2 coin can mean, how layer 2 networks relate to their underlying blockchains, and how native tokens differ from assets used for payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Fast Crypto Mining: What Determines Block Production Speed?"
 description: "Learn what fast crypto mining can mean, how protocol block intervals differ from a miner’s odds of finding a block, and why speed is not finality."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

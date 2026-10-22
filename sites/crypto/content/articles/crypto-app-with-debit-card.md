@@ -3,8 +3,6 @@ title: "Crypto App With Debit Card: How the Pieces Fit Together"
 description: "Learn how a crypto app with debit card may connect an account, card program, and merchant payment, and what custody, availability, and terms to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

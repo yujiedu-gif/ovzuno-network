@@ -3,8 +3,6 @@ title: "Chiliz blockchain: purpose, architecture, and how it works"
 description: "Learn what the chiliz blockchain is designed to do, how its network and ecosystem fit together, and which technical and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

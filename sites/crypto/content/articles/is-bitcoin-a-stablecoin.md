@@ -3,8 +3,6 @@ title: "Is bitcoin a stablecoin? Key differences explained"
 description: "Is bitcoin a stablecoin? Learn how Bitcoin differs from assets designed to maintain a stable value, and why that distinction matters for settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: ["bitcoin stablecoin"]

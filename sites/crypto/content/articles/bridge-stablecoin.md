@@ -3,8 +3,6 @@ title: "Bridge Stablecoin: Meaning, Mechanisms, and Risks"
 description: "Learn what bridge stablecoin means, how stablecoins may be represented across chains, and which trust, liquidity, and redemption risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["cross_chain_interoperability"]
 tags: []

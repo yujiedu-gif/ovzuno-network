@@ -3,8 +3,6 @@ title: "Layer 2 crypto examples: networks and scaling designs"
 description: "Explore layer 2 crypto examples by scaling design, how they relate to Layer 1, and why sidechains and other networks may not qualify as Layer 2."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

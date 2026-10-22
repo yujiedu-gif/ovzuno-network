@@ -3,8 +3,6 @@ title: "dao blockchain meaning: How Decentralized Governance Relates to Blockcha
 description: "Understand dao blockchain meaning, how a decentralized autonomous organization may use blockchain records and rules for governance, and the limits of on-chain claims"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["dao blockchain"]

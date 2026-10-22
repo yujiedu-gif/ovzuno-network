@@ -3,8 +3,6 @@ title: "WBT crypto: how to identify what the term refers to"
 description: "Learn how to identify what WBT crypto refers to, distinguish a ticker from a project or protocol name, and check claims against authoritative evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

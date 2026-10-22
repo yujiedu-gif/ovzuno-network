@@ -3,8 +3,6 @@ title: "Explain NFTs: Digital Tokens, Records, and Ownership"
 description: "Explain NFTs by separating the blockchain token and its metadata from the digital content or rights it may reference, including limits on ownership claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT digital ownership", "NFT token", "NFT metadata", "NFT smart contract"]

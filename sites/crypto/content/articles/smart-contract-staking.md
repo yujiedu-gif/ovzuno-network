@@ -3,8 +3,6 @@ title: "Smart contract staking: how the mechanism works and what to review"
 description: "Learn how smart contract staking coordinates deposits, accounting, and withdrawals, how it may interact with a network, and which risks merit verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["staking smart contracts", "on-chain staking"]

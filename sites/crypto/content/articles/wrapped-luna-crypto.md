@@ -3,8 +3,6 @@ title: "Wrapped luna crypto: what it represents and how to verify it"
 description: "Learn what wrapped luna crypto may represent, how to identify its network and contract, and what to verify about backing, redemption, and operational risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

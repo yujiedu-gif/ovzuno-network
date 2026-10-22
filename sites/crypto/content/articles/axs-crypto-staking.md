@@ -3,8 +3,6 @@ title: "AXS Crypto Staking: How Participation and Rewards Work"
 description: "Learn how AXS crypto staking works, what participants should verify about rewards, lockups, withdrawals, security, and current official terms before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

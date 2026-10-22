@@ -3,8 +3,6 @@ title: "BSC Smart Contract Audit: Scope, Findings, and Limitations"
 description: "Learn what a bsc smart contract audit may examine, how to read its findings, and why its scope and limitations matter when assessing contract security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

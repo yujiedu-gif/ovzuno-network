@@ -3,8 +3,6 @@ title: "Blockchain credit card: meaning and payment-flow roles"
 description: "Learn what blockchain credit card can mean, how blockchain may fit into card payment flows, and how this differs from credit and card-network functions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["credit card blockchain"]

@@ -3,8 +3,6 @@ title: "Wallet Infrastructure: Components, Controls, and Design Considerations"
 description: "Explore wallet infrastructure components, including key management, transaction signing, custody boundaries, and operational controls for crypto services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["wallet architecture", "key management", "custody model", "transaction signing"]

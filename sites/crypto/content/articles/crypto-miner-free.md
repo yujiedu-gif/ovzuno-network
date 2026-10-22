@@ -3,8 +3,6 @@ title: "Crypto miner free: What “free” software means and what to check"
 description: "Learn what crypto miner free can mean, which costs and risks may remain, and what to verify before installing or using mining software."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

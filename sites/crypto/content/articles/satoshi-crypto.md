@@ -3,8 +3,6 @@ title: "Satoshi crypto: meaning, bitcoin denomination, and spending context"
 description: "Understand satoshi crypto as a bitcoin denomination, how it relates to one bitcoin, and why the unit may appear in wallet displays or spending contexts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["satoshis crypto"]

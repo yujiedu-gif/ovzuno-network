@@ -3,8 +3,6 @@ title: "Crypto exchange market making: roles, mechanisms, and infrastructure"
 description: "Explore crypto exchange market making, how it interacts with exchange infrastructure, the roles involved, and operational risks that require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

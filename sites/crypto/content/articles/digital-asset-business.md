@@ -3,8 +3,6 @@ title: "Digital asset business: operating capabilities for real-world asset toke
 description: "Explore the people, systems, and operational capabilities a digital asset business may need to issue and administer tokenized real-world assets."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: ["digital assets business"]

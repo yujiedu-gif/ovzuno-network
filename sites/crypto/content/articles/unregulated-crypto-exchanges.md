@@ -3,8 +3,6 @@ title: "Unregulated crypto exchanges: meaning, limits, and evidence"
 description: "Learn what unregulated crypto exchanges means, why status depends on jurisdiction and activity, and what evidence is needed before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto exchange regulation", "unlicensed crypto exchange"]

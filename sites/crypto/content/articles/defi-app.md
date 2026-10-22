@@ -3,8 +3,6 @@ title: "DeFi App: How Applications Connect Users to Protocols"
 description: "Learn what a defi app does, how its interface connects a wallet to blockchain protocols, and which operational, security, and user risks to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["defi apps"]

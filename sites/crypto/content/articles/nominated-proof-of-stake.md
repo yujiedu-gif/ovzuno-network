@@ -3,8 +3,6 @@ title: "Nominated proof of stake: roles and consensus mechanics"
 description: "Learn how nominated proof of stake connects nominators and validators in consensus, which responsibilities each role may have, and why rules vary by network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["nominated proof stake"]

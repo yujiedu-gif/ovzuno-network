@@ -3,8 +3,6 @@ title: "Proof of Work Authentication: What It Verifies and What It Does Not"
 description: "Learn how proof of work authentication helps a network verify candidate blocks, how nodes check protocol rules, and what the process does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work authentication"]

@@ -3,8 +3,6 @@ title: "Crypto mining case: why proof-of-work networks use mining"
 description: "Explore the crypto mining case for proof-of-work networks: what mining contributes to consensus and transaction ordering, and where its trade-offs require evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work use cases", "mining consensus mechanism", "blockchain validation"]

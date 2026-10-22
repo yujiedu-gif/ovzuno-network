@@ -3,8 +3,6 @@ title: "Etherscan NFTs: How to Read NFT Records and Their Limits"
 description: "Learn how to inspect Etherscan NFTs records, interpret contract and token details, and separate visible on-chain data from ownership and media claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

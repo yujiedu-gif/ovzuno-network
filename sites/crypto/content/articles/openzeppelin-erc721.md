@@ -3,8 +3,6 @@ title: "openzeppelin erc721: implementation, interfaces, and developer checks"
 description: "Learn how openzeppelin erc721 implements the NFT contract interface, which extension choices matter, and what developers should verify in version-specific docs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

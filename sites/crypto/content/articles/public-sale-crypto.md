@@ -3,8 +3,6 @@ title: "Public sale crypto: how token offerings work and what to verify"
 description: "Understand what a public sale crypto offering is, how access and token delivery may be structured, and which terms and risks to verify before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

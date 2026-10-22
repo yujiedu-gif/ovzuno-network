@@ -3,8 +3,6 @@ title: "Why cryptocurrency is bad: risks, criticisms, and context"
 description: "Explore why cryptocurrency is bad, including environmental, financial, consumer-protection, and governance criticisms, with context on where risks vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["crypto_assets_protocols"]
 tags: ["why cryptocurrency bad"]

@@ -3,8 +3,6 @@ title: "Merkle Tree Smart Contract: How Proof Verification Works"
 description: "Learn how a merkle tree smart contract uses a committed root and Merkle proof to check set membership, plus the key assumptions and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Merkle proof", "Merkle root", "on-chain verification"]

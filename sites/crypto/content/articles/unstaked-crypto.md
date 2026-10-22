@@ -3,8 +3,6 @@ title: "Unstaked crypto: what the term means"
 description: "Learn what unstaked crypto means, how it differs from assets committed to staking, and why unstaked status does not always mean funds are immediately transferable."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

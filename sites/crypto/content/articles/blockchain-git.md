@@ -3,8 +3,6 @@ title: "Blockchain Git: What the Term Means and Where Git Fits"
 description: "Understand what blockchain Git can mean, how Git version control relates to blockchain software, and why a source-code history is not a blockchain ledger."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

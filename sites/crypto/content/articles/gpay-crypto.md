@@ -3,8 +3,6 @@ title: "GPay crypto: What the phrase means and how payment flows differ"
 description: "Learn what gpay crypto may refer to, how Google Pay differs from crypto wallets and on-chain transfers, and what to verify before using a payment flow."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

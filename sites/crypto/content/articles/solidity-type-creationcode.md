@@ -3,8 +3,6 @@ title: "Solidity type creationcode: What It Returns and How It Is Used"
 description: "Learn what solidity type creationcode returns, how it relates to contract deployment, and how creation bytecode differs from code stored at an address."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

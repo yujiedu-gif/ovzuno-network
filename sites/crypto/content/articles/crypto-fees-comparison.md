@@ -3,8 +3,6 @@ title: "Crypto Fees Comparison: A Framework for Evaluating Blockchain Payments"
 description: "Use this crypto fees comparison framework to distinguish network charges, service fees, and other cost drivers when evaluating blockchain payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto fee"]

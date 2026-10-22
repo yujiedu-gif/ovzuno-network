@@ -3,8 +3,6 @@ title: "Rarible Smart Contract: Roles, Transactions, and Verification"
 description: "Learn what a rarible smart contract can do in NFT marketplace activity, how contract interactions fit into transactions, and what deployment details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

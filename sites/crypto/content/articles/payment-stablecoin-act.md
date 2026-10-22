@@ -3,8 +3,6 @@ title: "Payment stablecoin act: scope, oversight, and settlement implications"
 description: "Understand the payment stablecoin act, its US scope, oversight framework, implementation questions, and potential relevance to payment stablecoin settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

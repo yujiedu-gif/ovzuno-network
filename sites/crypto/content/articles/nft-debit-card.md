@@ -3,8 +3,6 @@ title: "NFT Debit Card: How NFT-Based Card Access Could Work"
 description: "Explore what an nft debit card could mean, how an NFT might represent card access or features, and which payment functions remain separate from the blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

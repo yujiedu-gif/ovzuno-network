@@ -3,8 +3,6 @@ title: "WTK crypto: how to identify the asset and verify its protocol"
 description: "Learn what WTK crypto refers to, how to verify its network and stated function, and why a ticker alone may not establish an asset’s identity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

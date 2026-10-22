@@ -3,8 +3,6 @@ title: "How to join crypto mining pool: Setup and verification steps"
 description: "Learn how to join crypto mining pool, check equipment compatibility, gather setup details, review payout terms, and verify a miner’s connection safely."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: []

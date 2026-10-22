@@ -3,8 +3,6 @@ title: "NFTs Assets: How Tokens Relate to Underlying Property"
 description: "Learn how NFTs assets may reference underlying property, how on-chain records differ from legal rights, and what documentation and operational limits to review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

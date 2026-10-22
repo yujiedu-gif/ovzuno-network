@@ -3,8 +3,6 @@ title: "mxrp crypto: Meaning and How to Verify the Term"
 description: "Learn what mxrp crypto may refer to, how to verify a token or project identity using authoritative evidence, and what remains uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

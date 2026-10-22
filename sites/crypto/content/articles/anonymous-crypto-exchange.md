@@ -3,8 +3,6 @@ title: "Anonymous crypto exchange: what the label means and its limits"
 description: "Learn what anonymous crypto exchange claims may mean, how account identity differs from on-chain traceability, and what evidence to check before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

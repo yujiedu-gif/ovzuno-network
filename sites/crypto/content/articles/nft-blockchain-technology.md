@@ -3,8 +3,6 @@ title: "NFT Blockchain Technology: How Tokens, Records, and Rights Relate"
 description: "Explore how NFT blockchain technology records tokens, links to metadata or content, and differs from ownership of an associated item or legal rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

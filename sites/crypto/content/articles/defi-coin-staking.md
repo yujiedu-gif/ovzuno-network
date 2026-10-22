@@ -3,8 +3,6 @@ title: "DeFi Coin Staking: How It Works, Protocol Designs, and Risks"
 description: "Learn what defi coin staking means, how protocol mechanisms differ from proof-of-stake validation, and which technical and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

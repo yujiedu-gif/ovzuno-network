@@ -3,8 +3,6 @@ title: "Lilly Finance Crypto: What the Project Documentation Can Verify"
 description: "Learn what reliable sources establish about lilly finance crypto, including its documented project identity, any associated token, and unresolved questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Digital Asset Operations: Functions, Workflows, and Controls"
 description: "Explore digital asset operations in an institutional setting: core functions, transaction workflows, governance, and controls, with boundaries for further review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

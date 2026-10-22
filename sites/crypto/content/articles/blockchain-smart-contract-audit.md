@@ -3,8 +3,6 @@ title: "Blockchain smart contract audit: scope, findings, and limits"
 description: "A blockchain smart contract audit reviews defined code and risks. Learn how scope, methods, findings, and remediation shape what an audit can establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract security audit", "audit scope", "audit report", "vulnerability remediation"]

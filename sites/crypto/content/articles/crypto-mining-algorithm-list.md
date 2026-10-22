@@ -3,8 +3,6 @@ title: "Crypto Mining Algorithm List: Common Proof-of-Work Algorithms"
 description: "Explore a crypto mining algorithm list that groups common proof-of-work algorithms, explains their basic distinctions, and clarifies what algorithm labels mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work algorithms", "hashing algorithms", "mining consensus mechanisms"]

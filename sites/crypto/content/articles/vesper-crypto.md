@@ -3,8 +3,6 @@ title: "Vesper crypto: what the protocol is and what treasury teams should verif
 description: "Understand what Vesper crypto refers to, how its protocol is described, and which product, token, governance, and risk details treasury teams should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["Vesper protocol", "Vesper Finance", "Vesper token"]

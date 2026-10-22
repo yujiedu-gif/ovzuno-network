@@ -3,8 +3,6 @@ title: "NFT in Ecommerce: Uses, Ownership, and Practical Limits"
 description: "Explore nft in ecommerce, including possible product and service connections, what an NFT record can establish, and questions teams should assess before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["ecommerce nft"]

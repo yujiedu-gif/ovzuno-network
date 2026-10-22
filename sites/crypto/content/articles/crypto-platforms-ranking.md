@@ -3,8 +3,6 @@ title: "Crypto platforms ranking: how regulation and tax reporting shape compari
 description: "Learn how a crypto platforms ranking can reflect regulation and tax-reporting factors, what the comparisons cannot establish, and which details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

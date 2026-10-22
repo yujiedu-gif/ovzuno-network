@@ -3,8 +3,6 @@ title: "Hello World Program in Solidity: A Minimal Contract Explained"
 description: "Explore a hello world program in solidity, understand its basic contract structure, and learn why compiling source code is different from deploying it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

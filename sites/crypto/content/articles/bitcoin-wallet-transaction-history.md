@@ -3,8 +3,6 @@ title: "Bitcoin Wallet Transaction History: What It Shows"
 description: "Learn what bitcoin wallet transaction history displays, how entries relate to Bitcoin blockchain records, and why wallet views may be incomplete or differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

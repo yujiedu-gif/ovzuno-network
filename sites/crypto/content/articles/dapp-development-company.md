@@ -3,8 +3,6 @@ title: "How to Evaluate a dapp development company for a Smart-Contract Project"
 description: "Use this neutral checklist to assess a dapp development company’s smart-contract approach, testing evidence, operational responsibilities, and unresolved risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

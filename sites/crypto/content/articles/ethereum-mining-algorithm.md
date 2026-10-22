@@ -3,8 +3,6 @@ title: "Ethereum mining algorithm: Ethash and Ethereum’s move beyond mining"
 description: "Learn what the ethereum mining algorithm Ethash did, how it fit Ethereum’s proof-of-work era, and why proof-of-stake replaced mining on the network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["mining algorithm ethereum"]

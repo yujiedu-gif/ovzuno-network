@@ -3,8 +3,6 @@ title: "We Accept Crypto: What the Claim Means for Customers"
 description: "Learn what “we accept crypto” tells customers, which payment details to clarify, and what to verify before making the claim in business communications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

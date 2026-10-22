@@ -3,8 +3,6 @@ title: "Full Stack Dapp: Components, Architecture, and Data Flow"
 description: "Explore the full stack dapp architecture, from interface and wallet connections to smart contracts, blockchain access, and optional off-chain services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["dapp architecture", "smart contract frontend", "blockchain application backend", "wallet integration"]

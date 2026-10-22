@@ -3,8 +3,6 @@ title: "Solidity Python: How the Languages Fit into Smart-Contract Projects"
 description: "See how solidity python fit into smart-contract projects, where Python may support off-chain work, and why it does not replace Solidity contract code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["smart_contract_dapps"]
 tags: []

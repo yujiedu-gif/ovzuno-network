@@ -3,8 +3,6 @@ title: "Polygon Gas Fees NFT: How Transaction Costs Work"
 description: "Learn how polygon gas fees nft transactions are calculated, which NFT actions use gas, what can affect costs, and what to review before confirming."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["polygon gas fee nft"]

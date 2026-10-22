@@ -3,8 +3,6 @@ title: "Shiba Inu Coin Crypto: What SHIB Is and How It Relates to Ethereum"
 description: "Learn what Shiba Inu coin crypto refers to, how SHIB relates to Ethereum, and how the token differs from the wider Shiba Inu ecosystem."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

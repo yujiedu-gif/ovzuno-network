@@ -3,8 +3,6 @@ title: "Solidity contract code: a cautious guide to writing and checking a basic
 description: "Learn how Solidity contract code is structured, how to test and review a basic example, and what to verify before considering deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

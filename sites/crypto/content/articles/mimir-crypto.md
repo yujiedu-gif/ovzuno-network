@@ -3,8 +3,6 @@ title: "Mimir crypto: identifying the project and checking its claims"
 description: "Learn what Mimir crypto may refer to, how to distinguish a project from an associated asset, and which claims need reliable verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cold wallet card: how card-shaped crypto storage works"
 description: "Learn what a cold wallet card is, how card-shaped crypto storage and transaction signing may work, and how it differs from a crypto spending card."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "DAO Crypto Staking: Governance, Validator Operations, and Risks"
 description: "Learn how dao crypto staking can be organized through DAO governance, treasury controls, validator operations, and risk oversight without treating staking as risk‑"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto staking dao"]

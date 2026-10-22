@@ -3,8 +3,6 @@ title: "Dapps company: roles, services, and smart-contract responsibilities"
 description: "Learn what a dapps company may do, how its work connects to smart contracts and supporting systems, and what to clarify when scoping a project."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

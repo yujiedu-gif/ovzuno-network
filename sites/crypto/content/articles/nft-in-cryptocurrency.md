@@ -3,8 +3,6 @@ title: "NFT in cryptocurrency: what the token represents and what it does not"
 description: "Learn what an nft in cryptocurrency represents, how its blockchain record differs from associated media and rights, and what ownership does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["non-fungible token", "blockchain token", "digital ownership record"]

@@ -3,8 +3,6 @@ title: "Bisq Crypto Exchange: How Its Peer-to-Peer Market Structure Works"
 description: "Explore how the bisq crypto exchange coordinates peer-to-peer trades, what roles its network components play, and how settlement fits into the process."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["Bisq peer-to-peer trading", "decentralized exchange architecture", "Bisq network", "escrow and dispute resolution"]

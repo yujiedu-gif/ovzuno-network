@@ -3,8 +3,6 @@ title: "DeFi strategy: meaning in protocol design and operations"
 description: "Understand what a DeFi strategy means in protocol design and operations, the decisions it can cover, and why context matters across decentralized finance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["defi_protocols"]
 tags: []

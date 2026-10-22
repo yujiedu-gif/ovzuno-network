@@ -3,8 +3,6 @@ title: "Crypto payments for business: workflows, operations, and risks"
 description: "Explore crypto payments for business through payment flows, settlement, accounting, security, and compliance questions to assess before adopting them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment business"]

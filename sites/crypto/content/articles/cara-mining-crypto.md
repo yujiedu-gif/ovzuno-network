@@ -3,8 +3,6 @@ title: "Cara mining crypto: pengertian dan perannya dalam proof of work"
 description: "Pelajari arti cara mining crypto, bagaimana prosesnya membantu jaringan proof of work memvalidasi blok, dan mengapa tidak semua aset kripto ditambang."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

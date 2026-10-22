@@ -3,8 +3,6 @@ title: "Blockchain and NFTs Explained: Tokens, Records, and Referenced Assets"
 description: "Blockchain and NFTs explained: see how token records, metadata, and linked assets relate, and what an NFT record does—and does not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain nfts"]

@@ -3,8 +3,6 @@ title: "DeFi Crypto Regulations: How to Assess Rules by Activity and Jurisdictio
 description: "Understand how DeFi crypto regulations may depend on activity, control, participants, and jurisdiction, and where to verify current legal and tax requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["decentralized finance regulation", "DeFi compliance", "crypto tax reporting"]

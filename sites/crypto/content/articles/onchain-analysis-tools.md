@@ -3,8 +3,6 @@ title: "Onchain analysis tools: data, uses, and limitations"
 description: "Learn what onchain analysis tools examine, how they support smart contract and dApp operations, and why blockchain data and derived labels require careful review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["blockchain data analysis", "smart contract monitoring", "on-chain analytics"]

@@ -3,8 +3,6 @@ title: "Evertas Crypto Insurance: What the Term Means"
 description: "Learn what evertas crypto insurance refers to, how digital-asset insurance fits into risk management, and why actual coverage depends on policy terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Auto Mining Crypto: What Automation Means in Proof-of-Work"
 description: "Learn what auto mining crypto means, how automation relates to proof-of-work mining, and what operational, security, and reward limitations to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

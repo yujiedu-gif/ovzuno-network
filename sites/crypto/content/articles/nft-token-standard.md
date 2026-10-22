@@ -3,8 +3,6 @@ title: "NFT token standard: how NFT interfaces and behavior are defined"
 description: "Understand what an nft token standard defines, how common standards differ in ownership, quantity, metadata, and interoperability, and what builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

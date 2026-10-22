@@ -3,8 +3,6 @@ title: "bitcoin cash bch: How the Network and Protocol Work"
 description: "Learn how bitcoin cash bch relates to its network, how transactions are validated, and which protocol features to verify when assessing its technical design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin Cash protocol", "BCH transaction", "Bitcoin Cash network"]

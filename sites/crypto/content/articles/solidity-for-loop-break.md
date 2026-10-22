@@ -3,8 +3,6 @@ title: "Solidity for loop break: How `break` changes control flow"
 description: "Learn how Solidity for loop break exits the current loop, what code runs next, and how it differs from returning from the enclosing function."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["solidity break for loop", "solidity loop break"]

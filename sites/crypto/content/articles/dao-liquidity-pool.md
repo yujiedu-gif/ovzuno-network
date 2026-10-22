@@ -3,8 +3,6 @@ title: "DAO Liquidity Pool: Governance, Operation, and Risks"
 description: "Learn how a DAO liquidity pool connects community governance with pool contracts, what decisions members may control, and which operational and governance risks to"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

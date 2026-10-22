@@ -3,8 +3,6 @@ title: "DEX Protocol Crypto: Architecture, Trade Flow, and Risks"
 description: "Learn what dex protocol crypto means, how decentralized exchange protocols route trades, and which design, operational, and user risks require careful review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["decentralized exchange protocol", "on-chain trade execution"]

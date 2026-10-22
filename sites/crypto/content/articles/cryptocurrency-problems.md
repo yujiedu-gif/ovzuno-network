@@ -3,8 +3,6 @@ title: "Cryptocurrency problems: common payment and operational challenges"
 description: "Review cryptocurrency problems that can affect payment operations, including transaction handling, network capacity, price changes, custody, and usability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["problem with cryptocurrency"]

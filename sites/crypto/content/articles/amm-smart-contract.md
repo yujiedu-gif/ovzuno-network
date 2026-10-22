@@ -3,8 +3,6 @@ title: "How an amm smart contract prices and executes token swaps"
 description: "Learn how an amm smart contract uses pool reserves to set swap terms, update state, and expose users and liquidity providers to distinct risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["automated market maker", "liquidity pool", "decentralized exchange", "constant-product formula"]

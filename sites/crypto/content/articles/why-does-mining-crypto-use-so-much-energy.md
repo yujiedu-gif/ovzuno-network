@@ -3,8 +3,6 @@ title: "Why Does Mining Crypto Use So Much Energy? The Proof-of-Work Explanation
 description: "Why does mining crypto use so much energy? Learn how proof-of-work competition, mining hardware, and network incentives drive electricity demand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["why does crypto mining use so much energy", "why mining crypto use so much energy"]

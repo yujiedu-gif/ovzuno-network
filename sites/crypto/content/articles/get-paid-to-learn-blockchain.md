@@ -3,8 +3,6 @@ title: "Get paid to learn blockchain: how programs and rewards work"
 description: "Learn what get paid to learn blockchain programs may offer, how eligibility and tasks can affect rewards, and what learners should verify before enrolling."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["get paid learn blockchain"]

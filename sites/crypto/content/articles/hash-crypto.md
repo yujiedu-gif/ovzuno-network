@@ -3,8 +3,6 @@ title: "Hash Crypto: What a Hash Means in Cryptocurrency Payments"
 description: "Learn what hash crypto means, how cryptographic hashes relate to payment transaction identifiers and data integrity, and what a hash alone cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["hash in crypto"]

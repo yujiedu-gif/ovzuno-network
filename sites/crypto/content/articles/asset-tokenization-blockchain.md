@@ -3,8 +3,6 @@ title: "Asset tokenization blockchain: how digital representations connect to re
 description: "Learn how asset tokenization blockchain designs represent assets, record tokens on-chain, and connect those records to rights and off-chain arrangements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["tokenized assets", "digital representation of assets", "on-chain ownership records", "smart contracts"]

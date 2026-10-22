@@ -3,8 +3,6 @@ title: "How to do crypto: a beginner’s guide to safer payments and transfers"
 description: "Learn how to do crypto with a safety-first overview of wallets, networks, address checks, fees, confirmation, and records, while noting where details vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["crypto"]

@@ -3,8 +3,6 @@ title: "kast crypto: What the Name Refers to in Crypto Spending"
 description: "Understand what kast crypto refers to, how its documented role in crypto-linked spending is described, and which service details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["KAST", "crypto-linked payment card", "crypto spending platform"]

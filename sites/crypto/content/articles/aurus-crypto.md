@@ -3,8 +3,6 @@ title: "Aurus crypto: what it is and how its digital-asset infrastructure works"
 description: "Aurus crypto explained: learn what the name refers to, how its digital-asset infrastructure is described, and what to verify before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

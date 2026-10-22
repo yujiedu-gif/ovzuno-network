@@ -3,8 +3,6 @@ title: "Cryptocurrency mining sites: models and evaluation criteria"
 description: "Learn how cryptocurrency mining sites connect users to proof-of-work mining and what to verify about operating models, fees, payouts, security, and jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

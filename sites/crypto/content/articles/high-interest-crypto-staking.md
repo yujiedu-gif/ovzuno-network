@@ -3,8 +3,6 @@ title: "High interest crypto staking: how to assess stated reward rates"
 description: "Learn how high interest crypto staking rates are presented, what can affect rewards, and which fees, lockups, validator conditions, and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

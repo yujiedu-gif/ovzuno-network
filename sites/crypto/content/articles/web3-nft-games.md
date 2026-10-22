@@ -3,8 +3,6 @@ title: "Web3 NFT Games: How Blockchain Assets Fit into Gameplay"
 description: "Learn what web3 nft games are, how NFTs and smart contracts can support game assets, and which gameplay functions may remain off-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["web3 nft game"]

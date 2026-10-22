@@ -3,8 +3,6 @@ title: "Earn interest on crypto: mechanisms, infrastructure, and risks"
 description: "Earn interest on crypto by understanding possible return mechanisms, asset control, infrastructure roles, and product-specific risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

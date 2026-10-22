@@ -3,8 +3,6 @@ title: "Proof of Work Protocol: How Blockchain Consensus Works"
 description: "Learn how a proof of work protocol supports blockchain consensus, how nodes validate proposed blocks, and what security and resource trade-offs to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work protocol"]

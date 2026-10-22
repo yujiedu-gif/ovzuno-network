@@ -3,8 +3,6 @@ title: "Can You Mine Crypto on Mac? Feasibility and Constraints"
 description: "Learn whether you can mine crypto on mac, what hardware and software constraints matter, and how to check power, heat, network support, and costs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

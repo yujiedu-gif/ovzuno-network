@@ -3,8 +3,6 @@ title: "Gas Free Crypto: What It Means and Who Pays the Transaction Fee"
 description: "Learn what gas free crypto means, how sponsored transactions can work, who may cover network fees, and what costs and limitations can remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["gas fees", "transaction sponsorship", "account abstraction"]

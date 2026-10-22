@@ -3,8 +3,6 @@ title: "Crypto volume tracker: what it measures and how to assess its data"
 description: "Learn what a crypto volume tracker measures, how source coverage and data quality shape reported trading volume, and which checks support reliable operational use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

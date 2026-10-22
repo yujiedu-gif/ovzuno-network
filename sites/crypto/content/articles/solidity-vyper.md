@@ -3,8 +3,6 @@ title: "solidity vyper: Comparing Smart-Contract Language Trade-Offs"
 description: "Compare solidity vyper by examining design goals, developer workflow, tooling, and project-fit considerations for Ethereum-compatible smart contracts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity vs Vyper", "smart contract programming languages"]

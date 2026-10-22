@@ -3,8 +3,6 @@ title: "Zena crypto: identifying a staking or validator project"
 description: "Learn how to assess what zena crypto refers to, verify any staking or validator claims, and distinguish documented project details from unresolved references."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

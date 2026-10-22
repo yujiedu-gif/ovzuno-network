@@ -3,8 +3,6 @@ title: "NFT Proxy Contract: How the Architecture Works"
 description: "Learn how an NFT proxy contract routes calls to implementation logic, how upgrades may work, and which storage, authority, and security risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["proxy pattern", "implementation contract", "upgradeable smart contract", "delegatecall"]

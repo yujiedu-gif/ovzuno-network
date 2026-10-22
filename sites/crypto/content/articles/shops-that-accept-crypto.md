@@ -3,8 +3,6 @@ title: "Shops That Accept Crypto: How to Verify Payment Options"
 description: "Learn how to verify whether shops that accept crypto support your asset and location, and what to check about checkout terms, refunds, and payment risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Define Smart Contract in Blockchain: Meaning and Limits"
 description: "Define smart contract in blockchain: learn what these on-chain programs do, how transactions trigger execution, and why code cannot guarantee real-world outcomes."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

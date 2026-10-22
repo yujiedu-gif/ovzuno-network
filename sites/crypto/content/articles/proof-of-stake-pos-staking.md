@@ -3,8 +3,6 @@ title: "Proof of stake pos staking: How stake connects to validators and consens
 description: "Explore proof of stake pos staking through the link between committed stake, validator participation, consensus duties, and protocol-defined incentives and penalties"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake pos staking"]

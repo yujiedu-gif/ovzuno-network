@@ -3,8 +3,6 @@ title: "NFT Art Assets: What the Token Represents—and What It Does Not"
 description: "Learn how nft art assets connect a blockchain token to digital artwork, and why token ownership, file access, and copyright or usage rights are distinct."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

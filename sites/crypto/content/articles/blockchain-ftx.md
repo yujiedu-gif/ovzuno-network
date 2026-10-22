@@ -3,8 +3,6 @@ title: "Blockchain FTX: What the Phrase Means"
 description: "Understand what blockchain FTX may refer to, how a crypto exchange differs from a blockchain network, and why transaction records depend on context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Sola crypto: how to identify the project, protocol, or token"
 description: "Learn how to identify what sola crypto refers to, verify project and token details, and avoid treating a shared name as proof of connection."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

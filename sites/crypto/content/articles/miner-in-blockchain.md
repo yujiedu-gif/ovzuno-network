@@ -3,8 +3,6 @@ title: "Miner in Blockchain: How Proof-of-Work Mining Adds Blocks"
 description: "Learn what a miner in blockchain does, how proof-of-work miners compete to add blocks, and how miners differ from nodes and validators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

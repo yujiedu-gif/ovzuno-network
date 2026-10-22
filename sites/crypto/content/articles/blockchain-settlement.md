@@ -3,8 +3,6 @@ title: "Blockchain settlement: how payment transactions are confirmed"
 description: "Learn how blockchain settlement moves a payment transaction from submission to confirmation, and why on-chain finality may differ from discharge of an obligation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

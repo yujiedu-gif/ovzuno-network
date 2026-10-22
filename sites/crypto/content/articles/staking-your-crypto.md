@@ -3,8 +3,6 @@ title: "Staking your crypto: how validators, rewards, and withdrawals work"
 description: "Learn how staking your crypto relates to validators, delegation, rewards, lockups, penalties, and withdrawals, and which network-specific rules to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto staking process", "validator staking", "staking lockup and unstaking"]

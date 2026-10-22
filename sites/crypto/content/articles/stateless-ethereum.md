@@ -3,8 +3,6 @@ title: "Stateless Ethereum: Meaning, Proofs, and Node Trade-Offs"
 description: "Learn what stateless Ethereum means, how state proofs could change block validation, and why the concept raises trade-offs for node data and operation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

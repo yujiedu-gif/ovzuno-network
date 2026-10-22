@@ -3,8 +3,6 @@ title: "Blockchain Node Map: What It Shows and What It Cannot"
 description: "Learn what a blockchain node map represents, how to interpret displayed locations and connections, and why a map may not show every node."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain nodes map"]

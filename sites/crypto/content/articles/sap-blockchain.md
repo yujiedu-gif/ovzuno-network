@@ -3,8 +3,6 @@ title: "SAP Blockchain: Meaning and Relationship to Blockchain Technology"
 description: "Learn what SAP blockchain means, how the phrase relates to SAP and distributed-ledger technology, and what to verify before relying on a specific claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

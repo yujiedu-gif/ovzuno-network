@@ -3,8 +3,6 @@ title: "Blockchain Based Payment Solution: A Use-Case Evaluation Framework"
 description: "Assess whether a blockchain based payment solution fits a payment workflow by examining participants, settlement needs, operational trade-offs, and evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

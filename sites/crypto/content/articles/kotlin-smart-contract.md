@@ -3,8 +3,6 @@ title: "Kotlin smart contract: execution models and platform constraints"
 description: "A Kotlin smart contract depends on the target platform’s execution environment. Learn how to distinguish on-chain code from Kotlin applications and assess fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

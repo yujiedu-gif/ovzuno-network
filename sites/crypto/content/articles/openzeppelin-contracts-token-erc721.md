@@ -3,8 +3,6 @@ title: "openzeppelin contracts token erc721: Structure, Extensions, and Checks"
 description: "Explore openzeppelin contracts token erc721, including contract structure, common extensions, and checks developers should perform before adapting an NFT token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["OpenZeppelin ERC721", "ERC-721 smart contract", "NFT token contract"]

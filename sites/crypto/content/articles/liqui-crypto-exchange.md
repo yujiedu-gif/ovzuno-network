@@ -3,8 +3,6 @@ title: "Liqui crypto exchange: history, status, and how to verify claims"
 description: "Learn what the Liqui crypto exchange refers to, how to separate historical records from current claims, and what to verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

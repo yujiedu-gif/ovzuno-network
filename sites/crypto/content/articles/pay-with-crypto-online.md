@@ -3,8 +3,6 @@ title: "How to Pay with Crypto Online: Steps and Checks"
 description: "Learn how to pay with crypto online, from checking accepted assets and networks to reviewing the amount, destination, fees, and confirmation status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

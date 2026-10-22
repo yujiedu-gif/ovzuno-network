@@ -3,8 +3,6 @@ title: "Crypto mining by country: how to interpret global estimates"
 description: "See how crypto mining by country estimates are produced, what shapes geographic differences, and why dates, methods, and uncertainty matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

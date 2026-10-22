@@ -3,8 +3,6 @@ title: "Western Union Blockchain: What Is Known About Its Payment Applications?"
 description: "Explore what is documented about Western Union blockchain activity, how blockchain may relate to payment operations, and what remains unverified."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["western blockchain"]

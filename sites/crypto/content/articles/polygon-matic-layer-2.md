@@ -3,8 +3,6 @@ title: "Polygon Matic Layer 2: How Polygon Relates to Ethereum"
 description: "Understand polygon matic layer 2, how Polygon relates to Ethereum, why scaling terminology matters, and where MATIC fits in the network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

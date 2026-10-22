@@ -3,8 +3,6 @@ title: "Family Offices Crypto: Treasury Governance and Operations"
 description: "Learn how family offices crypto treasury processes can address governance, custody, controls, and reporting, without treating operational context as investment or"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

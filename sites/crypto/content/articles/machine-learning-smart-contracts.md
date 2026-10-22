@@ -3,8 +3,6 @@ title: "Machine Learning Smart Contracts: How They Work and Where Inference Fits
 description: "Learn how machine learning smart contracts connect model outputs to on-chain logic, including inference placement, data delivery, verification limits, and design"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

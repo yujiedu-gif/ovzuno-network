@@ -3,8 +3,6 @@ title: "Kron crypto: identifying the project and checking staking claims"
 description: "Understand what kron crypto may refer to, how to distinguish similarly named projects, and what evidence can confirm claims about staking and validators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

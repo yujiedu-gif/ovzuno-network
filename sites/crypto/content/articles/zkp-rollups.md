@@ -3,8 +3,6 @@ title: "ZKP Rollups: How Transaction Proofs Enable Blockchain Scaling"
 description: "Learn how zkp rollups execute transactions, generate validity proofs, and settle state updates on a base layer, including key design tradeoffs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

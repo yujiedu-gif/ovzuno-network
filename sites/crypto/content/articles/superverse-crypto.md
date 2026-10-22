@@ -3,8 +3,6 @@ title: "Superverse crypto: project, ecosystem, and associated assets explained"
 description: "Learn what Superverse crypto refers to, how to distinguish its project ecosystem from associated assets, and which claims need verification in current sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

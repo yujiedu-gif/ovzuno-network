@@ -3,8 +3,6 @@ title: "Alipay cryptocurrency: What the term means and how to verify support"
 description: "Learn what “Alipay cryptocurrency” may refer to, how to check official support claims by service and location, and what risks to verify before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

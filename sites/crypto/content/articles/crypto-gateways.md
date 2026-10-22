@@ -3,8 +3,6 @@ title: "Crypto gateways: How they connect payment requests to blockchain settlem
 description: "Learn what crypto gateways do, how payment requests move toward blockchain settlement, and where gateway functions differ from wallets, processors, and networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto gateway"]

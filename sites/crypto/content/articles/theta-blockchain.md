@@ -3,8 +3,6 @@ title: "Theta blockchain: what it is and how it fits into the Theta Network"
 description: "Learn what the theta blockchain is, how it fits within the Theta Network, and how its core function differs from related services and tokens."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

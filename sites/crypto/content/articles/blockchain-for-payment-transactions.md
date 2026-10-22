@@ -3,8 +3,6 @@ title: "Blockchain for Payment Transactions: How the Process Works"
 description: "Learn how blockchain for payment transactions move from signing to network validation and settlement, and what operational trade-offs to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain payment transaction"]

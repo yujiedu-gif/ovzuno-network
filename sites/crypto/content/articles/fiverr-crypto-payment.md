@@ -3,8 +3,6 @@ title: "Fiverr Crypto Payment: Supported Methods and Limits"
 description: "Learn whether Fiverr crypto payment is supported, how to verify current platform payment options, and why off-platform crypto arrangements carry risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

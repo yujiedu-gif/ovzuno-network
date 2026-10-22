@@ -3,8 +3,6 @@ title: "xoxo nft marketplace: What the Name Means and What to Verify"
 description: "Learn what xoxo nft marketplace may refer to, how NFT marketplaces differ from ownership rights, and which service claims need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "BitMart Crypto Exchange: Operating Model and Due-Diligence Questions"
 description: "A neutral guide to the BitMart crypto exchange, outlining its documented exchange functions and the jurisdiction-specific details readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

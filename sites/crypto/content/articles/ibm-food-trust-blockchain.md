@@ -3,8 +3,6 @@ title: "IBM Food Trust Blockchain: Purpose, Traceability, and Data Limits"
 description: "Understand the IBM Food Trust blockchain’s role in food supply-chain traceability, what shared records can show, and what claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

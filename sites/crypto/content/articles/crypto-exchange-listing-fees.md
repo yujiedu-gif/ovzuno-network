@@ -3,8 +3,6 @@ title: "Crypto Exchange Listing Fees: What They May Cover and Why Costs Vary"
 description: "Learn what crypto exchange listing fees may cover, why costs vary, and what project teams should verify before assessing an exchange's fee request."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto exchange listing fee"]

@@ -3,8 +3,6 @@ title: "Using Solidity: From Smart-Contract Code to dApp Operation"
 description: "Using Solidity involves more than writing code: understand how smart-contract requirements move through development, testing, deployment, dApp integration, and care."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

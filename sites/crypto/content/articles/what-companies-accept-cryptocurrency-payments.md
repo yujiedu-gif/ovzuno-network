@@ -3,8 +3,6 @@ title: "What companies accept cryptocurrency payments: how to verify"
 description: "Learn what companies accept cryptocurrency payments, how acceptance can vary by location and checkout method, and how to verify current terms before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["what companies accept cryptocurrency for payment", "companies accept cryptocurrency payment"]

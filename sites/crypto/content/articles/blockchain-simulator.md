@@ -3,8 +3,6 @@ title: "Blockchain Simulator: Meaning, Models, and Limits"
 description: "A blockchain simulator models selected network rules and conditions to explore possible behavior, while remaining distinct from a live blockchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

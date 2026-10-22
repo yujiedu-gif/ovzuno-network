@@ -3,8 +3,6 @@ title: "Smart contract art: how programmable contracts relate to digital works"
 description: "Explore smart contract art, including how programmable rules can record and transfer digital art tokens—and what those records do not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

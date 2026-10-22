@@ -3,8 +3,6 @@ title: "Aptos validator node: role, consensus, and operating considerations"
 description: "Learn what an aptos validator node does, how it participates in Aptos consensus, and which technical, operational, and risk details operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

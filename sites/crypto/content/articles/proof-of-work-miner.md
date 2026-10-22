@@ -3,8 +3,6 @@ title: "Proof of Work Miner: Role in Blockchain Consensus"
 description: "Learn what a proof of work miner does, how computational work supports block proposals, and why network participants still validate proposed blocks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work miner"]

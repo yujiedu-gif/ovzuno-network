@@ -3,8 +3,6 @@ title: "UBS blockchain: what the term may refer to"
 description: "Understand what “ubs blockchain” may refer to, how to distinguish a UBS-related initiative from blockchain technology, and what details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

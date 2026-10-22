@@ -3,8 +3,6 @@ title: "How to Evaluate an nft platform for Your Use Case"
 description: "Assess an nft platform by use case, architecture, asset and metadata handling, integrations, governance, and operational controls before choosing an approach."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["nfts_digital_ownership"]
 tags: []

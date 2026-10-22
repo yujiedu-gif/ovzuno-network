@@ -3,8 +3,6 @@ title: "Crypto flows in card spending: how value moves through a payment"
 description: "Learn how crypto flows can connect a digital-asset balance to card spending, from balance selection and conversion to authorization and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["flow crypto"]

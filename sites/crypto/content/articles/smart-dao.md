@@ -3,8 +3,6 @@ title: "Smart DAO: How Governance and Smart Contracts Work Together"
 description: "Learn how a smart DAO can connect member proposals and voting with smart-contract actions, and where human judgment and off-chain systems remain involved."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["decentralized autonomous organization", "DAO governance", "smart contracts"]

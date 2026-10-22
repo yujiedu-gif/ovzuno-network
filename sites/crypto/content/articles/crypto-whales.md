@@ -3,8 +3,6 @@ title: "Crypto whales: meaning and limits of the label"
 description: "Learn what crypto whales means, how large-holder labels are used, and why visible wallet activity alone cannot establish identity, intent, or compliance status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["crypto whale"]

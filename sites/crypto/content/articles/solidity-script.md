@@ -3,8 +3,6 @@ title: "Solidity script: meaning and how it differs from a smart contract"
 description: "Learn what “Solidity script” can mean, how it differs from a deployed smart contract, and why context matters when developers use the phrase."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solid script"]

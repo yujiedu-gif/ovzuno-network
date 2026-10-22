@@ -3,8 +3,6 @@ title: "Merchants That Accept Cryptocurrency: An Integration Planning Guide"
 description: "A practical guide for merchants that accept cryptocurrency: map payment flows, choose integration boundaries, assign operational ownership, and plan launch checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["that accept cryptocurrency"]

@@ -3,8 +3,6 @@ title: "How ai agents blockchain defi gaming systems interact"
 description: "Explore how ai agents blockchain defi gaming systems connect agent decisions with smart contracts, onchain actions, and design risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["onchain agents", "smart contract automation", "decentralized gaming"]

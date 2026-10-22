@@ -3,8 +3,6 @@ title: "Python Smart Contracts: On-Chain Code and Off-Chain Tools"
 description: "Learn how Python smart contracts fit into blockchain development, where Python runs, how it supports testing and interaction, and what to verify per platform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

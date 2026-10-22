@@ -3,8 +3,6 @@ title: "Virtual crypto debit card: how digital card payments work"
 description: "Learn how a virtual crypto debit card can connect a crypto-linked balance to card payments, what happens during authorization, and which limitations to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Shopify Crypto Payments: Checkout Flow and Merchant Considerations"
 description: "Learn how Shopify crypto payments may fit an ecommerce checkout, what merchants should verify about order handling and settlement, and which risks depend on provider"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["shopify crypto payment"]

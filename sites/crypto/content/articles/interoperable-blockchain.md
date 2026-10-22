@@ -3,8 +3,6 @@ title: "Interoperable Blockchain: Meaning and Core Capabilities"
 description: "An interoperable blockchain can exchange information or coordinate with other networks. Learn the core capabilities, limits, and distinctions behind the term."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain interoperability"]

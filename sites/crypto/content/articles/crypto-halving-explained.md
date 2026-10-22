@@ -3,8 +3,6 @@ title: "Crypto halving explained: meaning, mechanics, and protocol differences"
 description: "Crypto halving explained: learn what a scheduled block-reward reduction means, how protocols apply it, and why mechanics and supply effects vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto halving"]

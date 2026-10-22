@@ -3,8 +3,6 @@ title: "Legit crypto mining sites: evidence to check before you trust a claim"
 description: "Learn how to assess legit crypto mining sites by checking operational claims, disclosures, and verifiable evidence without relying on rankings or profit promises."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

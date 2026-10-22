@@ -3,8 +3,6 @@ title: "Smart contract la gi? Khái niệm, cách hoạt động và giới hạ
 description: "Smart contract la gi? Tìm hiểu hợp đồng thông minh là gì, cách điều kiện được thực thi trên blockchain và những giới hạn về bảo mật, pháp lý."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

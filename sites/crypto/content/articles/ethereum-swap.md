@@ -3,8 +3,6 @@ title: "Ethereum swap: Meaning, mechanics, and key distinctions"
 description: "Learn what an ethereum swap is, how Ethereum-based smart contracts exchange assets, how swaps differ from transfers, and what risks to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

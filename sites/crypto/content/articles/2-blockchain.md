@@ -3,8 +3,6 @@ title: "2 blockchain: What the Phrase May Mean in Scaling Discussions"
 description: "Learn what “2 blockchain” may mean in scaling discussions, how it differs from a separate blockchain, and which technical details help clarify the term."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

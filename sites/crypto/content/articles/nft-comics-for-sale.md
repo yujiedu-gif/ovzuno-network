@@ -3,8 +3,6 @@ title: "NFT Comics for Sale: What the Token and Listing Actually Mean"
 description: "Learn what nft comics for sale listings may represent, how token ownership differs from comic files and usage rights, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft comics sale"]

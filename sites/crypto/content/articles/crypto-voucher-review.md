@@ -3,8 +3,6 @@ title: "Crypto voucher review: a neutral checklist for assessing terms"
 description: "A crypto voucher review checklist covering purchase and redemption terms, fees, restrictions, security, recovery, and details to verify for your use case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "How to accept crypto on BigCommerce: setup and checks"
 description: "Learn how to accept crypto on BigCommerce by checking integration prerequisites, configuring checkout settings, testing payment flows, and planning operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

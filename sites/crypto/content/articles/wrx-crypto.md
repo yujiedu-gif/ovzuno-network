@@ -3,8 +3,6 @@ title: "WRX crypto: what the token refers to and its market context"
 description: "WRX crypto explained: learn what the name refers to, how to verify token and project details, and what its exchange-market context does—and does not—mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

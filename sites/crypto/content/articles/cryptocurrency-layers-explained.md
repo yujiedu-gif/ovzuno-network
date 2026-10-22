@@ -3,8 +3,6 @@ title: "Cryptocurrency layers explained: roles, relationships, and trade-offs"
 description: "Cryptocurrency layers explained through base-layer and scaling roles, how networks connect, and the trade-offs behind different blockchain designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency layers"]

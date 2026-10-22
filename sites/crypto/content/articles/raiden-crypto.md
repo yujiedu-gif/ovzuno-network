@@ -3,8 +3,6 @@ title: "Raiden crypto: how Ethereum payment channels work"
 description: "Learn what raiden crypto refers to, how Raiden uses Ethereum payment channels for off-chain transfers, and what design limits readers should check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

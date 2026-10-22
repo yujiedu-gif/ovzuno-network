@@ -3,8 +3,6 @@ title: "DAO stake: how governance and validator operations relate"
 description: "Learn what DAO stake can mean, how governance may relate to treasury control and validator operations, and which network-specific details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

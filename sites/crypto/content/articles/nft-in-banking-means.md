@@ -3,8 +3,6 @@ title: "NFT in Banking Means: A Plain-Language Definition"
 description: "Learn what NFT in banking means, what a token may represent, and why an NFT record alone does not establish legal ownership or banking rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

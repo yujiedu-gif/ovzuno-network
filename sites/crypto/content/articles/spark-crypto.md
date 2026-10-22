@@ -3,8 +3,6 @@ title: "spark crypto: What the Name Refers to and How to Identify the Project"
 description: "Learn what spark crypto may refer to, how to identify the specific project or asset, and how to distinguish a protocol’s purpose from a token’s role."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

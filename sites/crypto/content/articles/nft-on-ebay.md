@@ -3,8 +3,6 @@ title: "NFT on eBay: What a Marketplace Reference Can Mean"
 description: "Learn what an nft on ebay reference may describe, how a marketplace listing differs from a blockchain token, and which ownership and rights details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

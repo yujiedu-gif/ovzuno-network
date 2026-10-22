@@ -3,8 +3,6 @@ title: "Crypto card Netflix payments: recurring billing and checks"
 description: "Learn how crypto card Netflix payments may work, what to verify about recurring billing and conversion, and why issuer and region rules can affect acceptance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["subscription payments with crypto cards", "crypto card recurring payments", "Netflix payment methods"]

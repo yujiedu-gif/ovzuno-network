@@ -3,8 +3,6 @@ title: "Cryptocurrency payment API: architecture and integration safeguards"
 description: "Assess a cryptocurrency payment API before implementation: review payment states, webhook handling, confirmation policies, reconciliation, and operational safeguards"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["crypto payment API integration", "payment status webhooks", "blockchain payment confirmation"]

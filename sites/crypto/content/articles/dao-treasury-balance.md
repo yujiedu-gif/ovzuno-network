@@ -3,8 +3,6 @@ title: "DAO Treasury Balance: What the Figure Includes and What It Means"
 description: "Learn what a DAO treasury balance may include, how valuation methods affect the figure, and why reported holdings do not necessarily mean funds are liquid or spendab"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

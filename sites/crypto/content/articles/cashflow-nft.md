@@ -3,8 +3,6 @@ title: "Cashflow NFT: Token Mechanics and Payment Rights"
 description: "Learn what a cashflow NFT may represent, how token mechanics differ from enforceable payment rights, and what documents and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

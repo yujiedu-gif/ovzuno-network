@@ -3,8 +3,6 @@ title: "XOR Crypto: What the Term Refers To and How to Verify It"
 description: "Learn what xor crypto may refer to, why the label alone may not identify one asset, and what documentation and network details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "IOTA crypto: protocol design, cryptoasset role, and key distinctions"
 description: "Learn what IOTA crypto refers to, how its protocol and cryptoasset relate, and which design, ecosystem, and operational claims readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

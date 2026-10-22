@@ -3,8 +3,6 @@ title: "Blockchain digital assets: how protocols record and transfer them"
 description: "Learn how blockchain digital assets are represented and transferred, what protocols govern, and why a ledger entry alone may not establish legal ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["digital asset blockchain"]

@@ -3,8 +3,6 @@ title: "ERC 721 meaning: what the Ethereum token standard defines"
 description: "Learn the ERC 721 meaning: what the Ethereum standard specifies about distinct token identifiers, ownership functions, and the limits of what it guarantees."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["erc 721"]

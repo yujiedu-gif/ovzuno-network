@@ -3,8 +3,6 @@ title: "Red Token Crypto: What the Name Refers To and How to Verify It"
 description: "Red token crypto may refer to different projects or assets. Learn how to assess a name, ticker, contract address, and blockchain before identifying a token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

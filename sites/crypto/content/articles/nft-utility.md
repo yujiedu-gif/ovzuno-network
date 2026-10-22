@@ -3,8 +3,6 @@ title: "NFT Utility: What Functions Can a Token Provide?"
 description: "Learn what NFT utility means, how tokens can enable access or product functions, and what dependencies and limitations to assess before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

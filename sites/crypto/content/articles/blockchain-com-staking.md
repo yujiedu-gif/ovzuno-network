@@ -3,8 +3,6 @@ title: "Blockchain com staking: How platform features and protocol mechanics rel
 description: "Understand blockchain com staking by separating general proof-of-stake mechanics from platform-specific terms, eligibility, rewards, risks, and location-dependent"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

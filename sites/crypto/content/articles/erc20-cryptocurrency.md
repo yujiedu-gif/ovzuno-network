@@ -3,8 +3,6 @@ title: "ERC20 cryptocurrency: how the token standard works"
 description: "Learn what ERC20 cryptocurrency means, how the ERC-20 interface supports fungible tokens, and why compatibility depends on contracts and applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 token standard", "ERC-20 smart contract", "token contract interface"]

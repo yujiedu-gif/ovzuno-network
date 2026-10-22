@@ -3,8 +3,6 @@ title: "DLT Blockchain: How Distributed Ledger Technology Relates to Payments"
 description: "Understand how a dlt blockchain relates to distributed ledger technology, what the terms mean, and why the distinction matters in payment infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["distributed ledger technology", "distributed ledger", "blockchain network"]

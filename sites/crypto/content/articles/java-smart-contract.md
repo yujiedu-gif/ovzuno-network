@@ -3,8 +3,6 @@ title: "Java Smart Contract: Meaning and Blockchain Compatibility"
 description: "Learn what a java smart contract means, how Java code relates to blockchain execution environments, and what platform compatibility checks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

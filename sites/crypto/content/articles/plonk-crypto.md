@@ -3,8 +3,6 @@ title: "PLONK Crypto: What the Zero-Knowledge Proof System Means"
 description: "Learn what plonk crypto refers to, how PLONK proofs work at a high level, and why cryptographic verification alone does not establish security or compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["PLONK zero-knowledge proof", "zero-knowledge proof systems", "cryptographic proof"]

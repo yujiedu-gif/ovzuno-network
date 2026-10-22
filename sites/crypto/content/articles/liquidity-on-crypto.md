@@ -3,8 +3,6 @@ title: "Liquidity on crypto: How liquidity works across blockchain networks"
 description: "Learn how liquidity on crypto networks is accessed across chains, how interoperability mechanisms route or represent assets, and what constraints affect availability"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

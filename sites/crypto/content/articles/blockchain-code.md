@@ -3,8 +3,6 @@ title: "Blockchain code: a practical guide to implementing payment infrastructur
 description: "Plan blockchain code for payment infrastructure with a practical guide to requirements, transaction flow, architecture, testing, security review, and deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: ["coding a blockchain"]

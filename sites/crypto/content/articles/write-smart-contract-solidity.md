@@ -3,8 +3,6 @@ title: "How to write smart contract solidity: a safety-first workflow"
 description: "Learn how to write smart contract solidity through a safety-first workflow covering requirements, implementation, testing, review, and deployment readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

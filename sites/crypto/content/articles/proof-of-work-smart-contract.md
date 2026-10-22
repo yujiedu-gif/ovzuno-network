@@ -3,8 +3,6 @@ title: "Proof of work smart contract: consensus, execution, and verification lim
 description: "Understand how a proof of work smart contract relates to consensus, what proof-of-work data it can verify, and why capabilities depend on the chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["proof work smart contract"]

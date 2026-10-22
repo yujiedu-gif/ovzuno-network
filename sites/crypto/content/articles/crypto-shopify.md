@@ -3,8 +3,6 @@ title: "Crypto Shopify: How Cryptocurrency Payments Can Connect to Checkout"
 description: "Learn how crypto Shopify payment flows can connect a storefront to checkout, which integration patterns exist, and what merchants should verify first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

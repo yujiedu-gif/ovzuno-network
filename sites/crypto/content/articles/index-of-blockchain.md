@@ -3,8 +3,6 @@ title: "Index of Blockchain: Meaning, Data, and Lookup"
 description: "Learn what an index of blockchain means, how indexing organizes on-chain records for lookup, and why an index is not the blockchain itself."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["index blockchain"]

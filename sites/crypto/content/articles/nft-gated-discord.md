@@ -3,8 +3,6 @@ title: "NFT Gated Discord: How Token-Based Community Access Works"
 description: "Learn how NFT gated discord access connects wallet verification with Discord permissions, what the process can and cannot prove, and key operational limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

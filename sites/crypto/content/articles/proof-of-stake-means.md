@@ -3,8 +3,6 @@ title: "Proof of stake means: a concise definition"
 description: "Learn what proof of stake means: a concise definition of the blockchain consensus approach and how it differs from the broader act of staking tokens."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["proof stake means"]

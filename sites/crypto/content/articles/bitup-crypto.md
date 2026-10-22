@@ -3,8 +3,6 @@ title: "Bitup crypto: how to identify what the name refers to"
 description: "Learn how to identify what bitup crypto refers to using attributable project records, asset identifiers, and documentation—and where uncertainty remains."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

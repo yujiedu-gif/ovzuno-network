@@ -3,8 +3,6 @@ title: "Crypto contracts explained: how blockchain-based rules execute"
 description: "Crypto contracts explained: learn how blockchain-based rules execute, what triggers them, and why their behavior and legal effect have limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto contracts"]

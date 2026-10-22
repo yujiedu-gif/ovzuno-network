@@ -3,8 +3,6 @@ title: "Layer1 blockchain list: networks and comparison criteria"
 description: "Use this layer1 blockchain list to identify representative networks, understand what qualifies as Layer 1, and compare payment-relevant design features."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

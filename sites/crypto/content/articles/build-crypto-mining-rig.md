@@ -3,8 +3,6 @@ title: "How to build crypto mining rig: components, setup, and safety"
 description: "Learn how to build crypto mining rig by reviewing core components, compatibility, electrical and cooling needs, software setup, and pre-start safety checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["mining_consensus"]
 tags: []

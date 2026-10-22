@@ -3,8 +3,6 @@ title: "Layer 1 2 3 blockchain: How the architecture labels relate"
 description: "Understand what layer 1 2 3 blockchain labels commonly describe, how their roles can differ, and why definitions vary across blockchain systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

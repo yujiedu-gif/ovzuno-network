@@ -3,8 +3,6 @@ title: "Crypto Heatmap TradingView: What It Shows and What It Does Not"
 description: "Learn what the crypto heatmap tradingview displays, how to read its visual encodings, and why it should not be mistaken for an order-book liquidity map."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: []

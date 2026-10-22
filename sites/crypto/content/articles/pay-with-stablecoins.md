@@ -3,8 +3,6 @@ title: "Pay with stablecoins: How the payment and settlement flow works"
 description: "Learn how you can pay with stablecoins, from choosing a network and sending funds to confirmation, recipient settlement, and practical limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["pay with stablecoin"]

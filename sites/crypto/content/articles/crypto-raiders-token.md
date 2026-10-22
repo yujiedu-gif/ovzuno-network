@@ -3,8 +3,6 @@ title: "Crypto Raiders Token: What Can Be Verified"
 description: "Find out what can be verified about the crypto raiders token, including its documented identity, network, stated purpose, and unresolved details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

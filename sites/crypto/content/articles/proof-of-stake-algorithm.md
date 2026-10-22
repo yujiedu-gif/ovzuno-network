@@ -3,8 +3,6 @@ title: "Proof of Stake Algorithm: How Validators Reach Consensus"
 description: "Learn how a proof of stake algorithm selects validators, uses stake in block proposals, and coordinates agreement, while noting where network rules vary."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake algorithm"]

@@ -3,8 +3,6 @@ title: "How to Find Websites That Accept Crypto as Payment"
 description: "Learn how to check whether websites that accept crypto as payment support your purchase, location, and chosen checkout method before sending funds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Proof of work coins: meaning and how to identify them"
 description: "Learn what proof of work coins are, how proof-of-work consensus relates to a crypto network, and what documentation to check before classifying one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work coins"]

@@ -3,8 +3,6 @@ title: "Proxy contract solidity: How proxy patterns work"
 description: "Learn how proxy contract solidity patterns route calls to implementation logic, how upgrades affect storage, and which design risks developers should review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

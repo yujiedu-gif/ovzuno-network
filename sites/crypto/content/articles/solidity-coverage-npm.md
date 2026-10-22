@@ -3,8 +3,6 @@ title: "solidity-coverage npm: What It Measures in Solidity Tests"
 description: "Learn what solidity-coverage npm is used for in Solidity testing, what coverage reports can show, and why coverage alone does not prove contract security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solidity coverage npm"]

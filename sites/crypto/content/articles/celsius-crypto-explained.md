@@ -3,8 +3,6 @@ title: "Celsius Crypto Explained: Company, Platform, and Context"
 description: "Celsius crypto explained: learn what the company and platform were, how they related to crypto assets, and why bankruptcy context matters to readers today."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["celsius crypto"]

@@ -3,8 +3,6 @@ title: "Crypto token analyzer: what it checks and what results mean"
 description: "Learn what a crypto token analyzer may inspect, how to interpret its findings, and why automated checks cannot establish a token’s safety or legitimacy."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token analyzer crypto"]

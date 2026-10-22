@@ -3,8 +3,6 @@ title: "Crypto Hash Rates: Meaning, Units, and What They Measure"
 description: "Learn what crypto hash rates measure in proof-of-work networks, how the units work, and why hash rate alone does not explain mining results or security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: []

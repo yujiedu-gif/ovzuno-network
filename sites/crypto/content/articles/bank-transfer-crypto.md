@@ -3,8 +3,6 @@ title: "Bank transfer crypto: How bank and crypto transactions connect"
 description: "Learn how bank transfer crypto flows connect bank accounts, intermediaries, and blockchain networks, and what steps and risks to check before transferring."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["fiat-to-crypto transfer", "bank-to-exchange transfer"]

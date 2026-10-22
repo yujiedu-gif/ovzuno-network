@@ -3,8 +3,6 @@ title: "Mining Crypto Software: Functions and Network Connections"
 description: "Learn what mining crypto software does, how it connects hardware to pools or nodes, and which technical and operational factors to assess before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining software"]

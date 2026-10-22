@@ -3,8 +3,6 @@ title: "Spectra crypto: identifying its staking and validator context"
 description: "Learn how to identify what spectra crypto refers to, verify claims about staking and validators, and distinguish documented network details from assumptions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

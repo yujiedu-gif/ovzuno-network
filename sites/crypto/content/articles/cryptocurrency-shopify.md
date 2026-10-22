@@ -3,8 +3,6 @@ title: "Cryptocurrency Shopify: How Crypto Payments Fit an Ecommerce Store"
 description: "Learn how cryptocurrency Shopify payment flows may work, what platform and provider compatibility to verify, and which operational and jurisdiction-specific checks"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

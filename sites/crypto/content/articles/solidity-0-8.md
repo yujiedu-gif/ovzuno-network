@@ -3,8 +3,6 @@ title: "Solidity 0.8: Key Changes and What Developers Should Verify"
 description: "Learn what changed in Solidity 0.8, how compiler behavior may affect smart contracts, and what developers should check in versions, settings, and tests."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["solidity 0 8"]

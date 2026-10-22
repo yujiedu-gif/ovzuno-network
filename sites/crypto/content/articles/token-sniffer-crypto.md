@@ -3,8 +3,6 @@ title: "Token sniffer crypto: what token scanners check and what results mean"
 description: "Learn what token sniffer crypto checks may examine, how to interpret alerts and scores, and why a scan cannot prove a token is safe."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token contract checker", "smart contract risk indicators"]

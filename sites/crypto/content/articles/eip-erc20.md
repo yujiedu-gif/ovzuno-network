@@ -3,8 +3,6 @@ title: "EIP ERC20: How Ethereum Proposals Relate to the Token Standard"
 description: "Learn how eip erc20 terminology connects Ethereum proposals to a token interface, what the specification covers, and what contract evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

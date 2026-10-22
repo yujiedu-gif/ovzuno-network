@@ -3,8 +3,6 @@ title: "Proof of Work Consensus: How Networks Agree on Blocks"
 description: "Learn how proof of work consensus helps blockchain nodes agree on valid blocks, what work and verification mean, and which security assumptions and trade-offs matter"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work consensus"]

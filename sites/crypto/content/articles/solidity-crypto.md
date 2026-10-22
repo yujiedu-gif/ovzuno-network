@@ -3,8 +3,6 @@ title: "Solidity crypto: How the language powers smart contracts and dApps"
 description: "Learn how Solidity crypto development connects source code to deployed smart contracts and dApps, what the language enables, and where key risks arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity smart contracts", "Solidity programming language", "smart contract development"]

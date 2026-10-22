@@ -3,8 +3,6 @@ title: "Crypto token contract address: meaning and key distinctions"
 description: "Learn what a crypto token contract address identifies, how it differs from a wallet address or ticker symbol, and why network context matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

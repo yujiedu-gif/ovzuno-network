@@ -3,8 +3,6 @@ title: "Block Card Crypto: What the Term Means and How Transaction Blocking Work
 description: "Understand block card crypto: distinguish controls that block crypto transactions or spending from crypto cards designed to authorize payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

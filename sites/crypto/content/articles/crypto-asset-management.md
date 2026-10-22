@@ -3,8 +3,6 @@ title: "Crypto Asset Management: Roles, Controls, and Custody"
 description: "Learn what crypto asset management covers in wallets and custody, how responsibilities differ, and which controls organizations should assess before defining a model"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["digital asset custody", "crypto portfolio administration", "custodial and non-custodial management"]

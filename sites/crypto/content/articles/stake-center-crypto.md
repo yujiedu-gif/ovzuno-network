@@ -3,8 +3,6 @@ title: "Stake Center Crypto: Meaning, Context, and What to Verify"
 description: "Learn what stake center crypto may refer to, how to distinguish a service name from staking concepts, and what to verify before relying on claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

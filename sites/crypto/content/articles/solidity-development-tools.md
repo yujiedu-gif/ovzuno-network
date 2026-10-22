@@ -3,8 +3,6 @@ title: "Solidity development tools: build a practical smart-contract workflow"
 description: "Learn how Solidity development tools fit into a smart-contract workflow, from editing and compiling to testing, reviewing, and preparing for deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "How to mine cryptocurrency on pc: hardware, process, and constraints"
 description: "Learn how to mine cryptocurrency on pc in proof-of-work networks, what roles hardware and software play, and which technical and operational limits to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["PC crypto mining", "GPU mining", "CPU mining", "proof-of-work mining", "mining software"]

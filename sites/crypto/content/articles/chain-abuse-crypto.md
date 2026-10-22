@@ -3,8 +3,6 @@ title: "Chain Abuse Crypto: Meaning in Cross-Chain Interoperability"
 description: "Understand chain abuse crypto: a clear definition of abusive blockchain activity, how it can involve cross-chain systems, and what the term does not mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["cross_chain_interoperability"]
 tags: []

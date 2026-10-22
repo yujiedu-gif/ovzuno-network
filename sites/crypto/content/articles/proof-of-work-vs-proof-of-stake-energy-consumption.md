@@ -3,8 +3,6 @@ title: "Proof of work vs proof of stake energy consumption: how to compare estim
 description: "Compare proof of work vs proof of stake energy consumption by examining electricity-use mechanisms, estimate boundaries, and the limits of network comparisons."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["staking_validators"]
 tags: ["proof work proof stake energy consumption"]

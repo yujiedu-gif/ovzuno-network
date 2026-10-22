@@ -3,8 +3,6 @@ title: "Crypto Web Miner: How Browser-Based Mining Works"
 description: "Learn what a crypto web miner is, how browser-based proof-of-work computation runs, and the technical, consent, and security limits readers should understand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

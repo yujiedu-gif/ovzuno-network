@@ -3,8 +3,6 @@ title: "Is paying with crypto safe? Risks and checks before you send"
 description: "Is paying with crypto safe? Learn how transaction errors, scams, custody, privacy, and jurisdiction-dependent tax or regulatory rules affect payment risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["paying with crypto safe"]

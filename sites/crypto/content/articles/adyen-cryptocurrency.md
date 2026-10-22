@@ -3,8 +3,6 @@ title: "Adyen cryptocurrency: what businesses should verify"
 description: "Learn how to verify Adyen cryptocurrency support, distinguish direct crypto acceptance from adjacent payment flows, and check current market-specific documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

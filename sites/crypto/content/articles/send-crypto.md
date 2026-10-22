@@ -3,8 +3,6 @@ title: "Send crypto: meaning, transfer steps, and key checks"
 description: "Learn what it means to send crypto, how an outbound transfer generally works, and which address, network, security, and compliance checks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

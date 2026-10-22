@@ -3,8 +3,6 @@ title: "How to Assess a “no 1 crypto exchange” Claim"
 description: "Learn what “no 1 crypto exchange” might mean, which metrics can support a ranking claim, and why exchange comparisons need clear scope and evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

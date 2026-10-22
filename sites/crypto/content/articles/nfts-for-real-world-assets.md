@@ -3,8 +3,6 @@ title: "NFTs for real world assets: records, rights, and limits"
 description: "Learn how NFTs for real world assets can link on-chain records to off-chain assets, and why legal rights depend on documentation and governance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: ["nfts real world assets"]

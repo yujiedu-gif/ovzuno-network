@@ -3,8 +3,6 @@ title: "Cronos DeFi Staking: Mechanisms, Distinctions, and Risks"
 description: "Learn how cronos defi staking can refer to network-level staking or DeFi applications, how these mechanisms differ, and which protocol risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto platinum card: what the tier means and what to verify"
 description: "Learn what a crypto platinum card label may indicate, how tier claims differ from payment mechanics, and which issuer terms and local rules to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

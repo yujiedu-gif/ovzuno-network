@@ -3,8 +3,6 @@ title: "On chain data analysis for cross-chain interoperability"
 description: "Learn how on chain data analysis can help relate activity across blockchain networks, what cross-chain comparisons reveal, and where interpretation has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["cross-chain data analysis", "blockchain data interoperability"]

@@ -3,8 +3,6 @@ title: "Abra crypto card: product concept and details to verify"
 description: "Learn what the Abra crypto card refers to, how crypto may relate to card payments, and which availability, eligibility, fees, and terms need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["Abra card availability", "Abra crypto card fees"]

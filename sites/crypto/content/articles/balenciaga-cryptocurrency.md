@@ -3,8 +3,6 @@ title: "Balenciaga cryptocurrency: how to verify payment claims"
 description: "Learn how to assess claims about Balenciaga cryptocurrency payments, what primary evidence to seek, and which availability and checkout details need confirmation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

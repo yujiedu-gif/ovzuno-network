@@ -3,8 +3,6 @@ title: "The DAO Ethereum: What the 2016 Project Was"
 description: "Learn what the DAO Ethereum project was, how its 2016 exploit affected the network, and why the community’s response remains part of Ethereum’s history."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["dao ethereum"]

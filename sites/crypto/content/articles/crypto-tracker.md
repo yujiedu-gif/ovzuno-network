@@ -3,8 +3,6 @@ title: "Crypto tracker: capabilities, data, and operational checks"
 description: "Learn what a crypto tracker can monitor, how tracking data is used, and which security, integration, and compliance questions organizations should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["crypto portfolio tracking", "blockchain transaction monitoring", "digital asset tracking"]

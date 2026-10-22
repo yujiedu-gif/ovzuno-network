@@ -3,8 +3,6 @@ title: "Blockchain Channels: How Off-Chain Activity Is Settled"
 description: "Learn how blockchain channels move repeated interactions off-chain, use agreed updates, and rely on blockchain settlement, with key design trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["payment channels", "off-chain transactions", "state channels"]

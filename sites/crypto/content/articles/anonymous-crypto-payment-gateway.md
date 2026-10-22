@@ -3,8 +3,6 @@ title: "Anonymous crypto payment gateway: privacy claims and limits"
 description: "Learn what an anonymous crypto payment gateway may mean in practice, which payment details can remain visible or collected, and what businesses should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

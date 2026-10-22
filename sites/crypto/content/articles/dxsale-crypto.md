@@ -3,8 +3,6 @@ title: "DxSale Crypto: What a Token Launch Platform Does"
 description: "Learn what dxsale crypto refers to, how token launch platforms fit into crypto projects, and what users should verify before interacting with them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

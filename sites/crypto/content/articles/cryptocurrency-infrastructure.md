@@ -3,8 +3,6 @@ title: "Cryptocurrency Infrastructure: A Guide to Its Core Layers"
 description: "Explore cryptocurrency infrastructure by mapping its core layers, how they interact, and the distinct roles of protocols, network access, custody, and applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

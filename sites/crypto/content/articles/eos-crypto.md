@@ -3,8 +3,6 @@ title: "EOS crypto: what the asset and network mean"
 description: "Learn what EOS crypto refers to, how the EOS asset relates to its network, and which protocol details readers should verify from current evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto eo"]

@@ -3,8 +3,6 @@ title: "Crypto cashback: how card rewards are calculated and delivered"
 description: "Learn how crypto cashback may be earned and credited, which reward assets and eligibility rules matter, and what terms to verify before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card rewards", "cashback payout asset", "reward eligibility"]

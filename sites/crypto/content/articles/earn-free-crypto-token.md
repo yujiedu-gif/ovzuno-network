@@ -3,8 +3,6 @@ title: "Earn Free Crypto Token: How Rewards Work and What to Check"
 description: "Learn what it can mean to earn free crypto token, how reward programs may work, and what conditions, costs, and risks to check before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["earn free crypto tokens"]

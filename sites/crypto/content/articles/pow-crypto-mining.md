@@ -3,8 +3,6 @@ title: "Pow crypto mining: how proof-of-work supports blockchain consensus"
 description: "Learn how pow crypto mining uses computational work to propose blocks, support network consensus, and connect block validation with transaction ordering."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

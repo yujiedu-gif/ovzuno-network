@@ -3,8 +3,6 @@ title: "Java Solidity: What the Phrase Means for Smart Contracts"
 description: "Understand what “java solidity” refers to, whether it is one programming language, and how Java applications can interact with Solidity smart contracts."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solid java"]

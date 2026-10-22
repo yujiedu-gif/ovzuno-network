@@ -3,8 +3,6 @@ title: "javascript solidity: How the Languages Work Together in dApps"
 description: "Learn how javascript solidity fits into dApp development, including the distinct roles of browser-side JavaScript, deployed contracts, reads, and transactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["JavaScript Ethereum libraries", "Solidity smart contracts", "JavaScript dApp development"]

@@ -3,8 +3,6 @@ title: "Staking crypto co to: how staking and validators fit together"
 description: "Staking crypto co to explained: learn how staking relates to validators and proof-of-stake networks, plus the key risks and variables to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking crypto co"]

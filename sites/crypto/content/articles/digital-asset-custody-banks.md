@@ -3,8 +3,6 @@ title: "Digital asset custody banks: institutional control questions"
 description: "Learn how digital asset custody banks may structure custody and which control, legal, security, and operational questions institutions should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: []

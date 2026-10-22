@@ -3,8 +3,6 @@ title: "Grove token crypto: how to identify the asset and verify its claims"
 description: "Learn how to identify what grove token crypto refers to, check its network and documented function, and separate verifiable details from unsupported claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

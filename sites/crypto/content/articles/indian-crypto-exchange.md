@@ -3,8 +3,6 @@ title: "Indian crypto exchange: infrastructure, operations, and evaluation"
 description: "Explore how an Indian crypto exchange fits into market infrastructure, which operational functions to assess, and where current jurisdiction-specific verification is"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto indian exchanges"]

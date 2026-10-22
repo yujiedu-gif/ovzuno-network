@@ -3,8 +3,6 @@ title: "Crypto enforcement: meaning, authorities, and actions"
 description: "Learn what crypto enforcement means, how it differs from rulemaking and compliance, and why authorities, powers, and procedures depend on jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: []

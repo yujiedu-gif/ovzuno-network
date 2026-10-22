@@ -3,8 +3,6 @@ title: "Crypto blockchain explained: how transactions are recorded"
 description: "Crypto blockchain explained: learn how a shared ledger records and verifies transactions, how it relates to cryptocurrency, and what it does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto blockchain"]

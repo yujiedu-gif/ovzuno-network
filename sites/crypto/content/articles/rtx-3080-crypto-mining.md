@@ -3,8 +3,6 @@ title: "RTX 3080 Crypto Mining: How GPU Mining Fits Proof of Work"
 description: "Learn how RTX 3080 crypto mining relates to proof-of-work algorithms, GPU capability, memory and power constraints, and network compatibility."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

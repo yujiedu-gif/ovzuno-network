@@ -3,8 +3,6 @@ title: "Paid crypto: how cryptocurrency payments work"
 description: "Learn what paid crypto means and follow a cryptocurrency payment from payer instruction to network recording and recipient-side availability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment flows", "crypto payment settlement"]

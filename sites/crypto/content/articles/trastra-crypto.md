@@ -3,8 +3,6 @@ title: "Trastra crypto: service model, payment flow, and terms to verify"
 description: "Learn how Trastra crypto is presented, what to verify about eligibility, payment conversion, fees, custody, security, and current terms before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card provider", "crypto card spending", "card-to-crypto conversion"]

@@ -3,8 +3,6 @@ title: "New crypto mining: how newer mining-based consensus designs work"
 description: "Learn what new crypto mining can mean, how mining-based consensus designs differ, and what to examine when comparing their network roles and trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mining consensus", "proof-of-work mining", "mining consensus mechanisms"]

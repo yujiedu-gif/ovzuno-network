@@ -3,8 +3,6 @@ title: "ERC721 contract example: structure, assumptions, and review checks"
 description: "Review an ERC721 contract example, its core components, assumptions, and checks to make before adapting or deploying a smart contract."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

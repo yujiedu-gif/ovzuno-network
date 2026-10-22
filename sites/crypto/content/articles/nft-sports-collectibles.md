@@ -3,8 +3,6 @@ title: "NFT sports collectibles: tokens, media, and ownership explained"
 description: "Learn how NFT sports collectibles connect a blockchain token to sports media, what ownership may mean, and which rights and details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["sports NFTs", "digital sports collectibles", "NFT ownership records"]

@@ -3,8 +3,6 @@ title: "Blockchain Explained for Beginners: How the Ledger Works"
 description: "Blockchain explained for beginners: learn how transactions, blocks, network validation, and consensus fit together to create a shared digital ledger."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain beginners"]

@@ -3,8 +3,6 @@ title: "How to Check Bitcoin Transaction Status and Confirmations"
 description: "Learn how to check bitcoin transaction status by transaction ID, find its record, interpret confirmations, and understand what a blockchain lookup cannot verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

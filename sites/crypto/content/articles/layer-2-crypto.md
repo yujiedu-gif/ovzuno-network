@@ -3,8 +3,6 @@ title: "Layer 2 crypto: how it relates to base-layer blockchains"
 description: "Learn what layer 2 crypto means, how these systems relate to base-layer settlement, and which architecture and operational trade-offs matter for payment use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

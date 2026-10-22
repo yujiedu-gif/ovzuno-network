@@ -3,8 +3,6 @@ title: "Centralized cryptocurrency: where control sits in crypto infrastructure"
 description: "Understand centralized cryptocurrency by examining who may control custody, transaction processing, access, and governance, and how these roles differ from decentral"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

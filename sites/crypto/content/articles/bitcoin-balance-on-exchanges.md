@@ -3,8 +3,6 @@ title: "Bitcoin Balance on Exchanges: Meaning, Measurement, and Limits"
 description: "Learn what bitcoin balance on exchanges means, how reported figures are estimated, and why attribution limits make them an incomplete measure of exchange-held assets"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

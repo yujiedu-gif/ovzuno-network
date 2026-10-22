@@ -3,8 +3,6 @@ title: "New proof of work coins: how to verify a network’s claims"
 description: "Learn what qualifies as new proof of work coins, how to verify consensus and launch status, and which claims need primary technical evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["new proof work coins"]

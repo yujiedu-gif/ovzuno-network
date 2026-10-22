@@ -3,8 +3,6 @@ title: "Putin crypto mining: statements, policy, and what they establish"
 description: "Putin crypto mining: examine attributable statements and policy actions, distinguish them from binding rules, and identify what current legal claims require evidence"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

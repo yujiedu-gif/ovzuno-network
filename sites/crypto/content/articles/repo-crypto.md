@@ -3,8 +3,6 @@ title: "Repo Crypto: Meaning, Structure, and Institutional Risks"
 description: "Learn what repo crypto means, how crypto repurchase agreements may be structured, and which collateral, custody, legal, and operational risks institutions should ask"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["crypto repo"]

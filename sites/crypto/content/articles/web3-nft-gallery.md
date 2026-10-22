@@ -3,8 +3,6 @@ title: "Web3 NFT Gallery: Meaning, Components, and How It Works"
 description: "A web3 nft gallery is an interface for viewing and organizing NFTs; learn how it relates to wallets, blockchain records, token contracts, and media storage."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

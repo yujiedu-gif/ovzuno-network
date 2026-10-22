@@ -3,8 +3,6 @@ title: "Poloniex crypto: an evidence-led guide to its exchange role"
 description: "Explore Poloniex crypto as an exchange: learn how to assess its documented platform role and functions, and which details need current, jurisdiction-specific checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

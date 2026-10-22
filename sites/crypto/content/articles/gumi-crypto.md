@@ -3,8 +3,6 @@ title: "gumi crypto: What the evidence shows about staking and validators"
 description: "Review what reliable, attributable sources establish about gumi crypto and staking or validator infrastructure, and separate confirmed details from open questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["gumi cryptos"]

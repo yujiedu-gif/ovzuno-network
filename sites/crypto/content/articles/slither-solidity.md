@@ -3,8 +3,6 @@ title: "Slither Solidity: How Static Analysis Helps Review Smart Contracts"
 description: "Learn what Slither Solidity analyzes, how developers can interpret its findings, and why static analysis is only one part of smart-contract review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

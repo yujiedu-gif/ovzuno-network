@@ -3,8 +3,6 @@ title: "Crypto: Meaning, Assets, and Protocols"
 description: "Learn what crypto means in digital-asset and protocol contexts, how assets relate to network rules and infrastructure, and where the term’s limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto assets", "cryptographic networks", "distributed ledger technology"]

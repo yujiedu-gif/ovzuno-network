@@ -3,8 +3,6 @@ title: "Tectonic Crypto Staking: What the Term Means and What to Verify"
 description: "Learn what tectonic crypto staking may refer to, how to distinguish validator staking from other protocol activities, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

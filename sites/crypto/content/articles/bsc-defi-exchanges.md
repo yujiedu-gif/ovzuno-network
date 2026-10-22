@@ -3,8 +3,6 @@ title: "BSC DeFi Exchanges: How They Work on BNB Smart Chain"
 description: "Learn how bsc defi exchanges route swaps on BNB Smart Chain, what protocol components do, and which network and contract risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

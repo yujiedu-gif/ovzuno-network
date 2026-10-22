@@ -3,8 +3,6 @@ title: "Why Bitcoin Is Falling: Factors That Can Drive Price Declines"
 description: "Why bitcoin is falling can have several possible explanations. Learn how broad market conditions, crypto-specific events, and trading mechanics may matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["why is bitcoin falling", "why bitcoin falling"]

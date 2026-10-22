@@ -3,8 +3,6 @@ title: "Hotspot Crypto Miner: How It Supports Wireless Networks"
 description: "Learn what a hotspot crypto miner does, how it can support wireless network coverage, and why reward mechanisms differ from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

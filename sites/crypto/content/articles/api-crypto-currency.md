@@ -3,8 +3,6 @@ title: "How to Integrate an api crypto currency Service Safely"
 description: "Learn how to assess and integrate an api crypto currency service for payment-related software, including API capabilities, secure requests, testing, and monitoring."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["cryptocurrency API", "blockchain API", "API authentication", "webhook security"]

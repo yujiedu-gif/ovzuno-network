@@ -3,8 +3,6 @@ title: "Crypto money: meaning, spending, and payment layers"
 description: "Learn what crypto money means in a spending context, how the asset differs from a payment instrument, and why payment processing can involve separate services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

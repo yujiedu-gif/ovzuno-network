@@ -3,8 +3,6 @@ title: "Ethereum staking rates: meaning, measurement, and variation"
 description: "Learn what ethereum staking rates describe, how reported figures are measured, and why protocol rewards and service-specific estimates can differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

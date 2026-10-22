@@ -3,8 +3,6 @@ title: "Raspberry Pi crypto miner: capabilities and practical limits"
 description: "Learn what a raspberry pi crypto miner can do in proof-of-work networks, how its roles differ, and which hardware and network limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

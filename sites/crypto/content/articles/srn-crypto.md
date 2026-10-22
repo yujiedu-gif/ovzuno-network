@@ -3,8 +3,6 @@ title: "SRN Crypto: What the Name Refers To and How to Verify It"
 description: "Learn what SRN crypto may refer to, how to verify a project’s identity and stated purpose, and why a ticker-like name alone is not enough."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

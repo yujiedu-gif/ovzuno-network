@@ -3,8 +3,6 @@ title: "Cryptocurrency and NFTs Explained: Key Differences and Connections"
 description: "Cryptocurrency and NFTs explained: learn what each represents, how fungibility distinguishes them, and how they can relate within crypto systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["cryptocurrency nfts"]

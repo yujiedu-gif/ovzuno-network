@@ -3,8 +3,6 @@ title: "abra app crypto: Payment Functions and What to Verify"
 description: "Learn how to assess abra app crypto payment functions, distinguish app features from merchant infrastructure, and verify current availability, fees, and rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["abra crypto app"]

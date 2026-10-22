@@ -3,8 +3,6 @@ title: "Crypto Explained Simply: Assets, Protocols, and Networks"
 description: "Crypto explained simply: learn what crypto assets and protocols are, how networks record activity, and what key distinctions and risks beginners should know."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto simply"]

@@ -3,8 +3,6 @@ title: "GPay Cryptocurrency: What Google Pay Does and Does Not Support"
 description: "Learn what gpay cryptocurrency can mean, how Google Pay may relate to crypto purchases, and what to verify about providers, availability, fees, and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "How cryptocurrencies smart contracts and artificial intelligence interac
 description: "Learn how cryptocurrencies smart contracts and artificial intelligence can interact in crypto dApps, where their roles differ, and what risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["cryptocurrencies smart contracts artificial intelligence"]

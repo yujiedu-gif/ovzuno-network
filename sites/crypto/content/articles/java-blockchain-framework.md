@@ -3,8 +3,6 @@ title: "Java Blockchain Framework: Meaning, Capabilities, and Boundaries"
 description: "Learn what a java blockchain framework is, how it can support blockchain application development, and which technical capabilities and limits to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain java framework"]

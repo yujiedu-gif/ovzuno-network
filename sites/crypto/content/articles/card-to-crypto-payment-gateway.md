@@ -3,8 +3,6 @@ title: "Card to crypto payment gateway: how the purchase flow works"
 description: "See how a card to crypto payment gateway can route a card-funded crypto purchase, which providers handle each step, and what details businesses should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["card crypto payment gateway"]

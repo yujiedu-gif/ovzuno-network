@@ -3,8 +3,6 @@ title: "Solidity Contract Inheritance: Base Contracts, Overrides, and Order"
 description: "Learn how solidity contract inheritance passes declarations from base to derived contracts, handles constructors and overrides, and resolves multiple inheritance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity inheritance", "base contract", "derived contract", "multiple inheritance", "method resolution order"]

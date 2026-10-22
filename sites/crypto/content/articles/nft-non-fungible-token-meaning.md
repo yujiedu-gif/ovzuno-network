@@ -3,8 +3,6 @@ title: "NFT non fungible token meaning: what an NFT is"
 description: "Learn the NFT non fungible token meaning, how non-fungibility distinguishes an NFT from fungible tokens, and what the token does not necessarily confer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["nft non fungible token"]

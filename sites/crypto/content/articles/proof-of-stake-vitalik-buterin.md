@@ -3,8 +3,6 @@ title: "Proof of stake vitalik buterin: Views and protocol mechanics"
 description: "Explore proof of stake vitalik buterin through an evidence-led distinction between attributable commentary, proposals, and implemented validator protocol rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake vitalik buterin"]

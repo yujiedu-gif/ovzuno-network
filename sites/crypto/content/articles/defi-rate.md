@@ -3,8 +3,6 @@ title: "DeFi rate: what a protocol rate measures"
 description: "Learn what a DeFi rate may represent, how its time basis and calculation affect interpretation, and why a displayed figure is not a guaranteed outcome."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["f i d e ratings"]

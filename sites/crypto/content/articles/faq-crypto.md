@@ -3,8 +3,6 @@ title: "FAQ Crypto: A Guide to Regulation and Tax-Reporting Questions"
 description: "FAQ crypto explains common regulation and tax-reporting questions, what general answers can clarify, and what readers must verify for their jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto faqs"]

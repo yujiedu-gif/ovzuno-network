@@ -3,8 +3,6 @@ title: "How to Create ERC 1155 Contracts: Design, Build, and Test"
 description: "Learn how to create erc 1155 contracts by defining token requirements, implementing core behavior, and testing key cases before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

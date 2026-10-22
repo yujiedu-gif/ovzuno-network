@@ -3,8 +3,6 @@ title: "Corechain crypto: role, payment flow, and what to verify"
 description: "Learn how corechain crypto may relate to payment workflows, what evidence to check about its role and capabilities, and which operational risks remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

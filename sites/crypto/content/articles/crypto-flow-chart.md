@@ -3,8 +3,6 @@ title: "Crypto flow chart: Map Transactions for Reporting Analysis"
 description: "Learn how a crypto flow chart can map participants, asset movements, and records for regulatory and tax-reporting analysis, with jurisdiction-specific limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["flow crypto chart"]

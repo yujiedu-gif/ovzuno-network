@@ -3,8 +3,6 @@ title: "Crypto liquidity locked meaning: what the status may indicate"
 description: "Understand crypto liquidity locked meaning, why the label depends on platform context, and what to check about restrictions, control, duration, and release terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["exchange_market_infrastructure"]
 tags: ["crypto liquidity locked"]

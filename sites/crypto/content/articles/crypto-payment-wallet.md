@@ -3,8 +3,6 @@ title: "Crypto Payment Wallet: Role, Custody, and Transaction Flow"
 description: "Understand what a crypto payment wallet does, how custody and transaction signing fit into a payment flow, and which operational questions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

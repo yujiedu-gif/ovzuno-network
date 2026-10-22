@@ -3,8 +3,6 @@ title: "Crypto life card: Meaning, context, and how to verify the term"
 description: "Understand what crypto life card may refer to, how to verify whether it names a product or concept, and what evidence is needed before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

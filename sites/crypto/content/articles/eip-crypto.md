@@ -3,8 +3,6 @@ title: "EIP Crypto: What an Ethereum Improvement Proposal Means"
 description: "Learn what eip crypto refers to, what an Ethereum Improvement Proposal documents, and why a proposal is distinct from an adopted or activated protocol change."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

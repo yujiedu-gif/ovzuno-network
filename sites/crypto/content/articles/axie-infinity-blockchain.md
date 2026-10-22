@@ -3,8 +3,6 @@ title: "Axie Infinity Blockchain: How Ronin Fits the Ecosystem"
 description: "Learn how the axie infinity blockchain relates to Ronin, what role the network plays in the game ecosystem, and which technical details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Ronin network", "Axie Infinity transactions", "proof of authority"]

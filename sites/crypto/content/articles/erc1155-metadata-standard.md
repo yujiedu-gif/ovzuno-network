@@ -3,8 +3,6 @@ title: "erc1155 metadata standard: How token metadata is linked to IDs"
 description: "Learn how the erc1155 metadata standard links token IDs to metadata through a URI pattern, what the returned JSON represents, and which implementation details matter"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-1155 metadata URI", "ERC-1155 token metadata", "ERC-1155 JSON schema", "ERC-1155 URI substitution"]

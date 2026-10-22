@@ -3,8 +3,6 @@ title: "Crypto Idle Miner: What the Claim Means and How to Verify It"
 description: "Learn what a crypto idle miner claim may describe, how it differs from proof-of-work mining, and what evidence to check before trusting it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

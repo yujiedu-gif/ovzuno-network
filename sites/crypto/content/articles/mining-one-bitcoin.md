@@ -3,8 +3,6 @@ title: "Mining One Bitcoin: What the Phrase Means"
 description: "Learn what mining one bitcoin means in Bitcoin’s proof-of-work system, how block rewards work, and why an individual miner is not guaranteed one BTC."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["mining 1 bitcoin"]

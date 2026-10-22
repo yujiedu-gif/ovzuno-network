@@ -3,8 +3,6 @@ title: "Stake Mining Crypto: What the Term Means in Proof of Stake"
 description: "Learn what stake mining crypto usually means, how staked assets relate to validator duties, and why it differs from proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof-of-stake validation", "crypto staking rewards", "validator slashing"]

@@ -3,8 +3,6 @@ title: "Mawson crypto: understanding its connection to mining infrastructure"
 description: "Learn what Mawson crypto refers to, how it relates to mining infrastructure, and which company, operating, and regulatory details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "What the erc 721 standard specifies for NFTs"
 description: "Learn what the erc 721 standard defines for non-fungible tokens, including ownership, transfers, token identifiers, optional metadata, and its limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

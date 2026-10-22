@@ -3,8 +3,6 @@ title: "L1 tokens crypto: native assets and Layer 1 protocol roles"
 description: "Learn how l1 tokens crypto relate to Layer 1 protocols, how native assets differ from tokens issued on a network, and why roles vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["1 tokens crypto"]

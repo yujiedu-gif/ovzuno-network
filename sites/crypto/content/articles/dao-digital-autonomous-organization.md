@@ -3,8 +3,6 @@ title: "DAO digital autonomous organization: How governance decisions reach exec
 description: "Follow DAO digital autonomous organization governance from proposal to execution, with a practical map of decision points, controls, and failure risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

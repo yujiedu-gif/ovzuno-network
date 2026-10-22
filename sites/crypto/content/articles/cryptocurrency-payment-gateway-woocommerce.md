@@ -3,8 +3,6 @@ title: "Cryptocurrency Payment Gateway WooCommerce: How the Checkout Flow Works"
 description: "Understand how a cryptocurrency payment gateway woocommerce integration connects checkout, payment status, blockchain confirmation, and WooCommerce orders."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

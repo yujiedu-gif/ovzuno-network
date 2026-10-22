@@ -3,8 +3,6 @@ title: "Smart contract javascript: where JavaScript fits in dApps"
 description: "Learn how smart contract javascript connects decentralized applications to on-chain code, and distinguish browser or server logic from contract execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["JavaScript smart contract interaction", "web3 JavaScript", "Ethereum JSON-RPC"]

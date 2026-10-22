@@ -3,8 +3,6 @@ title: "Dash cryptocurrency payments: how the network works for businesses"
 description: "Learn how Dash cryptocurrency payments move through the network and what businesses should verify about settlement, custody, integration, and compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

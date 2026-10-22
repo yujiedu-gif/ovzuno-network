@@ -3,8 +3,6 @@ title: "XEN Crypto Jack Levin: Project Overview and Documented Connection"
 description: "Explore xen crypto jack levin: what XEN Crypto says it is, how its documented mechanics work, and what reliable evidence establishes about Levin’s role."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

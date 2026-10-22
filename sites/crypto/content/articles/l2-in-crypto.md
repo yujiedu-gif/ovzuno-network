@@ -3,8 +3,6 @@ title: "L2 in crypto: How Layer 2 networks work with Layer 1"
 description: "Learn what l2 in crypto means, how Layer 2 networks relate to Layer 1, and which processing, settlement, and trust assumptions users should understand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["2 in crypto"]

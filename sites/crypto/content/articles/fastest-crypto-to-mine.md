@@ -3,8 +3,6 @@ title: "Fastest crypto to mine: what “fastest” actually measures"
 description: "Learn what “fastest crypto to mine” can mean, how block intervals differ from an individual miner’s odds, and what evidence a fair comparison needs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["fastest crypto mine"]

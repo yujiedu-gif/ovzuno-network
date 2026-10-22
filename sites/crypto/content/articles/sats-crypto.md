@@ -3,8 +3,6 @@ title: "Sats Crypto: Meaning, Bitcoin Unit, and Payment Context"
 description: "Learn what sats crypto means, how satoshis relate to Bitcoin, and how to read sat-denominated amounts in payment contexts without confusing units."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

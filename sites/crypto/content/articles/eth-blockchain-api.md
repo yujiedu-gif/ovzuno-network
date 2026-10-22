@@ -3,8 +3,6 @@ title: "Eth blockchain api: A practical Ethereum integration guide"
 description: "Learn how to integrate an eth blockchain api for Ethereum onchain data, from defining requirements and making requests to handling responses and failures."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["onchain_data_analytics"]
 tags: ["ethereum blockchain api"]

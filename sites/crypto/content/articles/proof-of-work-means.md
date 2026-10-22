@@ -3,8 +3,6 @@ title: "Proof of work means: a concise guide to the consensus mechanism"
 description: "Proof of work means a blockchain consensus method in which participants demonstrate verifiable computational effort to propose blocks for network validation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["proof work means"]

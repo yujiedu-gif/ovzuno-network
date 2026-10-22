@@ -3,8 +3,6 @@ title: "Crypto Locked Liquidity: How It Works Across Chains"
 description: "Learn how crypto locked liquidity supports cross-chain asset movement, how locked assets relate to destination-chain representations, and what limitations matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

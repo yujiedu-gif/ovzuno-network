@@ -3,8 +3,6 @@ title: "Axie Infinity blockchain game: how gameplay and blockchain relate"
 description: "Learn what the Axie Infinity blockchain game is, how gameplay relates to blockchain-associated digital assets, and what to verify before relying on current details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

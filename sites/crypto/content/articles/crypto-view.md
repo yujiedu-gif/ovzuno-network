@@ -3,8 +3,6 @@ title: "Crypto view of card spending: from crypto holdings to payment settlement
 description: "A crypto view of card spending, tracing how crypto holdings can fund a card purchase through conversion, authorization, payment rails, and settlement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

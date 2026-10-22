@@ -3,8 +3,6 @@ title: "Token Coin Cryptocurrency: How the Terms Relate"
 description: "Learn how token coin cryptocurrency terms relate, distinguish native coins from tokens on existing networks, and use labels without overreading them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto token", "native coin", "blockchain asset"]

@@ -3,8 +3,6 @@ title: "Dapps crypto: How decentralized applications work"
 description: "Learn what dapps crypto means, how smart contracts and blockchain networks support decentralized applications, and what decentralization does—and does not—mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["dapp crypto"]

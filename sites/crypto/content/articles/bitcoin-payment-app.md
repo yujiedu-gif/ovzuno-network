@@ -3,8 +3,6 @@ title: "Bitcoin Payment App: How It Works and What to Check"
 description: "Learn what a bitcoin payment app does, how a payment moves from setup to confirmation, and which custody, fee, recovery, and compliance details to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

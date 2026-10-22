@@ -3,8 +3,6 @@ title: "Pay to learn crypto: what the phrase can mean"
 description: "Learn what “pay to learn crypto” may mean, distinguish crypto education fees from paying with cryptocurrency, and identify details to verify before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["pay learn crypto"]

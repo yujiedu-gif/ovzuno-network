@@ -3,8 +3,6 @@ title: "Crypto Market Making Firms: Services, Engagement Models, and Diligence"
 description: "Learn what crypto market making firms may provide, how engagements can be structured, and which operational, contractual, and risk questions to evaluate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Android crypto miner: what it does and what to check"
 description: "Learn what an android crypto miner does in proof-of-work networks, how mobile mining differs from pool participation, and what technical and security checks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Android cryptocurrency mining", "mobile proof-of-work mining"]

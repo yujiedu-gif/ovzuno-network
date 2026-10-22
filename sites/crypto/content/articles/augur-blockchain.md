@@ -3,8 +3,6 @@ title: "Augur blockchain: how Augur’s prediction-market system works"
 description: "Learn what “Augur blockchain” refers to, how the prediction-market protocol relates to Ethereum, and the roles of smart contracts and outcome reporting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Augur protocol", "prediction market", "Ethereum smart contracts", "REP token"]

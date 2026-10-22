@@ -3,8 +3,6 @@ title: "Proof of Work Currencies: How to Identify the Consensus Model"
 description: "Learn what makes proof of work currencies distinct, how to verify a network’s consensus rules, and why the label does not settle mining or governance questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work currencies"]

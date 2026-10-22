@@ -3,8 +3,6 @@ title: "Crypto Factory: How Industrial-Scale Mining Facilities Work"
 description: "Learn what a crypto factory means in proof-of-work mining, how an industrial-scale facility operates, and how mining relates to network consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin wallet address example: recognize common formats"
 description: "See a bitcoin wallet address example, learn how common Bitcoin address formats differ, and understand why illustrative strings should never be used to send funds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto App Explained: Meaning, Functions, and Network Connections"
 description: "Crypto app explained: learn what the term means, what functions these applications provide, and how they connect users with crypto networks and services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto app"]

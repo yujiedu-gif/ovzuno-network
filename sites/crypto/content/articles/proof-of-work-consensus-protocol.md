@@ -3,8 +3,6 @@ title: "Proof of Work Consensus Protocol: How Blockchain Networks Agree"
 description: "Learn how a proof of work consensus protocol coordinates block proposals, miner competition, node validation, and competing histories in a blockchain network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work consensus protocol"]

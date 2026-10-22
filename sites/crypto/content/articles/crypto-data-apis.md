@@ -3,8 +3,6 @@ title: "Crypto Data APIs: How They Expose On-Chain Data"
 description: "Learn what crypto data APIs expose, how access patterns differ, and which coverage, freshness, reliability, and integration requirements to assess before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: ["crypto data api"]

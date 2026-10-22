@@ -3,8 +3,6 @@ title: "Hype blockchain: assessing claims about payment infrastructure"
 description: "Explore hype blockchain claims about payment infrastructure, including what distributed ledgers can do, what they cannot establish, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain hype"]

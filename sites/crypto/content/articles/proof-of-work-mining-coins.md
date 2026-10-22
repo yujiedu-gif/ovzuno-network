@@ -3,8 +3,6 @@ title: "Proof of Work Mining Coins: Network Roles and Key Differences"
 description: "Understand proof of work mining coins, how miners help validate transactions, and why each network’s consensus rules and rewards differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work mining coins"]

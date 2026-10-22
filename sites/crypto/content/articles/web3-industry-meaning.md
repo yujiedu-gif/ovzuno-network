@@ -3,8 +3,6 @@ title: "Web3 industry meaning: a clear definition and scope"
 description: "Understand web3 industry meaning, including how blockchain networks, smart contracts, and decentralized applications relate within the broader technology category."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["web3 industry"]

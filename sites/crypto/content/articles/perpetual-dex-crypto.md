@@ -3,8 +3,6 @@ title: "Perpetual Dex Crypto: How Decentralized Perpetual Trading Works"
 description: "Learn how perpetual dex crypto protocols structure positions, collateral, funding, pricing, and risk controls, plus the limits and risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

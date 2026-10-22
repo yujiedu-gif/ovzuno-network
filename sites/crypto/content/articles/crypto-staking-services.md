@@ -3,8 +3,6 @@ title: "Crypto Staking Services: Models, Validator Operations, and Risks"
 description: "Learn how crypto staking services support validator operations, how service models differ, and what technical, custody, and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking provider", "validator operation", "delegated staking"]

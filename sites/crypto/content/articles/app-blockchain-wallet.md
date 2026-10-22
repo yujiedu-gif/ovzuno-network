@@ -3,8 +3,6 @@ title: "App Blockchain Wallet: How Applications Connect to Blockchain Transactio
 description: "An app blockchain wallet connects an application to blockchain activity. Learn how its interface, signing and network components fit together."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

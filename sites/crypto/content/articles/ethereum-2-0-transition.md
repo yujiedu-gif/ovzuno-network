@@ -3,8 +3,6 @@ title: "Ethereum 2.0 transition: what changed in Ethereum’s consensus"
 description: "Learn what the Ethereum 2.0 transition refers to, how Ethereum moved from proof of work to proof of stake, and what the change did—and did not—mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["ethereum 2 0 transition"]

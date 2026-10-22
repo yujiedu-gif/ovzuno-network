@@ -3,8 +3,6 @@ title: "Funko Royalty NFT: What the Collectible Token Represents"
 description: "Learn what a Funko Royalty NFT may represent, how its blockchain token differs from the collectible, and why associated rights depend on the terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

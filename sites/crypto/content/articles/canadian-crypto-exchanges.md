@@ -3,8 +3,6 @@ title: "Canadian Crypto Exchanges: Security and Compliance Operations"
 description: "Understand security and compliance operations relevant to Canadian crypto exchanges, including controls to verify and responsibilities for Canadian businesses."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cooperative blockchain: shared governance in payment infrastructure"
 description: "Learn what cooperative blockchain means for payment infrastructure, how participating organizations may share governance, and which design questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

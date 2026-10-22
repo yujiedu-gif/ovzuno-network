@@ -3,8 +3,6 @@ title: "github smart contract kit: What the Phrase Means and How to Assess a Rep
 description: "Learn what “github smart contract kit” may refer to, what repositories commonly contain, and how to assess documentation, maintenance, dependencies, and security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract kit github"]

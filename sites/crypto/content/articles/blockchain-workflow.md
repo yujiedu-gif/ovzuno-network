@@ -3,8 +3,6 @@ title: "Blockchain workflow: how a payment moves from initiation to confirmation
 description: "Follow a blockchain workflow from payment creation and signing through network validation and confirmation, with key operational checks and exception points."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

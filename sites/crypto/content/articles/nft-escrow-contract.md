@@ -3,8 +3,6 @@ title: "NFT escrow contract: how conditional NFT transfers work"
 description: "Learn how an NFT escrow contract can coordinate an NFT transfer with payment or another condition, what the contract controls, and which risks to review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT escrow", "escrow smart contract", "NFT transfer"]

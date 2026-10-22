@@ -3,8 +3,6 @@ title: "NFT Governance Token: How DAO Participation Can Work"
 description: "Learn how an NFT governance token can enable DAO participation, how its voting rules may differ from fungible tokens, and which design limits to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["NFT-based governance", "DAO voting rights", "token-weighted voting"]

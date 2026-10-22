@@ -3,8 +3,6 @@ title: "ENS Smart Contract: Roles, Resolution, and Architecture"
 description: "Learn how an ENS smart contract fits into name registration, resolution, and management, including the roles of registries, resolvers, and registrars."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

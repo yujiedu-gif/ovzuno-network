@@ -3,8 +3,6 @@ title: "Chia blockchain explorer: what it is and what it can show"
 description: "Learn what a chia blockchain explorer is, which Chia network records it may display, how to look them up, and what those records cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

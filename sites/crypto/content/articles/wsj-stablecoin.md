@@ -3,8 +3,6 @@ title: "WSJ stablecoin: meaning and settlement context"
 description: "Understand what “WSJ stablecoin” may refer to, how stablecoins can support settlement, and why the phrase alone does not identify a token or issuer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: ["wsj stablecoins"]

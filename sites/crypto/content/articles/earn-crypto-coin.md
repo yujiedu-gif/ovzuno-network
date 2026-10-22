@@ -3,8 +3,6 @@ title: "How to earn crypto coin through proof-of-work mining"
 description: "Learn how proof-of-work mining can earn crypto coin through protocol-defined rewards and fees, what determines reward receipt, and why rewards are not guaranteed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

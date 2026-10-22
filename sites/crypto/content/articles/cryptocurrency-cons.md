@@ -3,8 +3,6 @@ title: "Cryptocurrency cons: payment limitations and operational risks"
 description: "Review cryptocurrency cons for payments, including volatility, settlement uncertainty, user error, privacy limits, and operational or regulatory requirements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cons of cryptocurrency"]

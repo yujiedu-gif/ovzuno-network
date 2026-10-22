@@ -3,8 +3,6 @@ title: "Bitcoin lottery miner: meaning, mechanics, and risks"
 description: "Learn what a bitcoin lottery miner means, how solo and pool mining differ, and what to verify about reward claims, fees, security, and local rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

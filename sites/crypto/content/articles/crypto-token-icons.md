@@ -3,8 +3,6 @@ title: "Crypto Token Icons: Uses, Limits, and Interface Verification"
 description: "Learn how crypto token icons help users recognize assets in interfaces, where icons can mislead, and what teams should verify before displaying them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

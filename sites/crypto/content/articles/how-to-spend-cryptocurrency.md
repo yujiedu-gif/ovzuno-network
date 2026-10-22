@@ -3,8 +3,6 @@ title: "How to spend cryptocurrency: a practical payment guide"
 description: "Learn how to spend cryptocurrency at checkout, verify the asset, network, amount, and fees, and keep records while accounting for payment and security risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["spend cryptocurrency"]

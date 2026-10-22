@@ -3,8 +3,6 @@ title: "Crypto Token for Digital Signature: How Keys and Token Records Relate"
 description: "Learn how a crypto token for digital signature relates to cryptographic keys, signed messages, and blockchain records—and what verification can establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto token digital signature"]

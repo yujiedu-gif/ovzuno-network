@@ -3,8 +3,6 @@ title: "Is Bitcoin Fungible? Protocol-Level Interchangeability Explained"
 description: "Is bitcoin fungible? Learn how interchangeability works at the protocol level and why transaction history can affect how services treat bitcoin."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoin fungible"]

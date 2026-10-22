@@ -3,8 +3,6 @@ title: "Crypto mining android: what phones can and cannot do"
 description: "Crypto mining android explained: learn how local phone computation differs from remote mining and simulated rewards, and what evidence can verify network work."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

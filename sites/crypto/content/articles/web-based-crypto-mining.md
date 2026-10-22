@@ -3,8 +3,6 @@ title: "Web based crypto mining: how browser-based claims work"
 description: "Learn what web based crypto mining can mean, how browser computation differs from hosted mining, and what technical, security, and verification risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bonded Proof of Stake: How Bonded Stake Supports Validators"
 description: "Understand bonded proof of stake, how bonded stake relates to validator participation and accountability, and why implementation details vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["bonded proof stake"]

@@ -3,8 +3,6 @@ title: "Plasma scalable autonomous smart contracts: architecture and trade-offs"
 description: "Understand plasma scalable autonomous smart contracts through a chain-neutral look at execution models, scaling trade-offs, trust assumptions, and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Plasma blockchain", "smart contract execution", "off-chain scaling"]

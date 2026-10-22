@@ -3,8 +3,6 @@ title: "DPoS Blockchains: How Delegated Proof of Stake Works"
 description: "Learn how DPoS blockchains select delegates, produce and validate blocks, and differ from proof-of-work mining, including key design trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

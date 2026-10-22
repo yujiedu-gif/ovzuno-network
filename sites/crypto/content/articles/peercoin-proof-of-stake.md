@@ -3,8 +3,6 @@ title: "Peercoin proof of stake: how its consensus design works"
 description: "Learn how Peercoin proof of stake fits into its consensus design, including its relationship to proof of work and its role in block production and security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["peercoin proof stake"]

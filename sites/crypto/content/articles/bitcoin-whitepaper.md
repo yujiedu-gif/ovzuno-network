@@ -3,8 +3,6 @@ title: "Bitcoin whitepaper: What the paper proposes and how it works"
 description: "Explore the bitcoin whitepaper’s peer-to-peer electronic-cash proposal, including digital signatures, proof of work, transaction verification, and its scope."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

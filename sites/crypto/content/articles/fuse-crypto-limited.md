@@ -3,8 +3,6 @@ title: "Fuse Crypto Limited: What Evidence Shows About Staking Infrastructure"
 description: "Review what reliable evidence can establish about Fuse Crypto Limited and any staking or validator role, with checks for identity, scope, and unresolved claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

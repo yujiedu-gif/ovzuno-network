@@ -3,8 +3,6 @@ title: "Crypto royale token: identity, network, and stated role"
 description: "Learn how to identify the crypto royale token, verify its network and contract details, and separate documented project functions from unconfirmed claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

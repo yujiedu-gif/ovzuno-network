@@ -3,8 +3,6 @@ title: "Proof of stake consensus protocol: how validators reach agreement"
 description: "Learn how a proof of stake consensus protocol coordinates validators, proposals, and agreement, and why network rules differ across designs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

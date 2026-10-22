@@ -3,8 +3,6 @@ title: "Crypto Tokenomics Explained: Supply, Distribution, and Protocol Rules"
 description: "Crypto tokenomics explained: learn how supply, distribution, issuance rules, and protocol functions fit together, and what to check in project documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto tokenomics"]

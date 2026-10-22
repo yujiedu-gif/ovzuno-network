@@ -3,8 +3,6 @@ title: "Aurora crypto: What the network is and how it fits digital-asset infrast
 description: "Learn what aurora crypto refers to, how Aurora’s blockchain infrastructure fits digital-asset applications, and why it is distinct from a payment card."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

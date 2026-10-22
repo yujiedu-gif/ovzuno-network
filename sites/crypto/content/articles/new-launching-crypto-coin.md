@@ -3,8 +3,6 @@ title: "New Launching Crypto Coin: Meaning, Stages, and Protocol Context"
 description: "Understand what a new launching crypto coin means, how protocol launch stages differ, and which technical documents can clarify a project’s stated design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

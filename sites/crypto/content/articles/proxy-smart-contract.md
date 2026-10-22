@@ -3,8 +3,6 @@ title: "Proxy Smart Contract: How Proxy Architecture Works"
 description: "Learn how a proxy smart contract routes calls to an implementation, how storage context works, and which upgrade and administration risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["upgradeable smart contracts", "proxy pattern", "implementation contract", "storage layout"]

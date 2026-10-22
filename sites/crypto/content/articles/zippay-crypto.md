@@ -3,8 +3,6 @@ title: "zippay crypto: What the Name Refers to and How to Verify Claims"
 description: "Learn what zippay crypto may refer to, how to verify cryptocurrency-payment claims against official evidence, and what not to assume about availability or compliance"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

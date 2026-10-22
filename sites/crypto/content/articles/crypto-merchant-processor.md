@@ -3,8 +3,6 @@ title: "Crypto merchant processor: roles, payment flow, and business considerati
 description: "Learn what a crypto merchant processor does, how payment flows can differ, and which operational, settlement, security, and compliance questions businesses should"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto processor"]

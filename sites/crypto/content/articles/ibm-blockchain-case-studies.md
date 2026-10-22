@@ -3,8 +3,6 @@ title: "IBM Blockchain Case Studies: How to Read Payment-Infrastructure Examples
 description: "Learn how to read ibm blockchain case studies about payment infrastructure, distinguish reported claims from verified evidence, and identify missing context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

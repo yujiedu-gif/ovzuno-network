@@ -3,8 +3,6 @@ title: "Sui crypto token: what SUI is and how it relates to the network"
 description: "Learn what the Sui crypto token, SUI, is, how it relates to the Sui network, and which documented functions and limitations matter to readers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

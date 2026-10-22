@@ -3,8 +3,6 @@ title: "icp crypto staking: How the Internet Computer Model Works"
 description: "Learn how icp crypto staking works on the Internet Computer, what participation choices and constraints to examine, and which risks need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

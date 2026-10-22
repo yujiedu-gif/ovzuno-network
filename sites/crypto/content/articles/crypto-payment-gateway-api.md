@@ -3,8 +3,6 @@ title: "Crypto Payment Gateway API: Integration Planning and Safeguards"
 description: "Plan a crypto payment gateway API integration with guidance on documentation, payment states, security controls, testing, and operational handoffs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

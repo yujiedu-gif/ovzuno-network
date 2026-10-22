@@ -3,8 +3,6 @@ title: "How a decentralized nft exchange works: architecture and trade flow"
 description: "Learn how a decentralized nft exchange handles discovery, orders, and settlement, and compare its custody, execution, and security design choices."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Floki Inu Crypto: Token Identity, Ecosystem, and Verification"
 description: "Learn what floki inu crypto refers to, how the FLOKI token is described, and which token details and ecosystem claims readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["FLOKI token", "Floki ecosystem", "crypto token utility"]

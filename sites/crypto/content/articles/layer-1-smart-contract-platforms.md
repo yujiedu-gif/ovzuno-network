@@ -3,8 +3,6 @@ title: "Layer 1 smart contract platforms: how base layers support dApps"
 description: "Learn how layer 1 smart contract platforms combine transaction processing, consensus, and execution, and how those base-layer roles support dApps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["base layer", "smart contract execution", "consensus mechanism", "decentralized applications"]

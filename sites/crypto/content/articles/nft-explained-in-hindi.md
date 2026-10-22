@@ -3,8 +3,6 @@ title: "nft explained in hindi: Meaning and Digital Ownership"
 description: "Read nft explained in hindi to learn what an NFT is, how a blockchain records its token, and why that record does not automatically convey a file or its rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft in hindi"]

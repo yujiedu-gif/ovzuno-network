@@ -3,8 +3,6 @@ title: "Crypto Standard: Technical Standards, Regulation, and Reporting"
 description: "Learn what a crypto standard can refer to, how technical specifications differ from regulation and tax reporting, and what to verify by jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

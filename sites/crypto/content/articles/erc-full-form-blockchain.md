@@ -3,8 +3,6 @@ title: "ERC full form blockchain: What the term means in Ethereum"
 description: "Learn the ERC full form blockchain readers encounter, what the acronym refers to in Ethereum, and how ERC standards describe shared conventions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

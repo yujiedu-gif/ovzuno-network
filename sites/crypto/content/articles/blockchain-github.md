@@ -3,8 +3,6 @@ title: "Blockchain GitHub: What It Means and How to Read Project Repositories"
 description: "Learn what blockchain GitHub refers to, what project repositories may contain, and how to interpret visible code and activity without treating them as proof."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

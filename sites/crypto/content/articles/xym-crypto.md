@@ -3,8 +3,6 @@ title: "XYM Crypto: What the Token Is and How It Relates to Symbol"
 description: "Learn what XYM crypto refers to, how it relates to the Symbol blockchain, and what network documentation says about staking or harvesting roles."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["Symbol (XYM)", "Symbol blockchain", "XYM staking", "Symbol harvesting"]

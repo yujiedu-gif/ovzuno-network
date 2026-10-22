@@ -3,8 +3,6 @@ title: "Payment smart contract: how blockchain payment flows work"
 description: "Learn how a payment smart contract coordinates blockchain payment steps, what it can and cannot control, and which design and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "How virtual prepaid card crypto funding and payments work"
 description: "Learn how virtual prepaid card crypto funding, authorization, and settlement can work, and which product, security, and jurisdiction details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto virtual prepaid cards", "virtual card funding and authorization"]

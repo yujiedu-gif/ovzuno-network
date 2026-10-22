@@ -3,8 +3,6 @@ title: "How to get bitcoin: A beginner’s guide to common routes"
 description: "Learn how to get bitcoin through common routes, compare basic steps, and check custody, fees, security, and local requirements before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["how to get bitcoins", "get bitcoin"]

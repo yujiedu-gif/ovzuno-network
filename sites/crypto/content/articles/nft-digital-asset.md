@@ -3,8 +3,6 @@ title: "NFT Digital Asset: What the Token and Ownership Record Mean"
 description: "Understand how an nft digital asset connects a unique blockchain token to digital content, what its record can establish, and which rights may remain separate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto marketing agency: how marketing differs from mining consensus"
 description: "Learn what a crypto marketing agency may do, how its work differs from mining and consensus engineering, and which claims need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

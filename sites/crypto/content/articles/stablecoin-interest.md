@@ -3,8 +3,6 @@ title: "Stablecoin Interest: How It Works and What Settlement Teams Should Know"
 description: "Understand stablecoin interest, the mechanisms that may generate or distribute it, and the counterparty, liquidity, and settlement risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoins interest"]

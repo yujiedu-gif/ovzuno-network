@@ -3,8 +3,6 @@ title: "amazon accept crypto as payment: What Customers Should Verify"
 description: "Does amazon accept crypto as payment directly? Learn how to verify current official options and assess third-party routes, terms, fees, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

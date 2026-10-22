@@ -3,8 +3,6 @@ title: "Ethereum volume: meaning, measures, and interpretation"
 description: "Learn what ethereum volume can measure across on-chain transfers, decentralized exchanges, and trading markets, and why scope matters when interpreting figures."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

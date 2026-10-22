@@ -3,8 +3,6 @@ title: "Rain card crypto: meaning and card-program infrastructure"
 description: "Learn what “rain card crypto” refers to, how a provider may support crypto-linked card programs, and what to verify about a specific program."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["rain crypto card"]

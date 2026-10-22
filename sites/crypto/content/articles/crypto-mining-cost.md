@@ -3,8 +3,6 @@ title: "Crypto mining cost: a framework for estimating operating expenses"
 description: "Use a transparent crypto mining cost framework to identify capital, electricity, facility, and operating inputs, and document assumptions before estimating expenses."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["mining_consensus"]
 tags: []

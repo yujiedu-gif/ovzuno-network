@@ -3,8 +3,6 @@ title: "Centralized and Decentralized Cryptocurrency: Where Does Control Reside?
 description: "Understand centralized and decentralized cryptocurrency by mapping governance, infrastructure, custody, and access controls across a system’s components."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["centralized decentralized cryptocurrency"]

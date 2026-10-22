@@ -3,8 +3,6 @@ title: "Crypto tab mining: what the phrase may mean"
 description: "Crypto tab mining can refer to different browser or app claims. Learn how to check whether a label describes proof-of-work or another activity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

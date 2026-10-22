@@ -3,8 +3,6 @@ title: "Genesis crypto token: meaning, context, and how to identify it"
 description: "Learn what genesis crypto token may refer to, how launch context differs from a named asset, and which project records to check before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

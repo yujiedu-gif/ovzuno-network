@@ -3,8 +3,6 @@ title: "Blockchain nonce explained: mining and transaction meanings"
 description: "Blockchain nonce explained: learn how nonce values differ in proof-of-work mining and transaction sequencing, and why the term depends on protocol context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain nonce"]

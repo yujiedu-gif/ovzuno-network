@@ -3,8 +3,6 @@ title: "Auction Smart Contract: Bidding, Outcomes, and Settlement"
 description: "Learn how an auction smart contract records bids, applies auction rules, determines an outcome, and handles settlement, along with key design limits and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

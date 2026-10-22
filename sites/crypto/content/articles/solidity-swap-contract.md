@@ -3,8 +3,6 @@ title: "Solidity Swap Contract: How On-Chain Token Exchanges Work"
 description: "Understand what a solidity swap contract does, how token approvals and on-chain exchange flows fit together, and which design risks shape its behavior."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

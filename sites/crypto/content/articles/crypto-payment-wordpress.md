@@ -3,8 +3,6 @@ title: "How crypto payment wordpress fits into a WordPress checkout"
 description: "Learn how crypto payment wordpress connects WordPress checkout to payment processing and order updates, plus what operators should verify before implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["WordPress crypto payment plugin", "WordPress cryptocurrency payments"]

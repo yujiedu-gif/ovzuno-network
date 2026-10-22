@@ -3,8 +3,6 @@ title: "How to Use an NFT QR Code Safely and Clearly"
 description: "Learn how to create and test an nft qr code, choose a destination, explain what it verifies, and reduce risks from altered links or misleading claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["nfts_digital_ownership"]
 tags: ["nft qr codes"]

@@ -3,8 +3,6 @@ title: "Digital Asset Platform Evaluation for Institutional Treasury"
 description: "Assess a digital asset platform for institutional treasury by reviewing custody, transaction controls, integrations, reporting, governance, and due diligence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: ["digital assets platform"]

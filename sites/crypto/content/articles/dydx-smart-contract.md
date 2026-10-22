@@ -3,8 +3,6 @@ title: "dydx smart contract: Meaning, Roles, and Protocol Architecture"
 description: "Learn what “dydx smart contract” can refer to, how contract-based components fit into dYdX architecture, and why details can vary by version."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

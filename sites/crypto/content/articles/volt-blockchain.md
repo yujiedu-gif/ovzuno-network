@@ -3,8 +3,6 @@ title: "Volt Blockchain: Meaning and How to Verify the Network"
 description: "Learn what “volt blockchain” may refer to, why the phrase can be ambiguous, and which primary technical records to check before treating it as a network name."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

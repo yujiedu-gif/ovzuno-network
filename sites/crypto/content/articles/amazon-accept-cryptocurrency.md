@@ -3,8 +3,6 @@ title: "Amazon Accept Cryptocurrency: Direct Checkout and Indirect Routes"
 description: "See whether Amazon accept cryptocurrency applies to direct checkout, how indirect routes differ, and what shoppers should verify before using one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

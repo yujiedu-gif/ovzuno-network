@@ -3,8 +3,6 @@ title: "Crypto staking: how validators participate and what to assess"
 description: "Learn how crypto staking relates to validator participation, how operating and delegated models differ, and which protocol-specific risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking cryptos"]

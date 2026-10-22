@@ -3,8 +3,6 @@ title: "Solidity struct default value: What members contain before assignment"
 description: "Learn the Solidity struct default value for common member types, how implicit initialization differs from explicit construction, and what to verify in your compiler."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity struct initialization", "Solidity zero values", "struct members"]

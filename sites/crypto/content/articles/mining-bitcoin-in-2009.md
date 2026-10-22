@@ -3,8 +3,6 @@ title: "Mining bitcoin in 2009: how early Bitcoin proof of work operated"
 description: "Learn how mining bitcoin in 2009 worked, including its proof-of-work process, early computing context, and what historical records can verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["bitcoin mining 2009"]

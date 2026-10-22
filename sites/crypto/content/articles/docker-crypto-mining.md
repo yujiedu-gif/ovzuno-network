@@ -3,8 +3,6 @@ title: "Docker Crypto Mining: What Containers Do and Do Not Do"
 description: "Understand docker crypto mining, how containers package proof-of-work software, and what Docker does not provide for hardware, consensus, or rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["Docker containers for mining software", "containerized proof-of-work miner"]

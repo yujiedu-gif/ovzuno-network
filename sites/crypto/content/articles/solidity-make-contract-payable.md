@@ -3,8 +3,6 @@ title: "How to solidity make contract payable: functions and value handling"
 description: "Learn how to solidity make contract payable by declaring payable functions, handling incoming native currency, and checking receive and fallback behavior."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["payable function Solidity", "receive function Solidity", "fallback function Solidity", "msg.value"]

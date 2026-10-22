@@ -3,8 +3,6 @@ title: "EOS Blockchain: Network Architecture and Transaction Validation"
 description: "Understand the EOS blockchain, its network architecture, and how transactions are recorded and validated, with evidence checks for payment-related use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

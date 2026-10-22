@@ -3,8 +3,6 @@ title: "Lisk crypto: regulatory and tax reporting questions"
 description: "Learn what Lisk crypto refers to and which regulatory and tax-reporting questions may depend on your jurisdiction, activity, and current official guidance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: []

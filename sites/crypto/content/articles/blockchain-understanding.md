@@ -3,8 +3,6 @@ title: "Blockchain understanding: How blockchain payments move and settle"
 description: "Build blockchain understanding by tracing a payment from submission to confirmation, comparing settlement concepts, and identifying operational trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain payments", "payment settlement", "distributed ledger"]

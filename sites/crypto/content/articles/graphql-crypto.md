@@ -3,8 +3,6 @@ title: "GraphQL Crypto: How It Queries Onchain Data"
 description: "Learn how graphql crypto applications use GraphQL to request onchain data, shape responses, and handle query limits without confusing the API with indexing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

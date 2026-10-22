@@ -3,8 +3,6 @@ title: "Solidity blockchain smart contracts: how code powers dApps"
 description: "Learn how Solidity blockchain smart contracts are compiled, deployed, and called by decentralized applications, and what their on-chain logic can and cannot do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity programming language", "Ethereum smart contracts", "smart contract execution"]

@@ -3,8 +3,6 @@ title: "1 ethereum: Meaning, Ether, and Unit Basics"
 description: "Understand what 1 ethereum means, how Ethereum differs from Ether, and how the asset’s unit is described without turning the explanation into price advice."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum 1"]

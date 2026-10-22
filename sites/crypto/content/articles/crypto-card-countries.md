@@ -3,8 +3,6 @@ title: "Crypto Card Countries: How to Check Availability and Eligibility"
 description: "Learn how to check crypto card countries for issuer coverage, residency eligibility, delivery limits, and payment acceptance, and what details to verify before you"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto card availability", "supported countries", "card issuer", "country restrictions", "residency requirements"]

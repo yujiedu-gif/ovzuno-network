@@ -3,8 +3,6 @@ title: "Validators crypto: roles, duties, and protocol-specific risks"
 description: "Learn what validators crypto do in proof-of-stake networks, how their duties vary by protocol, and which operational and network-specific risks to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

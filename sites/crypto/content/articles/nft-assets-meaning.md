@@ -3,8 +3,6 @@ title: "NFT Assets Meaning: What the Token Represents"
 description: "Learn the nft assets meaning, how an NFT token can relate to digital content or other items, and why the token alone may not transfer associated rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft assets"]

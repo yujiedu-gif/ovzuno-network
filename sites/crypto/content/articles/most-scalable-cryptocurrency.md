@@ -3,8 +3,6 @@ title: "Most scalable cryptocurrency: how to compare network capacity"
 description: "Learn what most scalable cryptocurrency can mean, which capacity measures matter, and why workload, measurement conditions, and trade-offs shape comparisons."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

@@ -3,8 +3,6 @@ title: "Native staking crypto: protocol mechanics, roles, and risks"
 description: "Learn what native staking crypto means, how validators and delegators participate at the protocol level, and which network-specific risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

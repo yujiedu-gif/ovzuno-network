@@ -3,8 +3,6 @@ title: "Solidity smart: how the language fits into dApps"
 description: "Learn how solidity smart contract code can support dApps, how contracts connect to application interfaces, and which design and operational limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

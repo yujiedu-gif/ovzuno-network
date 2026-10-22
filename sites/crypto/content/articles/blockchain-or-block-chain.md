@@ -3,8 +3,6 @@ title: "Blockchain or block chain: meaning in payment systems"
 description: "Learn what blockchain or block chain means in payment systems, how the term differs from cryptocurrency and payment services, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

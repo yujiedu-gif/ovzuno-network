@@ -3,8 +3,6 @@ title: "Layer 1 crypto coins list: examples and identification criteria"
 description: "Explore a Layer 1 crypto coins list with examples of native assets, inclusion criteria, and ways to distinguish them from tokens issued on a network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["Layer 1 blockchain", "native cryptocurrency", "consensus mechanism"]

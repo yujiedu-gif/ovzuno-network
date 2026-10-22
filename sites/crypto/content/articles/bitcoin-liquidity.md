@@ -3,8 +3,6 @@ title: "Bitcoin liquidity in cross-chain interoperability"
 description: "Understand bitcoin liquidity in cross-chain interoperability, including what the term covers, how cross-network access is represented, and which risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["cross_chain_interoperability"]
 tags: []

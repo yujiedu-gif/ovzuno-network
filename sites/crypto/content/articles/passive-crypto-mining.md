@@ -3,8 +3,6 @@ title: "Passive crypto mining: what the term means and what remains involved"
 description: "Learn what passive crypto mining describes, which proof-of-work tasks may be delegated, and what operational, financial, and security risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work mining", "hosted mining", "mining rewards"]

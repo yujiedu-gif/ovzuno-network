@@ -3,8 +3,6 @@ title: "Decentralized crypto debit card: what the label means in practice"
 description: "Learn what a decentralized crypto debit card may decentralize, which card functions can remain intermediated, and what to verify in its architecture."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

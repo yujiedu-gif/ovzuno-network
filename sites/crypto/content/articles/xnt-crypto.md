@@ -3,8 +3,6 @@ title: "XNT Crypto: What the Name Refers to and How to Check Staking Claims"
 description: "Learn what XNT crypto refers to, how to verify the asset and network, and what documentation can confirm whether staking or validators apply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "intel crypto mining: Hardware Categories and Evaluation Factors"
 description: "Explore what intel crypto mining can mean, which hardware categories may be relevant, and how proof-of-work workloads shape a careful technical evaluation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

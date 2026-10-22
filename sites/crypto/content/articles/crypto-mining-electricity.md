@@ -3,8 +3,6 @@ title: "Crypto mining electricity: sources, measurement, and estimates"
 description: "Learn what drives crypto mining electricity use, how device and network estimates differ, and why methods, boundaries, and uncertainty matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Launchpad crypto: Security and compliance operations to evaluate"
 description: "Learn how to assess launchpad crypto security and compliance operations, including controls, disclosures, participant checks, and questions for local review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["crypto launch pad"]

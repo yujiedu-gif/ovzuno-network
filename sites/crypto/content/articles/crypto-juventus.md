@@ -3,8 +3,6 @@ title: "Crypto Juventus: What the Term Means and How to Verify a Club Connection
 description: "Learn what crypto juventus may refer to, how to check claims of an official Juventus connection, and what evidence to seek before trusting them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

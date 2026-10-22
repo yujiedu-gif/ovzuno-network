@@ -3,8 +3,6 @@ title: "Pay with crypto Shopify: checkout options and considerations"
 description: "Learn how to pay with crypto Shopify checkout options may work, what integration and settlement choices merchants should assess, and what to verify before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

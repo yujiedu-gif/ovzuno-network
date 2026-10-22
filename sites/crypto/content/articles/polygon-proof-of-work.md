@@ -3,8 +3,6 @@ title: "Polygon proof of work: Does Polygon use mining?"
 description: "Learn whether polygon proof of work applies to Polygon, how its consensus design differs from mining, and why network components and versions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["polygon proof work"]

@@ -3,8 +3,6 @@ title: "Provenance blockchain wiki: meaning, records, and limits"
 description: "Understand what provenance blockchain wiki may refer to, how blockchain records can document payment or asset history, and what those records cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

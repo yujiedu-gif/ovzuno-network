@@ -3,8 +3,6 @@ title: "Lunu Crypto Pay: What Businesses Should Verify"
 description: "Learn how Lunu Crypto Pay is described in crypto-payment workflows and what businesses should verify about availability, fees, settlement, security, and compliance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

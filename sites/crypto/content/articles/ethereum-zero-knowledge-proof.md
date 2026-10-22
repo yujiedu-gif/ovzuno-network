@@ -3,8 +3,6 @@ title: "Ethereum Zero Knowledge Proof: Meaning and Verification"
 description: "Understand what an ethereum zero knowledge proof establishes, how verification relates to Ethereum, and what a proof does not reveal or guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["privacy_identity_zk"]
 tags: ["zero knowledge proof ethereum"]

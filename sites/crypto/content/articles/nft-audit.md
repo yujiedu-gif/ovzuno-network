@@ -3,8 +3,6 @@ title: "NFT audit: scope, process, findings, and limitations"
 description: "Learn what an nft audit may review, how findings and scope are reported, and why an audit is not a guarantee against vulnerabilities, exploits, or losses."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

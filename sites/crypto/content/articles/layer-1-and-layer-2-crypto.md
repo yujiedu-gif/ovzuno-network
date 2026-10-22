@@ -3,8 +3,6 @@ title: "Layer 1 and Layer 2 Crypto: How the Systems Differ"
 description: "Understand how layer 1 and layer 2 crypto systems divide blockchain settlement, transaction execution, and scaling—and what trade-offs operators should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["blockchain_payment_foundations"]
 tags: ["layer 1 layer 2 crypto"]

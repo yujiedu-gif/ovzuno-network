@@ -3,8 +3,6 @@ title: "shift crypto ag: Evidence of staking and validator involvement"
 description: "Review what can be verified about shift crypto ag and staking or validator infrastructure, where claims need checking, and which details remain uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

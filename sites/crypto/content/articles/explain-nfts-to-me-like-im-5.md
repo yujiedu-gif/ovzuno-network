@@ -3,8 +3,6 @@ title: "Explain NFTs to Me Like Im 5: A Simple, Careful Explanation"
 description: "Explain NFTs to me like im 5 with a simple analogy: what an NFT records, how it differs from a digital copy, and what ownership may not include."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["explain nfts me like im 5"]

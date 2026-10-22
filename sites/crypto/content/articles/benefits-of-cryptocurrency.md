@@ -3,8 +3,6 @@ title: "Benefits of cryptocurrency for payment operations"
 description: "Explore potential benefits of cryptocurrency in payment operations, the conditions that shape them, and the costs, risks, and evidence to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["benefits cryptocurrency"]

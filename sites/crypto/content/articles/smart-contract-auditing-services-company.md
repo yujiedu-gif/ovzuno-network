@@ -3,8 +3,6 @@ title: "Smart Contract Auditing Services Company: Scope, Process, and Limits"
 description: "Learn what a smart contract auditing services company may review, how findings and remediation are handled, and why an audit cannot guarantee security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Layer 1 DeFi Coins: What the Term Means"
 description: "Learn what layer 1 defi coins can refer to, how native blockchain assets differ from DeFi application tokens, and how both relate to network infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["DeFi on Layer 1 blockchains", "Layer 1 DeFi tokens", "smart contract blockchain"]

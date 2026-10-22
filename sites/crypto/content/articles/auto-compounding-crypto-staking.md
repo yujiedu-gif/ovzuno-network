@@ -3,8 +3,6 @@ title: "Auto compounding crypto staking: how reward reinvestment works"
 description: "Learn how auto compounding crypto staking reinvests rewards, which network rules shape compounding, and what operational risks and conditions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking reward compounding", "validator reward reinvestment", "staking reward distribution"]

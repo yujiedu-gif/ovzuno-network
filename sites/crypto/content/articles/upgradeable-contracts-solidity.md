@@ -3,8 +3,6 @@ title: "Upgradeable Contracts Solidity: Architecture, Compatibility, and Risks"
 description: "Learn how upgradeable contracts solidity use proxies, why storage compatibility matters, and which authority, security, and operational trade-offs teams should weigh"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity proxy patterns", "smart contract upgrades", "proxy contract storage layout"]

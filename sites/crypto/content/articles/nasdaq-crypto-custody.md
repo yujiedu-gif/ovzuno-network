@@ -3,8 +3,6 @@ title: "Nasdaq crypto custody: institutional controls to verify"
 description: "Assess nasdaq crypto custody through an institutional due-diligence lens: verify the custody model, control ownership, operational dependencies, and current claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: []

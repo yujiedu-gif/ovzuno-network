@@ -3,8 +3,6 @@ title: "Polygon NFT Marketplace: How Listings and Ownership Records Work"
 description: "Learn how a polygon nft marketplace connects NFT listings to Polygon transactions, what a blockchain ownership record shows, and what users should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

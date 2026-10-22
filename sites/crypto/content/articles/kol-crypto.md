@@ -3,8 +3,6 @@ title: "kol crypto: Meaning, usage, and distinction from payment infrastructure"
 description: "Learn what kol crypto means, how a key opinion leader differs from a general influencer, and why the term is separate from crypto payment infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["crypto key opinion leader", "crypto influencer"]

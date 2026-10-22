@@ -3,8 +3,6 @@ title: "crypto atm in canada: How Transactions Work and What to Verify"
 description: "Learn how a crypto atm in canada typically works, what users and operators should verify, and why rules, fees, availability, and security require current checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto atm canada"]

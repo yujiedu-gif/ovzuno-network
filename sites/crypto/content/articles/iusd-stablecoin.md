@@ -3,8 +3,6 @@ title: "IUSD Stablecoin: What the Name Identifies and What to Verify"
 description: "Learn how to identify an IUSD stablecoin through issuer and network documentation, and what to verify about its design, settlement, risks, and legal context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: []

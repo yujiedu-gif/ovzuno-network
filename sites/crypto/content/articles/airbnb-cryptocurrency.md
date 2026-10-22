@@ -3,8 +3,6 @@ title: "Airbnb Cryptocurrency: Does Airbnb Accept Crypto for Bookings?"
 description: "Airbnb cryptocurrency support explained: learn how to check whether crypto is accepted directly for a booking and distinguish platform options from indirect routes."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Web3 identity: a conceptual guide to claims, credentials, and privacy"
 description: "Web3 identity explained: distinguish identifiers, identity claims, credentials, and privacy-preserving proofs, and understand their roles and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

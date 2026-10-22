@@ -3,8 +3,6 @@ title: "umbrel node bitcoin: Meaning, role, and key distinctions"
 description: "Learn what an umbrel node bitcoin setup means, how a Bitcoin node participates in the network, and how node operation differs from mining and custody."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["umbrel bitcoin node"]

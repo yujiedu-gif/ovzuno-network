@@ -3,8 +3,6 @@ title: "Blockchain Instant Payments: How Speed and Finality Work"
 description: "Learn how blockchain instant payments move from submission to confirmation, what finality means, and why fast visibility does not always mean settled funds."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain instant payment"]

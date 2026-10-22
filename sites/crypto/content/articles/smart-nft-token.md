@@ -3,8 +3,6 @@ title: "Smart NFT Token: How the Token, Contract, and Asset Relate"
 description: "Learn what a smart NFT token refers to, how it relates to its contract, metadata, and digital asset, and why a token alone may not establish every right."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["token smart nft"]

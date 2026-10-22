@@ -3,8 +3,6 @@ title: "Crypto restructuring: regulatory and tax-reporting questions to assess"
 description: "Learn which regulatory and tax-reporting questions may arise in crypto restructuring, what facts shape the analysis, and when jurisdiction-specific advice is needed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: []

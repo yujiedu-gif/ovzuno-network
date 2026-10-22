@@ -3,8 +3,6 @@ title: "Java Smart Contracts: Development and Platform Constraints"
 description: "Learn how Java smart contracts fit into blockchain development, including execution environments, toolchains, deployment steps, and platform-specific constraints."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["java smart contract"]

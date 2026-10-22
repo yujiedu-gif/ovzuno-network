@@ -3,8 +3,6 @@ title: "Royalties Smart Contract: How Terms and Payments Work"
 description: "Learn how a royalties smart contract can represent payment terms, route funds, and expose limits involving marketplaces, enforcement, and operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

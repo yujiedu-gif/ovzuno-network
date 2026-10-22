@@ -3,8 +3,6 @@ title: "Crypto Locked Staking: Lock-Ups, Withdrawals, and Validator Roles"
 description: "Learn what crypto locked staking means, how lock-up terms can affect withdrawals, and how validator participation may differ across staking arrangements."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

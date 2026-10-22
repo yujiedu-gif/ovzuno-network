@@ -3,8 +3,6 @@ title: "Pi Network Proof of Stake: What the Consensus Evidence Shows"
 description: "Assess whether pi network proof of stake accurately describes Pi Network’s consensus design, and distinguish documented mechanisms from claims about staking and"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["pi network proof stake"]

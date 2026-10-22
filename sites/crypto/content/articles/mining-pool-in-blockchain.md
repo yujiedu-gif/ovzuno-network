@@ -3,8 +3,6 @@ title: "Mining Pool in Blockchain: How Pooled Mining Works"
 description: "Learn what a mining pool in blockchain does, how miners submit work, and why pool accounting and reward allocation are separate from network consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work mining pool", "hashrate", "pool shares", "mining reward distribution"]

@@ -3,8 +3,6 @@ title: "Smart contract writing: from requirements to deployment"
 description: "Learn how smart contract writing moves from requirements and design to implementation, testing, and deployment, with key review points before release."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["writing smart contracts"]

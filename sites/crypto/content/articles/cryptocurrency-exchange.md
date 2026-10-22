@@ -3,8 +3,6 @@ title: "Cryptocurrency Exchange: Its Role in Digital-Asset Market Infrastructure
 description: "Learn how a cryptocurrency exchange connects market participants, trading systems, asset-control arrangements, and settlement within digital-asset infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

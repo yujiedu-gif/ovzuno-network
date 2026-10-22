@@ -3,8 +3,6 @@ title: "Free Faucet Crypto Mining: What the Term Means"
 description: "Learn what free faucet crypto mining can describe, how faucet rewards differ from proof-of-work mining, and which service claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

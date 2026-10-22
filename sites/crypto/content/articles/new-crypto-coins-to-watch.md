@@ -3,8 +3,6 @@ title: "New crypto coins to watch: an evidence-led research checklist"
 description: "Learn how to assess new crypto coins to watch by checking project purpose, technical documentation, token distribution, evidence quality, and key risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["new crypto coins watch"]

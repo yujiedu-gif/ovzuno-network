@@ -3,8 +3,6 @@ title: "Collectible NFT Art: Tokens, Artwork, and Rights"
 description: "Learn how collectible NFT art connects a token to digital artwork, what ownership records can show, and why copyright or usage rights may be separate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

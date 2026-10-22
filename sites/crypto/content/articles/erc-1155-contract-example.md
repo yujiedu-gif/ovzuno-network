@@ -3,8 +3,6 @@ title: "ERC 1155 contract example: structure and safety checks"
 description: "Review an ERC 1155 contract example, learn how token IDs and safe transfers fit together, and identify checks to make before adapting the pattern."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-1155", "Solidity", "multi-token standard", "safe transfer", "token receiver hook"]

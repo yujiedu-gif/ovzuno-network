@@ -3,8 +3,6 @@ title: "Crypto cold storage explained: meaning, mechanics, and trade-offs"
 description: "Crypto cold storage explained: learn how offline private-key storage works, what risks it can reduce, and where security, access, and recovery trade-offs remain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto cold storage"]

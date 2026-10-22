@@ -3,8 +3,6 @@ title: "Blockchain agreement: how networks reach a shared ledger state"
 description: "Learn what blockchain agreement means, how consensus rules help participants accept a shared ledger state, and why agreement does not mean unanimous approval."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain consensus", "distributed ledger agreement", "consensus mechanism"]

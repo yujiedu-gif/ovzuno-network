@@ -3,8 +3,6 @@ title: "erc721 polygon: How NFT Contracts Work on the Network"
 description: "Learn how erc721 polygon relates the ERC-721 token interface to Polygon, what contract interactions involve, and which technical details builders should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 on Polygon", "Polygon NFT smart contract", "ERC-721 compatibility"]

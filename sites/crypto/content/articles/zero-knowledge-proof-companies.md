@@ -3,8 +3,6 @@ title: "Zero Knowledge Proof Companies: Roles, Tools, and How to Evaluate Claims
 description: "Explore what zero knowledge proof companies build, how their infrastructure roles differ, and what evidence to review when assessing capability claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

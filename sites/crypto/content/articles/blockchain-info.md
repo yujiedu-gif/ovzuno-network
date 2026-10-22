@@ -3,8 +3,6 @@ title: "Blockchain info: What payment records can show"
 description: "Blockchain info can describe payment records, including addresses, amounts, and status; learn what may be visible and what the data cannot establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

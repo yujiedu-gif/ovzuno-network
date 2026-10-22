@@ -3,8 +3,6 @@ title: "Companies that pay in crypto: compensation models and key considerations
 description: "Learn how companies that pay in crypto structure employee or contractor compensation, and which payroll, legal, tax, valuation, and custody questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

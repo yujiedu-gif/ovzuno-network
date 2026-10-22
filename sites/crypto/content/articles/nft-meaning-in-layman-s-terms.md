@@ -3,8 +3,6 @@ title: "NFT Meaning in Layman's Terms: What Owning One Means"
 description: "Learn the nft meaning in layman's terms: what an NFT records, how it can relate to a digital item, and what ownership does not automatically include."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft in layman s terms"]

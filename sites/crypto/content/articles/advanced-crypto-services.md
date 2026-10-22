@@ -3,8 +3,6 @@ title: "Advanced crypto services: capabilities for business payments"
 description: "Explore advanced crypto services for business payments, including optional infrastructure layers, operating considerations, and questions to assess before adoption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto payment infrastructure", "payment orchestration", "settlement and reconciliation"]

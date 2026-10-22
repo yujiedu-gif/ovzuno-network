@@ -3,8 +3,6 @@ title: "Etherscan smart contract pages: what they show and what they do not"
 description: "Learn what an etherscan smart contract page can reveal about source code, address activity, and interactions—and what it cannot establish about safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Etherscan contract verification", "smart contract source code", "Ethereum contract address"]

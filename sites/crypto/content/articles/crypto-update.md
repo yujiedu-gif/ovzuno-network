@@ -3,8 +3,6 @@ title: "Crypto update: meaning in crypto-card spending"
 description: "Understand what “crypto update” can mean in crypto-card spending, how to distinguish product changes from payment or settlement updates, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

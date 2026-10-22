@@ -3,8 +3,6 @@ title: "Tracing bitcoin transactions: what public records can show"
 description: "Learn how tracing bitcoin transactions follows public blockchain links, what transaction records can reveal, and why those links do not establish identity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["tracing bitcoin transaction"]

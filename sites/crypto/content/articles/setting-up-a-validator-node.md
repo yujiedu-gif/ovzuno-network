@@ -3,8 +3,6 @@ title: "Setting up a validator node: requirements and operational checks"
 description: "Learn what setting up a validator node involves, from checking network requirements and securing keys to monitoring operations and planning for failures."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["setting up validator node"]

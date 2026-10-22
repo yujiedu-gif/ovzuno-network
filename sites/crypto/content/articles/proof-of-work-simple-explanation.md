@@ -3,8 +3,6 @@ title: "Proof of Work Simple Explanation: How Blockchain Consensus Works"
 description: "A proof of work simple explanation of how miners compete to propose blocks, how peers verify them, and what this consensus mechanism can and cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work simple explanation"]

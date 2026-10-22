@@ -3,8 +3,6 @@ title: "Easiest crypto to mine on iphone: what the claim means"
 description: "Easiest crypto to mine on iphone: learn what real proof-of-work participation means, how app claims differ, and what evidence to check before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["easiest crypto mine on iphone"]

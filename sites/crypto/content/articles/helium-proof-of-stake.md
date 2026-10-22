@@ -3,8 +3,6 @@ title: "Helium proof of stake: what the term means for Helium’s network"
 description: "Explore what “helium proof of stake” means, how Helium’s documented network mechanisms work, and how to distinguish consensus from token staking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["helium proof stake"]

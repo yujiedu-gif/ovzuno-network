@@ -3,8 +3,6 @@ title: "BNB Crypto: Operational, Security, and Compliance Considerations"
 description: "An operational guide to BNB crypto for teams assessing system dependencies, custody, security controls, compliance questions, and jurisdiction-specific evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

@@ -3,8 +3,6 @@ title: "AVAX Validator Node: Role, Requirements, and Operating Risks"
 description: "Learn what an avax validator node does in Avalanche consensus, what operators need to verify about setup and risks, and where current network rules matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

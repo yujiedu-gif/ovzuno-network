@@ -3,8 +3,6 @@ title: "Chia crypto mining: how proof of space and time works"
 description: "Learn how chia crypto mining uses plotted storage, proof of space, and proof of time, and why the process is commonly called farming."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

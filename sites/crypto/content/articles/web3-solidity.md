@@ -3,8 +3,6 @@ title: "Web3 Solidity: How Solidity Fits Into Decentralized Applications"
 description: "Web3 solidity explained: see how Solidity smart contracts fit into decentralized applications, how users interact with them, and where its role ends."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

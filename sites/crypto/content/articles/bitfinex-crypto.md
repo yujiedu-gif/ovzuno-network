@@ -3,8 +3,6 @@ title: "Bitfinex crypto: exchange infrastructure and operating functions"
 description: "Explore Bitfinex crypto exchange functions and infrastructure, and learn which service, access, security, and compliance details require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

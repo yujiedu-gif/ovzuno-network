@@ -3,8 +3,6 @@ title: "pi network crypto: Mining, Participation, and Consensus Explained"
 description: "Learn what pi network crypto means by mining, how app-based participation is described, and how its stated consensus approach differs from proof of work."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

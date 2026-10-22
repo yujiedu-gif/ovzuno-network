@@ -3,8 +3,6 @@ title: "Domain Pay with Crypto: How Domain Payments Work"
 description: "Learn how domain pay with crypto may work at checkout, what to verify about payment terms, registration details, refunds, and records before paying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

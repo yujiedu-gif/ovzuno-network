@@ -3,8 +3,6 @@ title: "New blockchain payment system: how payment flows and design choices work
 description: "Learn how a new blockchain payment system can move, verify, and settle payments, and which design choices shape access, privacy, governance, and risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cryptocurrency Charts: Meaning, Metrics, and Operational Limits"
 description: "Learn what cryptocurrency charts can show in security and operations, how to read their metrics, and why context and verification matter before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

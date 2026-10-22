@@ -3,8 +3,6 @@ title: "Getting Paid in Crypto: Meaning, Tax, and Reporting Questions"
 description: "Understand what getting paid in crypto means, which transaction details to record, and why tax and reporting treatment depends on local rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["get paid in crypto"]

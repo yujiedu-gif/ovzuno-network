@@ -3,8 +3,6 @@ title: "Unraid crypto mining: what it means and how it fits proof of work"
 description: "Understand unraid crypto mining as a software-hosting setup, how it relates to proof-of-work consensus, and which compatibility and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

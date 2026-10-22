@@ -3,8 +3,6 @@ title: "Crypto Asset Management Firm: Roles, Wallets, and Custody"
 description: "Learn what a crypto asset management firm may do, how wallet and custody roles differ, and which operational questions to clarify before evaluating one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

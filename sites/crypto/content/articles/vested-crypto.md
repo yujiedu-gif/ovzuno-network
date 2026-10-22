@@ -3,8 +3,6 @@ title: "Vested crypto: How token vesting schedules work"
 description: "Learn what vested crypto means, how token vesting schedules distinguish allocated from unlocked tokens, and which schedule details readers should check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto vesting", "token vesting", "vesting schedule"]

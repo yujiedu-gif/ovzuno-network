@@ -3,8 +3,6 @@ title: "Bitcoin malleability: transaction IDs, effects, and system risks"
 description: "Understand bitcoin malleability, how transaction identifiers can change without changing a payment’s effect, and why dependent Bitcoin systems must account for it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

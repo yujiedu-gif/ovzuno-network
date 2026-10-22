@@ -3,8 +3,6 @@ title: "OnlyFans Token Crypto: What the Name Does—and Doesn’t—Prove"
 description: "Learn what “onlyfans token crypto” may describe, why the name alone does not prove an official connection, and what evidence to check before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

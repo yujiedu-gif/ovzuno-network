@@ -3,8 +3,6 @@ title: "Blockchain and Cryptocurrency: How They Differ and Relate"
 description: "Understand blockchain and cryptocurrency as distinct concepts, how they can work together in payment systems, and where their roles differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain cryptocurrency"]

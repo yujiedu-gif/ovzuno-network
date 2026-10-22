@@ -3,8 +3,6 @@ title: "Green crypto tokens: what environmental claims mean and how to assess th
 description: "Learn what green crypto tokens may claim, how token purpose differs from network impacts, and what evidence and limitations to examine before relying on those claims"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["green token crypto"]

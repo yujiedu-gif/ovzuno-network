@@ -3,8 +3,6 @@ title: "DeFi Coin Exchange: How Decentralized Trading Infrastructure Works"
 description: "Learn how a DeFi coin exchange handles trade instructions, liquidity, execution, and settlement, and how its control points differ from centralized platforms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

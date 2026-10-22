@@ -3,8 +3,6 @@ title: "ftx crypto tom brady: What the public association tells readers"
 description: "Explore the documented ftx crypto tom brady association, its public-facing role, and what an endorsement does—and does not—establish about exchange operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

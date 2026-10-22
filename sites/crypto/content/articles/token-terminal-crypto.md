@@ -3,8 +3,6 @@ title: "token terminal crypto: What It Is and How to Read Protocol Metrics"
 description: "Learn what token terminal crypto refers to, how protocol data platforms present metrics, and what to check about definitions, sources, and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockonomics Bitcoin Payments: How the Service Fits into a Payment Flow"
 description: "Understand how Blockonomics bitcoin payments may fit into a business payment flow, what Bitcoin settlement means, and which product details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["blockonomics bitcoin payment"]

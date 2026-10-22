@@ -3,8 +3,6 @@ title: "Mobile Miner Cryptocurrency: What Phones Can and Cannot Do"
 description: "Learn what mobile miner cryptocurrency means, how phone-based proof-of-work differs from app-mediated activity, and which technical limits to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

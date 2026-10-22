@@ -3,8 +3,6 @@ title: "Faucet crypto mining: how faucets differ from proof-of-work mining"
 description: "Learn what faucet crypto mining may refer to, how crypto faucets distribute rewards, and why faucet use is not the same as proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

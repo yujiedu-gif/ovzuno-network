@@ -3,8 +3,6 @@ title: "Transaction per second blockchain: what TPS measures"
 description: "Learn what transaction per second blockchain figures count, how test conditions affect reported TPS, and why throughput alone does not show payment performance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain transaction per second"]

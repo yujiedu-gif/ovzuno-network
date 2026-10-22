@@ -3,8 +3,6 @@ title: "Vesting in crypto: How token release schedules work"
 description: "Learn what vesting in crypto means, how token release schedules work, and what cliffs, vesting periods, and transfer restrictions can tell you."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

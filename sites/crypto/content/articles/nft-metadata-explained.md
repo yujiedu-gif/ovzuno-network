@@ -3,8 +3,6 @@ title: "NFT Metadata Explained: What It Contains and How It Relates to a Token"
 description: "NFT metadata explained: learn what information an NFT may reference, how metadata differs from token data and media, and what to check about retrieval and storage."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft metadata"]

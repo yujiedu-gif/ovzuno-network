@@ -3,8 +3,6 @@ title: "Fungible digital asset: interchangeability and tokenized asset rights"
 description: "Learn what makes a fungible digital asset interchangeable, how it differs from a unique token, and why token design does not alone establish asset rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

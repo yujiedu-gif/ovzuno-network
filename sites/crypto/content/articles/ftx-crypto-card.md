@@ -3,8 +3,6 @@ title: "FTX crypto card: what it was and what to verify"
 description: "Learn what the FTX crypto card was described to do, how it was intended to link crypto balances with card spending, and what status claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

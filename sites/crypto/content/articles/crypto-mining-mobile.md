@@ -3,8 +3,6 @@ title: "Crypto mining mobile: what smartphones can and cannot do"
 description: "Learn what crypto mining mobile means, how phone-based proof-of-work differs from mining simulations, and which technical limits affect feasibility."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["mobile crypto mining"]

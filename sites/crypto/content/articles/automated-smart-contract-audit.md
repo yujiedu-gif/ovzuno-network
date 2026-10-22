@@ -3,8 +3,6 @@ title: "Automated Smart Contract Audit: What It Can and Cannot Show"
 description: "An automated smart contract audit can identify certain code risks, but its findings depend on analysis methods, scope, assumptions, and human review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

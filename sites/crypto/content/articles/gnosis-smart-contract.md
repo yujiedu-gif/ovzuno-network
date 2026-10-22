@@ -3,8 +3,6 @@ title: "Gnosis smart contract: how contracts work on Gnosis Chain"
 description: "Learn what a gnosis smart contract means in the context of Gnosis Chain, how contracts are deployed and used, and which network details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Gnosis Chain", "smart contract deployment", "EVM-compatible network"]

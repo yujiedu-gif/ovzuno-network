@@ -3,8 +3,6 @@ title: "Yieldly crypto: meaning and terminology"
 description: "Learn what Yieldly crypto refers to, how the name differs from general crypto yield farming, and which current project details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

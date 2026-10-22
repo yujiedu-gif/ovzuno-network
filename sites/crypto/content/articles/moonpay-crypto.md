@@ -3,8 +3,6 @@ title: "MoonPay Crypto: Understanding Its Role in Digital-Asset Payments"
 description: "Understand moonpay crypto, its potential role in moving between traditional payment methods and digital assets, and what operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

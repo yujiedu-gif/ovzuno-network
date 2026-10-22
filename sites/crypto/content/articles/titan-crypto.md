@@ -3,8 +3,6 @@ title: "Titan crypto: meaning and institutional treasury context"
 description: "Understand what titan crypto may refer to, how to verify an entity or product, and what evidence is needed before linking it to institutional treasury operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["titan of crypto"]

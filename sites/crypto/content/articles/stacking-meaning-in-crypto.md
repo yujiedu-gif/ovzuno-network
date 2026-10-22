@@ -3,8 +3,6 @@ title: "Stacking Meaning in Crypto: Is It Different From Staking?"
 description: "Learn the stacking meaning in crypto, why it may be confused with staking, and how context helps distinguish a spelling mistake from a separate usage."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["stacking in crypto"]

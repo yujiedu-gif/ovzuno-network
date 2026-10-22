@@ -3,8 +3,6 @@ title: "Blockchain Standard: Meaning, Purpose, and Scope"
 description: "A blockchain standard is a shared specification for compatible systems. Learn what standards define, how they differ from protocols, and where they matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain standards"]

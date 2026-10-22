@@ -3,8 +3,6 @@ title: "WooCommerce crypto gateway: integration and store-operation essentials"
 description: "Learn how a WooCommerce crypto gateway connects checkout to payment status and settlement, and what store operators should verify before enabling it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

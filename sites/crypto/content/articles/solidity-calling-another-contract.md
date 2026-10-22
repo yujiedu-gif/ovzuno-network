@@ -3,8 +3,6 @@ title: "Solidity calling another contract: interfaces, execution, and failure be
 description: "Learn how Solidity calling another contract works through interfaces, including target addresses, arguments, return values, and how failed calls affect execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["interface", "external function call", "return values", "revert propagation"]

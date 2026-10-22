@@ -3,8 +3,6 @@ title: "Explain Crypto to Complete Beginners: Assets, Networks, and Risks"
 description: "Explain crypto to complete beginners: learn what crypto assets and protocols are, how they interact, and what risks and limits to understand before exploring."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["explain crypto complete beginners"]

@@ -3,8 +3,6 @@ title: "Factory Smart Contract: How On-Chain Contract Factories Work"
 description: "Learn what a factory smart contract does, how it deploys and tracks contract instances, and which design and security trade-offs builders should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["contract factory pattern", "Solidity contract deployment"]

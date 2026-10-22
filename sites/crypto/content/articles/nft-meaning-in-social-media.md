@@ -3,8 +3,6 @@ title: "NFT Meaning in Social Media: What the Term Refers To"
 description: "Understand nft meaning in social media, including the difference between an NFT’s blockchain record, the media it may represent, and platform display."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft in social media"]

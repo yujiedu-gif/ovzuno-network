@@ -3,8 +3,6 @@ title: "Crypto Vault Token: What It Represents in an On-Chain Vault"
 description: "Learn what a crypto vault token may represent, how it can relate to vault shares and underlying assets, and which protocol mechanics to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

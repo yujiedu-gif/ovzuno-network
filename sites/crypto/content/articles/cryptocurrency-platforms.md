@@ -3,8 +3,6 @@ title: "Cryptocurrency platforms: roles in crypto market infrastructure"
 description: "Learn how cryptocurrency platforms fit into crypto market infrastructure, what functions they may connect, and which operational details require local verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

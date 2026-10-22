@@ -3,8 +3,6 @@ title: "L1 L2 Crypto: How the Layers Relate to Payments"
 description: "Learn what l1 l2 crypto means in payment contexts, how Layer 1 and Layer 2 roles can differ, and what to check before interpreting a transaction flow."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["1 2 crypto"]

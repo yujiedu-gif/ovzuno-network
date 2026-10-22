@@ -3,8 +3,6 @@ title: "How to Accept Crypto Payments WooCommerce: Setup and Order Workflow"
 description: "Learn how to accept crypto payments woocommerce, configure checkout, verify order status, and plan refunds and reconciliation before enabling payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["accept crypto payment woocommerce"]

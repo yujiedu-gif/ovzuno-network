@@ -3,8 +3,6 @@ title: "Mineable crypto coins: what makes a cryptocurrency mineable?"
 description: "Learn what makes mineable crypto coins different, how mining-based consensus works, and how to verify whether an asset uses mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

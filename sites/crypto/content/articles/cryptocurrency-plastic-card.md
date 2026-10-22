@@ -3,8 +3,6 @@ title: "Cryptocurrency plastic card: what it is and how it works"
 description: "Learn what a cryptocurrency plastic card is, which parties may support it, and how a crypto-linked balance can be used for a physical card payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

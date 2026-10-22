@@ -3,8 +3,6 @@ title: "AVXT crypto: how to identify the asset or protocol"
 description: "Learn how to verify what AVXT crypto refers to, distinguish an asset from a protocol, and assess what project details are supported by evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

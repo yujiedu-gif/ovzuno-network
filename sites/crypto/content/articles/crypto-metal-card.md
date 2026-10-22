@@ -3,8 +3,6 @@ title: "Crypto metal card: what the material means and what it does not"
 description: "A crypto metal card combines a metal physical card with a crypto-linked payment product; learn what the material signifies and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "ViaBTC Crypto Mining Pool: How Participation and Rewards Work"
 description: "Learn how the ViaBTC crypto mining pool coordinates contributed work and reward accounting, and what current operating terms participants should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

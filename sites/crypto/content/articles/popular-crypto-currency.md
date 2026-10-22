@@ -3,8 +3,6 @@ title: "Popular crypto currency: what popularity measures and what it does not"
 description: "Learn what “popular crypto currency” can mean, which observable indicators may describe attention and market activity, and why they do not prove quality or safety."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "WL Crypto Payments: What the Term Means for Businesses"
 description: "Learn what wl crypto payments may mean, how white-label branding differs from underlying crypto payment infrastructure, and what businesses should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["wl crypto payment"]

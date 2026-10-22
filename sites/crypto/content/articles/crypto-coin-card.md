@@ -3,8 +3,6 @@ title: "Crypto coin card: what it is and how payments work"
 description: "Learn what a crypto coin card is, how a card purchase may involve crypto or fiat balances, and which product and jurisdiction details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

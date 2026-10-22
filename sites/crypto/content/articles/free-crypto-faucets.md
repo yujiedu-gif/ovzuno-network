@@ -3,8 +3,6 @@ title: "Free crypto faucets: how distributions differ from mining"
 description: "Learn what free crypto faucets are, how small distributions differ from mining rewards, and which service, privacy, and security details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

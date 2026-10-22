@@ -3,8 +3,6 @@ title: "Cold card crypto: how cold storage relates to card spending"
 description: "Learn what cold card crypto can mean, how cold storage differs from card spending, and which custody, authorization, and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

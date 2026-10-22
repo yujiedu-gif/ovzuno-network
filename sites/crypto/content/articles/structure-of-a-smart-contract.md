@@ -3,8 +3,6 @@ title: "Structure of a smart contract: its main components"
 description: "Explore the structure of a smart contract, including its logic, stored state, callable functions, events, and how implementation details vary by platform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract structure", "structure smart contract"]

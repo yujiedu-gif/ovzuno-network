@@ -3,8 +3,6 @@ title: "Axie marketplace nft: How the Axie NFT marketplace works"
 description: "Learn what the axie marketplace nft refers to, how Axie-related NFTs are listed and transferred, and what a blockchain ownership record does and does not show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["axie nft marketplace"]

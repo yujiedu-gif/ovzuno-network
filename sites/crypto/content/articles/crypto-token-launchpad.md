@@ -3,8 +3,6 @@ title: "Crypto Token Launchpad: Roles, Workflow, and Limits"
 description: "Learn what a crypto token launchpad may do, how its role fits into a token release, and which platform, security, and compliance details need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto token launchpads"]

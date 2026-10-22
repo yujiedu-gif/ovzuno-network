@@ -3,8 +3,6 @@ title: "Crypto hub reviews: how to assess service, regulation, and tax claims"
 description: "Learn how to assess crypto hub reviews, check claims about services and operating models, and treat regulation and tax statements as jurisdiction-dependent."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["regulation_tax_reporting"]
 tags: []

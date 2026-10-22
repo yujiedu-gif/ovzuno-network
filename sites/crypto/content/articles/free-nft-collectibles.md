@@ -3,8 +3,6 @@ title: "Free NFT Collectibles: What “Free” Means and What to Check"
 description: "Learn what free NFT collectibles may include, why a zero-price offer can still involve costs or conditions, and what ownership and security details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

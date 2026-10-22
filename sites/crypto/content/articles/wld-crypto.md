@@ -3,8 +3,6 @@ title: "WLD crypto: What the token is and how it relates to World"
 description: "Learn what wld crypto refers to, how the token relates to the World ecosystem, and how to distinguish it from World ID and other project components."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Curve DAO Crypto: How Governance and Proposals Work"
 description: "Learn how Curve DAO crypto governance connects participation, proposals, voting, and implementation, and what readers should verify before interpreting a vote."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["Curve DAO", "CRV governance", "Curve Finance governance"]

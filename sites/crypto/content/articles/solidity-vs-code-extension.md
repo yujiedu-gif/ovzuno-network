@@ -3,8 +3,6 @@ title: "Solidity vs code extension: compare features and project fit"
 description: "Compare the solidity vs code extension landscape by language features, workflow fit, and compatibility checks to help assess options for Solidity projects."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["smart_contract_dapps"]
 tags: ["solidity vscode extension", "solidity code extension"]

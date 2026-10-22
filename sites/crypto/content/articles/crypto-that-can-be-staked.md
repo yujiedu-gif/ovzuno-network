@@ -3,8 +3,6 @@ title: "Crypto That Can Be Staked: Network Eligibility and Participation"
 description: "Learn what makes crypto that can be staked eligible, how validator and delegation rules differ, and what to verify in network documentation before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["staking eligibility", "proof-of-stake networks", "validator requirements"]

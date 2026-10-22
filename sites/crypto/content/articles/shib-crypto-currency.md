@@ -3,8 +3,6 @@ title: "Shib crypto currency: what SHIB is and how it fits its ecosystem"
 description: "Learn what shib crypto currency refers to, how SHIB is classified, and how the token relates to the wider Shiba Inu ecosystem and its terminology."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Shiba Inu token", "SHIB token", "Ethereum ERC-20 token"]

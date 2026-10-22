@@ -3,8 +3,6 @@ title: "How Companies Accept Cryptocurrency: Operating Models and Trade-offs"
 description: "Learn how companies accept cryptocurrency through different operating models, compare key business trade-offs, and identify questions to verify before adoption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["crypto_payments"]
 tags: []

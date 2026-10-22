@@ -3,8 +3,6 @@ title: "Crypto liquidity farming: exchange incentives and infrastructure"
 description: "Understand crypto liquidity farming in exchange infrastructure: how incentives may be structured, how it differs from adjacent mechanisms, and which risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

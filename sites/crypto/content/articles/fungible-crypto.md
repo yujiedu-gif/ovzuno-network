@@ -3,8 +3,6 @@ title: "Fungible crypto: how interchangeability works in protocols"
 description: "Learn what fungible crypto means, how protocols support interchangeable units, and why transaction history, controls, or asset design can affect practical use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

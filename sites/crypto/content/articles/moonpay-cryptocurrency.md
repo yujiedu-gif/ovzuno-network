@@ -3,8 +3,6 @@ title: "MoonPay Cryptocurrency: Services, Flows, and What to Verify"
 description: "Understand what MoonPay cryptocurrency services may cover, how a purchase or sale flow works at a high level, and which details to verify for your location."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

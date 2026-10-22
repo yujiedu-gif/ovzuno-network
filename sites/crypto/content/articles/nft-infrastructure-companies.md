@@ -3,8 +3,6 @@ title: "NFT Infrastructure Companies: Services Behind NFT Applications"
 description: "Learn what nft infrastructure companies provide, how blockchain access, storage, indexing, and developer tools fit together, and what teams should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT infrastructure", "NFT storage", "NFT indexing", "NFT developer tools"]

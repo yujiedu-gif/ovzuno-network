@@ -3,8 +3,6 @@ title: "Chinese Crypto Coin: Meaning, China Links, and Consensus"
 description: "Learn what “Chinese crypto coin” can mean, how to verify a project's claimed China connection, and why geography alone does not establish its consensus design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

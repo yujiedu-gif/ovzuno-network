@@ -3,8 +3,6 @@ title: "How to claim free crypto: verify offers and protect your wallet"
 description: "Learn how to claim free crypto by checking an offer, understanding wallet and transaction requests, and spotting warning signs before you proceed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["claim free crypto"]

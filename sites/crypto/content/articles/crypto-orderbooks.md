@@ -3,8 +3,6 @@ title: "Crypto orderbooks: structure, updates, and matching"
 description: "Explore crypto orderbooks as exchange infrastructure: how bids and asks represent market state, how updates and matching relate, and what the book omits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

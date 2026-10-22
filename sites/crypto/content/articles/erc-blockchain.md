@@ -3,8 +3,6 @@ title: "ERC blockchain: what ERC means in Ethereum"
 description: "Understand what “ERC blockchain” refers to, how Ethereum Request for Comment standards work, and why ERC standards are not blockchains themselves."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

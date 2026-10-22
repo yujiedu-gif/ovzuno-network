@@ -3,8 +3,6 @@ title: "Cryptocurrency freedom: meaning and limits in payments"
 description: "Learn what cryptocurrency freedom can mean for making and receiving payments, and why access, privacy, intermediaries, and legal limits can qualify it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

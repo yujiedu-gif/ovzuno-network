@@ -3,8 +3,6 @@ title: "Framework blockchain: meaning in payment-system design"
 description: "Learn what framework blockchain means for payment-system design, which components it brings together, and how it differs from a network or application."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain framework"]

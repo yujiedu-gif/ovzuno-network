@@ -3,8 +3,6 @@ title: "Solidity Import Contract: How Source-File Imports Work"
 description: "Learn how a Solidity import contract makes declarations from another source file available, which import forms exist, and what to check when resolution fails."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity import statement", "importing contracts in Solidity", "Solidity source units"]

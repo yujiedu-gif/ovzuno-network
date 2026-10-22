@@ -3,8 +3,6 @@ title: "CoinsPaid crypto: meaning and business verification checks"
 description: "Understand what CoinsPaid crypto may refer to in payment infrastructure, how to separate general concepts from provider claims, and what businesses should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

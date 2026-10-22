@@ -3,8 +3,6 @@ title: "Partior Crypto: How Its Payment and Settlement Infrastructure Is Intende
 description: "Partior crypto explained: understand its stated role in cross-border payments and settlement infrastructure, how the model is described, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

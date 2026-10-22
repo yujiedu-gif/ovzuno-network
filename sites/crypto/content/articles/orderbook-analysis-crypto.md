@@ -3,8 +3,6 @@ title: "Orderbook Analysis Crypto: Reading Depth, Spreads, and Data Limits"
 description: "Learn how orderbook analysis crypto can describe visible spreads and depth, what snapshots may miss, and which data-quality checks keep conclusions bounded."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

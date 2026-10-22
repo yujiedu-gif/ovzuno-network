@@ -3,8 +3,6 @@ title: "Escrow Solidity: Modeling Deposits, Release, and Refund Conditions"
 description: "Learn how escrow Solidity logic can represent deposits, release, and refunds, and which authorization, asset-handling, and failure assumptions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

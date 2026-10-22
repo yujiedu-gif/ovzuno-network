@@ -3,8 +3,6 @@ title: "Blockchain Hybrid: Meaning, Components, and Architecture"
 description: "Learn what blockchain hybrid means, how public and permissioned components can work together, and what design trade-offs this architecture may involve."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["hybrid blockchains"]

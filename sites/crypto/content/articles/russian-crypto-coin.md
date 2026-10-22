@@ -3,8 +3,6 @@ title: "Russian Crypto Coin: How to Identify Its Consensus Model"
 description: "Learn what “russian crypto coin” may mean, why the phrase does not identify one asset, and how to check a named network’s consensus design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

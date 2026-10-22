@@ -3,8 +3,6 @@ title: "NFT Coin: Meaning, Tokens, and Digital Ownership"
 description: "Learn what nft coin can mean, how NFTs differ from fungible crypto coins, and why a token’s blockchain record is distinct from associated digital content or rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

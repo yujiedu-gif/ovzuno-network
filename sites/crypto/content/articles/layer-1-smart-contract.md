@@ -3,8 +3,6 @@ title: "Layer 1 Smart Contract: How It Executes on a Blockchain"
 description: "Learn what a layer 1 smart contract is, how the base blockchain processes calls and state changes, and what execution does—and does not—guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

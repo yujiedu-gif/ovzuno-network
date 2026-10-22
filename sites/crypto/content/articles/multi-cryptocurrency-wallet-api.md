@@ -3,8 +3,6 @@ title: "How to Integrate a multi cryptocurrency wallet api: A Technical Guide"
 description: "Learn how to evaluate and integrate a multi cryptocurrency wallet api, including key-control boundaries, transaction flows, testing, monitoring, and failure handling"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: []

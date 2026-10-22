@@ -3,8 +3,6 @@ title: "Rescue the Queen DAO: What the Name Refers To"
 description: "Understand what Rescue the Queen DAO may refer to, how to assess its identity and governance evidence, and which details remain unverified."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["rescue queen dao"]

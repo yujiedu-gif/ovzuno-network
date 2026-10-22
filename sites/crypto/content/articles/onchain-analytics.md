@@ -3,8 +3,6 @@ title: "Onchain Analytics: What It Means and What It Can Reveal"
 description: "Learn what onchain analytics means, how blockchain activity can be interpreted, and why transparent records still require careful context and caveats."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

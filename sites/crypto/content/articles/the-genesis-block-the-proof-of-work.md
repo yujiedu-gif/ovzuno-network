@@ -3,8 +3,6 @@ title: "The genesis block the proof of work: how a blockchain begins"
 description: "Learn how the genesis block the proof of work relates to a blockchain’s starting point, and how that first block differs from later mined blocks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["genesis block proof work"]

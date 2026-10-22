@@ -3,8 +3,6 @@ title: "Proof of Useful Work Blockchain: How the Consensus Idea Works"
 description: "Learn what proof of useful work blockchain means, how useful computation may relate to consensus, and which security assumptions depend on a specific design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof useful work blockchain"]

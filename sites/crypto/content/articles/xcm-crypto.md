@@ -3,8 +3,6 @@ title: "XCM Crypto: What Cross-Consensus Messaging Means"
 description: "Learn what xcm crypto refers to, how Cross-Consensus Messaging represents instructions between consensus systems, and why transport and execution matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

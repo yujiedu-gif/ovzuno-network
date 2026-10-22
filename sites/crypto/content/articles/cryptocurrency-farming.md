@@ -3,8 +3,6 @@ title: "Cryptocurrency farming: meaning, uses, and how it differs from mining"
 description: "Learn what cryptocurrency farming can mean, how the label is used across crypto contexts, and how to distinguish farming from mining and staking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

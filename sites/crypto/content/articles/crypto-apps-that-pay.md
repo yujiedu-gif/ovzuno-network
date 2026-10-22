@@ -3,8 +3,6 @@ title: "Crypto apps that pay: how rewards and payouts work"
 description: "Learn how crypto apps that pay may reward users, how payouts can work, and which eligibility, fees, security, and withdrawal terms to verify first."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto rewards apps", "crypto cashback apps", "earn cryptocurrency apps"]

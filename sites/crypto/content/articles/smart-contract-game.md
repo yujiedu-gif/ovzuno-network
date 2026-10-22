@@ -3,8 +3,6 @@ title: "Smart contract game: how blockchain logic fits into gameplay"
 description: "Learn how a smart contract game uses on-chain rules and assets, how player actions reach contracts, and what may still depend on off-chain systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

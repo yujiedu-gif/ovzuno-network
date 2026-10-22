@@ -3,8 +3,6 @@ title: "Crypto Wallet API Free: How to Evaluate and Prototype an Integration"
 description: "Learn how to evaluate a crypto wallet API free offer, check documented limits and security requirements, and plan a prototype before production use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: ["free crypto wallet API", "wallet API integration", "crypto wallet API security"]

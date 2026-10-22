@@ -3,8 +3,6 @@ title: "Smart Contracts in Python: Uses, Limits, and Development Workflows"
 description: "Learn where smart contracts in python fit in blockchain development, how Python can support testing and interaction, and what platform-specific limits to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Python smart contract development", "Python blockchain libraries", "smart contract testing"]

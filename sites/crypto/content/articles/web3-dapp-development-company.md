@@ -3,8 +3,6 @@ title: "How to Evaluate a web3 dapp development company for a Smart-Contract Pro
 description: "Learn how to assess a web3 dapp development company, define project requirements, review security and delivery evidence, and clarify ongoing responsibilities."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

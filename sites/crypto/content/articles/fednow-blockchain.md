@@ -3,8 +3,6 @@ title: "FedNow blockchain: Does the Federal Reserve payment service use blockcha
 description: "Learn whether the FedNow blockchain claim is accurate, how the U.S. instant payment service is structured, and how it differs from blockchain-based payments."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["FedNow Service", "blockchain payments", "instant payments"]

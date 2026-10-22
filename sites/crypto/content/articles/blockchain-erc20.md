@@ -3,8 +3,6 @@ title: "Blockchain ERC20: What the Token Standard Defines"
 description: "Learn what blockchain erc20 means, how the ERC-20 interface supports fungible tokens on Ethereum, and what the standard leaves to implementations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 token standard", "Ethereum smart contracts", "token contract interface", "fungible tokens"]

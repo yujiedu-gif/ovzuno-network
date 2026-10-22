@@ -3,8 +3,6 @@ title: "Syndica crypto: its documented role in staking and validator infrastruct
 description: "Learn what Syndica crypto refers to, how to assess documented links to staking and validator infrastructure, and what claims require independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

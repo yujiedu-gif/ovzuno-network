@@ -3,8 +3,6 @@ title: "Smart contracts for artists: uses, limits, and practical considerations"
 description: "Learn how smart contracts for artists can support digital-art transactions, what they cannot establish on their own, and which technical and legal limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contracts artists"]

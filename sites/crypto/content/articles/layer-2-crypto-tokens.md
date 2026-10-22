@@ -3,8 +3,6 @@ title: "Layer 2 Crypto Tokens: Roles, Networks, and Key Distinctions"
 description: "Learn what layer 2 crypto tokens are, how they may relate to network operations, and why token functions and security assumptions vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

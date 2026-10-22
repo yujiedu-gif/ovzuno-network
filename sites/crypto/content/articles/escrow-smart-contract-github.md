@@ -3,8 +3,6 @@ title: "How to assess an escrow smart contract github repository"
 description: "Learn how to assess an escrow smart contract github repository: trace its workflow, inspect tests and permissions, and identify review and deployment risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity escrow contract", "smart contract escrow example", "escrow contract repository"]

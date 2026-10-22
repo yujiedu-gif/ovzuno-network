@@ -3,8 +3,6 @@ title: "SLT crypto: how to identify the asset or project"
 description: "Learn how to identify what SLT crypto refers to by checking project documentation, network details, token identifiers, and the limits of available evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

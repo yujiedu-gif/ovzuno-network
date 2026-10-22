@@ -3,8 +3,6 @@ title: "How to Read a flash loan smart contract github Repository"
 description: "Learn how to inspect a flash loan smart contract github repository, trace its borrowing and repayment flow, and check code, dependencies, and security limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["flash loan contract example", "atomic transaction", "flash loan callback", "smart contract security"]

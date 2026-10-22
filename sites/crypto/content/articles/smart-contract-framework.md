@@ -3,8 +3,6 @@ title: "Smart Contract Framework: What It Does and How to Evaluate One"
 description: "Learn what a smart contract framework does, which development tasks it may support, and how to assess testing, tooling, security, and project fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract frameworks"]

@@ -3,8 +3,6 @@ title: "Alethea crypto: project, protocol, and token terminology explained"
 description: "Learn what Alethea crypto refers to, how project or protocol descriptions differ from token claims, and which current details need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

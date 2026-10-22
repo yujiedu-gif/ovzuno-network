@@ -3,8 +3,6 @@ title: "Zero Gas Blockchain: What “Gas-Free” Transactions Really Mean"
 description: "Learn what a zero gas blockchain claim means, how gas costs may be sponsored or abstracted, and what users and builders should verify before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["gasless transactions", "transaction fees", "gas sponsorship"]

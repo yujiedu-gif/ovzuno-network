@@ -3,8 +3,6 @@ title: "Now Accepting Cryptocurrency: What Businesses Need to Decide"
 description: "Learn what now accepting cryptocurrency means for a business, how payment handling choices shape operations, and what to verify before offering this option."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

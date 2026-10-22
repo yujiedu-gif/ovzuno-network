@@ -3,8 +3,6 @@ title: "Solidity bytes32 example: declaration, assignment, and use"
 description: "A Solidity bytes32 example showing declaration, assignment, and function use, with concise notes on fixed-size values, conversions, and interpretation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["bytes32 solidity example"]

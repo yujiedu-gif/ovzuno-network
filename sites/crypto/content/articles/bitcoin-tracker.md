@@ -3,8 +3,6 @@ title: "Bitcoin tracker: price monitoring and on-chain data explained"
 description: "Learn what a bitcoin tracker can monitor, how price tools differ from on-chain explorers, and what to check before relying on displayed data."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin price tracker", "Bitcoin transaction tracker", "blockchain explorer"]

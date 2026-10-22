@@ -3,8 +3,6 @@ title: "Ethereum Explorer: What It Is and What It Shows"
 description: "Learn what an ethereum explorer is, which Ethereum blockchain records it can display, and why visible on-chain data does not explain every event."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

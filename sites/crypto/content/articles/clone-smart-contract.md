@@ -3,8 +3,6 @@ title: "Clone smart contract: how minimal proxies work"
 description: "Learn how a clone smart contract delegates calls to shared implementation logic, how clone storage and initialization work, and what developers should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["minimal proxy", "EIP-1167", "contract cloning"]

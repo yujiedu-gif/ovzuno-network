@@ -3,8 +3,6 @@ title: "Crypto Gas Fees Explained: What They Pay For and Why They Change"
 description: "Crypto gas fees explained: learn what transaction fees pay for, how gas relates to network work, and why costs can change with demand and protocol rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto gas fee"]

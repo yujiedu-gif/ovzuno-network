@@ -3,8 +3,6 @@ title: "api3 web3: How API3 Connects Data Sources to Smart Contracts"
 description: "Learn how api3 web3 connects external data sources with smart contracts, what role API3’s oracle architecture plays, and which design limits builders should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["API3 first-party oracles", "Airnode"]

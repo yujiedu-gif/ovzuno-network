@@ -3,8 +3,6 @@ title: "Solidity Developer Survey: Meaning, Scope, and Interpretation"
 description: "A solidity developer survey gathers responses about Solidity developers and their work. Learn what such surveys can cover and how to interpret their scope."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solidity survey"]

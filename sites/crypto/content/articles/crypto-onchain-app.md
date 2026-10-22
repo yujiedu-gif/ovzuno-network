@@ -3,8 +3,6 @@ title: "Crypto onchain app design for DAO governance workflows"
 description: "Learn how a crypto onchain app can support DAO governance workflows, what components and operational limits matter, and what teams should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["onchain crypto app"]

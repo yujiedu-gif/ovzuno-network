@@ -3,8 +3,6 @@ title: "Blockchain software in payment systems: components and roles"
 description: "See how blockchain software supports payment flows, from user interfaces and transaction submission to network validation, confirmation, and operational controls."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["block chain software"]

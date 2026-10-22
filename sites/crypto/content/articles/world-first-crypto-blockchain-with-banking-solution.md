@@ -3,8 +3,6 @@ title: "How to Assess a World First Crypto Blockchain with Banking Solution Clai
 description: "Assess a world first crypto blockchain with banking solution claim by defining its terms, checking operational evidence, and separating proof from promotion."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Social crypto tokens: meaning, uses, and limitations"
 description: "Learn what social crypto tokens are, how projects may link them to community participation or creator access, and why rights and utility vary by project."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["social tokens", "creator tokens", "community tokens"]

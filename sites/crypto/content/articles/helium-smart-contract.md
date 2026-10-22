@@ -3,8 +3,6 @@ title: "Helium Smart Contract: Meaning, Architecture, and Network Role"
 description: "Learn what helium smart contract can mean, how Helium’s network architecture relates to blockchain contracts, and which details need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

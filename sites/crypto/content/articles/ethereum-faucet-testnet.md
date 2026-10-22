@@ -3,8 +3,6 @@ title: "Ethereum faucet testnet: what it is and how test ETH works"
 description: "Learn what an ethereum faucet testnet is, how it supplies test ETH for development, and why testnet tokens are not ordinary spendable assets."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum testnet faucet"]

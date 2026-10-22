@@ -3,8 +3,6 @@ title: "Proof of Stake Currencies: How Validators Participate in Consensus"
 description: "Learn what defines proof of stake currencies, how validators use staked assets in consensus, and which protocol-level risks readers should distinguish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake currencies"]

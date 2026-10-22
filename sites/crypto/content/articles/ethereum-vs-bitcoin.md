@@ -3,8 +3,6 @@ title: "ethereum vs bitcoin: Protocol Design and Use Cases Compared"
 description: "Compare ethereum vs bitcoin across protocol goals, transaction models, programmability, consensus, governance, and practical trade-offs without price predictions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereum bitcoin"]

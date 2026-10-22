@@ -3,8 +3,6 @@ title: "Solidity by example: how to read and adapt smart-contract snippets"
 description: "Solidity by example: learn how to read compact smart-contract snippets, trace their behavior, check assumptions, and identify limits before adapting code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

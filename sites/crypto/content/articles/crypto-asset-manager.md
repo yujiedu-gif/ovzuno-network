@@ -3,8 +3,6 @@ title: "Crypto Asset Manager: Institutional Role and Responsibilities"
 description: "Learn what a crypto asset manager may do for an institution, how the role relates to treasury policy and custody, and which duties depend on mandate and jurisdiction"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

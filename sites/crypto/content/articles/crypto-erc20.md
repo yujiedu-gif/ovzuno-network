@@ -3,8 +3,6 @@ title: "Crypto ERC20: What the Token Standard Defines"
 description: "Learn what crypto erc20 refers to, how the ERC-20 interface handles token transfers and allowances, and what the standard does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 token standard", "Ethereum token contract", "ERC-20 functions", "token allowance"]

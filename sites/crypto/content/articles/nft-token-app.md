@@ -3,8 +3,6 @@ title: "NFT Token App: Core Components and Design Choices"
 description: "Learn what an NFT token app does, how its interface, wallet, blockchain, and metadata components connect, and what builders should assess before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

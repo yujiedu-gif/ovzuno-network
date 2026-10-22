@@ -3,8 +3,6 @@ title: "Justice Department Cryptocurrency: Enforcement and Market Infrastructure
 description: "Justice department cryptocurrency enforcement explained: the DOJ’s criminal role, its distinction from financial regulators, and possible relevance to exchanges."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

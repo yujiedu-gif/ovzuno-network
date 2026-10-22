@@ -3,8 +3,6 @@ title: "McDonalds Accepting Crypto: How to Verify the Claim"
 description: "Learn how to verify claims about mcdonalds accepting crypto, distinguish official payment options from trials or third-party offers, and check scope."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["McDonald's crypto payments", "crypto payment acceptance at McDonald's"]

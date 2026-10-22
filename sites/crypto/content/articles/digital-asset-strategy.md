@@ -3,8 +3,6 @@ title: "Digital asset strategy: an institutional decision framework"
 description: "Learn how institutions can frame a digital asset strategy around objectives, governance, operating models, and risk questions before implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: ["digital assets strategy"]

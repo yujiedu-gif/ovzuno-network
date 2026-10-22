@@ -3,8 +3,6 @@ title: "Blockchain in hospitality: payment workflows and trade-offs"
 description: "Explore blockchain in hospitality payment workflows, potential operational benefits, practical limitations, and the local checks required before adoption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

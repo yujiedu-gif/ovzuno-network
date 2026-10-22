@@ -3,8 +3,6 @@ title: "Zed Run Smart Contract: What It Does and What It Does Not Show"
 description: "Learn what the zed run smart contract may establish about assets and interactions, how it differs from off-chain game services, and what evidence to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

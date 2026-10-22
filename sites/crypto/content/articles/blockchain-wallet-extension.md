@@ -3,8 +3,6 @@ title: "Blockchain Wallet Extension: How Browser Wallets Work"
 description: "Learn what a blockchain wallet extension does, how it connects a browser to wallet functions, and what to understand about permissions and security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["browser wallet extension", "wallet extension permissions", "extension wallet security"]

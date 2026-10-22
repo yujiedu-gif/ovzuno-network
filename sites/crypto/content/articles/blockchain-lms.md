@@ -3,8 +3,6 @@ title: "Blockchain LMS: Meaning, Functions, and Limits"
 description: "Learn what blockchain LMS means, how blockchain may support learning records or credential verification, and which functions usually belong to the learning system."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

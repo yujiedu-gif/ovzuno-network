@@ -3,8 +3,6 @@ title: "Zora smart contracts: what they refer to and how to verify them"
 description: "Learn what Zora smart contracts may refer to, how to identify the relevant network and contract address, and what evidence to check before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

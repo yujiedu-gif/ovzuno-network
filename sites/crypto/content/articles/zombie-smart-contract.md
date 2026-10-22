@@ -3,8 +3,6 @@ title: "Zombie Smart Contract: Meaning, Signals, and Limits"
 description: "Learn what a zombie smart contract may mean, how inactivity differs from abandonment, and which on-chain and project signals can—and cannot—show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

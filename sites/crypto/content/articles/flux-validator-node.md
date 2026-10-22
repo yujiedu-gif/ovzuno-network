@@ -3,8 +3,6 @@ title: "Flux validator node: role, requirements, and operator checks"
 description: "Learn what a Flux validator node may refer to, how to verify its network role and requirements, and which operational, security, and compliance details need checking"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Treasury NFT Details: What Organizations Should Examine"
 description: "Understand treasury NFT details, including what a token may represent, how custody and records matter, and which legal and accounting questions require review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

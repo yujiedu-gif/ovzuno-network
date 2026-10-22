@@ -3,8 +3,6 @@ title: "Matic Smart Contract: Meaning, Execution, and Network Context"
 description: "Learn what a matic smart contract refers to, how contract code executes on a Polygon network, and which network and address details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

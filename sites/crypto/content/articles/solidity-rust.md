@@ -3,8 +3,6 @@ title: "solidity rust: Comparing Languages for Smart-Contract Development"
 description: "Compare solidity rust for smart-contract and dApp development, including execution environments, tooling, team skills, and project-fit questions to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity vs Rust", "smart contract programming languages", "EVM", "Solana"]

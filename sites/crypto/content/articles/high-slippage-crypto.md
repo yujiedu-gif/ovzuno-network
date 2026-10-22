@@ -3,8 +3,6 @@ title: "High Slippage Crypto: Causes and Execution Mechanics"
 description: "Learn what high slippage crypto means, how execution price can diverge from expectations, which market and infrastructure factors contribute, and how it differs from"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

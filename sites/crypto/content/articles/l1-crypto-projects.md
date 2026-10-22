@@ -3,8 +3,6 @@ title: "L1 crypto projects: what the term means and how to identify them"
 description: "Learn what l1 crypto projects are, which blockchain functions define a Layer 1, and how to distinguish a base network from a Layer 2."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["1 crypto projects"]

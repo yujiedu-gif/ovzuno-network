@@ -3,8 +3,6 @@ title: "Minebase crypto: protocol, token, and evidence explained"
 description: "Explore minebase crypto through a source-led overview of its project identity, protocol and token mechanics, distinguishing documented details from unverified claims"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Spot vs perpetual crypto: regulation and tax-reporting considerations"
 description: "Compare spot vs perpetual crypto mechanics and the regulatory and tax-reporting questions to verify locally; outcomes depend on product terms and jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["regulation_tax_reporting"]
 tags: ["spot perpetual crypto"]

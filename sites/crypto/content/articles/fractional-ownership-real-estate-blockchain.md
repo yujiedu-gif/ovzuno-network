@@ -3,8 +3,6 @@ title: "Fractional ownership real estate blockchain: tokens, rights, and limits"
 description: "Learn how fractional ownership real estate blockchain models connect tokens to property interests, what the on-chain record shows, and which rights require separate"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

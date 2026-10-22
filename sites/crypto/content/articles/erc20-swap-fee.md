@@ -3,8 +3,6 @@ title: "ERC20 swap fee: understand the components of a token-swap cost"
 description: "Understand the ERC20 swap fee by separating network gas from possible app charges, liquidity effects, and price impact, with a clear estimation framework."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

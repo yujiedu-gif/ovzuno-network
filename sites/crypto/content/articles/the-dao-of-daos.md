@@ -3,8 +3,6 @@ title: "The DAO of DAOs: How Multiple DAOs Can Coordinate"
 description: "Learn what the DAO of DAOs means, how multiple autonomous organizations can coordinate decisions, and what trade-offs arise in shared governance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["dao daos"]

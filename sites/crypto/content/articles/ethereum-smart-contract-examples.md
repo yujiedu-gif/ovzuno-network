@@ -3,8 +3,6 @@ title: "Ethereum Smart Contract Examples: Common Uses and Limitations"
 description: "Explore ethereum smart contract examples by use case, from escrow and voting to decentralized finance, with a clear note on what each can and cannot do."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

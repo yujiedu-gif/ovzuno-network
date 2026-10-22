@@ -3,8 +3,6 @@ title: "Crypto You Can Stake: How to Check Asset Eligibility"
 description: "Learn how to identify crypto you can stake, distinguish native network staking from third-party products, and verify eligibility and conditions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

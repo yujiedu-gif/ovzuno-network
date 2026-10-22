@@ -3,8 +3,6 @@ title: "pos network crypto: How Staking and Validators Support Consensus"
 description: "See how staking relates to validator eligibility, consensus duties, and protocol rules in a pos network crypto system, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

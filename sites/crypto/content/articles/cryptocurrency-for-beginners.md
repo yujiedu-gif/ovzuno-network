@@ -3,8 +3,6 @@ title: "Cryptocurrency for Beginners: Security and Operating Basics"
 description: "Cryptocurrency for beginners: learn core operating concepts, security checks, and compliance questions to consider before using a crypto service."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["cryptocurrency beginners"]

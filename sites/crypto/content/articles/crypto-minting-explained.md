@@ -3,8 +3,6 @@ title: "Crypto Minting Explained: How Protocols Create Digital Assets"
 description: "Crypto minting explained: learn how protocols create and record digital assets, how minting differs from mining, and where issuance rules are defined."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto minting"]

@@ -3,8 +3,6 @@ title: "Long Blockchain Corp: What the Company Name Refers To"
 description: "Learn what Long Blockchain Corp refers to, how to distinguish its documented company history from blockchain technology, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

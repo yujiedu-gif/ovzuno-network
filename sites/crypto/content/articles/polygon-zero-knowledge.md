@@ -3,8 +3,6 @@ title: "Polygon zero knowledge: meaning, systems, and scaling role"
 description: "Learn what polygon zero knowledge can refer to, how proofs support Polygon-associated scaling systems, and which technical distinctions matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

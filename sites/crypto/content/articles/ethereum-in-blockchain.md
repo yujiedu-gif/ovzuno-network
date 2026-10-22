@@ -3,8 +3,6 @@ title: "Ethereum in Blockchain: Network, Platform, and ETH"
 description: "Understand ethereum in blockchain terms: distinguish the Ethereum network and its smart-contract platform from ether (ETH), its native crypto asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["ethereum blockchain"]

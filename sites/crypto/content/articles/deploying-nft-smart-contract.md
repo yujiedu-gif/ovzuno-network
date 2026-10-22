@@ -3,8 +3,6 @@ title: "Deploying NFT Smart Contract: A Practical Deployment Guide"
 description: "Learn the steps for deploying nft smart contract code, including network selection, configuration, testing, deployment, and post-deployment checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

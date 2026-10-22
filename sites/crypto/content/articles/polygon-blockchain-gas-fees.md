@@ -3,8 +3,6 @@ title: "Polygon blockchain gas fees: how transaction costs work"
 description: "Learn how Polygon blockchain gas fees are assessed, which transaction and network factors affect the amount, and what to check before confirming."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["polygon blockchain gas fee"]

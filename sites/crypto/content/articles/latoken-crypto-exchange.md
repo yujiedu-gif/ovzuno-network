@@ -3,8 +3,6 @@ title: "LATOKEN crypto exchange: services, infrastructure, and verification"
 description: "Explore the LATOKEN crypto exchange’s stated services and infrastructure, and learn which operational, regulatory, and risk details require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

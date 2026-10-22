@@ -3,8 +3,6 @@ title: "Monarch crypto: identifying the term in DAO governance"
 description: "Learn how to assess what “monarch crypto” refers to in a DAO-governance context, distinguish a name from evidence, and verify relevant project records."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["dao_governance"]
 tags: []

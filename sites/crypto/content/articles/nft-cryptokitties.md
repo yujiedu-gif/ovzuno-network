@@ -3,8 +3,6 @@ title: "NFT CryptoKitties: How the Digital Collectibles Relate to NFTs"
 description: "Learn how nft cryptokitties connect digital collectibles to NFTs, what a blockchain record can establish, and what it does not prove about related content."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

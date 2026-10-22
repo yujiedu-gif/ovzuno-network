@@ -3,8 +3,6 @@ title: "Crypto Cash Mining: Meaning, Proof of Work, and Network Rewards"
 description: "Learn what crypto cash mining can mean, how proof-of-work mining supports network consensus, and why protocol rewards are not guaranteed income."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

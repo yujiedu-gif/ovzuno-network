@@ -3,8 +3,6 @@ title: "Miden blockchain: architecture and payment relevance"
 description: "Learn what the Miden blockchain is, how its architecture is described, and what readers should verify before assessing payment-related applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

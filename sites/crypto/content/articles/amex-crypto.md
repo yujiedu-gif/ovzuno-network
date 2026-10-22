@@ -3,8 +3,6 @@ title: "Amex crypto: meanings and card-payment infrastructure"
 description: "Explore what amex crypto can mean and how a crypto-linked card may connect its issuer, payment network, crypto provider, and merchant."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto credit cards", "American Express payment network", "crypto-linked card"]

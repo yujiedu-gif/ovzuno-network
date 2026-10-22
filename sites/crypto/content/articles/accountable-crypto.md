@@ -3,8 +3,6 @@ title: "Accountable crypto: records and controls for business payments"
 description: "Learn what accountable crypto means for business payments, which records and controls support review, and where jurisdiction-specific advice may be needed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto accountant"]

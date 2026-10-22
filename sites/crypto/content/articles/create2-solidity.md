@@ -3,8 +3,6 @@ title: "create2 solidity: How Deterministic Contract Addresses Work"
 description: "Learn how create2 solidity derives a deterministic contract address, which inputs affect the calculation, and why a predicted address does not guarantee deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto insurance for card programs: coverage, limits, and exclusions"
 description: "Learn how crypto insurance may apply to card programs, which parties and events policies cover, common exclusions, and what documents to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

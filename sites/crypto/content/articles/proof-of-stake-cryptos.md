@@ -3,8 +3,6 @@ title: "Proof of Stake Cryptos: A Guide to Validator Designs"
 description: "Learn how proof of stake cryptos differ in validator selection, stake participation, and protocol-level penalties, and what to verify in network documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake cryptos"]

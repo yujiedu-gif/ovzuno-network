@@ -3,8 +3,6 @@ title: "Solidity smart contract: How Code Becomes On-Chain Behavior"
 description: "Understand what a Solidity smart contract is, how compiled code runs when called, and why its on-chain state and execution environment matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

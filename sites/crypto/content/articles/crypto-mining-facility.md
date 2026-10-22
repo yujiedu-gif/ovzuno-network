@@ -3,8 +3,6 @@ title: "Crypto Mining Facility: Core Systems and How They Work"
 description: "Explore how a crypto mining facility brings together power, cooling, networking, monitoring, and maintenance to support proof-of-work mining operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work mining facility", "mining facility infrastructure"]

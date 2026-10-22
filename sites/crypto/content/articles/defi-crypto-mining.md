@@ -3,8 +3,6 @@ title: "DeFi crypto mining: what the term means and what it does not"
 description: "Learn what DeFi crypto mining may refer to, how it differs from proof-of-work consensus mining, and why reward-program terminology varies by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

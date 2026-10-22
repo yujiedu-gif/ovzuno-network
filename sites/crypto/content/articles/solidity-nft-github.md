@@ -3,8 +3,6 @@ title: "solidity nft github: How to Evaluate Repositories and Code"
 description: "Use this guide to assess solidity nft github repositories for relevance, licensing, dependencies, security signals, and safe testing before adapting code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["nft solidity github"]

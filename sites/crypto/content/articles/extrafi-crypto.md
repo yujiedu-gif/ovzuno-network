@@ -3,8 +3,6 @@ title: "ExtraFi Crypto: What It Means for Institutional Treasury Research"
 description: "Learn what extrafi crypto refers to, how to assess its connection to institutional treasury operations, and which project details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["institutional_crypto_treasury"]
 tags: []

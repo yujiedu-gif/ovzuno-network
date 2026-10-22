@@ -3,8 +3,6 @@ title: "World No 1 Crypto Exchange: What the Claim Actually Means"
 description: "Learn what “world no 1 crypto exchange” can mean, which metrics shape exchange rankings, and what evidence readers should check before trusting a claim."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

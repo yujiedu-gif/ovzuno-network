@@ -3,8 +3,6 @@ title: "What Is Crypto Mining? A Definition and Its Role in Proof of Work"
 description: "What is crypto mining? Learn how miners use computational work to propose blocks in proof-of-work networks and why the process matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["crypto mining"]

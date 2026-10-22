@@ -3,8 +3,6 @@ title: "Smart contract: meaning, execution, and limitations"
 description: "Learn what a smart contract is, how blockchain transactions trigger code and state changes, how contracts support dApps, and what their limits mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

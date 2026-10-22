@@ -3,8 +3,6 @@ title: "Smart Contract Rust: Meaning and Blockchain Context"
 description: "Learn what smart contract rust means, how Rust code can implement blockchain contract logic, and why execution depends on the target network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["rust smart contract"]

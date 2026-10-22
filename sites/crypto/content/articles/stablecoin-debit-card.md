@@ -3,8 +3,6 @@ title: "Stablecoin Debit Card: How Stablecoin-Funded Purchases Work"
 description: "Learn how a stablecoin debit card may fund a purchase, which payment and conversion steps can be involved, and what product details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

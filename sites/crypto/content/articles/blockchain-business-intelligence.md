@@ -3,8 +3,6 @@ title: "Blockchain Business Intelligence: Meaning, Uses, and Limits"
 description: "Learn what blockchain business intelligence means, how on-chain activity can inform organizational decisions, and why data interpretation requires care."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

@@ -3,8 +3,6 @@ title: "axio crypto: What Evidence Shows About Staking and Validators"
 description: "Find out what can be verified about axio crypto, including whether attributable project documentation describes staking, validators, or related risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["axios crypto"]

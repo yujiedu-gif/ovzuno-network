@@ -3,8 +3,6 @@ title: "Crypto Cash App: Meaning and How Crypto Payments Work"
 description: "Learn what a crypto cash app means, how an in-app cryptocurrency payment may flow, and which custody, network, and jurisdiction details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["cash app crypto"]

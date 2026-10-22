@@ -3,8 +3,6 @@ title: "Minereum BSC Web3 decentralized exchange: what can be verified"
 description: "An evidence-led guide to the Minereum BSC Web3 decentralized exchange, covering how to verify its identity, BSC deployment, documented mechanics, and unresolved gaps"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["Minereum BSC", "Web3 decentralized exchange", "BSC decentralized exchange"]

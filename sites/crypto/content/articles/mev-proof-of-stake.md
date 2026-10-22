@@ -3,8 +3,6 @@ title: "MEV Proof of Stake: How Value Extraction Affects Validators"
 description: "Understand MEV proof of stake: how transaction ordering and block construction shape validator incentives, user outcomes, and protocol design trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["mev proof stake"]

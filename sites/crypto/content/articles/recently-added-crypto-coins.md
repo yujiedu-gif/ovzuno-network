@@ -3,8 +3,6 @@ title: "Recently added crypto coins: what a new listing means"
 description: "Learn what recently added crypto coins means, how listings differ from token launches, and which official records can help verify a platform announcement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["newly listed crypto assets", "crypto coin listing criteria", "token launch vs exchange listing"]

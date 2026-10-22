@@ -3,8 +3,6 @@ title: "Blockchain NFT: What the Token and Its Record Mean"
 description: "Learn what a blockchain NFT is, how its token record relates to metadata and linked content, and what a blockchain entry does—and does not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

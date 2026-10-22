@@ -3,8 +3,6 @@ title: "Blockchain Exchange: Meaning in Payment Infrastructure"
 description: "Understand what blockchain exchange means in payment infrastructure, how value transfer differs from ledger recording, and what a transaction flow involves."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

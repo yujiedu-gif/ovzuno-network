@@ -3,8 +3,6 @@ title: "Blockchain Credit Card Processing: Where the Technologies Meet"
 description: "Understand blockchain credit card processing by separating conventional card authorization and settlement from possible blockchain roles, trade-offs, and open checks"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

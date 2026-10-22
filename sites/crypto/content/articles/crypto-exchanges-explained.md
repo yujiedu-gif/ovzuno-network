@@ -3,8 +3,6 @@ title: "Crypto Exchanges Explained: What They Do and How They Work"
 description: "Crypto exchanges explained: learn what exchanges do, how centralized and decentralized models differ, and what happens when users trade crypto assets."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto exchanges"]

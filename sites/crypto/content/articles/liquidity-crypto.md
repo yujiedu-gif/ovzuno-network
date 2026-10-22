@@ -3,8 +3,6 @@ title: "Liquidity Crypto Across Blockchain Networks: Models and Trade-Offs"
 description: "Learn how liquidity crypto systems make assets available across blockchain networks, compare common interoperability models, and assess key operational and security"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

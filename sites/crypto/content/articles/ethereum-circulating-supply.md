@@ -3,8 +3,6 @@ title: "Ethereum circulating supply: definition and measurement"
 description: "Learn what ethereum circulating supply measures, how it differs from total supply, and why reported estimates can vary by methodology and timestamp."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Smart contract audit pricing: factors that shape a project quote"
 description: "Understand what shapes smart contract audit pricing, which scope and deliverable details to compare, and how to request proposals without assuming a standard rate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["smart_contract_dapps"]
 tags: []

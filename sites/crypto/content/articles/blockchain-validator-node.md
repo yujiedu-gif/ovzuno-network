@@ -3,8 +3,6 @@ title: "Blockchain Validator Node: Roles, Duties, and Operations"
 description: "Learn what a blockchain validator node does, how it differs from a general node, and which protocol-specific duties and operational risks operators should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

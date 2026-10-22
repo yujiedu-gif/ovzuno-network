@@ -3,8 +3,6 @@ title: "Crypto pairing explained: meanings in trading and crypto technology"
 description: "Crypto pairing explained: learn what the term can mean in trading and crypto technology, how context changes its use, and what a pair does not imply."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto pairing"]

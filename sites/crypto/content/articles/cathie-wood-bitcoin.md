@@ -3,8 +3,6 @@ title: "Cathie Wood Bitcoin: Understanding the Public Connection"
 description: "Understand the Cathie Wood Bitcoin connection, how to assess attributed statements or activities, and why they are distinct from Bitcoin’s protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

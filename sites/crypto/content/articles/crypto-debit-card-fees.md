@@ -3,8 +3,6 @@ title: "Crypto debit card fees: types, triggers, and terms to check"
 description: "Understand crypto debit card fees by reviewing possible charges, when they may arise, and which provider terms to check before making a payment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto debit card fee"]

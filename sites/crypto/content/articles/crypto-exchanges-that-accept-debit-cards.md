@@ -3,8 +3,6 @@ title: "Crypto exchanges that accept debit cards: what to check before buying"
 description: "Use this checklist for crypto exchanges that accept debit cards to verify US eligibility, payment steps, disclosed costs, account checks, and key risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_cards_spending"]
 tags: ["crypto exchanges that accept debit card"]

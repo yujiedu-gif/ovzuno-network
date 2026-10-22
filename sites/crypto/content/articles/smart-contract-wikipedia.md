@@ -3,8 +3,6 @@ title: "Smart Contract Wikipedia: Definition, Execution, and Limitations"
 description: "Smart contract wikipedia explained: learn what blockchain smart contracts do, how execution works, and where their technical and practical limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contracts wikipedia"]

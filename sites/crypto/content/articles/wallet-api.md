@@ -3,8 +3,6 @@ title: "Wallet API Integration: A Practical Guide for Developers"
 description: "Learn how to evaluate and integrate a wallet API, from application requirements and transaction flows to key-management boundaries and operational checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["wallets_custody"]
 tags: []

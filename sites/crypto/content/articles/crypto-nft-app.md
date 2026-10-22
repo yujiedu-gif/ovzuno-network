@@ -3,8 +3,6 @@ title: "Crypto NFT App: How the Software and Ownership Records Relate"
 description: "Learn how a crypto NFT app connects user-facing features with blockchain records, and what those records do—and do not—establish about digital ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

@@ -3,8 +3,6 @@ title: "Turing Complete Smart Contracts: Meaning, Capabilities, and Limits"
 description: "Learn what turing complete smart contracts can express, how blockchain execution limits computation, and why theoretical capability does not mean unlimited execution"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

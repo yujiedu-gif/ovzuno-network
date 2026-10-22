@@ -3,8 +3,6 @@ title: "Blockchain simple: a plain-language definition"
 description: "Learn what blockchain simple means: a plain-language definition of a shared digital record, how payment entries are checked, and what the concept does not explain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["simple blockchain"]

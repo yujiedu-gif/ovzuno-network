@@ -3,8 +3,6 @@ title: "Citi Crypto Custody: Security Controls Institutions Should Assess"
 description: "Assess citi crypto custody through institutional control questions on key management, approvals, operational resilience, oversight, and evidence to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["institutional_crypto_treasury"]
 tags: []

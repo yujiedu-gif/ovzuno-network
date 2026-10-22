@@ -3,8 +3,6 @@ title: "Run Validator Node: Operations, Requirements, and Risks"
 description: "Learn what it takes to run validator node infrastructure, including protocol requirements, operations, monitoring, and risks that vary by network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

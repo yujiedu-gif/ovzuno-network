@@ -3,8 +3,6 @@ title: "Georgia Crypto Mining: Meaning and Operating Context"
 description: "Learn what georgia crypto mining means, how proof-of-work mining operates, and why claims about local facilities, rules, costs, or access need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

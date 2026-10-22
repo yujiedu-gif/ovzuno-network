@@ -3,8 +3,6 @@ title: "Balancer crypto: security and compliance considerations for operators"
 description: "A neutral guide to Balancer crypto security, integration risks, and compliance questions, with a checklist of evidence operators should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: ["Balancer protocol security", "Balancer smart contracts", "decentralized exchange operations"]

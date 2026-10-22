@@ -3,8 +3,6 @@ title: "Proof of stake raspberry pi: node and validator feasibility"
 description: "Assess proof of stake raspberry pi feasibility by separating node and validator roles, checking network hardware requirements, and weighing operational limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake raspberry pi"]

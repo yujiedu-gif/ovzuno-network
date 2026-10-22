@@ -3,8 +3,6 @@ title: "Polymesh blockchain: architecture, identity, and regulated assets"
 description: "Learn how the Polymesh blockchain is designed around identity and regulated assets, what its technical features mean, and which claims require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Making smart contracts smarter: capabilities, connections, and tradeoffs
 description: "Learn how making smart contracts smarter can involve external data, computation, and automation—and examine the trust assumptions, failure modes, and design trade"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

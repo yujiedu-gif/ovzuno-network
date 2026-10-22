@@ -3,8 +3,6 @@ title: "Gaming Token Crypto: Roles and Design in Game Economies"
 description: "Gaming token crypto describes digital assets used in game-related systems. Learn their possible roles, how they connect to game economies, and key design trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

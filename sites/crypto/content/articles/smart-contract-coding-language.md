@@ -3,8 +3,6 @@ title: "Smart Contract Coding Language: How to Choose One"
 description: "Learn how to choose a smart contract coding language by comparing platform compatibility, contract needs, developer experience, testing, and security review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract code language"]

@@ -3,8 +3,6 @@ title: "Golang Smart Contract: On-Chain Code, Clients, and Platform Support"
 description: "Learn what a golang smart contract can mean, how Go-based clients interact with contracts, and why on-chain language support depends on the platform."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

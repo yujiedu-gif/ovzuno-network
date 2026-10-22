@@ -3,8 +3,6 @@ title: "Blockchain graphic: What to show in a payment-flow diagram"
 description: "Learn what a blockchain graphic should show about payment initiation, network validation, recording, and settlement—and where a simplified visual may mislead."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain diagram", "blockchain payment flow"]

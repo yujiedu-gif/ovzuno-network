@@ -3,8 +3,6 @@ title: "etc proof of work: How Ethereum Classic Uses Mining Consensus"
 description: "Learn how etc proof of work supports Ethereum Classic block production, how miners contribute to consensus, and which network details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["etc proof work"]

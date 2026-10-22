@@ -3,8 +3,6 @@ title: "Proof of stake GitHub: how to inspect implementation repositories"
 description: "Learn how to use proof of stake github repositories to locate validator logic, staking rules, tests, and documentation while checking implementation evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake github"]

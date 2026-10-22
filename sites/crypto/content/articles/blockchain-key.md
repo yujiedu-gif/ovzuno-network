@@ -3,8 +3,6 @@ title: "Blockchain key: public and private keys explained"
 description: "Learn what a blockchain key is, how public and private keys differ, and how cryptographic signatures authorize transactions without exposing a private key."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["wallets_custody"]
 tags: ["key blockchain"]

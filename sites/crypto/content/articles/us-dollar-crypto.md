@@ -3,8 +3,6 @@ title: "US Dollar Crypto: Assets, Trading Pairs, and Exchange Infrastructure"
 description: "Learn what US dollar crypto can mean in exchange markets, how dollar-referenced assets differ from trading pairs, and where venue and settlement infrastructure fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

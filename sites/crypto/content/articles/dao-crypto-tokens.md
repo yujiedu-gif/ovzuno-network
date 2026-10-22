@@ -3,8 +3,6 @@ title: "DAO Crypto Tokens: Meaning, Governance, and Participation"
 description: "Learn what dao crypto tokens are, how token-based DAO governance may work, and why voting rights, participation rules, and control vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["dao token crypto"]

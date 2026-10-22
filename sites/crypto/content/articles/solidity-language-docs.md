@@ -3,8 +3,6 @@ title: "Solidity language docs: what they cover and how to navigate them"
 description: "Explore what the solidity language docs cover, how language and compiler references differ, and how to check version-specific details when researching Solidity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity documentation", "Solidity language reference", "Solidity compiler documentation"]

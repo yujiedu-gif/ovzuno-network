@@ -3,8 +3,6 @@ title: "Crypto scratch cards: formats, redemption, and checks"
 description: "Learn what crypto scratch cards may offer, how code-based redemption can work, and what to verify about terms, fees, security, and local rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto scratch card"]

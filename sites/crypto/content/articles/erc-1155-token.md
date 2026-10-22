@@ -3,8 +3,6 @@ title: "ERC 1155 token: How the Multi-Token Standard Works"
 description: "Learn what an ERC 1155 token is, how its multi-token model and batch operations work, and what developers should consider when implementing the standard."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

@@ -3,8 +3,6 @@ title: "DEX Blockchain: How Decentralized Exchange Trades Use On-Chain Infrastru
 description: "Learn how a dex blockchain supports decentralized exchange trades, from smart-contract instructions to settlement, and which steps may occur off-chain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["decentralized exchange", "DEX smart contracts", "on-chain trading"]

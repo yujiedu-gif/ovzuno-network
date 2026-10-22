@@ -3,8 +3,6 @@ title: "Blockchain Cloud Mining: How Remote Mining Services Work"
 description: "Learn what blockchain cloud mining means, how remote mining capacity is arranged, how it differs from self-operated hardware, and what claims to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["cloud mining blockchain"]

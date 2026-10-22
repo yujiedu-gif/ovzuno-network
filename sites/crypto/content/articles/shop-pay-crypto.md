@@ -3,8 +3,6 @@ title: "Shop Pay Crypto: What Shoppers and Merchants Should Know"
 description: "Learn what shop pay crypto means, how Shop Pay differs from a merchant’s separate crypto checkout, and what shoppers and merchants should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

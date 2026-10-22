@@ -3,8 +3,6 @@ title: "Cryptocurrency Data Mining: Consensus Mining vs. Data Analysis"
 description: "Learn what cryptocurrency data mining can mean, how proof-of-work consensus differs from analyzing crypto datasets, and why the distinction matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

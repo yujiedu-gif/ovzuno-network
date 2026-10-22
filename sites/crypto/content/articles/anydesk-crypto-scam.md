@@ -3,8 +3,6 @@ title: "AnyDesk Crypto Scam: Warning Signs and Safer Next Steps"
 description: "Learn warning signs of an AnyDesk crypto scam, steps to reduce remote-access exposure, preserve evidence, and find appropriate reporting channels."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["regulation_tax_reporting"]
 tags: []

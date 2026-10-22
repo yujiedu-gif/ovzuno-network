@@ -3,8 +3,6 @@ title: "How to send bitcoin: a careful wallet transfer guide"
 description: "Learn how to send bitcoin from a wallet by checking the recipient address, reviewing the amount and fee, confirming the transaction, and monitoring its status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["how to send bitcoins", "send bitcoin"]

@@ -3,8 +3,6 @@ title: "Blockchain NFT Crypto: How Ledgers, Tokens, and Payments Differ"
 description: "Learn how blockchain NFT crypto connects ledgers, NFT records, and payment assets, and where each fits in a digital transaction without conflating their roles."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["NFT on blockchain", "NFT metadata", "crypto payment"]

@@ -3,8 +3,6 @@ title: "Promise Crypto: What NFTs Can Establish About Digital Ownership"
 description: "Explore the promise crypto makes for digital ownership: what an NFT records, what it does not prove, and which rights depend on separate terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

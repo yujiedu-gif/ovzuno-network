@@ -3,8 +3,6 @@ title: "Crypto Liquidity Pairs: How Exchange Markets Are Structured"
 description: "Learn how crypto liquidity pairs identify base and quote assets, how pair-level volume and depth inform execution, and what those measures leave uncertain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

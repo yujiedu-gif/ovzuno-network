@@ -3,8 +3,6 @@ title: "etp crypto: What It Means and How It Relates to Staking"
 description: "Learn what etp crypto means, how exchange-traded products differ from validators, and which product-specific details to verify before assessing staking claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto etp"]

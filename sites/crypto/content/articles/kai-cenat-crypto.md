@@ -3,8 +3,6 @@ title: "Kai Cenat Crypto: Meaning and How to Check Claims"
 description: "Understand what kai cenat crypto may refer to, how to verify claims about endorsements or card links, and what evidence is needed before relying on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

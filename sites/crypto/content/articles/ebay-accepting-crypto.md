@@ -3,8 +3,6 @@ title: "eBay accepting crypto: what shoppers and sellers should verify"
 description: "Find out how to verify claims about eBay accepting crypto, distinguish direct checkout from other payment routes, and check current options for your transaction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

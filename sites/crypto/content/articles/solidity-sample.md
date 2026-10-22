@@ -3,8 +3,6 @@ title: "Solidity sample: how to read a minimal smart contract"
 description: "Use this solidity sample to identify a contract’s state, functions, and basic behavior, then see why illustrative code needs review before real use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity example contract", "Solidity code example", "smart contract example"]

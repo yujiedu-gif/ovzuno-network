@@ -3,8 +3,6 @@ title: "Ethereum layers: how the architecture fits together"
 description: "Learn what Ethereum layers mean, how core protocol functions differ from scaling designs, and why layer labels alone do not establish shared security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

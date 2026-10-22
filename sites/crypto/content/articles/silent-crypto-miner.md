@@ -3,8 +3,6 @@ title: "Silent crypto miner: meaning, mining context, and covert use"
 description: "Learn what silent crypto miner can mean, how it relates to proof-of-work, and why authorized mining differs from covert use of computing resources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

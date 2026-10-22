@@ -3,8 +3,6 @@ title: "Crypto staking com: meaning and what to verify"
 description: "Crypto staking com may refer to a site or a general topic. Learn how to check its operator, validator role, staking terms, security claims, and risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

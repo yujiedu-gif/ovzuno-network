@@ -3,8 +3,6 @@ title: "Blockchain Payment Gateway: How the Payment Flow Works"
 description: "Learn what a blockchain payment gateway does, how payments move from payer to merchant, and which settlement and operational details vary by service."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

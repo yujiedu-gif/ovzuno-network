@@ -3,8 +3,6 @@ title: "How pow cryptocurrencies Use Computational Work to Reach Consensus"
 description: "Learn how pow cryptocurrencies use computational work to propose blocks, verify results, order transactions, and make rewriting blockchain history more difficult."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

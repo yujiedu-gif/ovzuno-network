@@ -3,8 +3,6 @@ title: "Pow chain crypto: how proof-of-work chains connect across networks"
 description: "Explore how pow chain crypto fits into cross-chain interoperability, including verification models, trust assumptions, and technical limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: []

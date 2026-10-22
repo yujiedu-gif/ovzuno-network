@@ -3,8 +3,6 @@ title: "XDC Smart Contract: What It Is and How It Works"
 description: "Learn what an XDC smart contract is, how contract code executes and changes blockchain state, and what network-specific context matters to readers."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

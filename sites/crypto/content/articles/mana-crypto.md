@@ -3,8 +3,6 @@ title: "mana crypto: What MANA Is and Its Role in Decentraland"
 description: "Learn what mana crypto refers to, how MANA relates to Decentraland, and what the token is described as doing within the platform, without price speculation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["Decentraland MANA", "MANA token"]

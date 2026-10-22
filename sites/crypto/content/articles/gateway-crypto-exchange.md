@@ -3,8 +3,6 @@ title: "Gateway crypto exchange: separating payment and exchange roles"
 description: "Understand what gateway crypto exchange can mean, how payment gateways differ from exchanges, and where conversion, settlement, and custody may fit."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

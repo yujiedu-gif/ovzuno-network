@@ -3,8 +3,6 @@ title: "Crypto NFC Payment: How the Tap-to-Transaction Flow Works"
 description: "Learn how a crypto nfc payment can move from an NFC tap to wallet authorization and network settlement, plus the checks merchants and customers should make."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["NFC crypto payments", "near-field communication cryptocurrency payments"]

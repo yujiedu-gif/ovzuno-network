@@ -3,8 +3,6 @@ title: "Blockchain UAE: Payment Use Cases and Checks for Organizations"
 description: "Explore blockchain UAE payment use cases, key design choices, and the legal, operational, and technical details organizations should verify before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["UAE blockchain regulation", "blockchain use cases in the UAE"]

@@ -3,8 +3,6 @@ title: "We Accept Crypto Payments: What Businesses Should Verify First"
 description: "A neutral guide to the operational choices behind saying we accept crypto payments, including supported assets, settlement, customer disclosures, and checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["we accept crypto payment"]

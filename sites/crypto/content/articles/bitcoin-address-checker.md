@@ -3,8 +3,6 @@ title: "Bitcoin address checker: what it validates and what it cannot prove"
 description: "Learn what a bitcoin address checker can validate, how format checks differ from ownership or balance checks, and what a valid result cannot prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

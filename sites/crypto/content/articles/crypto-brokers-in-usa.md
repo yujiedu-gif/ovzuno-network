@@ -3,8 +3,6 @@ title: "Crypto brokers in usa: services, costs, and what to verify"
 description: "Learn what crypto brokers in usa may do, how brokerage differs from crypto-card spending, and what to verify about costs, custody, and regulation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto broker in usa"]

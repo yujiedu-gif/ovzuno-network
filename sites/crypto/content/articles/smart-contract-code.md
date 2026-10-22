@@ -3,8 +3,6 @@ title: "Smart contract code: a careful guide to writing and testing"
 description: "Learn how smart contract code is structured, tested, and reviewed, with a practical workflow for spotting risks before a contract is deployed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract coding"]

@@ -3,8 +3,6 @@ title: "Solidity npm: What the Term Means for Smart Contract Tooling"
 description: "Understand what “solidity npm” refers to, how npm packages relate to the Solidity compiler, and what to check before using a package."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["solid npm"]

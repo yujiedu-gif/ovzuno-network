@@ -3,8 +3,6 @@ title: "BRISE Crypto Wallet: Meaning, Network Support, and Custody Checks"
 description: "Learn what brise crypto wallet may refer to, how to verify the relevant asset and network, and what custody and security details to check before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

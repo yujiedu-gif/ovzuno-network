@@ -3,8 +3,6 @@ title: "Explain crypto to me: a beginner’s guide to assets and protocols"
 description: "Explain crypto to me with a clear introduction to digital assets, blockchain protocols, how transactions are recorded, and the risks beginners should understand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Venus crypto lending: How the protocol model works"
 description: "Learn how Venus crypto lending handles supplied assets, collateral, borrowing, and liquidation, plus the market-specific risks and details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

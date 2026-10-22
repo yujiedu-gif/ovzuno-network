@@ -3,8 +3,6 @@ title: "How to Stake LUNC Crypto: Delegation, Rewards, and Risks"
 description: "Learn how to stake LUNC crypto through Terra Classic validators, how delegation and rewards work, what unbonding means, and which risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Fantom crypto staking: how delegation and validators work"
 description: "Learn how Fantom crypto staking connects delegators and validators, how rewards may work, and what network, provider, and custody risks to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["stake fantom crypto"]

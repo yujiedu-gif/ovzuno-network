@@ -3,8 +3,6 @@ title: "Fusion blockchain: meaning and how to identify the referent"
 description: "Understand what fusion blockchain may mean in payment-technology discussions, how to distinguish a named network from a general term, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

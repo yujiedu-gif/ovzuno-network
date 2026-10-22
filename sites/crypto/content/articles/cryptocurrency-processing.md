@@ -3,8 +3,6 @@ title: "Cryptocurrency processing: how payment transactions move from submission
 description: "Understand cryptocurrency processing, including transaction creation, network validation, confirmation, settlement considerations, and the roles of wallets and other"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto transaction processing", "blockchain transaction confirmation"]

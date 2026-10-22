@@ -3,8 +3,6 @@ title: "Digital asset industry: how real-world-asset tokenization fits"
 description: "Explore how real-world-asset tokenization fits the digital asset industry, including key participants, infrastructure layers, and operating dependencies."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT Finance Meaning: How NFTs Connect to Financial Arrangements"
 description: "Understand nft finance meaning, how NFTs may be used in lending or collateral arrangements, and why ownership does not guarantee liquidity, value, or rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft finance"]

@@ -3,8 +3,6 @@ title: "DraftKings NFTs Explained: Collectibles, Tokens, and Ownership Limits"
 description: "DraftKings NFTs explained: learn how a digital collectible relates to its NFT record, what ownership may mean, and which rights depend on current terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["draftkings nfts"]

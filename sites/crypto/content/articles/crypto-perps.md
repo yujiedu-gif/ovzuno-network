@@ -3,8 +3,6 @@ title: "Crypto perps: What perpetual futures are and how they work"
 description: "Learn what crypto perps are, how perpetual futures use funding payments and margin, and why leverage, liquidation, and platform risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: ["perps crypto"]

@@ -3,8 +3,6 @@ title: "Accept crypto: business readiness and payment operations guide"
 description: "Learn how to accept crypto by assessing payment flows, settlement, custody, accounting, customer disclosures, and operational risks before implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["crypto payment acceptance", "payment settlement", "wallet payments"]

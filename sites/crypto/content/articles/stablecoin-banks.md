@@ -3,8 +3,6 @@ title: "Stablecoin Banks: Roles in Issuance and Settlement"
 description: "Learn how stablecoin banks may support issuance, custody, reserves, and settlement, and what responsibilities and risks readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: []

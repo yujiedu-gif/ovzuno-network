@@ -3,8 +3,6 @@ title: "How to Assess a real estate smart contract github Repository"
 description: "Learn how to assess a real estate smart contract github repository: inspect its code, tests, dependencies, and off-chain assumptions before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

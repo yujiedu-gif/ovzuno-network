@@ -3,8 +3,6 @@ title: "DEX Swap Crypto: How a Decentralized Token Swap Works"
 description: "Learn how a dex swap crypto transaction moves from token selection and a quoted route through wallet authorization, network submission, and settlement checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

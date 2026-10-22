@@ -3,8 +3,6 @@ title: "Guardian token crypto: meanings, roles, and how to verify them"
 description: "Learn what guardian token crypto may refer to, how the term can vary by project, and which documentation helps verify a token’s stated role."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

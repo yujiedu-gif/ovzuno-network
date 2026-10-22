@@ -3,8 +3,6 @@ title: "Validator nodes: roles and responsibilities in proof-of-stake networks"
 description: "Learn what validator nodes do in proof-of-stake networks, how they participate in consensus, and why duties and requirements vary by protocol."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

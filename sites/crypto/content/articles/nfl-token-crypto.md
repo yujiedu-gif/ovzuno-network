@@ -3,8 +3,6 @@ title: "NFL token crypto: what the phrase may refer to and how to verify it"
 description: "Learn what NFL token crypto may refer to, how to verify official association and blockchain claims, and which details remain uncertain without a named token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

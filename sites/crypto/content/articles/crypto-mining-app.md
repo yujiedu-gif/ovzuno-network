@@ -3,8 +3,6 @@ title: "Crypto Mining App: What It Does and How to Assess Its Claims"
 description: "Learn what a crypto mining app does, how on-device computation differs from remote mining access, and what evidence to check before trusting its claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["crypto mine app"]

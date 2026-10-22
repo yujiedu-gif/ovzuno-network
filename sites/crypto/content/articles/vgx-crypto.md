@@ -3,8 +3,6 @@ title: "VGX crypto: token identity, project context, and evidence"
 description: "Learn what VGX crypto refers to, how to evaluate evidence about its token and associated project, and why current status claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

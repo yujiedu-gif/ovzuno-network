@@ -3,8 +3,6 @@ title: "ERC20 contract: functions, events, and implementation basics"
 description: "Understand what an erc20 contract specifies, how its common functions and events support token interactions, and which details depend on implementation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-20 standard", "Solidity token contract", "allowance and transfer functions"]

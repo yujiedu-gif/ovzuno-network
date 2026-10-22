@@ -3,8 +3,6 @@ title: "Crypto gateway payment: how the payment flow works"
 description: "Learn what a crypto gateway payment does, how a transaction moves from checkout to confirmation and settlement, and which operational details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

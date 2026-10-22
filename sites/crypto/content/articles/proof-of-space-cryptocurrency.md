@@ -3,8 +3,6 @@ title: "Proof of space cryptocurrency: how storage-based consensus works"
 description: "Learn how proof of space cryptocurrency uses storage in consensus, how participants contribute, and how the model differs from staking and mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof space cryptocurrency"]

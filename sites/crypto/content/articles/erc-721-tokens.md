@@ -3,8 +3,6 @@ title: "ERC 721 tokens: how unique on-chain assets are represented"
 description: "Learn how ERC 721 tokens use unique identifiers to represent distinct assets, how contracts track ownership, and what happens when tokens transfer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721 standard", "non-fungible tokens", "token ID", "ownership tracking", "smart contract"]

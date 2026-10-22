@@ -3,8 +3,6 @@ title: "Helium Crypto Explained: Network, Tokens, and Infrastructure"
 description: "Helium crypto explained: learn what the decentralized wireless network is, how its tokens fit into the system, and which concepts to distinguish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["helium crypto"]

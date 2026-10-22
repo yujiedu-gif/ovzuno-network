@@ -3,8 +3,6 @@ title: "Gas Free NFT Transactions: Who Pays the Network Fee?"
 description: "Learn how gas free nft transactions can spare users a direct gas payment, which parties or mechanisms cover network costs, and what trade-offs to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

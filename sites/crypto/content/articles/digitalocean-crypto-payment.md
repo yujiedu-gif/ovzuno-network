@@ -3,8 +3,6 @@ title: "DigitalOcean Crypto Payment: Infrastructure, Components, and Responsibil
 description: "Learn how a digitalocean crypto payment workflow may use cloud infrastructure, which components and responsibilities it involves, and what to verify before building."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

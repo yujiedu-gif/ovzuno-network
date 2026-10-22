@@ -3,8 +3,6 @@ title: "Go blockchain: meaning and role of Go in blockchain software"
 description: "Go blockchain can refer to blockchain software written in Go. Learn what the phrase means, how Go may be used, and why it is not itself a network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

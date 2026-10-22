@@ -3,8 +3,6 @@ title: "Crypto voucher Dundle: how purchase and redemption work"
 description: "Learn how a crypto voucher Dundle purchase and redemption may work, which product terms to verify, and why availability and fees can vary by location."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Card Delivery Time: What Affects When Your Card Arrives"
 description: "Understand crypto card delivery time by separating application, production, dispatch, and carrier transit, and learn what to check if your card is delayed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

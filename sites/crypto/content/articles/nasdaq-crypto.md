@@ -3,8 +3,6 @@ title: "Nasdaq crypto: its role in digital-asset market infrastructure"
 description: "Learn what Nasdaq crypto may refer to, how Nasdaq’s market-infrastructure role differs from a crypto exchange, and which claims require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

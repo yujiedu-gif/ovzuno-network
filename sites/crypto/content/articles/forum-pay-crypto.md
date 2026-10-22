@@ -3,8 +3,6 @@ title: "Forum Pay Crypto: Meaning and Reporting Questions"
 description: "Understand what forum pay crypto may mean, how forum-related crypto payments can differ, and which regulatory and tax-reporting questions require local verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: []

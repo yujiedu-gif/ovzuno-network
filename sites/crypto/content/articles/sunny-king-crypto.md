@@ -3,8 +3,6 @@ title: "Sunny King Crypto: Identity and Staking Claims"
 description: "Learn how to interpret the phrase sunny king crypto, verify claims about project or validator links, and distinguish attributable evidence from unsupported matches."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

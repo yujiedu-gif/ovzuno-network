@@ -3,8 +3,6 @@ title: "Credit cryptocurrency: how credit-based crypto card spending works"
 description: "Learn what credit cryptocurrency means for card spending, how borrowing differs from converting crypto holdings, and which terms depend on provider and jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

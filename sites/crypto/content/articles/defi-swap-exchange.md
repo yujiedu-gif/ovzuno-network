@@ -3,8 +3,6 @@ title: "How a defi swap exchange routes and executes trades"
 description: "Learn how a defi swap exchange routes token trades through smart contracts and liquidity sources, and what infrastructure shapes execution and risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["decentralized exchange", "automated market maker", "swap routing", "smart contract"]

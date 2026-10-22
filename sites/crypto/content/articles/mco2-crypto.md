@@ -3,8 +3,6 @@ title: "MCO2 crypto: What the token represents and what to verify"
 description: "Learn what MCO2 crypto is intended to represent, how tokenization may relate to carbon-credit records, and which backing and impact claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["MCO2 token", "carbon credit tokenization", "carbon credits on blockchain"]

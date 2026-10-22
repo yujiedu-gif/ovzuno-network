@@ -3,8 +3,6 @@ title: "MetaHero Crypto: What the Name Refers To"
 description: "Learn what metahero crypto refers to and how to check whether reliable project documentation connects it to tokens, staking, or validators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

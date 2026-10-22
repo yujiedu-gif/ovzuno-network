@@ -3,8 +3,6 @@ title: "Green crypto coins: how consensus mechanisms shape environmental claims"
 description: "Green crypto coins are assessed through consensus design, energy use, and transparent evidence; learn what environmental claims can and cannot show."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof of stake", "proof of work", "crypto consensus mechanisms"]

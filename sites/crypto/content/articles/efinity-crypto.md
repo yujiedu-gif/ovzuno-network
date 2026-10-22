@@ -3,8 +3,6 @@ title: "Efinity Crypto: What the Protocol Is and How It Works"
 description: "Learn what Efinity crypto refers to, how the Efinity protocol is designed to serve blockchain applications, and what to verify about its current status."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

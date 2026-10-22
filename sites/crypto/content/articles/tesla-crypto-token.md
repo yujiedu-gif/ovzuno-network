@@ -3,8 +3,6 @@ title: "Tesla crypto token: how to verify claims of an official connection"
 description: "Learn how to assess a Tesla crypto token claim by checking official company statements, issuer identity, and verifiable contract details without assuming affiliation"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Tesla-branded crypto token", "token issuer verification", "token contract address"]

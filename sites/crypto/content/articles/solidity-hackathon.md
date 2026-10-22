@@ -3,8 +3,6 @@ title: "Solidity hackathon: what it is and how it works"
 description: "Learn what a solidity hackathon is, how teams use Solidity to prototype smart contract applications, and why hackathon demos are not production audits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

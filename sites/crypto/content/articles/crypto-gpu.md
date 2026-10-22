@@ -3,8 +3,6 @@ title: "Crypto GPU: How Graphics Cards Perform Proof-of-Work Mining"
 description: "Learn what a crypto GPU does in proof-of-work mining, how it performs repeated computations, and why its usefulness depends on a network’s algorithm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

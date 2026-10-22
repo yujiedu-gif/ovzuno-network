@@ -3,8 +3,6 @@ title: "Crypto with low gas fees: what determines transaction cost?"
 description: "Learn what affects crypto with low gas fees, including network demand, transaction complexity, and fee design, and how to compare costs fairly."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["crypto with low gas fee"]

@@ -3,8 +3,6 @@ title: "Proof of stake history: key ideas and milestones"
 description: "Explore proof of stake history through documented proposals, network milestones, and changes in validator design, with clear distinctions between concepts and live"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake history"]

@@ -3,8 +3,6 @@ title: "Olympus crypto staking: meanings, mechanics, and what to verify"
 description: "Learn what Olympus crypto staking may refer to, how to distinguish validator participation from token locking or third-party services, and what current evidence to"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

@@ -3,8 +3,6 @@ title: "Z2U Crypto Payment: Meaning, Process, and Checks Before Paying"
 description: "Learn what a z2u crypto payment may involve, how to read order instructions, and which payment, confirmation, and support details to verify before proceeding."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

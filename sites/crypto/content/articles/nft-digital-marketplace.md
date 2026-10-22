@@ -3,8 +3,6 @@ title: "How an nft digital marketplace Works: Listings, Discovery, and NFT Trans
 description: "Learn how an nft digital marketplace supports NFT discovery, listings, and transfers, and what its records do—and do not—establish about digital ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["digital nft marketplace"]

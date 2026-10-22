@@ -3,8 +3,6 @@ title: "Solidity stable version: meaning and release checks"
 description: "Understand what the Solidity stable version label means, how to verify a compiler release in project records, and what stability does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity compiler release", "stable Solidity compiler"]

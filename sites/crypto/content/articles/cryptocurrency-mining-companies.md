@@ -3,8 +3,6 @@ title: "Cryptocurrency Mining Companies: Operations, Models, and Roles"
 description: "Learn what cryptocurrency mining companies do, how they organize facilities and computing operations, and how their business models differ across proof-of-work."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

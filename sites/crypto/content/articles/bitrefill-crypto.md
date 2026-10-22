@@ -3,8 +3,6 @@ title: "bitrefill crypto: How Crypto-Funded Digital Purchases Work"
 description: "Learn how Bitrefill crypto purchases generally work, which product and payment details to verify, and what users should check before completing an order."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto gift cards", "crypto mobile top-ups", "spending cryptocurrency"]

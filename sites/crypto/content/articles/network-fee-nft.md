@@ -3,8 +3,6 @@ title: "Network fee NFT: what affects the cost of a transaction"
 description: "Learn what affects a network fee NFT transaction, how network conditions and transaction actions shape costs, and where to check a current estimate."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

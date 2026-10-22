@@ -3,8 +3,6 @@ title: "Solidity Golang: How the Two Languages Differ in Blockchain Development"
 description: "Learn what “solidity golang” refers to, how Solidity and Go differ, and where each language fits in smart-contract and blockchain development."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["solid golang"]

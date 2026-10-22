@@ -3,8 +3,6 @@ title: "Crypto Token Real Estate: What the Token Represents"
 description: "Understand what a crypto token real estate arrangement may represent, how token records relate to property rights, and why legal structure matters."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["real estate crypto token"]

@@ -3,8 +3,6 @@ title: "DeFi exchange platform: an infrastructure evaluation framework"
 description: "Assess a defi exchange platform by its market design, integration needs, operational dependencies, and risks before deciding whether it fits your use case."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["exchange_market_infrastructure"]
 tags: []

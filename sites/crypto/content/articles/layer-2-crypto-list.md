@@ -3,8 +3,6 @@ title: "Layer 2 Crypto List: Representative Networks and Their Designs"
 description: "Explore a layer 2 crypto list of representative blockchain networks, grouped by design and explained with clear inclusion criteria and scope."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

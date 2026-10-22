@@ -3,8 +3,6 @@ title: "Flow blockchain: how its architecture processes transactions"
 description: "Learn how the Flow blockchain organizes transaction execution, verification, and finality, and what developers should verify before building applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

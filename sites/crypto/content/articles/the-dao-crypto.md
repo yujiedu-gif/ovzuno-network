@@ -3,8 +3,6 @@ title: "The DAO Crypto: How Governance Decisions Move from Proposal to Action"
 description: "The dao crypto governance explainer traces how proposals, deliberation, voting, and execution can work, and where processes may vary or fail."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["dao crypto"]

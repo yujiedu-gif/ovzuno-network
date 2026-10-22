@@ -3,8 +3,6 @@ title: "Alerian Galaxy Global Cryptocurrency Focused Blockchain Index: What It R
 description: "Learn what the alerian galaxy global cryptocurrency focused blockchain index is intended to measure, how to read its scope, and what its methodology can establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["alerian galaxy cryptocurrency focused blockchain index"]

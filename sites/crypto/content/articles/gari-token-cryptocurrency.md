@@ -3,8 +3,6 @@ title: "Gari token cryptocurrency: role, ecosystem, and verification"
 description: "Learn what the Gari token cryptocurrency is described as doing, how to verify its network and functions, and which details may change over time."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

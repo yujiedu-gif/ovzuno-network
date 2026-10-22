@@ -3,8 +3,6 @@ title: "squid dao token: identity, stated purpose, and verification"
 description: "Learn how to assess the squid dao token using attributable project documentation and public blockchain records, and separate verified details from claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

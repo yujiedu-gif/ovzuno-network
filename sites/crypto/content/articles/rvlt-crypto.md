@@ -3,8 +3,6 @@ title: "RVLT crypto: how to identify the asset or project"
 description: "Learn how to identify what RVLT crypto refers to, distinguish similarly named assets, and verify a project’s stated function and status from documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

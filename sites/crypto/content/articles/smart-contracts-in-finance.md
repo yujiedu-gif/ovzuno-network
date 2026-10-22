@@ -3,8 +3,6 @@ title: "Smart Contracts in Finance: Uses, Dependencies, and Limits"
 description: "Explore how smart contracts in finance can coordinate transactions and financial workflows, alongside key dependencies, risks, and review questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["financial smart contracts", "tokenized assets", "on-chain financial workflows", "oracle data"]

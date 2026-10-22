@@ -3,8 +3,6 @@ title: "DAO Organizations: How Governance Decisions Become Action"
 description: "Explore how DAO organizations connect proposals, participation, decisions, and execution, plus the accountability gaps and limits readers should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

@@ -3,8 +3,6 @@ title: "Mesh Crypto Payments: Meaning, Architecture, and Key Questions"
 description: "Understand mesh crypto payments as an architectural concept, the components it may connect, and the evidence and operational questions to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["mesh payments crypto", "mesh crypto payment"]

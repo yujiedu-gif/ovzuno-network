@@ -3,8 +3,6 @@ title: "Bedrock blockchain: Meaning and how to interpret the term"
 description: "Understand what bedrock blockchain may refer to, how to distinguish a named network from a general description, and which claims need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "freetaxusa crypto: What Taxpayers Should Verify"
 description: "Understand freetaxusa crypto reporting, which records to gather, and how to verify current product support and U.S. filing requirements before filing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Apa Itu Proof of Work? How Blockchain Consensus Uses Computation"
 description: "Apa itu proof of work? Learn how miners use computation to propose blocks, how networks verify the result, and what trade-offs the design involves."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["apa itu proof work"]

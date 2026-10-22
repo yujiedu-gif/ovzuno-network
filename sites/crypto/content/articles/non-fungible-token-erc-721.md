@@ -3,8 +3,6 @@ title: "Non fungible token erc 721: How the Standard Defines Unique Tokens"
 description: "Learn how non fungible token erc 721 defines unique token identifiers, ownership and transfers, optional metadata, and limits of the standard."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["ERC-721", "NFT smart contract", "token ID", "metadata URI"]

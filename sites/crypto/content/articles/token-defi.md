@@ -3,8 +3,6 @@ title: "Token DeFi: What It Is and How Protocol Tokens Can Work"
 description: "Learn what a token defi may represent, how protocol functions can vary, and which documentation to check before drawing conclusions about rights or risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["DeFi token", "decentralized finance protocol", "governance token", "utility token"]

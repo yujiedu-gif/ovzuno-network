@@ -3,8 +3,6 @@ title: "CPU crypto mining: how processors participate in proof-of-work"
 description: "Learn how CPU crypto mining uses general-purpose processors for proof-of-work, which network and hardware factors shape participation, and what limits it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work", "CPU mining"]

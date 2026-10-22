@@ -3,8 +3,6 @@ title: "1099b for digital assets: What U.S. Readers Need to Know"
 description: "Learn what 1099b for digital assets can mean in the United States, how Form 1099-B differs from other reporting forms, and where to verify current IRS guidance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["1099b digital assets"]

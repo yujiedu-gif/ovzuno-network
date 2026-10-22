@@ -3,8 +3,6 @@ title: "Crowdfunding crypto for validator and staking infrastructure"
 description: "Learn how crowdfunding crypto may fund validator and staking infrastructure, how responsibilities can be structured, and which operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["crypto crowdfunding"]

@@ -3,8 +3,6 @@ title: "Unit Testing Smart Contracts: Purpose, Coverage, and Limits"
 description: "Learn what unit testing smart contracts checks, how assertions and edge cases shape coverage, and why passing tests alone cannot establish security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract unit testing"]

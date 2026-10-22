@@ -3,8 +3,6 @@ title: "XRP blockchain: What It Means and How Payments Work"
 description: "Understand what the XRP blockchain phrase refers to, how XRP relates to the XRP Ledger, and how the ledger records and validates payment transactions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

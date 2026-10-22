@@ -3,8 +3,6 @@ title: "Proof of stake defi: how consensus and DeFi staking relate"
 description: "Learn how proof of stake defi connects blockchain consensus with DeFi applications, and how validator staking differs from application-level staking."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake defi"]

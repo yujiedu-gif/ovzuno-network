@@ -3,8 +3,6 @@ title: "NFT advertising: uses, audience value, and practical considerations"
 description: "Learn how nft advertising can promote NFT projects or use tokens in campaigns, what audience value they may provide, and which practical risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft advertisements"]

@@ -3,8 +3,6 @@ title: "Airbnb crypto payment: acceptance, checkout, and what to verify"
 description: "Learn whether Airbnb crypto payment is supported, how to verify available checkout methods, and what risks to consider before using an outside arrangement."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

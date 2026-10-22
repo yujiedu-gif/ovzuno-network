@@ -3,8 +3,6 @@ title: "DeFi explained: how decentralized finance protocols work"
 description: "DeFi explained: learn what decentralized finance protocols do, how users interact with them, and which technical and operational risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["defi"]

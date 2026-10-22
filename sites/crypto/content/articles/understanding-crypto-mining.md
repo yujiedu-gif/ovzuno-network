@@ -3,8 +3,6 @@ title: "Understanding crypto mining: its role in proof-of-work consensus"
 description: "Understanding crypto mining means seeing how proof-of-work connects computational work, block proposals, and network validation—and what mining alone cannot ensure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

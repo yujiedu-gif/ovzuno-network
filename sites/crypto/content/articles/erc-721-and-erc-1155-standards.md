@@ -3,8 +3,6 @@ title: "erc 721 and erc 1155 standards: Token Models Compared"
 description: "Compare erc 721 and erc 1155 standards by token identity, transfers, contract design, and project requirements to guide a technical evaluation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["smart_contract_dapps"]
 tags: ["erc 721 erc 1155 standards"]

@@ -3,8 +3,6 @@ title: "Ethereum Classic Mining: Meaning and Network Role"
 description: "Learn what ethereum classic mining means, how proof of work supports block production and transaction validation, and which details depend on current conditions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Web 3.0 crypto tokens: roles in decentralized applications"
 description: "Learn what web 3.0 crypto tokens can do in decentralized applications, how their roles vary, and what technical details to verify before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["web 3 0 crypto tokens"]

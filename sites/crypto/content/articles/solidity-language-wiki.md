@@ -3,8 +3,6 @@ title: "Solidity Language Wiki: What the Reference Covers"
 description: "A Solidity language wiki overview explains what Solidity is, how it is used for smart contracts, and what a language reference can help readers understand."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

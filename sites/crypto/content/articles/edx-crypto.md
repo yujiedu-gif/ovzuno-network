@@ -3,8 +3,6 @@ title: "edx crypto: EDX Markets’ Exchange Infrastructure Explained"
 description: "Explore edx crypto through an evidence-led overview of EDX Markets, its documented exchange infrastructure, operating model, and details readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["EDX Markets", "crypto exchange infrastructure", "institutional crypto trading"]

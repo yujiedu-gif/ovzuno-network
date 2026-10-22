@@ -3,8 +3,6 @@ title: "Crypto Status: What Payment Labels Mean"
 description: "Learn what crypto status can mean in a payment workflow, how labels vary by system, and what to verify before treating a transaction as complete."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: ["status crypto"]

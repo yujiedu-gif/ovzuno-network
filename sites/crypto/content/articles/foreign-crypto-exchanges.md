@@ -3,8 +3,6 @@ title: "Foreign crypto exchanges: jurisdiction, access, and infrastructure"
 description: "Learn what foreign crypto exchanges means in practice, how jurisdiction and service access differ, and what infrastructure and evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["cross-border crypto trading", "crypto exchange jurisdiction"]

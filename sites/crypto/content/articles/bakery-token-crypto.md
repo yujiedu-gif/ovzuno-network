@@ -3,8 +3,6 @@ title: "Bakery token crypto: identity, role, and verification"
 description: "Learn what Bakery token crypto refers to, how its stated role relates to BakerySwap, and which contract and project details to verify before relying on a listing."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

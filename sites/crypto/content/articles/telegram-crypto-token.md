@@ -3,8 +3,6 @@ title: "Telegram Crypto Token: What the Phrase Can Mean"
 description: "Learn what “telegram crypto token” may refer to, how Telegram relates to a token’s issuer and network, and what details to verify before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

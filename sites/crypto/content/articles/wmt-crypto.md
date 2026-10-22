@@ -3,8 +3,6 @@ title: "WMT Crypto: Identity, Protocol Context, and What to Verify"
 description: "Learn how to identify WMT crypto, check its documented protocol context and stated utility, and distinguish verifiable information from claims and uncertainty."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain Transparent Image: Meaning and Limits of Visibility"
 description: "Learn what blockchain transparent image means, what ledger visibility can show, and why public records do not necessarily reveal identity or full context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

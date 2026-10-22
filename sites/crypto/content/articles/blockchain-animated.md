@@ -3,8 +3,6 @@ title: "Blockchain Animated: How Payment Flows Are Shown"
 description: "See what blockchain animated means, how visuals can show payment submission and recording, and why an animation may simplify network-specific steps."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain animation"]

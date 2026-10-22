@@ -3,8 +3,6 @@ title: "Return string Solidity: Function Syntax and Data Locations"
 description: "Learn how to return string Solidity values from functions, including basic syntax, data-location considerations, and version-specific details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["solidity return string"]

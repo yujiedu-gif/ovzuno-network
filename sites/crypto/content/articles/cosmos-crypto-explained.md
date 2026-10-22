@@ -3,8 +3,6 @@ title: "Cosmos Crypto Explained: Ecosystem, Interoperability, and Assets"
 description: "Cosmos crypto explained: understand the Cosmos ecosystem, interchain technology, connected blockchains, and how associated crypto assets differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["cosmos crypto"]

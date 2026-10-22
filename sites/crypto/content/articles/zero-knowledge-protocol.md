@@ -3,8 +3,6 @@ title: "Zero knowledge protocol: how proofs can support blockchain scaling"
 description: "Learn how a zero knowledge protocol lets a prover establish a claim, how proof verification fits blockchain scaling, and which trade-offs builders should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: ["zero-knowledge proof", "validity proof", "proof verification"]

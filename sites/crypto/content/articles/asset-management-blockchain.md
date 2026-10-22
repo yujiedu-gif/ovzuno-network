@@ -3,8 +3,6 @@ title: "Asset management blockchain: how records, wallets, and custody fit toget
 description: "Learn how asset management blockchain systems relate records, wallet operations, custody, and controls, and where the technology’s limits matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: ["blockchain asset management"]

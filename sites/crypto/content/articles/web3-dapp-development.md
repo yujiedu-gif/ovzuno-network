@@ -3,8 +3,6 @@ title: "Web3 Dapp Development: A Practical Build and Deployment Guide"
 description: "Learn web3 dapp development through a chain-neutral workflow for requirements, smart contracts, application architecture, testing, deployment, and maintenance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract dapp architecture", "dapp security testing", "decentralized application deployment"]

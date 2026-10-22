@@ -3,8 +3,6 @@ title: "NFT marketing: explaining projects, ownership, and risks"
 description: "Learn what NFT marketing covers, how it relates to digital ownership, and which project claims, participation terms, and risks audiences should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft market"]

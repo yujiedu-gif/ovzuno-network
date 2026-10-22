@@ -3,8 +3,6 @@ title: "Mine Crypto on PC: Hardware, Process, and Practical Limits"
 description: "Learn what it takes to mine crypto on PC, how hardware contributes to proof-of-work, and which software, operating, and safety factors to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

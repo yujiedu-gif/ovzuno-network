@@ -3,8 +3,6 @@ title: "Get Free Crypto Coins Through Mining? Understand Rewards and Costs"
 description: "Learn whether you can get free crypto coins through mining, how proof-of-work rewards are issued, and why participation still involves costs and conditions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Bitcoin transaction time: what it means and when a payment is confirmed"
 description: "Understand bitcoin transaction time by distinguishing broadcast, block inclusion, and confirmations, and learn why the wait can vary without a guaranteed deadline."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Ethereum game: meaning, components, and trade-offs"
 description: "Learn what an ethereum game is, which game features may use Ethereum-based infrastructure, and how on-chain components differ from off-chain software."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

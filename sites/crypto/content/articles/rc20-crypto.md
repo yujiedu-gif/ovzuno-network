@@ -3,8 +3,6 @@ title: "RC20 crypto: What the term means and how to verify its context"
 description: "RC20 crypto can refer to different things in different contexts. Learn how to identify the intended standard, verify documentation, and avoid assumptions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

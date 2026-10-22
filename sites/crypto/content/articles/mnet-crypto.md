@@ -3,8 +3,6 @@ title: "MNet crypto: identifying the project and its consensus mechanism"
 description: "Learn how to identify what MNet crypto refers to, check primary project documentation, and distinguish verified mining claims from unclear consensus details."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

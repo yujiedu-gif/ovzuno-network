@@ -3,8 +3,6 @@ title: "Sandbox crypto: meaning for staking and validator testing"
 description: "Learn what sandbox crypto means for testing staking and validator workflows, what sandbox results can show, and which production risks remain untested."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

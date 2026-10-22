@@ -3,8 +3,6 @@ title: "ISO Token Crypto: Meaning, Standards, and How to Verify the Label"
 description: "ISO token crypto can be an imprecise label. Learn how to check what a project means, whether it cites a formal standard, and what the label does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

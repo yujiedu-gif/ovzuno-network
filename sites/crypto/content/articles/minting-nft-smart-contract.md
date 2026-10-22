@@ -3,8 +3,6 @@ title: "Minting NFT Smart Contract: How the Mint Process Works"
 description: "Understand minting nft smart contract behavior: how a mint request can create a token record, represent ownership, and connect to metadata."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

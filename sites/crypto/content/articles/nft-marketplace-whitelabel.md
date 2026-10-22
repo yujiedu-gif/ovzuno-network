@@ -3,8 +3,6 @@ title: "nft marketplace whitelabel: How the Model Works"
 description: "Understand the nft marketplace whitelabel model, its configurable components, operating responsibilities, and due-diligence questions for prospective operators."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["whitelabel nft marketplace"]

@@ -3,8 +3,6 @@ title: "What a smart contract blockchain studio does"
 description: "Learn what a smart contract blockchain studio may do, how its work connects to dApp development, and which project, security, and operational questions need clarity."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

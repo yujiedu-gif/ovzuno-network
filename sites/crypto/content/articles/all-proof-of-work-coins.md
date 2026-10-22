@@ -3,8 +3,6 @@ title: "All proof of work coins: criteria for a scoped reference list"
 description: "Explore all proof of work coins through clear inclusion criteria, scope limits, and distinctions between current, hybrid, and historical proof-of-work networks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["all proof work coins"]

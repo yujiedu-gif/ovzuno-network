@@ -3,8 +3,6 @@ title: "Ethereum lookup: ways to retrieve on-chain data"
 description: "Understand what an ethereum lookup can retrieve, how explorer and node queries differ, and what on-chain results do—and do not—reveal."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: []

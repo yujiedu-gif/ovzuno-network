@@ -3,8 +3,6 @@ title: "chipotle accepts crypto? What U.S. customers should verify"
 description: "Find out whether Chipotle accepts crypto directly or through a payment service, how to verify current options, and what to check before ordering."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

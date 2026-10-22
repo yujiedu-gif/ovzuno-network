@@ -3,8 +3,6 @@ title: "Accept crypto in store: a point-of-sale workflow guide"
 description: "Accept crypto in store with a practical point-of-sale workflow covering payment requests, status checks, staff procedures, exceptions, and reconciliation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT Process Explained: From Asset to Transfer"
 description: "NFT process explained: follow how an asset becomes a token, how metadata and ownership records are handled, and what to check during transfer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["nft process"]

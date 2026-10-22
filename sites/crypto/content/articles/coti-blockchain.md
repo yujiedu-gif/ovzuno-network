@@ -3,8 +3,6 @@ title: "COTI blockchain: architecture and payment use cases explained"
 description: "Explore the COTI blockchain’s documented architecture, payment role, transaction flow, and trade-offs, with a checklist for verifying current network claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Watchlists: Meaning, Uses, and Limits in Compliance"
 description: "Learn what crypto watchlists are, how they may inform compliance screening, and why list entries alone do not establish identity, wrongdoing, or tax liability."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["crypto watchlist"]

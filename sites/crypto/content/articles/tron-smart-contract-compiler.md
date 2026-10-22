@@ -3,8 +3,6 @@ title: "TRON Smart Contract Compiler: Definition and Role"
 description: "Learn what a tron smart contract compiler does, how it transforms source code into deployable output, and where compilation fits in TRON development."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: []

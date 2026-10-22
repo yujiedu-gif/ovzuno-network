@@ -3,8 +3,6 @@ title: "Reflection token crypto: how holder redistribution works"
 description: "Learn what reflection token crypto means, how transaction fees may be redistributed to holders, and which implementation details vary by token."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token reflections", "reflection mechanism", "transaction fee redistribution"]

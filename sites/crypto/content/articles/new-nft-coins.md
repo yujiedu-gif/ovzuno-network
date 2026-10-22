@@ -3,8 +3,6 @@ title: "New NFT Coins: What the Term Means and How They Differ from NFTs"
 description: "Learn what new NFT coins can refer to, how fungible project tokens differ from NFTs, and what evidence to check when a project uses the label."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

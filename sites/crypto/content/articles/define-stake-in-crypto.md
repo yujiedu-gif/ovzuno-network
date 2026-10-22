@@ -3,8 +3,6 @@ title: "Define stake in crypto: meaning and role in proof of stake"
 description: "Define stake in crypto by explaining how committed assets relate to validator participation, consensus, and protocol rules, without implying guaranteed rewards."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["crypto stake", "proof-of-stake validator", "staking collateral"]

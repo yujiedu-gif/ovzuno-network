@@ -3,8 +3,6 @@ title: "Crypto metaverse coins: roles in virtual-world ecosystems"
 description: "Learn what crypto metaverse coins can do in virtual-world ecosystems, how their functions differ, and what to verify before relying on a project’s claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

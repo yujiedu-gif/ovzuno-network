@@ -3,8 +3,6 @@ title: "NFT Fungible Meaning: How NFTs Differ from Interchangeable Tokens"
 description: "Understand nft fungible meaning: what fungibility means, why NFTs are generally non-interchangeable, and how token identity differs from rights to an asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft fungible"]

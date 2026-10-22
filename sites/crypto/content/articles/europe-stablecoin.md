@@ -3,8 +3,6 @@ title: "Europe stablecoin settlement: workflow and operational considerations"
 description: "Explore europe stablecoin settlement workflows, the roles involved, operational dependencies, and jurisdiction-specific checks to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["stablecoins_settlement"]
 tags: ["stablecoins in europe"]

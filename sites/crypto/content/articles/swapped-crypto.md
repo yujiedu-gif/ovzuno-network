@@ -3,8 +3,6 @@ title: "Swapped crypto: meaning, transaction records, and operational checks"
 description: "Learn what swapped crypto means, how it differs from a pending exchange, and which transaction records operators can review before documenting a swap."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: ["crypto swap"]

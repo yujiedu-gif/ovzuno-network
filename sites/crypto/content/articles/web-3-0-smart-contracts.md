@@ -3,8 +3,6 @@ title: "Web 3.0 Smart Contracts: How They Power On-Chain Applications"
 description: "Learn how web 3.0 smart contracts execute application rules on blockchain networks, interact with users and dApps, and differ from traditional server-side code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["web 3 0 smart contracts"]

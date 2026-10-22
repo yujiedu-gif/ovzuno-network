@@ -3,8 +3,6 @@ title: "How to Find and Assess solidity smart contract examples github"
 description: "Learn how to find and assess solidity smart contract examples github, check repository context and tests, and distinguish learning code from production-ready systems"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity example repositories", "smart contract sample code", "Solidity tests and documentation"]

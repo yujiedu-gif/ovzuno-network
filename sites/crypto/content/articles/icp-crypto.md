@@ -3,8 +3,6 @@ title: "ICP crypto: What the Internet Computer protocol and token mean"
 description: "Learn what ICP crypto refers to, how the Internet Computer network and its token differ, and what that distinction means for payment-related uses."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_payments"]
 tags: []

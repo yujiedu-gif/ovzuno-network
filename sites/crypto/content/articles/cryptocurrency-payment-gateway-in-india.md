@@ -3,8 +3,6 @@ title: "Cryptocurrency payment gateway in india: questions businesses should ver
 description: "A practical India-focused checklist for evaluating a cryptocurrency payment gateway in india, covering legal, tax, banking, compliance, security, and operational due"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

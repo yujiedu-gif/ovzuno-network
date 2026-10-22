@@ -3,8 +3,6 @@ title: "Fan Coin Crypto: Meaning, Uses, and Limitations"
 description: "Learn what fan coin crypto can mean, how these tokens may be designed to work, what holders might be able to do, and which limitations to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

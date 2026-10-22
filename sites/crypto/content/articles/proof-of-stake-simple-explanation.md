@@ -3,8 +3,6 @@ title: "Proof of stake simple explanation: how validators support a blockchain"
 description: "A proof of stake simple explanation of validators, staked assets, block proposals and protocol rules—and how these parts support blockchain consensus."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake simple explanation"]

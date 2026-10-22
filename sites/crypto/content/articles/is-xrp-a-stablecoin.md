@@ -3,8 +3,6 @@ title: "Is XRP a stablecoin? A clear classification"
 description: "Is XRP a stablecoin? Learn how XRP differs from assets designed to maintain a stable value, and what that distinction means for crypto terminology."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["stablecoins_settlement"]
 tags: ["xrp stablecoin"]

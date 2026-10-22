@@ -3,8 +3,6 @@ title: "How to accept cryptocurrency online: a business readiness guide"
 description: "Learn how to accept cryptocurrency online by assessing payment flows, operational controls, and jurisdiction-specific legal, tax, security, and compliance questions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Luma Crypto: What the Name May Refer To"
 description: "Learn what luma crypto may refer to, how to verify a specific project or asset, and which claims remain unconfirmed without authoritative evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

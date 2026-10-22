@@ -3,8 +3,6 @@ title: "Cryptocurrency Pools: Their Role in Proof-of-Work Mining"
 description: "Learn what cryptocurrency pools are, why miners coordinate through them, and how pooled participation relates to proof-of-work consensus and individual mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

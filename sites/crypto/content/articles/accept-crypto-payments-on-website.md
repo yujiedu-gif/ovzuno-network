@@ -3,8 +3,6 @@ title: "Accept crypto payments on website: checkout components and payment-state
 description: "Plan how to accept crypto payments on website by mapping checkout components, payment states, confirmation rules, and operational checks before launch."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: ["accept crypto payment on website"]

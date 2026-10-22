@@ -3,8 +3,6 @@ title: "Crypto faucet sites: tax reporting and regulatory questions"
 description: "Understand the tax-reporting and regulatory questions that may apply to crypto faucet sites, why rules vary by jurisdiction, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["regulation_tax_reporting"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto Mina: Does Mina Protocol Use Mining?"
 description: "Learn whether crypto mina uses mining and how Mina Protocol’s consensus relates to block production, without conflating it with proof-of-work systems."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["Mina Protocol", "proof-of-stake", "block production"]

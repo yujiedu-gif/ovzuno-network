@@ -3,8 +3,6 @@ title: "PoW Meaning in Crypto: What Proof of Work Does"
 description: "Learn the PoW meaning in crypto: what proof of work is, how it supports block validation and consensus, and how it differs from mining itself."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["pow in crypto"]

@@ -3,8 +3,6 @@ title: "DAO Decentralized Autonomous Organisation: How Governance Works"
 description: "See how governance in a dao decentralized autonomous organisation moves from proposals to decisions and execution, and where participation and control can be limited"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

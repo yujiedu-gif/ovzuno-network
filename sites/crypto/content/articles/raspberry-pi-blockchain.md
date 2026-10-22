@@ -3,8 +3,6 @@ title: "Raspberry pi blockchain: roles, requirements, and limitations"
 description: "Explore raspberry pi blockchain roles, hardware and network requirements, and practical limits to assess whether a Raspberry Pi fits a specific use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

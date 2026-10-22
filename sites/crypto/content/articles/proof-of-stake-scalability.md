@@ -3,8 +3,6 @@ title: "Proof of stake scalability: mechanisms, limits, and trade-offs"
 description: "Learn how proof of stake scalability depends on validator coordination, block production, and network architecture, and which trade-offs to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake scalability"]

@@ -3,8 +3,6 @@ title: "TLM crypto: Meaning, project role, and ecosystem context"
 description: "Learn what TLM crypto refers to, how it fits within its associated project, and which details about its role or availability require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

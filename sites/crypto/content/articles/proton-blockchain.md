@@ -3,8 +3,6 @@ title: "Proton blockchain: purpose, design, and payment considerations"
 description: "Learn what the Proton blockchain is, how its payment-oriented design is described, and which technical, security, and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

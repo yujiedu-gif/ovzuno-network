@@ -3,8 +3,6 @@ title: "Crypto to fiat debit card: how crypto-funded purchases work"
 description: "See how a crypto to fiat debit card can convert a crypto balance into a fiat card purchase, including authorization, conversion timing, settlement, and key terms to"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto fiat debit card"]

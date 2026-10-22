@@ -3,8 +3,6 @@ title: "Smart contract gas: what it measures and how it affects transactions"
 description: "Learn what smart contract gas measures, how gas units relate to transaction fees, and why execution limits and network rules shape a transaction's outcome."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["gas fees", "gas limit", "transaction execution"]

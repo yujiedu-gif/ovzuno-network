@@ -3,8 +3,6 @@ title: "Crypto sport: A guide to payments, sponsorships, and token projects"
 description: "Learn what crypto sport can mean, how sports payments, sponsorships, and token projects differ, and what to verify before engaging with an offering."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto sports"]

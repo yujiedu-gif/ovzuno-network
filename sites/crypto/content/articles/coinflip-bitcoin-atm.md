@@ -3,8 +3,6 @@ title: "CoinFlip Bitcoin ATM: What It Is and How It Works"
 description: "Learn what a coinflip bitcoin atm is, how a bitcoin ATM transaction generally works, and which fees, limits, and local requirements need verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

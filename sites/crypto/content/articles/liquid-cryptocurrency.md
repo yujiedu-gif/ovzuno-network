@@ -3,8 +3,6 @@ title: "Liquid Cryptocurrency: Meaning, Liquidity, and Staking Distinctions"
 description: "Learn what liquid cryptocurrency can mean, how cryptocurrency liquidity differs from liquid staking, and why access or tradability is not guaranteed."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: ["cryptocurrency liquidity"]

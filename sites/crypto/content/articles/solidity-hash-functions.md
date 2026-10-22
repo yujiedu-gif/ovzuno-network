@@ -3,8 +3,6 @@ title: "Solidity hash functions: available primitives, encoding, and risks"
 description: "Learn how Solidity hash functions process encoded inputs, how keccak256 differs from other built-in options, and what collision risks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["keccak256 Solidity", "abi.encodePacked", "hash collision"]

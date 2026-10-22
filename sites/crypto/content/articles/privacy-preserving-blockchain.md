@@ -3,8 +3,6 @@ title: "Privacy Preserving Blockchain: Goals, Mechanisms, and Limits"
 description: "Learn how privacy preserving blockchain designs limit selected disclosures, support verification, and retain trade-offs around metadata, auditability, and risk."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["privacy_identity_zk"]
 tags: []

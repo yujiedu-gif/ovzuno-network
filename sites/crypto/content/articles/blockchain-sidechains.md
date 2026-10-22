@@ -3,8 +3,6 @@ title: "Blockchain sidechains: how they connect and what trade-offs they involve
 description: "Learn how blockchain sidechains connect with a primary chain, how assets may move between them, and which security and design trade-offs to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["sidechain blockchain"]

@@ -3,8 +3,6 @@ title: "Earn Crypto App: How App-Based Crypto Rewards Work"
 description: "Learn what an earn crypto app does, how rewards may be generated and distributed, and which custody, eligibility, and risk questions to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["crypto earning app"]

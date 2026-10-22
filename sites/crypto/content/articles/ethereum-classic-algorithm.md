@@ -3,8 +3,6 @@ title: "Ethereum Classic Algorithm: Consensus and Protocol Basics"
 description: "Understand the ethereum classic algorithm, its role in network consensus, the basic proof-of-work process, and what the term does not describe."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

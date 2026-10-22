@@ -3,8 +3,6 @@ title: "Smart contract insurance: coverage, exclusions, and claims explained"
 description: "Learn how smart contract insurance may work, what events and exclusions to check, how claims can be assessed, and which risks may remain uncovered."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["smart contract risk coverage", "decentralized finance insurance"]

@@ -3,8 +3,6 @@ title: "Brick NFT: Meaning, Token, and What It Represents"
 description: "Learn what brick NFT can mean, how a token may be linked to a physical brick or property, and why the NFT alone does not establish legal ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

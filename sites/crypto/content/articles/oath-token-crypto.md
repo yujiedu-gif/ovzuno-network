@@ -3,8 +3,6 @@ title: "Oath token crypto: identity, network, and stated role"
 description: "Learn how to identify the Oath token crypto reference, check its network and contract details, and verify its stated purpose without assuming claims are proven."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

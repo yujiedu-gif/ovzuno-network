@@ -3,8 +3,6 @@ title: "Axie crypto: meaning, ecosystem, and token context"
 description: "Learn what axie crypto usually refers to, how the phrase relates to Axie Infinity, and why project, network, and token details should be checked against current, ver"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

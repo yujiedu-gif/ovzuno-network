@@ -3,8 +3,6 @@ title: "Staking crypto how it works: the validator lifecycle"
 description: "Staking crypto how it works, from committing assets and validator selection to consensus duties, protocol-specific rewards, penalties, and exit conditions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

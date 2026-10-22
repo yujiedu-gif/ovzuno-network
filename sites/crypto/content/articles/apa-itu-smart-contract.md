@@ -3,8 +3,6 @@ title: "Apa Itu Smart Contract? Cara Kerja dan Batasannya"
 description: "Pelajari apa itu smart contract, bagaimana transaksi memicu eksekusi kode di blockchain, serta batasan dan risiko yang perlu dipahami."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

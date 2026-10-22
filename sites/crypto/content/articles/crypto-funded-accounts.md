@@ -3,8 +3,6 @@ title: "Crypto Funded Accounts: Meaning, Controls, and Operational Questions"
 description: "Learn what crypto funded accounts can mean, how funding differs from custody, and which security, compliance, and operational questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["security_compliance_operations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Vancat crypto: identifying the project and checking its claims"
 description: "Learn how to identify Vancat crypto, check reliable evidence for its network and stated function, and separate documented details from unverified claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

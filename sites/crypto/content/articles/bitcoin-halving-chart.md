@@ -3,8 +3,6 @@ title: "Bitcoin Halving Chart: How to Read Dates, Block Rewards, and Issuance"
 description: "Learn how to read a bitcoin halving chart by understanding block heights, subsidy reductions, estimated dates, and the effect on new bitcoin issuance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Bitcoin block subsidy", "halving cycle", "Bitcoin issuance schedule"]

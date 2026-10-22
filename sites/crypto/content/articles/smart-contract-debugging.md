@@ -3,8 +3,6 @@ title: "Smart contract debugging: what it is and how investigations work"
 description: "Learn what smart contract debugging means, how developers reproduce unexpected behavior, and which code and execution evidence can guide an investigation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

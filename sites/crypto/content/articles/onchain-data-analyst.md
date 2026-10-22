@@ -3,8 +3,6 @@ title: "Onchain data analyst: role, workflow, and limits"
 description: "Learn what an onchain data analyst does, how blockchain records inform analysis, which skills matter, and why findings require careful interpretation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

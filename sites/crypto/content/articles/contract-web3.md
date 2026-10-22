@@ -3,8 +3,6 @@ title: "Contract Web3: How Smart Contracts Fit Into Blockchain Payments"
 description: "Learn what contract Web3 means for blockchain payments, how smart contracts can apply transaction conditions, and where execution limits and review matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["smart contract", "Web3 contract", "blockchain transaction"]

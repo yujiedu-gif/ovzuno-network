@@ -3,8 +3,6 @@ title: "Solidity proxy: how call routing and upgrades work"
 description: "Learn how a solidity proxy routes calls to an implementation, how delegatecall affects storage and execution context, and what to review before upgrades."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["proxy contract", "upgradeable smart contract", "implementation contract", "proxy storage", "delegatecall"]

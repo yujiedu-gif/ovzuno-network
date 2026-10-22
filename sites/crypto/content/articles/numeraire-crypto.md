@@ -3,8 +3,6 @@ title: "Numeraire crypto: meaning, accounting role, and token distinction"
 description: "Understand what numeraire crypto means, how a reference unit differs from a payment asset, and why context matters when reading treasury material."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

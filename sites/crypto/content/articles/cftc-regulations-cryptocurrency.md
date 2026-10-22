@@ -3,8 +3,6 @@ title: "CFTC regulations cryptocurrency: what the agency oversees"
 description: "Learn what CFTC regulations cryptocurrency may cover in the United States, how oversight can differ for derivatives and spot markets, and where its limits lie."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["regulation_tax_reporting"]
 tags: ["cftc cryptocurrency regulation"]

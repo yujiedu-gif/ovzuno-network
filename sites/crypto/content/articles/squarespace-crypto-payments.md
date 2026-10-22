@@ -3,8 +3,6 @@ title: "Squarespace crypto payments: options and setup considerations"
 description: "Explore squarespace crypto payments by separating platform and provider roles, then identify checkout, settlement, and operational details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: ["squarespace crypto payment"]

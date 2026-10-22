@@ -3,8 +3,6 @@ title: "Vitalik Buterin Smart Contracts: Ethereum’s Model and Limits"
 description: "Explore vitalik buterin smart contracts in the context of Ethereum: how they execute, what they enable, and why their behavior has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

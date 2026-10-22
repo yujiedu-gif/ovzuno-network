@@ -3,8 +3,6 @@ title: "Bitcoin API Integration: A Practical Developer Guide"
 description: "Learn how to evaluate a bitcoin api, map application needs to capabilities, plan integration and testing, and account for reliability and operational risks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain Without Consensus: What Changes in a Distributed Ledger?"
 description: "Explore blockchain without consensus, how distributed ledgers establish agreement, and what can happen to transaction order and shared records when consensus is abs"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

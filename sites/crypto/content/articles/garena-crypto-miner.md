@@ -3,8 +3,6 @@ title: "Garena crypto miner: what the phrase means and how to verify claims"
 description: "Learn what “garena crypto miner” may refer to, how to verify claims and app sources, and what to do if a download or security warning seems suspicious."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

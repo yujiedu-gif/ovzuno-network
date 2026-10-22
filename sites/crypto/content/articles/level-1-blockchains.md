@@ -3,8 +3,6 @@ title: "Level 1 blockchains: core functions and scaling"
 description: "Learn what level 1 blockchains do, how they handle shared network functions, and why choices at the base layer shape blockchain scaling trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

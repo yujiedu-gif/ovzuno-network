@@ -3,8 +3,6 @@ title: "Ryoshi crypto: what the name may refer to"
 description: "Ryoshi crypto can refer to different people, projects, or assets. Learn how to check the context and verify claims without assuming they are the same."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "ADA ERC20: Is ADA an ERC-20 Token?"
 description: "Learn what ADA ERC20 refers to, how ADA relates to Cardano, and why network and token-standard details matter when identifying an asset."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

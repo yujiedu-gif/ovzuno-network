@@ -3,8 +3,6 @@ title: "GBEX crypto: what the token and project documentation establish"
 description: "Learn what GBEX crypto refers to, how its token and associated infrastructure are described in project materials, and which claims need independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto summit: meaning, formats, and operational focus"
 description: "Learn what a crypto summit is, how event formats differ, and what builders and institutions can assess in discussions of security, compliance, and operations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

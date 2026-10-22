@@ -3,8 +3,6 @@ title: "coinpayments crypto wallet: Roles, Custody, and What to Verify"
 description: "Learn what the coinpayments crypto wallet refers to, how its stated wallet and payment roles may differ, and which custody and account details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

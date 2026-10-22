@@ -3,8 +3,6 @@ title: "Oracle Blockchain Platform: Role in Payment Infrastructure"
 description: "Understand how an oracle blockchain platform can connect payment applications to external data, where trust and failure risks arise, and what teams should assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

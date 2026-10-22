@@ -3,8 +3,6 @@ title: "g2a crypto payment: Meaning and How to Verify a Claim"
 description: "Learn what “g2a crypto payment” may refer to, what the phrase alone cannot confirm, and how to verify any claimed payment option using current official information."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

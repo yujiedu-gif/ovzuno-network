@@ -3,8 +3,6 @@ title: "Airlines that accept cryptocurrency: how to verify payment options"
 description: "Learn how to verify airlines that accept cryptocurrency, review checkout and refund terms, and confirm payment details before booking a flight."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

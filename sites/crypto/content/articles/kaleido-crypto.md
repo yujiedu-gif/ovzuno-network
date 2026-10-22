@@ -3,8 +3,6 @@ title: "Kaleido crypto: meaning and institutional infrastructure context"
 description: "Learn what kaleido crypto refers to, how to distinguish blockchain infrastructure from crypto assets and treasury services, and what details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: []

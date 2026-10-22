@@ -3,8 +3,6 @@ title: "Roulette crypto: meaning, payment flows, and risks"
 description: "Roulette crypto refers to roulette gambling involving cryptocurrency payments or payouts. Learn the basic distinction and what to verify about risks and rules."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["crypto roulette"]

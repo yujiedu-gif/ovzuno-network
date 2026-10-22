@@ -3,8 +3,6 @@ title: "Proof of Stake Privacy Coin: How Staking and Privacy Interact"
 description: "Learn how a proof of stake privacy coin can combine validator consensus with transaction privacy, and which design details must be checked per network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["proof stake privacy coin"]

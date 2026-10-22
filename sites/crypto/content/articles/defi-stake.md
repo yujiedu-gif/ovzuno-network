@@ -3,8 +3,6 @@ title: "DeFi Stake: What Staking Means Across Protocols"
 description: "Learn what DeFi stake can mean across protocol designs, how it differs from consensus staking, and which mechanism, custody, and loss risks to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: []

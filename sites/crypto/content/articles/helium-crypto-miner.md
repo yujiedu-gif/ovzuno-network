@@ -3,8 +3,6 @@ title: "Helium Crypto Miner: How Network Participation Differs from Proof of Wor
 description: "Learn what a helium crypto miner does in the Helium network, how infrastructure participation differs from proof-of-work mining, and what rewards depend on."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

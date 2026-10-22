@@ -3,8 +3,6 @@ title: "Wyre blockchain: what the phrase means in crypto payments"
 description: "Learn what “Wyre blockchain” can mean, how crypto payment infrastructure relates to blockchain networks, and which service claims need current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

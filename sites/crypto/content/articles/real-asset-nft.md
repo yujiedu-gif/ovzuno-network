@@ -3,8 +3,6 @@ title: "Real asset NFT: what the token represents and what rights it may convey"
 description: "Learn what a real asset NFT records, how it may relate to an underlying asset, and which legal, technical, and operational details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["tokenization_rwa"]
 tags: []

@@ -3,8 +3,6 @@ title: "Jesse Powell Crypto: His Documented Role in Exchange Infrastructure"
 description: "Explore Jesse Powell crypto through documented links to exchange infrastructure, distinguishing verifiable biographical context from broader market claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

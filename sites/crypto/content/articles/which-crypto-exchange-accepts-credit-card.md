@@ -3,8 +3,6 @@ title: "Which crypto exchange accepts credit card: how to verify support"
 description: "Find out which crypto exchange accepts credit card payments by checking current regional support, account eligibility, issuer rules, fees, and limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_cards_spending"]
 tags: []

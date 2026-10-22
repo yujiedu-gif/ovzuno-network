@@ -3,8 +3,6 @@ title: "Coinmama blockchain: how a crypto purchase relates to a network"
 description: "Learn what “Coinmama blockchain” can refer to, how a crypto purchase service differs from a blockchain network, and which details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

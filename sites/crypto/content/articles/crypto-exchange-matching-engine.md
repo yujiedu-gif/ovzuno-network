@@ -3,8 +3,6 @@ title: "Crypto Exchange Matching Engine: How Order Matching Works"
 description: "Learn what a crypto exchange matching engine does, how it processes eligible orders, and how its execution rules fit within broader exchange infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

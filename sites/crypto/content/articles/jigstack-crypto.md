@@ -3,8 +3,6 @@ title: "Jigstack crypto: project overview, documented functions, and verificatio
 description: "Learn what Jigstack crypto refers to, how to assess documented components and functions, and which current project details require independent verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

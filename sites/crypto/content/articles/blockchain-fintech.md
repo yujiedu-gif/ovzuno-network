@@ -3,8 +3,6 @@ title: "Blockchain fintech: meaning, payment uses, and key considerations"
 description: "Learn what blockchain fintech means, how blockchain can support financial technology and payments, and what decision-makers should assess before evaluating a use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

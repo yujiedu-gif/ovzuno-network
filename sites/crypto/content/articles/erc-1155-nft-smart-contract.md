@@ -3,8 +3,6 @@ title: "ERC 1155 NFT Smart Contract: How the Token Standard Works"
 description: "Learn how an erc 1155 nft smart contract represents multiple token types, processes transfers, and handles receiver checks, with key design considerations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

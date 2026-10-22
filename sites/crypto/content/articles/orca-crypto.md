@@ -3,8 +3,6 @@ title: "Orca Crypto: What the Solana Decentralized Exchange Does"
 description: "Learn what Orca crypto refers to, how its decentralized exchange operates at a high level, and what users should verify before interacting with it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

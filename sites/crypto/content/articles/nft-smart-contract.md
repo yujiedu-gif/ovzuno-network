@@ -3,8 +3,6 @@ title: "NFT smart-contract: What It Does and How It Works"
 description: "Learn what an NFT smart-contract does, how it handles token rules and metadata references, and where its responsibilities end within an NFT system."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["nft smart contract"]

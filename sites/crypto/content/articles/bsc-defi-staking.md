@@ -3,8 +3,6 @@ title: "BSC DeFi Staking: How Protocol Deposits and Risks Work"
 description: "Learn how BSC DeFi staking differs from native network staking, how deposits and rewards may work, and which protocol, withdrawal, and security risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["defi_protocols"]
 tags: ["BNB Smart Chain staking", "DeFi staking risks", "smart contract staking"]

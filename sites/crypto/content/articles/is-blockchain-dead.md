@@ -3,8 +3,6 @@ title: "Is blockchain dead? How to assess its activity and usefulness"
 description: "Is blockchain dead, or does activity vary by network and use case? Learn how to assess operation, adoption, and practical usefulness with evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain dead"]

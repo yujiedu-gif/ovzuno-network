@@ -3,8 +3,6 @@ title: "ASIC Blockchain: How Specialized Hardware Fits Proof of Work"
 description: "Learn what ASIC blockchain refers to, how specialized hardware participates in proof-of-work mining, and what it does—and does not—determine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

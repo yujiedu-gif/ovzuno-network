@@ -3,8 +3,6 @@ title: "Cronos smart contract: how it works on the network"
 description: "Learn what a Cronos smart contract is, how deployment and interaction work, and which network-specific details developers should verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

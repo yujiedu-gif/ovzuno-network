@@ -3,8 +3,6 @@ title: "OpenZeppelin NFT Contract: Role, Components, and Key Considerations"
 description: "Understand what an OpenZeppelin NFT contract refers to, how reusable components may support NFT implementations, and what builders should verify before deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

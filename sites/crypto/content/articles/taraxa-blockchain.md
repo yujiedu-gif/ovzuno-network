@@ -3,8 +3,6 @@ title: "Taraxa blockchain: network structure and transaction recording"
 description: "Learn what the Taraxa blockchain is, how its transaction-recording design is described, and which network details readers should verify from current sources."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

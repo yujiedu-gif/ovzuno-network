@@ -3,8 +3,6 @@ title: "Blockchain games alliance: purpose, scope, and what to verify"
 description: "Learn what the blockchain games alliance is intended to do, how its stated scope relates to blockchain gaming, and which membership and activity claims need checking"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain game alliance"]

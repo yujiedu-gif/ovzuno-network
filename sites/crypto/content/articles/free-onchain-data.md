@@ -3,8 +3,6 @@ title: "Free onchain data: what no-cost access does and does not mean"
 description: "Learn what free onchain data can mean, which access and usage conditions to check, and how to assess coverage and limitations before relying on it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

@@ -3,8 +3,6 @@ title: "Atari crypto: what the term refers to and how to verify claims"
 description: "Learn what Atari crypto may refer to, how to check claims about related projects or assets, and which details require reliable evidence before drawing conclusions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

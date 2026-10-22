@@ -3,8 +3,6 @@ title: "RIF Crypto: What the Token Is and Its Staking Role"
 description: "Learn what RIF crypto refers to and how its documented token role relates to staking or validators, without confusing RIF with general proof of stake."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

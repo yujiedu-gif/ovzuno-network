@@ -3,8 +3,6 @@ title: "Cryptocurrency with Dividends: What the Term Means"
 description: "Learn what cryptocurrency with dividends can mean, how crypto distributions differ from company dividends, and which mechanisms and risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

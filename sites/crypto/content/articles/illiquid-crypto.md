@@ -3,8 +3,6 @@ title: "Illiquid crypto: meaning, pricing evidence, and tax reporting context"
 description: "Learn what illiquid crypto means, why limited trading can complicate pricing evidence, and what records may help with jurisdiction-specific tax reporting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: []

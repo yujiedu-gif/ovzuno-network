@@ -3,8 +3,6 @@ title: "New era nft: What NFTs Can—and Cannot—Establish About Digital Owners
 description: "Explore what “new era nft” can mean for digital ownership, separating blockchain records and token control from linked content and legal or contractual rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

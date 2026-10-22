@@ -3,8 +3,6 @@ title: "How to mine ethereum: what changed after proof of stake"
 description: "Learn how to mine ethereum historically, why Ethereum ended proof-of-work mining, and how its current consensus mechanism differs from mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_assets_protocols"]
 tags: ["mine ethereum"]

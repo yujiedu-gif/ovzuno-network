@@ -3,8 +3,6 @@ title: "New crypto coins coming out: how to verify launch claims"
 description: "Learn how to assess claims about new crypto coins coming out, verify launch status from primary evidence, and recognize unresolved risks and uncertainty."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

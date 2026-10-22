@@ -3,8 +3,6 @@ title: "Movement crypto: Network, staking, and validator context"
 description: "Understand what movement crypto refers to, how Movement Network relates to staking and validators, and which network details require current verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

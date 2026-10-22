@@ -3,8 +3,6 @@ title: "Crypto staking website: functions, flows, and key checks"
 description: "Learn what a crypto staking website may do, how its interface relates to validators and custody, and what operational details to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

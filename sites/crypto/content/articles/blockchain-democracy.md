@@ -3,8 +3,6 @@ title: "Blockchain Democracy: Meaning and Core Distinctions"
 description: "Learn what blockchain democracy means, how blockchain-based decision processes differ from democratic outcomes, and what the term does—and does not—cover."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

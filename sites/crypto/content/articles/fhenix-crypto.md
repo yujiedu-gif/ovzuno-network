@@ -3,8 +3,6 @@ title: "Fhenix Crypto: What Its Confidential Computing Infrastructure Does"
 description: "Learn what fhenix crypto refers to, how its stated encryption approach relates to confidential blockchain computation, and what readers should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["Fhenix network", "confidential computing", "fully homomorphic encryption", "FHE coprocessor"]

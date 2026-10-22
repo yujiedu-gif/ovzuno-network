@@ -3,8 +3,6 @@ title: "Foundation NFT contract: what it refers to and what it does"
 description: "Learn what a Foundation NFT contract may refer to, how contracts relate to token records and metadata, and what they do not establish about digital work."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

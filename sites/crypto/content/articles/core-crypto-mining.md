@@ -3,8 +3,6 @@ title: "Core crypto mining: how proof-of-work supports blockchain consensus"
 description: "Learn what core crypto mining does in proof-of-work systems, how miners propose blocks, and why the network verifies the result before accepting it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

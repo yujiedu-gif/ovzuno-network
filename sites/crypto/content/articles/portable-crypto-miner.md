@@ -3,8 +3,6 @@ title: "Portable crypto miner: what portability means for proof-of-work mining"
 description: "Learn what a portable crypto miner is, how power, heat, connectivity, and hardware shape its use, and what to verify before operating one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["portable Bitcoin miner", "mobile crypto mining hardware", "proof-of-work mining hardware"]

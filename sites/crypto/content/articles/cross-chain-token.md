@@ -3,8 +3,6 @@ title: "Cross Chain Token: Meaning, Representations, and Trade-offs"
 description: "Learn what a cross chain token means, how token representations differ across blockchains, and what design and operational trade-offs to consider."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["cross_chain_interoperability"]
 tags: ["cross-chain token", "token representation across blockchains", "cross-chain interoperability"]

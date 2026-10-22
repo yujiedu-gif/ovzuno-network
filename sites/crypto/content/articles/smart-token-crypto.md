@@ -3,8 +3,6 @@ title: "Smart Token Crypto: How Programmable Tokens Fit Into Payment Flows"
 description: "Smart token crypto describes tokens shaped by blockchain program logic. Learn how token rules, ledgers, and payment flows relate, plus key limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

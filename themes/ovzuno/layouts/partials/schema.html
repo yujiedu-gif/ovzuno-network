@@ -14,7 +14,8 @@
 {{ if and .IsPage (eq .Section "articles") }}
   {{ $authorKey := .Params.author | default "editorial_team" }}
   {{ $author := index .Site.Data.authors $authorKey }}
-  {{ $article := dict "@type" "TechArticle" "@id" (printf "%s#article" .Permalink) "headline" .Title "description" .Description "url" .Permalink "mainEntityOfPage" .Permalink "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "author" (dict "@type" $author.type "name" $author.name "url" $author.url) "publisher" (dict "@id" "https://ovzuno.com/#organization") }}
+  {{ $articleType := cond (eq .Site.Params.siteKey "crypto") "Article" "TechArticle" }}
+  {{ $article := dict "@type" $articleType "@id" (printf "%s#article" .Permalink) "headline" .Title "description" .Description "url" .Permalink "mainEntityOfPage" .Permalink "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "author" (dict "@type" $author.type "name" $author.name "url" $author.url) "publisher" (dict "@id" "https://ovzuno.com/#organization") }}
   {{ with .Params.lastmod }}{{ $article = merge $article (dict "dateModified" (time.AsTime . | time.Format "2006-01-02T15:04:05Z07:00")) }}{{ end }}
   {{ $graph = $graph | append $article }}
 {{ end }}

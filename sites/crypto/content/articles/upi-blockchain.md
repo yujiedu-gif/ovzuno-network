@@ -3,8 +3,6 @@ title: "UPI blockchain: How the Payment System and Ledger Technology Differ"
 description: "Learn what UPI blockchain can mean, how India’s UPI payment system differs from blockchain architecture, and what integration questions to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

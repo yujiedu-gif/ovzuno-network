@@ -3,8 +3,6 @@ title: "Free mining crypto coins: meanings, costs, and risks"
 description: "Free mining crypto coins can refer to different setups or promotions. Learn what “free” may exclude, how rewards are described, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof-of-work", "mining rewards", "cloud mining"]

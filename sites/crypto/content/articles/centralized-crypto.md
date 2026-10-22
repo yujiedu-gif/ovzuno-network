@@ -3,8 +3,6 @@ title: "Centralized crypto: how the infrastructure model works"
 description: "Learn what centralized crypto means as an infrastructure model, which functions an operator may control, and how its trust assumptions differ from decentralized"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

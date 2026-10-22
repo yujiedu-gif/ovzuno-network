@@ -3,8 +3,6 @@ title: "Japanese crypto exchange: market infrastructure and Japan’s context"
 description: "Understand what a Japanese crypto exchange does, how it fits into crypto market infrastructure, and which Japan-specific regulatory and operational details need"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

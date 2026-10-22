@@ -3,8 +3,6 @@ title: "nfts ebay: Marketplace Context, Digital Ownership, and Policy Checks"
 description: "Learn what nfts ebay may refer to, how NFTs represent digital ownership, and why eBay policies, availability, and regional rules require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

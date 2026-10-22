@@ -3,8 +3,6 @@ title: "GitHub Smart Contract: What the Term Means"
 description: "Understand what a github smart contract repository contains, how developers collaborate on contract code, and why repository files alone do not prove deployment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["smart_contract_dapps"]
 tags: ["smart contracts github"]

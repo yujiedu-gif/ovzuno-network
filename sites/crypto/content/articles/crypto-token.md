@@ -3,8 +3,6 @@ title: "Crypto token: how contracts and standards shape on-chain behavior"
 description: "Explore how a crypto token is represented on a blockchain, how contracts record balances, and how standards support compatible operations across applications."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["token contract", "token standards", "blockchain token"]

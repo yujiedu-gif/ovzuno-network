@@ -3,8 +3,6 @@ title: "DeFi Blockchain: Meaning, Networks, and Smart Contracts"
 description: "Understand what a defi blockchain means, how smart contracts support decentralized finance, and what users and builders should know about its limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain defi"]

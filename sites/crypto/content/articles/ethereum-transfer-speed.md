@@ -3,8 +3,6 @@ title: "Ethereum transfer speed: inclusion, confirmation, and finality"
 description: "Understand ethereum transfer speed, including block inclusion, consensus finality, and the network and transaction conditions that affect elapsed time."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Ethereum transaction finality", "block time", "layer 2 transaction speed"]

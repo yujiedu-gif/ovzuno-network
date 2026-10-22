@@ -3,8 +3,6 @@ title: "Trinidad crypto: What to verify about crypto-linked card spending"
 description: "Learn what Trinidad crypto may mean for card spending, how crypto-linked payments can be structured, and which local availability and regulatory details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: ["crypto in trinidad"]

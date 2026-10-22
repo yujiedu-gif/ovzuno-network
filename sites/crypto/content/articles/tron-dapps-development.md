@@ -3,8 +3,6 @@ title: "Tron dapps development: a practical implementation guide"
 description: "Plan tron dapps development with a practical workflow for architecture, smart-contract implementation, testing, TRON integration, and deployment readiness."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["TRON smart contracts", "TRON development tools", "decentralized application architecture"]

@@ -3,8 +3,6 @@ title: "Layers 1 crypto: Meaning and core blockchain roles"
 description: "Learn what layers 1 crypto means, how a Layer 1 blockchain processes and validates activity, and where the term fits in crypto infrastructure."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_scaling"]
 tags: []

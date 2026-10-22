@@ -3,8 +3,6 @@ title: "FTX Crypto Token: What FTT Was and What to Verify"
 description: "Learn what the FTX crypto token, FTT, was designed to do, how its stated utility should be understood, and which status and legal details to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

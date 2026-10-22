@@ -3,8 +3,6 @@ title: "Proof of participation blockchain: meaning and how to assess the term"
 description: "Learn what proof of participation blockchain can mean, how usage varies, and what to check in a project’s documentation before treating it as a consensus mechanism."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["proof participation blockchain"]

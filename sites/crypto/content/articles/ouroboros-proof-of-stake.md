@@ -3,8 +3,6 @@ title: "Ouroboros proof of stake: How Cardano’s consensus protocol works"
 description: "Learn how Ouroboros proof of stake organizes time, uses stake pools in block production, and supports consensus in Cardano, with key limits explained."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["ouroboros proof stake"]

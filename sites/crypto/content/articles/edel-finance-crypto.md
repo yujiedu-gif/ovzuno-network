@@ -3,8 +3,6 @@ title: "edel finance crypto: What Is Known About Staking and Validators"
 description: "Explore what reliable documentation says about edel finance crypto and staking or validators, including what is confirmed, unclear, and worth verifying."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

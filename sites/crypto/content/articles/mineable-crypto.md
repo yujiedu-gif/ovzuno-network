@@ -3,8 +3,6 @@ title: "Mineable Crypto: How to Identify Networks That Use Mining"
 description: "Learn what mineable crypto means, how proof-of-work mining supports network consensus, and how to distinguish mining from other consensus methods."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "Understanding NFTs for Dummies: Tokens, Digital Items, and Rights"
 description: "Understanding NFTs for dummies: learn what an NFT records, how it relates to digital content, and why token ownership does not automatically grant every right."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["understanding nfts dummies"]

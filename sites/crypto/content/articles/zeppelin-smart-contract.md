@@ -3,8 +3,6 @@ title: "Zeppelin smart contract: meaning, project context, and verification"
 description: "Learn what “Zeppelin smart contract” may refer to, how to check project context and documentation, and what to verify before relying on a contract."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

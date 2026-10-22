@@ -3,8 +3,6 @@ title: "Bitcoin blockchain: how Bitcoin records and confirms transactions"
 description: "Learn what the bitcoin blockchain is, how transactions are grouped into linked blocks, and how network validation supports transaction confirmation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["bitcoins blockchain"]

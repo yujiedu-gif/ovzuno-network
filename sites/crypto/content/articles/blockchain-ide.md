@@ -3,8 +3,6 @@ title: "Blockchain IDE: What It Is and How Developers Use It"
 description: "Learn what a blockchain IDE is, which development tasks it can support, and what to check when evaluating its testing, deployment, and security features."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

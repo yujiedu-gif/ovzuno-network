@@ -3,8 +3,6 @@ title: "ERC20 standard: What its interface specifies and what it does not"
 description: "Learn what the ERC20 standard defines for fungible-token contracts, how applications use its interface, and which implementation details it does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

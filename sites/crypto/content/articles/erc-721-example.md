@@ -3,8 +3,6 @@ title: "ERC 721 Example: A Minimal Solidity Contract Walkthrough"
 description: "Study an ERC 721 example with annotated Solidity, ownership and minting flow, standard-interface notes, and checks to make before adapting or deploying it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: []

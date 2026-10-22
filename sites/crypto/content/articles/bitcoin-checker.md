@@ -3,8 +3,6 @@ title: "Bitcoin Checker: Meaning, Functions, and Limits"
 description: "Learn what “bitcoin checker” can mean, which Bitcoin-related details a tool may inspect, and what to verify about its scope and limitations."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Consensus in crypto: how networks agree on shared state"
 description: "Learn how consensus in crypto helps distributed networks agree on valid transactions and shared state, and how proof of work and proof of stake differ."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

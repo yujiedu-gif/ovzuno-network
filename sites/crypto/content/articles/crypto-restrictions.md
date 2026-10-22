@@ -3,8 +3,6 @@ title: "Crypto restrictions: what they mean and where they apply"
 description: "Learn what crypto restrictions can cover, how legal rules differ from service policies, and why the relevant activity and jurisdiction matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: []

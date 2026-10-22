@@ -3,8 +3,6 @@ title: "Pell crypto: a guide to its staking and validator context"
 description: "Learn what Pell crypto refers to, how its documented design relates to staking and validators, and which technical, security, and availability claims need evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["staking_validators"]
 tags: []

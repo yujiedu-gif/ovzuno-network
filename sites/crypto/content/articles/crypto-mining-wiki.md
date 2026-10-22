@@ -3,8 +3,6 @@ title: "Crypto Mining Wiki: A Reference Definition of Crypto Mining"
 description: "Crypto mining wiki: a concise definition of crypto mining, its role in proof-of-work consensus, and how the term differs from a dedicated reference site."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

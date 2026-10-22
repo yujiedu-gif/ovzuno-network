@@ -3,8 +3,6 @@ title: "Decentralised Crypto Exchange: Trade Flows and Infrastructure"
 description: "Understand how a decentralised crypto exchange handles trade execution, the infrastructure behind common designs, and the trust and operational trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["decentralized exchange", "on-chain trading", "automated market maker", "order book"]

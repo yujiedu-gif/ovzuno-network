@@ -3,8 +3,6 @@ title: "NFT with physical product: how the link and claim can work"
 description: "Learn how an NFT with physical product can be linked to a tangible item, what ownership or redemption claims depend on, and what evidence to check."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

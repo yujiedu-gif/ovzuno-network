@@ -3,8 +3,6 @@ title: "SWIFT Crypto: Messaging, Digital Assets, and Payment Flows"
 description: "Learn what “swift crypto” can mean, how SWIFT payment messaging differs from crypto transfers, and why neither term alone explains settlement or card spending."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

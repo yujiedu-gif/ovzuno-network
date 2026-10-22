@@ -3,8 +3,6 @@ title: "What Is SXP Crypto? Token, Network, and Reporting Context"
 description: "What is sxp crypto? Learn what SXP refers to, how the token relates to its associated infrastructure, and why tax and regulatory treatment varies by jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["regulation_tax_reporting"]
 tags: ["sxp crypto"]

@@ -3,8 +3,6 @@ title: "Digital assets nfts: how NFTs fit into the digital asset landscape"
 description: "Learn how digital assets nfts relate to non-fungible tokens, what NFT records and metadata can show, and what blockchain ownership does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["non-fungible tokens", "NFT metadata", "NFT ownership"]

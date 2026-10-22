@@ -3,8 +3,6 @@ title: "IDO smart contract: roles, flow, and boundaries"
 description: "Learn how an ido smart contract can handle offering rules, participant contributions, and token distribution—and what remains outside its code."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

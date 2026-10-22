@@ -3,8 +3,6 @@ title: "Bitcoin mining economics: revenue, costs, and key variables"
 description: "Understand bitcoin mining economics through block rewards, transaction fees, operating costs, and network conditions, with a framework for scenario-based assessment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

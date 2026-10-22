@@ -3,8 +3,6 @@ title: "Blockchain Bitcoin Transactions: What They Are and How Confirmation Work
 description: "Learn what blockchain bitcoin transactions represent, how they are broadcast and recorded in blocks, and what confirmation does—and does not—mean."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain bitcoin transaction"]

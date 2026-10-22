@@ -3,8 +3,6 @@ title: "1inch smart contract: role in decentralized token swaps"
 description: "Learn how a 1inch smart contract can fit into a decentralized swap flow, what execution components to verify, and why network-specific checks matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

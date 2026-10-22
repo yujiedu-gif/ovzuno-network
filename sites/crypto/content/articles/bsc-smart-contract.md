@@ -3,8 +3,6 @@ title: "BSC smart contract: how it works on BNB Smart Chain"
 description: "Learn what a bsc smart contract is, how it executes on BNB Smart Chain, how users interact with it, and which network-specific risks to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["BNB Smart Chain smart contracts", "EVM-compatible blockchain", "smart contract deployment"]

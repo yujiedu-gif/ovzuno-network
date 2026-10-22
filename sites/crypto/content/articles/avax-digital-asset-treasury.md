@@ -3,8 +3,6 @@ title: "AVAX Digital Asset Treasury: DAO Governance and Controls"
 description: "Explore how a DAO can define an AVAX digital asset treasury mandate, assign decision rights, and set operational controls, with jurisdiction-specific issues flagged."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: []

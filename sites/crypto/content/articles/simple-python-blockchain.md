@@ -3,8 +3,6 @@ title: "Simple Python Blockchain: Build a Minimal Learning Model"
 description: "Learn how a simple python blockchain can represent linked blocks in a small teaching example, and see what it cannot establish about a real payment network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: ["simple blockchain in python"]

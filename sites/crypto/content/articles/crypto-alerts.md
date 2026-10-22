@@ -3,8 +3,6 @@ title: "Crypto alerts: what they mean for crypto-card spending"
 description: "Learn what crypto alerts can report about card spending and account activity, how they differ from price notifications, and what a message alone cannot confirm."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_cards_spending"]
 tags: []

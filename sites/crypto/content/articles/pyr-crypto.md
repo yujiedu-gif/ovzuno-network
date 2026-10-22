@@ -3,8 +3,6 @@ title: "PYR Crypto: What the Token Refers To and How to Assess Its Role"
 description: "Learn what pyr crypto refers to, how to verify its associated project and documented token role, and which details require current, reliable evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

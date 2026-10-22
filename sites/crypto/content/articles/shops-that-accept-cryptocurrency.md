@@ -3,8 +3,6 @@ title: "How to Find Shops That Accept Cryptocurrency and Verify Checkout"
 description: "Learn how to check whether shops that accept cryptocurrency support your location, asset, and payment method, and what to confirm before checkout."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["crypto_payments"]
 tags: []

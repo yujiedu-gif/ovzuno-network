@@ -3,8 +3,6 @@ title: "Crypto Knowledge Quiz: Blockchain Scaling Concepts"
 description: "A crypto knowledge quiz can help readers review blockchain scaling concepts, from throughput and capacity to the trade-offs behind scaling approaches."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_scaling"]
 tags: []

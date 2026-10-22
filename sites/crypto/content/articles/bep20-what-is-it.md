@@ -3,8 +3,6 @@ title: "BEP20 What Is It? A Plain-Language Guide to the Token Standard"
 description: "BEP20 what is it? Learn what the token standard specifies on BNB Smart Chain, how it relates to individual tokens, and what it does not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bep20 it"]

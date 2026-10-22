@@ -3,8 +3,6 @@ title: "Web3 payment crypto: How wallet-based payment flows work"
 description: "Explore how web3 payment crypto flows connect wallets, applications, blockchain networks, and recipients, plus the practical questions to verify before use."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

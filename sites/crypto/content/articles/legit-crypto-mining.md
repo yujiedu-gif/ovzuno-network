@@ -3,8 +3,6 @@ title: "Legit crypto mining: what legitimacy means and what to verify"
 description: "Learn what legit crypto mining means in proof-of-work networks, how to distinguish network activity from commercial claims, and what to verify before participating."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

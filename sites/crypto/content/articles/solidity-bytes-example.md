@@ -3,8 +3,6 @@ title: "Solidity bytes example: using `bytes` and `bytes32`"
 description: "Follow a Solidity bytes example that declares, assigns, and reads dynamic `bytes` and fixed-size `bytes32` values, with a brief guide to choosing between them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["smart_contract_dapps"]
 tags: ["Solidity bytes type", "bytes32", "dynamic bytes", "fixed-size bytes"]

@@ -3,8 +3,6 @@ title: "What Does NFT Art Mean? Artwork, Tokens, and Rights"
 description: "Learn what nft art mean refers to, how an NFT relates to a digital artwork, and why token ownership does not automatically settle copyright or usage rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

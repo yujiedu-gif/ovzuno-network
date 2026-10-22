@@ -3,8 +3,6 @@ title: "Blue crypto card: what the phrase may mean"
 description: "Learn what “blue crypto card” may describe, how to tell a generic phrase from a named product, and which product and jurisdiction details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

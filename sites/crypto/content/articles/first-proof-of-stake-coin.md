@@ -3,8 +3,6 @@ title: "First proof of stake coin: how to assess the historical claim"
 description: "Explore the first proof of stake coin claim by separating proposal, launch, and implementation milestones, and see what evidence can support each historical date."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: ["first proof stake coin"]

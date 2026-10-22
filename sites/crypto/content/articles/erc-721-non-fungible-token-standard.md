@@ -3,8 +3,6 @@ title: "ERC 721 non fungible token standard: Core Concepts Explained"
 description: "Learn what the erc 721 non fungible token standard specifies for token identity, ownership and transfers, plus optional metadata and implementation limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

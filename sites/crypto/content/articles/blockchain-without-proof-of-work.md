@@ -3,8 +3,6 @@ title: "Blockchain Without Proof of Work: How Consensus Can Work"
 description: "Learn how a blockchain without proof of work can coordinate transaction validation, how selected consensus mechanisms differ, and what trade-offs to examine."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["blockchain without proof work", "proof-of-stake", "proof-of-authority", "consensus mechanism"]

@@ -3,8 +3,6 @@ title: "Utility Crypto: Meaning, Functions, and How to Assess Token Utility"
 description: "Learn what utility crypto means, how tokens may support protocol functions, and what to check when assessing whether a stated use is defined and usable."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["utility token", "token utility", "protocol access"]

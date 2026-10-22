@@ -3,8 +3,6 @@ title: "Crypto Exchange Fees Comparison: How to Compare Total Costs"
 description: "Use this crypto exchange fees comparison framework to assess trading and related charges, compare fee calculations, and verify account-specific terms before acting."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "comparison"
 topics: ["blockchain_payment_foundations"]
 tags: ["fee comparison crypto exchanges", "crypto exchange fee"]

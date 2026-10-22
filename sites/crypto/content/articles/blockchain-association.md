@@ -3,8 +3,6 @@ title: "Blockchain association: meaning, roles, and limits"
 description: "Understand what a blockchain association is, the roles such organizations may play, how they differ from a blockchain network, and what to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

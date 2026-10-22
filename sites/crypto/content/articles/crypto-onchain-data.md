@@ -3,8 +3,6 @@ title: "Crypto Onchain Data: What It Shows and What It Cannot"
 description: "Learn what crypto onchain data records, how it differs from offchain information, what analysts may infer, and why interpretation has limits."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["onchain_data_analytics"]
 tags: []

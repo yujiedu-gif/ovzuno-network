@@ -3,8 +3,6 @@ title: "Diamond Smart Contract: Modular Architecture, Routing, and Trade-Offs"
 description: "Learn how a diamond smart contract organizes functions into facets, routes calls by selector, supports modular upgrades, and introduces design trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

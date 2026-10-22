@@ -3,8 +3,6 @@ title: "NBA NFTs Explained: Tokens, Content, and Ownership"
 description: "NBA NFTs explained: learn how a token can relate to basketball content, what blockchain records show, and why associated rights depend on applicable terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nba nfts"]

@@ -3,8 +3,6 @@ title: "Phi cryptocurrency: how to identify the project and verify its details"
 description: "Learn how to identify what phi cryptocurrency refers to, distinguish similarly named projects, and verify a claimed asset using primary documentation."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

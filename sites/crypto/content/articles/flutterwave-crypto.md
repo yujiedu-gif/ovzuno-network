@@ -3,8 +3,6 @@ title: "Flutterwave crypto: documented capabilities and what businesses should v
 description: "Explore what is documented about flutterwave crypto, how to verify current product capabilities, and which jurisdiction, settlement, fee, security, and compliance"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

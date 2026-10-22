@@ -3,8 +3,6 @@ title: "Onchain Wallets: How They Interact With Blockchain Networks"
 description: "Learn what an onchain wallet does, how signed transactions reach a blockchain, what becomes publicly recorded, and which wallet operations remain offchain."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["wallets_custody"]
 tags: []

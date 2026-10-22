@@ -3,8 +3,6 @@ title: "GMEE crypto: what it refers to and how to verify the details"
 description: "Learn what GMEE crypto may refer to, how to verify project and token details, and which claims need primary evidence before you rely on them."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

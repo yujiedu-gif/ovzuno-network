@@ -3,8 +3,6 @@ title: "How Blockchain Tokenize Real Estate: Structure, Rights, and Limits"
 description: "Learn how blockchain tokenize real estate, what a property token may represent, and why legal rights, records, transfers, and servicing require separate checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["real estate tokenization", "tokenized property"]

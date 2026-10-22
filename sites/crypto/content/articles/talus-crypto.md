@@ -3,8 +3,6 @@ title: "Talus crypto: Meaning and NFT context"
 description: "Understand what talus crypto may refer to, how to verify the specific usage, and what NFT ownership records do—and do not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []

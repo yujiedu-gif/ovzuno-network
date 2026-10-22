@@ -3,8 +3,6 @@ title: "How to Evaluate a bridge crypto platform for Cross-Chain Use"
 description: "Assess a bridge crypto platform against cross-chain requirements, architecture, trust assumptions, security evidence, operational controls, and governance."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["cross_chain_interoperability"]
 tags: ["cross-chain bridge", "blockchain interoperability"]

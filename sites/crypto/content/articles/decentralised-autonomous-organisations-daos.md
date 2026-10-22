@@ -3,8 +3,6 @@ title: "Governance in decentralised autonomous organisations daos: proposals, vo
 description: "Explore how decentralised autonomous organisations daos handle proposals, voting and execution, and what design limits and governance risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["dao_governance"]
 tags: ["DAO governance models", "on-chain governance", "off-chain governance", "smart contract execution"]

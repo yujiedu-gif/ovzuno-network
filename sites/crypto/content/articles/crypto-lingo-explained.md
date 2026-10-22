@@ -3,8 +3,6 @@ title: "Crypto Lingo Explained: A Context-Aware Glossary"
 description: "Crypto lingo explained in a plain-language glossary: learn common terms, how meanings vary by context, and where technical definitions need qualification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto lingo"]

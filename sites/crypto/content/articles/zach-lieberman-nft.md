@@ -3,8 +3,6 @@ title: "Zach Lieberman NFT: What the Phrase Refers To"
 description: "Understand what “zach lieberman nft” may refer to, how to verify an artwork attribution, and why an NFT token does not by itself establish copyright."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

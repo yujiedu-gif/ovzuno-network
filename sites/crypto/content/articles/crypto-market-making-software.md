@@ -3,8 +3,6 @@ title: "Crypto Market Making Software: Core Components and Workflows"
 description: "Explore crypto market making software components, from market data and quote generation to execution, inventory tracking, and operational risk controls."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["market making engine", "inventory management", "order execution", "risk controls"]

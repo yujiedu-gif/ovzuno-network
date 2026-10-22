@@ -3,8 +3,6 @@ title: "New nft tokens: How NFT issuance and identity work"
 description: "Learn what new nft tokens are, how NFT issuance and metadata work, and what to verify about token identity, transferability, and security."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

@@ -3,8 +3,6 @@ title: "Blockchain chain link: meaning and context"
 description: "Learn what blockchain chain link can mean, how networks may connect, and how to distinguish a generic connection from the Chainlink project."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: ["chain link blockchain"]

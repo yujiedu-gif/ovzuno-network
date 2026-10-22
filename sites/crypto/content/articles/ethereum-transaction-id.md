@@ -3,8 +3,6 @@ title: "Ethereum transaction id: what it identifies"
 description: "Learn what an ethereum transaction id identifies on the network, how it differs from an address or block number, and what it does not prove."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["blockchain_payment_foundations"]
 tags: []

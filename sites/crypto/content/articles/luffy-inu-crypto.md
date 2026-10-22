@@ -3,8 +3,6 @@ title: "Luffy Inu Crypto: Identity, Project Claims, and Verification"
 description: "Learn what Luffy Inu crypto refers to, how to check token and project identifiers, and how to separate verifiable information from unconfirmed claims."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: []

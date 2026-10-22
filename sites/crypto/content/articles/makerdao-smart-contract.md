@@ -3,8 +3,6 @@ title: "MakerDAO smart contract: roles and protocol architecture"
 description: "Explore how MakerDAO smart contract components support collateralized positions, Dai issuance, system accounting, and governance, with limits of a high-level map."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["MakerDAO protocol architecture", "Maker Protocol contracts", "Dai stablecoin contracts"]

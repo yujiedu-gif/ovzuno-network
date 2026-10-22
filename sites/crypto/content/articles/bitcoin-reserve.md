@@ -3,8 +3,6 @@ title: "Bitcoin reserve: meaning, models, and key distinctions"
 description: "Learn what a bitcoin reserve means, how protocol-level and organizational uses differ, and which custody, control, and policy details define a reserve."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoins reserve"]

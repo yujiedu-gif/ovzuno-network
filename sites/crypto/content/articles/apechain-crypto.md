@@ -3,8 +3,6 @@ title: "Apechain crypto: what the network is and what treasury teams should veri
 description: "Learn what apechain crypto refers to, how a blockchain network differs from its tokens and applications, and what treasury teams should verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["institutional_crypto_treasury"]
 tags: ["ApeChain", "APE token", "blockchain network", "network fees", "wallet compatibility"]

@@ -3,8 +3,6 @@ title: "NFT game tokens: how tokens and NFTs function in blockchain games"
 description: "Learn how NFT game tokens and game NFTs differ, what roles they may serve in blockchain games, and why utility and ownership claims need careful review."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["game NFTs", "in-game crypto assets", "fungible game tokens"]

@@ -3,8 +3,6 @@ title: "Layer 2 scaling solution: how it works and what payment teams should ass
 description: "Understand how a layer 2 scaling solution processes transactions, relates to its base blockchain, and shapes security, data, and payment-system trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Visual Studio Code Blockchain: A Guide to Payment Prototyping"
 description: "Learn how to use visual studio code blockchain workflows to set up and inspect a payment prototype, validate it locally, and identify production-readiness checks."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "guide"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Explanation of blockchain technology: how payment records are verified"
 description: "An explanation of blockchain technology focused on payment transactions: how networks check, agree on, and record transfers, and what the process does not establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["explanation blockchain technology"]

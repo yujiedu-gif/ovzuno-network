@@ -3,8 +3,6 @@ title: "Blockchain Node Engine: Role in a Payment System"
 description: "Learn what a blockchain node engine does, how it validates and serves network data, and where it fits alongside wallets, RPC interfaces, and payment services."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain node", "node software", "consensus validation", "RPC endpoint"]

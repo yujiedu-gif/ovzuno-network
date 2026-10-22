@@ -3,8 +3,6 @@ title: "NFT transfer gas fee: what determines the cost"
 description: "Learn what affects an NFT transfer gas fee, why the amount can vary, and what information you need to estimate a network transaction cost."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "analysis"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Atletico Madrid crypto: what the club-branded token may mean"
 description: "Learn what Atletico Madrid crypto may refer to, how a club-branded fan token differs from ownership or membership, and what claims to verify."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["Atletico Madrid fan token", "football club fan tokens"]

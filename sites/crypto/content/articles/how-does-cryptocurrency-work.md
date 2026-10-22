@@ -3,8 +3,6 @@ title: "How does cryptocurrency work: transactions, validation, and consensus"
 description: "Learn how does cryptocurrency work, from transaction submission and network validation to consensus and ledger updates, with proof-of-work and proof-of-stake basics."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["cryptocurrency work"]

@@ -3,8 +3,6 @@ title: "trumps nft: What the Term Means and What Ownership Records Show"
 description: "Learn what trumps nft refers to, how an NFT can link to digital collectible media, and what blockchain records do—and do not—establish."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

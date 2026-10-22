@@ -3,8 +3,6 @@ title: "Ethereum pow: Ethereum’s former consensus and EthereumPoW"
 description: "Learn what ethereum pow meant for Ethereum, how the network moved to proof of stake, and why EthereumPoW is a separate network with its own context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["ethereumpow"]

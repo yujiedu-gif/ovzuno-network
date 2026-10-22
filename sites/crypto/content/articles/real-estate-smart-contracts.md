@@ -3,8 +3,6 @@ title: "Real estate smart contracts: uses, limits, and workflow"
 description: "Learn how real estate smart contracts can support property workflows, what depends on off-chain records and legal processes, and which risks to assess."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

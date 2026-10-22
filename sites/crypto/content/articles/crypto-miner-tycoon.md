@@ -3,8 +3,6 @@ title: "Crypto Miner Tycoon: Meaning, Games, and Real Mining"
 description: "Learn what crypto miner tycoon may refer to, how mining simulations differ from real cryptocurrency mining, and what to verify about a specific product."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: []

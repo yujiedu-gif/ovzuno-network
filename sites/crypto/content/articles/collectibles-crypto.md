@@ -3,8 +3,6 @@ title: "Collectibles Crypto: Tokens, Items, and Ownership Claims"
 description: "Understand collectibles crypto, how tokens can represent digital or physical items, and why token control does not by itself establish ownership rights."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["crypto collectibles", "NFT collectibles", "digital collectibles"]

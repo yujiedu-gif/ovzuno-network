@@ -3,8 +3,6 @@ title: "Aptos NFT Contract: How Digital Assets Work on Aptos"
 description: "Learn what an aptos nft contract refers to, how Aptos asset standards and on-chain records fit together, and what metadata and ownership do not guarantee."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["Aptos Digital Asset Standard", "Aptos Token Objects"]

@@ -3,8 +3,6 @@ title: "Base crypto: What the network is and what operators should know"
 description: "Learn what base crypto refers to, how Base fits into the crypto ecosystem, and which security, compliance, and operational details require verification."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["security_compliance_operations"]
 tags: []

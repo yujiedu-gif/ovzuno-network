@@ -3,8 +3,6 @@ title: "Crypto Mining Discord: What These Communities Do"
 description: "Learn what a crypto mining discord community is for, the topics members may discuss, and why operational claims should be checked against independent evidence."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

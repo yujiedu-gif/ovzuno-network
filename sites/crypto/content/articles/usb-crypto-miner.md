@@ -3,8 +3,6 @@ title: "USB crypto miner: how it works and its practical limits"
 description: "Learn what a USB crypto miner does, how it connects to mining software, and which technical limits shape its role in proof-of-work mining."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: []

@@ -3,8 +3,6 @@ title: "NFT Meaning Simplified: What an NFT Represents"
 description: "NFT meaning simplified: understand what a non-fungible token is, how it differs from interchangeable tokens, and what its record may represent."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: ["nft simplified"]

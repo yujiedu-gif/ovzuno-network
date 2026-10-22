@@ -3,8 +3,6 @@ title: "Solidity receive function example: syntax, behavior, and tests"
 description: "See a solidity receive function example, learn when Solidity invokes it, and review syntax, Ether-transfer behavior, and focused checks before adapting it."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

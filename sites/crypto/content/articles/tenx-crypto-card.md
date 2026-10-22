@@ -3,8 +3,6 @@ title: "TenX crypto card: product concept, payment flow, and status checks"
 description: "Learn what the TenX crypto card was described as, how its payment model was intended to work, and what to verify about current status and terms."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

@@ -3,8 +3,6 @@ title: "First Smart Contract: The Idea Before Blockchain and Its Early Implement
 description: "Explore the first smart contract as an idea and a blockchain-era program, tracing the distinction between early concepts and later on-chain execution."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: []

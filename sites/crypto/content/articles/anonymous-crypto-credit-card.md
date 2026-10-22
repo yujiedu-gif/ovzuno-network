@@ -3,8 +3,6 @@ title: "Anonymous crypto credit card: privacy limits and data exposure"
 description: "An anonymous crypto credit card may still expose identity and transaction data. Learn which payment parties can see information and why rules vary by jurisdiction."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

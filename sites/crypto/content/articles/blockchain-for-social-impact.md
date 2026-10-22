@@ -3,8 +3,6 @@ title: "Blockchain for social impact: uses, limits, and decision factors"
 description: "Learn how blockchain for social impact may support payments or records, what trade-offs to assess, and which evidence to verify before adoption."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["blockchain social impact"]

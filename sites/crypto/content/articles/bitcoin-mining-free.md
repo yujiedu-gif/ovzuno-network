@@ -3,8 +3,6 @@ title: "Bitcoin Mining Free: What “Free” Means and What It Does Not"
 description: "Learn what bitcoin mining free claims may mean, which computing and service costs can remain, and what to check before relying on a no-cost offer."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["mining_consensus"]
 tags: ["mine bitcoins for free"]

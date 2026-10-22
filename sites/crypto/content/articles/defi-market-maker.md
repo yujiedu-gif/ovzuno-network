@@ -3,8 +3,6 @@ title: "DeFi Market Maker: How On-Chain Liquidity Is Provided"
 description: "Understand how a defi market maker supports on-chain trading, how AMMs and order-book venues differ, and what risks and operational constraints matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

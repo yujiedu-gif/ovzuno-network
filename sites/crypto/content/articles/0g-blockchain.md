@@ -3,8 +3,6 @@ title: "0g blockchain: What the Network Refers To and How Its Architecture Is De
 description: "Learn what 0g blockchain refers to, how its documented components are described, and what to verify before relying on claims about the network."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

@@ -3,8 +3,6 @@ title: "Crypto sectors: a neutral map of the digital-asset ecosystem"
 description: "Explore crypto sectors from infrastructure and applications to financial services and spending, with a neutral map of their roles and boundaries."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_cards_spending"]
 tags: []

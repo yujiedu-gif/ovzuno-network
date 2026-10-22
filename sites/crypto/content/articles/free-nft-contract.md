@@ -3,8 +3,6 @@ title: "Free NFT Contract: What “Free” Covers and What to Verify"
 description: "Learn what a free NFT contract may include, which deployment or operating costs may remain, and what creators should verify before using one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: ["NFT smart contract", "NFT contract deployment", "NFT minting"]

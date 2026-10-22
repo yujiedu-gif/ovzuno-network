@@ -3,8 +3,6 @@ title: "OKX crypto: exchange infrastructure and what to verify"
 description: "Explore OKX crypto as exchange infrastructure, map platform functions to operational questions, and identify which claims require current, jurisdiction-specific"
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: []

@@ -3,8 +3,6 @@ title: "Cryptocurrency Exchange App: Core Infrastructure and Components"
 description: "Explore the core components of a cryptocurrency exchange app, from user interface and account services to trading systems, custody, and operational controls."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["exchange_market_infrastructure"]
 tags: ["exchange app architecture", "crypto trading app infrastructure", "exchange app order execution"]

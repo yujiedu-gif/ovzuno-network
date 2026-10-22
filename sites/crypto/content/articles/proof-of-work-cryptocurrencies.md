@@ -3,8 +3,6 @@ title: "Proof of work cryptocurrencies: how mining supports consensus"
 description: "Learn what proof of work cryptocurrencies are, how mining helps networks agree on blocks, and which consensus trade-offs distinguish this design."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["mining_consensus"]
 tags: ["proof work cryptocurrencies"]

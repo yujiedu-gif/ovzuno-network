@@ -3,8 +3,6 @@ title: "Ant Group blockchain: payment infrastructure and what is documented"
 description: "Explore what public evidence says about ant group blockchain, its possible role in payment infrastructure, and how to separate documented activity from assumptions."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: []

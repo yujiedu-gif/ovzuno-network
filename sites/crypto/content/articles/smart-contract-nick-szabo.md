@@ -3,8 +3,6 @@ title: "Smart contract Nick Szabo: the concept and its blockchain connection"
 description: "Explore smart contract nick szabo: the original concept, its relationship to blockchain code, and key distinctions between agreements and programs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["smart_contract_dapps"]
 tags: ["Nick Szabo smart contracts", "smart contract history", "smart contract definition"]

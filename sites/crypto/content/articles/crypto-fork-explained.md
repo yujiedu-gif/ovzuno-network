@@ -3,8 +3,6 @@ title: "Crypto fork explained: meaning, types, and network effects"
 description: "Crypto fork explained: learn what a protocol fork changes, how soft and hard forks differ, and why participant coordination can shape network outcomes."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto fork"]

@@ -3,8 +3,6 @@ title: "CoinPayments crypto: meaning and details to verify"
 description: "Learn what CoinPayments crypto may refer to in a payment workflow, which provider details to verify, and why jurisdiction and service terms matter."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_payments"]
 tags: []

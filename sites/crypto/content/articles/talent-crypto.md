@@ -3,8 +3,6 @@ title: "Talent crypto: skills and roles for staking validators"
 description: "Explore talent crypto needs for staking validators, including technical roles, operational responsibilities, security practices, and capability assessment."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["staking_validators"]
 tags: []

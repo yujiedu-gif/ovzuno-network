@@ -3,8 +3,6 @@ title: "Is crypto a digital asset? A clear definition"
 description: "Is crypto a digital asset? Learn what the term means, how crypto fits the broader category, and why legal classification can depend on context."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["crypto_assets_protocols"]
 tags: ["crypto digital asset"]

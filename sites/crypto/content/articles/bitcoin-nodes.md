@@ -3,8 +3,6 @@ title: "Bitcoin nodes: roles, verification, and operating considerations"
 description: "Learn what bitcoin nodes do, how node roles differ, what verification means, and which practical and risk considerations matter before operating one."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["crypto_assets_protocols"]
 tags: ["bitcoin node"]

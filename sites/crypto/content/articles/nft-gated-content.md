@@ -3,8 +3,6 @@ title: "NFT gated content: How token-based access works"
 description: "Learn how NFT gated content checks token-related credentials, what access rules operators configure, and where technical, privacy, and security limits arise."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["nfts_digital_ownership"]
 tags: []

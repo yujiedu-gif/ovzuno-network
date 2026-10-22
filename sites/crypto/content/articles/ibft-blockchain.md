@@ -3,8 +3,6 @@ title: "ibft blockchain: How Validator Consensus and Block Finality Work"
 description: "Learn how an ibft blockchain coordinates validators, reaches agreement on blocks, and handles finality, fault assumptions, and operational trade-offs."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "explainer"
 topics: ["blockchain_payment_foundations"]
 tags: ["Istanbul Byzantine Fault Tolerance", "BFT consensus", "validator quorum", "block finality"]

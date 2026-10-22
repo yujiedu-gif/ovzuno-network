@@ -3,8 +3,6 @@ title: "Synthetix crypto: What the protocol is"
 description: "Learn what Synthetix crypto refers to, the broad role its protocol plays in crypto infrastructure, and why it is distinct from NFT-based digital ownership."
 date: "2026-10-22"
 draft: false
-noindex: true
-sitemap: {disable: true}
 content_type: "definition"
 topics: ["nfts_digital_ownership"]
 tags: []
