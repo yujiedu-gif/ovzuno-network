@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ $articles := where .Site.RegularPages "Section" "articles" }}
+<section class="page-shell shell">
+  <header class="page-header">
+    <p class="eyebrow">{{ .Params.kicker | default "Coverage map" }}</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Description }}</p>
+    <p>Explore the subjects below, or browse our <a href="{{ "articles/" | relURL }}">{{ len $articles }} published articles</a>.</p>
+  </header>
+  <div class="topic-directory__list">
+    {{ range .Site.Params.topics }}
+      <article class="topic-row">
+        <div><h2>{{ .name }}</h2><p>{{ .description }}</p></div>
+      </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

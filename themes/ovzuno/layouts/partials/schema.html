@@ -1,6 +1,15 @@
 {{ $org := dict "@type" "Organization" "@id" "https://ovzuno.com/#organization" "name" "OvZuno" "url" "https://ovzuno.com/" "logo" "https://ovzuno.com/brand/ovzuno-logo.svg" "description" "OvZuno is a B2B technology publisher creating focused publications on AI infrastructure, crypto, and workplace technology." "publishingPrinciples" "https://ovzuno.com/editorial-standards/" "knowsAbout" (slice "AI infrastructure" "Crypto infrastructure and payments" "Workplace technology") }}
-{{ $website := dict "@type" "WebSite" "@id" (printf "%s#website" .Site.BaseURL) "url" .Site.BaseURL "name" .Site.Title "description" .Site.Params.description "publisher" (dict "@id" "https://ovzuno.com/#organization") }}
+{{ $websiteDescription := .Site.Params.description }}
+{{ if eq .Site.Params.siteKey "crypto" }}{{ $websiteDescription = .Site.Params.heroLead }}{{ end }}
+{{ $website := dict "@type" "WebSite" "@id" (printf "%s#website" .Site.BaseURL) "url" .Site.BaseURL "name" .Site.Title "description" $websiteDescription "publisher" (dict "@id" "https://ovzuno.com/#organization") }}
 {{ $graph := slice $org $website }}
+{{ if and (eq .Site.Params.siteKey "crypto") (or .IsHome (eq .RelPermalink "/topics/") (eq .RelPermalink "/about/")) }}
+  {{ $pageType := cond .IsHome "WebPage" (cond (eq .RelPermalink "/topics/") "CollectionPage" "AboutPage") }}
+  {{ $pageName := cond .IsHome .Site.Params.heroTitle .Title }}
+  {{ $pageDescription := cond .IsHome .Site.Params.heroLead .Description }}
+  {{ $page := dict "@type" $pageType "@id" (printf "%s#webpage" .Permalink) "url" .Permalink "name" $pageName "description" $pageDescription "isPartOf" (dict "@id" (printf "%s#website" .Site.BaseURL)) "publisher" (dict "@id" "https://ovzuno.com/#organization") }}
+  {{ $graph = $graph | append $page }}
+{{ end }}
 {{ if and (eq .Site.Params.siteKey "crypto") (not .IsHome) }}
   {{ $breadcrumbItems := slice }}
   {{ range $position, $item := partial "breadcrumb-data.html" . }}

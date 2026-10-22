@@ -4,7 +4,7 @@ description: The audience, editorial scope, and independence boundaries of OvZun
 kicker: Publication profile
 ---
 
-OvZuno Crypto is an independent English-language technical publication about crypto payment infrastructure. It explains the systems, payment rails, safeguards, and operating decisions behind crypto products for builders, operators, merchants, and business decision-makers.
+OvZuno Crypto is OvZuno's independent English-language B2B technical publication about crypto payment infrastructure. It explains the systems, payment rails, safeguards, and operating decisions behind crypto products for builders, operators, merchants, and technology decision-makers.
 
 ## What we cover
 
@@ -18,4 +18,4 @@ We do not publish token promotion, trading signals, price predictions, gambling-
 
 OvZuno Crypto is not a wallet, payment provider, exchange, investment service, consultancy, or vendor directory. Companies may provide source material or support a clearly labelled project, but they do not control editorial conclusions, corrections, or publication decisions.
 
-This publication is part of [OvZuno](https://ovzuno.com/), a B2B technology publisher. Its first editorial collection is in development and the site is not yet intended for search indexing.
+This publication is part of [OvZuno](https://ovzuno.com/), a B2B technology publisher. Browse our [published articles](/articles/) or explore the [topics we cover](/topics/).
