@@ -95,7 +95,28 @@ def check():
             f"{slug}: incomplete Article structured data"
         )
 
-    print(f"Crypto indexing checks passed: {len(article_files)} articles in sitemap, canonical and indexable.")
+    for path, page_type in (("", "WebPage"), ("topics/", "CollectionPage"), ("about/", "AboutPage")):
+        url = f"{BASE_URL}/{path}"
+        page = OUTPUT / path / "index.html"
+        assert page.is_file(), f"{path or 'home'}: rendered page missing"
+        html = page.read_text()
+        head = Head()
+        head.feed(html)
+        assert head.canonicals == [url], f"{path or 'home'}: canonical mismatch"
+        assert not any("noindex" in rule.lower() for rule in head.robots), f"{path or 'home'}: robots noindex"
+        assert len(head.json_ld) == 1, f"{path or 'home'}: expected one JSON-LD block"
+        graph = json.loads(head.json_ld[0])["@graph"]
+        pages = [node for node in graph if node.get("@type") == page_type]
+        assert len(pages) == 1 and pages[0].get("url") == url, (
+            f"{path or 'home'}: missing {page_type} structured data"
+        )
+        if path == "topics/":
+            assert f"{len(article_files)} published articles" in html, "Topics article count is stale"
+        if path == "about/":
+            assert "first editorial collection is in development" not in html
+            assert "not yet intended for search indexing" not in html
+
+    print(f"Crypto indexing checks passed: {len(article_files)} articles and three publication pages.")
 
 
 if __name__ == "__main__":

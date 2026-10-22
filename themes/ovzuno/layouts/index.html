@@ -128,8 +128,24 @@
     {{ else }}
       {{ $articles := where .Site.RegularPages "Section" "articles" }}
       {{ if $articles }}
+        {{ if and (eq .Site.Params.siteKey "crypto") .Site.Params.featuredArticles }}
+          <section class="section shell" aria-labelledby="start-heading">
+            <div class="section-heading"><h2 id="start-heading">Start here</h2><p>Begin with merchant checkout, stablecoin payments, and the wallet systems that support them.</p></div>
+            <div class="article-list article-list--home">
+              {{ range .Site.Params.featuredArticles }}
+                {{ $article := site.GetPage (printf "/articles/%s" .) }}
+                {{ if not $article }}{{ errorf "Featured Crypto article does not exist: %s" . }}{{ end }}
+                <a href="{{ $article.RelPermalink }}"><span>{{ $article.Params.content_type }}</span><h2>{{ $article.Title }}</h2><p>{{ $article.Description }}</p></a>
+              {{ end }}
+            </div>
+          </section>
+        {{ end }}
         <section class="section shell" aria-labelledby="latest-heading">
-          <div class="section-heading"><h2 id="latest-heading">Latest articles</h2><p>Evidence-bound explanations of crypto systems, operations, and infrastructure.</p></div>
+          {{ if eq .Site.Params.siteKey "crypto" }}
+            <div class="section-heading"><h2 id="latest-heading">Recently published</h2><p>Browse the newest articles across the publication.</p></div>
+          {{ else }}
+            <div class="section-heading"><h2 id="latest-heading">Latest articles</h2><p>Evidence-bound explanations of crypto systems, operations, and infrastructure.</p></div>
+          {{ end }}
           <div class="article-list article-list--home">
             {{ range first 6 $articles.ByDate.Reverse }}<a href="{{ .RelPermalink }}"><span>{{ .Params.content_type }}</span><h2>{{ .Title }}</h2><p>{{ .Description }}</p></a>{{ end }}
           </div>
