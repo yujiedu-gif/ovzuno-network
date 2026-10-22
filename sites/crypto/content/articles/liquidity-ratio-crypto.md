@@ -72,3 +72,4 @@ This method treats the ratio as a transparent comparison, not a universal score.
 - [The Anatomy of Decentralised Exchanges](https://www.bis.org/publ/work1227.pdf) — Bank for International Settlements; retrieved 2026-10-18.
 - [What is a liquidity pool?](https://support.uniswap.org/hc/en-us/articles/8829880740109-What-is-a-liquidity-pool) — Uniswap Labs Support; retrieved 2026-10-19.
 - [Understanding Stablecoin Technology and Related Security Considerations](https://nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8408.pdf) — National Institute of Standards and Technology; retrieved 2026-10-18.
+- [Plain pools](https://docs.curve.finance/developer/stableswap-exchange/stableswap/pools/plain_pools/) — Curve Knowledge Hub; retrieved 2026-10-22.

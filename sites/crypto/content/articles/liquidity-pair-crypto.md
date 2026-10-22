@@ -71,3 +71,4 @@ The central distinction is straightforward: a pair names assets available for ex
 - [What is a liquidity pool?](https://support.uniswap.org/hc/en-us/articles/8829880740109-What-is-a-liquidity-pool) — Uniswap Labs Support; retrieved 2026-10-19.
 - [Bridges](https://ethereum.org/developers/docs/bridges) — ethereum.org; retrieved 2026-10-18.
 - [Sidechains](https://ethereum.org/developers/docs/scaling/sidechains/) — ethereum.org; retrieved 2026-10-18.
+- [Plain pools](https://docs.curve.finance/developer/stableswap-exchange/stableswap/pools/plain_pools/) — Curve Knowledge Hub; retrieved 2026-10-22.
