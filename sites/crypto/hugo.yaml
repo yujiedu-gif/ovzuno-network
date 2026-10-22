@@ -18,6 +18,7 @@ params:
   siteKey: crypto
   publicationName: Crypto
   prelaunch: false
+  googleSiteVerification: b7r3vC-jyKOhULZ_WRnsqyVdkwN0JgSI10dtLTYw248
   seoTitle: OvZuno Crypto | Crypto Payments, Stablecoins and Wallet Infrastructure
   description: Independent technical coverage of crypto payments, stablecoin settlement, self-custodial wallets, crypto cards, PayFi, security, and compliance.
   heroTitle: Crypto payment infrastructure, clearly explained.
