@@ -101,7 +101,7 @@
     </section>
     <section class="network-summary network-summary--vertical">
       <div class="shell network-summary__grid">
-        <div class="network-summary__copy"><p class="eyebrow">Defined coverage</p><h2>A narrower field, covered with depth.</h2><p>{{ .Site.Params.scopeStatement }}</p></div>
+        <div class="network-summary__copy"><p class="eyebrow">Defined coverage</p><h2>{{ .Site.Params.coverageHeadline | default "A narrower field, covered with depth." }}</h2><p>{{ .Site.Params.scopeStatement }}</p></div>
       </div>
     </section>
     <section class="topic-directory shell" aria-labelledby="coverage-heading">

@@ -22,6 +22,7 @@ params:
   description: Independent technical coverage of crypto payments, stablecoin settlement, self-custodial wallets, crypto cards, PayFi, security, and compliance.
   heroTitle: Crypto payment infrastructure, clearly explained.
   heroLead: OvZuno Crypto explains the systems, payment rails, safeguards, and operating decisions behind crypto products for builders, operators, merchants, and business decision-makers.
+  coverageHeadline: How crypto payments work in practice.
   scopeStatement: We cover payment and operating infrastructure without token promotion, trading signals, price predictions, investment advice, or undisclosed client marketing.
   footerStatement: Independent technical coverage of crypto payments, stablecoin settlement, wallets, cards, security, and compliance.
   topics:
