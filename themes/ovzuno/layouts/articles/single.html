@@ -7,7 +7,7 @@
     <h1>{{ .Title }}</h1>
     <p class="article-deck">{{ .Description }}</p>
     <div class="article-meta">
-      <span>By <a href="{{ $author.url }}">{{ $author.name }}</a></span>
+      <span>By <a href="{{ $author.url }}"{{ if and (eq .Site.Params.siteKey "crypto") (ne (urls.Parse $author.url).Host (urls.Parse .Site.BaseURL).Host) }} rel="nofollow noopener noreferrer"{{ end }}>{{ $author.name }}</a></span>
       <span>Published <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></span>
       {{ with .Params.lastmod }}<span>Updated <time datetime="{{ time.AsTime . | time.Format "2006-01-02" }}">{{ time.AsTime . | time.Format "January 2, 2006" }}</time></span>{{ end }}
     </div>
