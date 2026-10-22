@@ -67,3 +67,5 @@ The key is coordination across boundaries. Product and design decisions shape wh
 - [What is Web3 and why is it important?](https://ethereum.org/web3/) — ethereum.org; retrieved 2026-10-19.
 - [Web3 Foundation Manifesto](https://web3.foundation/manifesto) — Web3 Foundation; retrieved 2026-10-19.
 - [Technical intro to Ethereum](https://ethereum.org/developers/docs/intro-to-ethereum/) — ethereum.org; retrieved 2026-10-19.
+- [Interacting with smart contracts](https://ethereum.org/developers/docs/smart-contracts/interacting/) — ethereum.org; retrieved 2026-10-22.
+- [Data and analytics](https://ethereum.org/developers/docs/data-and-analytics/) — ethereum.org; retrieved 2026-10-22.
