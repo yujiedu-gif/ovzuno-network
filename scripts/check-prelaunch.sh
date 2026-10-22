@@ -61,7 +61,9 @@ for site in root aiinfra crypto workplace; do
       echo "Published site is missing sitemap.xml: $site" >&2
       failed=1
     fi
-    if ! grep -q "Sitemap: https://$site.ovzuno.com/sitemap.xml" "$output/robots.txt" && [[ "$site" != "root" ]]; then
+    host="$site.ovzuno.com"
+    if [[ "$site" == "root" ]]; then host="ovzuno.com"; fi
+    if ! grep -q "Sitemap: https://$host/sitemap.xml" "$output/robots.txt"; then
       echo "Published site robots.txt is missing its sitemap: $site" >&2
       failed=1
     fi

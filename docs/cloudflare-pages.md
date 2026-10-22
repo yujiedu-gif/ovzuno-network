@@ -13,4 +13,4 @@ Set `HUGO_VERSION=0.146.0` for every project. The production branch is `main`.
 
 Add each custom domain from the Pages project's **Custom domains** screen rather than creating only a manual CNAME. Redirect `www.ovzuno.com/*` to `https://ovzuno.com/$1` with an account-level redirect rule.
 
-Before deployment, confirm each generated host matches its configured state. Pre-launch hosts must retain the `X-Robots-Tag: noindex, follow, noarchive` header and must not publish a sitemap. A launched host must omit both HTML and HTTP `noindex`, publish its own `robots.txt`, and expose its own sitemap. Do not submit a pre-launch host to Search Console.
+Before deployment, confirm each generated host matches its configured state. `ovzuno.com` and `crypto.ovzuno.com` are launched hosts: omit both HTML and HTTP `noindex`, publish host-specific `robots.txt`, and expose a host-specific sitemap. AI Infrastructure and Workplace remain pre-launch: retain the `X-Robots-Tag: noindex, follow, noarchive` header and do not publish a sitemap. Do not submit a pre-launch host to Search Console.
