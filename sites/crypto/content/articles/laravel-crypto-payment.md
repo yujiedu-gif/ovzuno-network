@@ -68,3 +68,7 @@ A practical pre-build checklist is therefore: identify the order and payment-att
 - [Introduction to smart contracts](https://ethereum.org/developers/docs/smart-contracts/) — ethereum.org; retrieved 2026-10-19.
 - [Transactions — Bitcoin Developer Guide](https://developer.bitcoin.org/devguide/transactions.html) — Bitcoin.org developer documentation; retrieved 2026-10-18.
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) — Bitcoin.org; retrieved 2026-10-19.
+- [Technical introduction to dapps](https://ethereum.org/developers/docs/dapps/) — ethereum.org; retrieved 2026-10-22.
+- [Interacting with smart contracts](https://ethereum.org/developers/docs/smart-contracts/interacting/) — ethereum.org; retrieved 2026-10-22.
+- [Data and analytics](https://ethereum.org/developers/docs/data-and-analytics/) — ethereum.org; retrieved 2026-10-22.
+- [Decentralized Storage](https://ethereum.org/developers/docs/storage/) — ethereum.org; retrieved 2026-10-22.
