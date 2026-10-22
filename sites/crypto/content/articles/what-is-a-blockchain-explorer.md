@@ -35,6 +35,8 @@ Most explorers accept several common identifiers.
 
 Always select the correct network before searching. The same-looking address can exist on more than one network, and a transaction hash from one chain may return no result on an explorer connected to another. Mainnets and testnets are also separate data environments.
 
+The [USDT blockchain explorer guide](/articles/usdt-blockchain-explorer/) applies that network-selection check to a token issued on more than one supported network.
+
 ## How to read a transaction page
 
 A transaction page commonly begins with the **transaction hash** and **status**. Status may indicate pending, successful, or failed, but the wording and timing differ by explorer. Pending generally means the transaction has been observed but has not yet reached the explorer's inclusion or confirmation threshold. Successful means the network accepted the state transition under its rules. It does not mean the recipient delivered an off-chain product or that a contract interaction produced the user's intended economic result.

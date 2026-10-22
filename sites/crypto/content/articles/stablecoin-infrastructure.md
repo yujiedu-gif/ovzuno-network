@@ -26,6 +26,8 @@ The boundaries matter. A token contract can record token balances and transfers,
 
 This article maps those layers rather than explaining stablecoin design, recommending a network or provider, or giving instructions for implementing business payments. Those questions depend on the specific arrangement and its documented operating conditions.
 
+If the task is to follow a payer-to-recipient workflow, see [stablecoin payment infrastructure](/articles/stablecoin-payment-infrastructure/) for the narrower payment-processing path.
+
 ## Issuance controls and token contracts
 
 Issuance infrastructure connects an issuer’s processes to token activity on a blockchain. At a high level, it includes controls for authorizing issuance and removal of tokens, as well as the software that records token balances and transfers. The particular permissions, approval procedures, and transaction interfaces must be checked in the documentation for the relevant implementation; they cannot be inferred from the word “stablecoin.”

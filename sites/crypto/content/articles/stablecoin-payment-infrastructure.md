@@ -24,6 +24,8 @@ A payment infrastructure is broader than a token contract or a blockchain. It in
 
 A useful system boundary follows the payment’s lifecycle: a payer or application creates an instruction; a wallet or service authorizes a transaction; the relevant blockchain processes it; the recipient or its service checks the resulting record; and, if required, a separate process handles conversion, redemption, or reconciliation. These steps may be performed by different parties. The exact architecture is implementation-dependent, so a diagram should distinguish confirmed behavior from assumed behavior.
 
+For the broader issuer, token-contract, custody, and oversight layers around that workflow, see [stablecoin infrastructure](/articles/stablecoin-infrastructure/).
+
 Settlement in this context is not one universal event. A blockchain can record a token transfer, while a payment service may separately decide when to credit a customer, treat a payment as complete, or reconcile it with other records. Teams should specify which event they mean by “settled” and which system’s evidence supports that status.
 
 ## Core components of Stablecoin Payment Infrastructure

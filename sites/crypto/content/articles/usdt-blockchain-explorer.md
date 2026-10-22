@@ -22,6 +22,8 @@ A blockchain explorer is an interface for searching and viewing records associat
 
 USDT transaction lookup requires selecting the blockchain network on which the transfer occurred. This matters because USDT exists on multiple supported protocols. A search on one network is not a search of every USDT record, and a token label alone does not establish that two records on different networks refer to the same token deployment.
 
+For the general search fields and limits shared by many explorers, see [what a blockchain explorer does](/articles/what-is-a-blockchain-explorer/); the checks here focus on USDT and its selected network.
+
 An explorer displays records; it is separate from the wallet or service that initiated a transfer. The result can help you examine what the selected network records, but the record alone does not describe every action taken by a wallet, service, recipient, or other party.
 
 ## Identify the network before searching
