@@ -18,21 +18,21 @@ Solidity contract inheritance lets a derived contract reuse and extend declarati
 
 ## What Solidity contract inheritance means
 
-A **base contract** is a contract named as a parent in another contract’s inheritance declaration. A **derived contract** is the child that inherits from it. Inheritance is a source-code relationship: it allows a derived contract to use declarations from its bases under Solidity’s rules. It is different from composition, in which contracts reuse or call independent on-chain components through public interfaces. [claim_contract_composability]
+A **base contract** is a contract named as a parent in another contract’s inheritance declaration. A **derived contract** is the child that inherits from it. Inheritance is a source-code relationship: it allows a derived contract to use declarations from its bases under Solidity’s rules. It is different from composition, in which contracts reuse or call independent on-chain components through public interfaces. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)
 
 That distinction matters when tracing behavior. Inheritance does not, by itself, mean that the derived contract creates a separately deployed instance of each base and calls it. Instead, inherited declarations contribute to the derived contract’s compiled implementation. The exact result depends on the declarations, their accessibility, and the applicable compiler rules.
 
 A declaration’s presence in a base does not necessarily mean that derived code can access it directly. When reviewing a hierarchy, check visibility and the specific declaration rather than treating “inherited” as synonymous with “available everywhere.” The source relationship identifies where code and declarations come from; it does not answer every question about their use.
 
-Inheritance also does not itself establish an upgrade arrangement. Proxy-based upgradeable contracts, for example, have requirements concerning initializer discipline and compatible storage layouts across implementations. Those are upgrade-related constraints, not consequences that can be inferred from inheritance alone. [claim_upgrade_constraints]
+Inheritance also does not itself establish an upgrade arrangement. Proxy-based upgradeable contracts, for example, have requirements concerning initializer discipline and compatible storage layouts across implementations. Those are upgrade-related constraints, not consequences that can be inferred from inheritance alone. [source](<https://docs.openzeppelin.com/upgrades-plugins/writing-upgradeable>)
 
 ## What a derived contract inherits—and what it does not
 
 Start with the derived contract’s direct bases, then inspect the declarations it relies on in each base. Trace state variables and functions through the hierarchy, checking whether each declaration is visible to the derived contract and whether another declaration overrides it. A name appearing in a base contract is not sufficient evidence that the child can use it directly; accessibility and compiler rules govern that question.
 
-Keep the source-level relationship distinct from a runtime interaction between contract instances. Inheritance brings declarations into the derived implementation according to language rules. Composition instead involves a contract reusing or calling an independent on-chain component through an interface. [claim_contract_composability] This difference helps reviewers determine whether a behavior should be found in the child’s inheritance tree or in a call path to another contract.
+Keep the source-level relationship distinct from a runtime interaction between contract instances. Inheritance brings declarations into the derived implementation according to language rules. Composition instead involves a contract reusing or calling an independent on-chain component through an interface. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>) This difference helps reviewers determine whether a behavior should be found in the child’s inheritance tree or in a call path to another contract.
 
-The resulting hierarchy is not a complete description of a deployed system. For example, storage compatibility across implementations matters in proxy-based upgrade designs, and shared ancestry alone does not establish that compatibility. [claim_upgrade_constraints] Treat inheritance as one part of the code structure, not as proof of deployment configuration or upgrade behavior.
+The resulting hierarchy is not a complete description of a deployed system. For example, storage compatibility across implementations matters in proxy-based upgrade designs, and shared ancestry alone does not establish that compatibility. [source](<https://docs.openzeppelin.com/upgrades-plugins/writing-upgradeable>) Treat inheritance as one part of the code structure, not as proof of deployment configuration or upgrade behavior.
 
 ## Constructors and initialization order
 
@@ -50,7 +50,7 @@ The keywords and requirements for `virtual` and `override` depend on the Solidit
 
 Multiple inheritance can make this check more involved. If different branches provide implementations of the same function, the derived contract’s declaration may need to identify the relevant base contracts. The precise requirement depends on the hierarchy and the compiler version. Trace each branch and verify the rule rather than inferring it from the function name alone.
 
-An override changes which implementation the hierarchy provides for that function. It does not transform inheritance into a call to an independent contract. If the behavior instead depends on a separate component, analyze that interaction as composition. [claim_contract_composability]
+An override changes which implementation the hierarchy provides for that function. It does not transform inheritance into a call to an independent contract. If the behavior instead depends on a separate component, analyze that interaction as composition. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)
 
 ## Multiple inheritance and method resolution
 
@@ -66,9 +66,9 @@ A reviewer can still make progress without assuming an ordering rule: draw the i
 
 For a bounded source review, record the compiler version first. Identify the derived contract’s direct bases, then follow any relevant ancestors. For each declaration the child uses, check visibility and whether an override appears on any branch. For constructors, trace the supplied arguments through the hierarchy and verify the version-specific invocation rules. For a function with competing implementations, map the declarations and confirm the resolution requirements against the compiler’s documentation.
 
-Keep this review separate from broader conclusions. Inheritance analysis explains how declarations relate and which implementation language rules select; it is not an audit and does not establish that the resulting code is safe. Where a system composes independent contracts, each dependency introduces behavior, upgrade, permission, availability, and economic assumptions that are separate from inheritance resolution. [claim_contract_composability]
+Keep this review separate from broader conclusions. Inheritance analysis explains how declarations relate and which implementation language rules select; it is not an audit and does not establish that the resulting code is safe. Where a system composes independent contracts, each dependency introduces behavior, upgrade, permission, availability, and economic assumptions that are separate from inheritance resolution. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)
 
-Likewise, do not infer upgrade compatibility from a shared base or familiar inheritance structure. Proxy-based upgrades require attention to initializer discipline and compatible storage layout across implementations. [claim_upgrade_constraints] The practical review task is to trace the hierarchy accurately, then assess any deployment, upgrade, or dependency questions on their own evidence rather than treating the inheritance graph as a guarantee.
+Likewise, do not infer upgrade compatibility from a shared base or familiar inheritance structure. Proxy-based upgrades require attention to initializer discipline and compatible storage layout across implementations. [source](<https://docs.openzeppelin.com/upgrades-plugins/writing-upgradeable>) The practical review task is to trace the hierarchy accurately, then assess any deployment, upgrade, or dependency questions on their own evidence rather than treating the inheritance graph as a guarantee.
 
 ## Sources and references
 

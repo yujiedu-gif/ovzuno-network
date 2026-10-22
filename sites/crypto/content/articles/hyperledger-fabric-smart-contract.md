@@ -20,11 +20,11 @@ For developers and technical decision-makers, a Hyperledger Fabric smart contrac
 
 Fabric uses **chaincode** as the package for business logic. A **contract** defines the business operations and interface through which that logic is invoked. In this context, “smart contract” describes rules expressed in executable logic, while “chaincode” names the packaged mechanism through which Fabric applications use that logic. The terms are related, but they are not necessarily synonyms for every part of the application and network.
 
-A Fabric ledger combines a transaction history with a mutable world-state database. The history records transactions, while world state provides an efficient view of current values. Together, they give applications both a record of how state changed and a current representation of that state. [claim_fabric_history_state]
+A Fabric ledger combines a transaction history with a mutable world-state database. The history records transactions, while world state provides an efficient view of current values. Together, they give applications both a record of how state changed and a current representation of that state. [source](<https://hyperledger-fabric.readthedocs.io/en/release-2.5/ledger/ledger.html>)
 
 This distinction helps clarify what a contract operation does. A proposed operation may read ledger state and calculate a result, but a proposal is not yet a committed update. The eventual ledger effect depends on the network’s transaction process. A client, contract, peer, and ordering service each have different roles; describing the contract alone does not explain how the network accepts its result.
 
-Fabric networks coordinate organizations, certificate authorities, peers, orderers, channels, policies, ledgers, chaincode, and client applications. [claim_fabric_component_roles] A channel is a network context for ledger activity, and policies determine rules relevant to participation and transaction processing. The organization that writes the contract does not, by that fact alone, determine every other organization’s role or what the network will accept.
+Fabric networks coordinate organizations, certificate authorities, peers, orderers, channels, policies, ledgers, chaincode, and client applications. [source](<https://hyperledger-fabric.readthedocs.io/en/latest/network/network.html>) A channel is a network context for ledger activity, and policies determine rules relevant to participation and transaction processing. The organization that writes the contract does not, by that fact alone, determine every other organization’s role or what the network will accept.
 
 ## How Fabric chaincode processes a transaction
 

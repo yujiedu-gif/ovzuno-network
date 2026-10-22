@@ -20,7 +20,7 @@ A crypto liquidity pair is a combination of assets that a particular market or p
 
 A pair identifies the assets involved in an exchange—for example, one token considered against another. A liquidity pool is a particular structure that holds assets for swaps. A pair and a pool are therefore related but not identical: the pair describes the asset combination, while the pool is the mechanism or inventory through which an exchange may occur.
 
-A Uniswap liquidity pool, for example, is a pairing of tokens held in a smart contract and used for swaps on a decentralized exchange. This is a specific example, not a universal definition for every crypto market. Other implementations may use different pool structures or exchange mechanisms. [claim_pool_pairing]
+A Uniswap liquidity pool, for example, is a pairing of tokens held in a smart contract and used for swaps on a decentralized exchange. This is a specific example, not a universal definition for every crypto market. Other implementations may use different pool structures or exchange mechanisms. [source](<https://support.uniswap.org/hc/en-us/articles/8829880740109-What-is-a-liquidity-pool>)
 
 The term “liquidity” refers here to assets available to support exchange. Naming two assets does not establish that a pool actually holds enough of them for a particular exchange, nor does it specify the pool’s pricing, fees, or execution rules. Those details belong to the pool and its implementation. A pair label is thus a description of the assets involved, not a complete technical specification.
 
@@ -28,7 +28,7 @@ This distinction also helps separate a pair from the service that displays or ro
 
 ## How paired liquidity can connect blockchain networks
 
-Separate blockchains maintain separate token records. An exchange involving assets on different networks therefore requires coordination across those records; it is not a literal movement of a token from one ledger to another. Depending on the design, mechanisms can lock, release, mint, burn, or swap assets to coordinate value between chains. The accounting and redemption path depend on the specific mechanism. [claim_assets_not_physically_moved] [claim_bridge_asset_mechanisms]
+Separate blockchains maintain separate token records. An exchange involving assets on different networks therefore requires coordination across those records; it is not a literal movement of a token from one ledger to another. Depending on the design, mechanisms can lock, release, mint, burn, or swap assets to coordinate value between chains. The accounting and redemption path depend on the specific mechanism. [source](<https://ethereum.org/developers/docs/scaling/sidechains/>) [source](<https://ethereum.org/developers/docs/bridges>)
 
 Liquidity can play a role in that coordination. A cross-chain design may arrange for assets to be available on a destination network so an exchange can be fulfilled there, while another mechanism coordinates the corresponding source-side activity. In other designs, a transfer mechanism may create or release a destination-side representation. These are distinct patterns; the existence of a pair does not establish which one a system uses.
 
@@ -40,7 +40,7 @@ A pair names the assets, while protocol rules govern how liquidity is supplied a
 
 ## Liquidity pairs versus bridges and messaging
 
-A liquidity pair describes assets available for exchange in a market or pool. A bridge is a separate mechanism that coordinates activity between blockchain environments. Bridge patterns can include lock-and-mint, burn-and-mint, or atomic-swap and liquidity-network mechanisms. Which approach applies—and how its accounting or redemption works—depends on the bridge design. [claim_bridge_asset_mechanisms]
+A liquidity pair describes assets available for exchange in a market or pool. A bridge is a separate mechanism that coordinates activity between blockchain environments. Bridge patterns can include lock-and-mint, burn-and-mint, or atomic-swap and liquidity-network mechanisms. Which approach applies—and how its accounting or redemption works—depends on the bridge design. [source](<https://ethereum.org/developers/docs/bridges>)
 
 The distinction matters because a pool can provide exchange inventory without defining how assets are represented or coordinated across chains. Conversely, a bridge can coordinate value between separate ledgers without being identical to one particular paired pool. The pair and the bridge may be parts of a larger route, but one does not define the other.
 

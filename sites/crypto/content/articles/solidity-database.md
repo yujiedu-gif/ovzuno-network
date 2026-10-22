@@ -18,15 +18,15 @@ For Solidity developers and readers, “Solidity database” is informal shortha
 
 ## What “Solidity database” means
 
-Solidity is associated with smart contracts, which contain persistent data and executable functions at an on-chain address; applications can also process events emitted by a contract. In this context, “database” usually refers to the persistent contract data, not to a separate database engine supplied by the language. (claim_contract_state_functions)
+Solidity is associated with smart contracts, which contain persistent data and executable functions at an on-chain address; applications can also process events emitted by a contract. In this context, “database” usually refers to the persistent contract data, not to a separate database engine supplied by the language. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>))
 
-On Ethereum specifically, a smart contract has code in functions and data in state at a blockchain address. A contract’s state is therefore part of that network’s on-chain model, rather than a collection of records managed independently by an application server. (claim_eth_code_state_address)
+On Ethereum specifically, a smart contract has code in functions and data in state at a blockchain address. A contract’s state is therefore part of that network’s on-chain model, rather than a collection of records managed independently by an application server. ([source](<https://ethereum.org/developers/docs/smart-contracts/>))
 
 The phrase should not suggest that every blockchain implements storage identically. The evidence here describes Ethereum’s contract model; storage behavior on another chain depends on that chain’s design, while the precise data a contract maintains depends on its implementation.
 
 ## How Solidity contract storage differs from a conventional database
 
-A conventional database is typically managed as an application infrastructure component: the application defines how its records are accessed and maintained within that system. Solidity contract state, by contrast, is read or changed through the blockchain’s contract-execution model. The contract’s functions define behavior for its state, and the network’s execution rules govern accepted state changes. (claim_contract_state_functions) (claim_eth_code_state_address)
+A conventional database is typically managed as an application infrastructure component: the application defines how its records are accessed and maintained within that system. Solidity contract state, by contrast, is read or changed through the blockchain’s contract-execution model. The contract’s functions define behavior for its state, and the network’s execution rules govern accepted state changes. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>)) ([source](<https://ethereum.org/developers/docs/smart-contracts/>))
 
 This is a difference in control and operating model, not a claim that one approach is universally faster, cheaper, more available, or more durable. The allowed evidence does not establish general performance or cost comparisons. Those questions require details about the specific network, application architecture, and operating conditions.
 
@@ -40,23 +40,23 @@ Start by asking whether a value must be checked or changed according to shared c
 
 Next, consider the information’s sensitivity and how it may need to change. Avoid treating on-chain storage as a default location for personal or confidential information: the evidence provided does not establish confidentiality or easy removal. Instead, identify what the contract actually needs to know and assess whether the full underlying information must be part of its state.
 
-A smart contract also cannot directly obtain off-chain facts that are absent from deterministic blockchain state without an oracle or transaction mechanism. An oracle connection can supply external data or services, but that is an additional mechanism—not a property of contract storage itself. (claim_oracle_external_input)
+A smart contract also cannot directly obtain off-chain facts that are absent from deterministic blockchain state without an oracle or transaction mechanism. An oracle connection can supply external data or services, but that is an additional mechanism—not a property of contract storage itself. ([source](<https://docs.chain.link/getting-started/conceptual-overview>))
 
 This creates a useful distinction for planning: keep the contract’s required state separate from information maintained elsewhere, and document how any external value reaches contract logic. The evidence does not prescribe a particular off-chain storage design or provider, so that choice must be made from project-specific requirements.
 
 ## What “database” does not imply
 
-Contract storage is not, by itself, a promise of general-purpose querying. The available evidence supports describing contract data as persistent state and events as information applications can process; it does not establish that a contract supplies the query, indexing, or reporting features a separate application may need. (claim_contract_state_functions)
+Contract storage is not, by itself, a promise of general-purpose querying. The available evidence supports describing contract data as persistent state and events as information applications can process; it does not establish that a contract supplies the query, indexing, or reporting features a separate application may need. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>))
 
-Events and persistent state should also not be collapsed into one category. A contract can emit events for applications to process, while also maintaining persistent data. The two can serve different roles in an application, and the evidence does not say that an event is interchangeable with the contract’s current state. (claim_contract_state_functions)
+Events and persistent state should also not be collapsed into one category. A contract can emit events for applications to process, while also maintaining persistent data. The two can serve different roles in an application, and the evidence does not say that an event is interchangeable with the contract’s current state. ([source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>))
 
-Likewise, replication or recording through a blockchain does not, by itself, establish that an input from outside the chain is correct. External facts require an oracle or transaction mechanism to enter contract logic; assessing the source and handling of such data is a separate design question. (claim_oracle_external_input)
+Likewise, replication or recording through a blockchain does not, by itself, establish that an input from outside the chain is correct. External facts require an oracle or transaction mechanism to enter contract logic; assessing the source and handling of such data is a separate design question. ([source](<https://docs.chain.link/getting-started/conceptual-overview>))
 
 ## Design and risk questions before using contract storage
 
 Before deciding on placement, write down which values contract logic must read or change, which information should remain outside that state, and how external facts will be introduced if needed. Then consult technical documentation for the specific blockchain and contract design. This article does not establish specific storage fees, recovery procedures, data-deletion outcomes, or compliance requirements.
 
-If an integrity check relies on a database digest, the digest itself must be protected in storage that privileged database users or attackers cannot alter. That illustrates a broader boundary: a verification mechanism depends on the integrity of the evidence it checks, and it should not be mistaken for a complete data-management or security solution. (claim_digest_external_trust)
+If an integrity check relies on a database digest, the digest itself must be protected in storage that privileged database users or attackers cannot alter. That illustrates a broader boundary: a verification mechanism depends on the integrity of the evidence it checks, and it should not be mistaken for a complete data-management or security solution. ([source](<https://learn.microsoft.com/en-us/SQL/relational-databases/security/ledger/ledger-digest-management?view=sql-server-ver16>))
 
 Finally, distinguish contract state from user keys, application records, and external services when planning recovery. The allowed evidence does not specify a universal recovery method for those components. Treat recovery, confidentiality, retention, and legal obligations as separate, project-specific questions requiring current technical, security, and qualified legal review where relevant.
 

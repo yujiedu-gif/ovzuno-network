@@ -20,7 +20,7 @@ A `bytes` slice in Solidity means a selected range of byte data, usually describ
 
 A slice identifies some portion of a larger byte sequence. For example, a range described as “start at position 2 and take 3 bytes” selects three bytes beginning at that position, if the operation uses zero-based positions and a start-plus-length convention. The phrase describes the intended selection; it does not, on its own, specify how Solidity represents the result.
 
-A slice-like expression might refer to existing data, or an operation might construct a separate `bytes` value. Those are different outcomes: a range description is not proof that new bytes were allocated, copied, or returned. Solidity’s storage layout follows defined rules, but those rules do not establish the behavior of every library or compiler feature that may be called a slice. [claim_storage_layout]
+A slice-like expression might refer to existing data, or an operation might construct a separate `bytes` value. Those are different outcomes: a range description is not proof that new bytes were allocated, copied, or returned. Solidity’s storage layout follows defined rules, but those rules do not establish the behavior of every library or compiler feature that may be called a slice. [source](<https://docs.soliditylang.org/en/latest/internals/layout_in_storage.html>)
 
 The term `bytes slice` should therefore be read cautiously. It may describe a concept, a library API, or syntax available in a particular compiler context. Do not assume that all Solidity versions offer the same built-in slice type or operator. First identify the exact compiler version and implementation.
 
@@ -38,7 +38,7 @@ Solidity code can work with data in locations such as `calldata`, `memory`, and 
 
 This distinction matters when reading code: a parameter that describes a range is not necessarily itself a byte array, and a returned byte array is not necessarily a view. Inspect the declared types and data locations, then check the documentation for the exact operation. Do not generalize behavior from a similarly named helper in another library or compiler version.
 
-Solidity’s ABI specification defines how applications and EVM contracts encode function selectors, arguments, return values, errors, and events. That encoding role is separate from the question of whether a particular source-level slice expression creates, copies, or views byte data. [claim_solidity_abi]
+Solidity’s ABI specification defines how applications and EVM contracts encode function selectors, arguments, return values, errors, and events. That encoding role is separate from the question of whether a particular source-level slice expression creates, copies, or views byte data. [source](<https://docs.soliditylang.org/en/latest/abi-spec.html>)
 
 ## Using a slice-like operation safely
 

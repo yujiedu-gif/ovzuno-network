@@ -18,7 +18,7 @@ In Solidity, “object” is not one of the language’s named types or construc
 
 ## What does “solidity object” mean?
 
-Solidity has defined constructs and types, including contracts, structs, mappings, arrays, and other types. “Object” is not a dedicated Solidity type in that vocabulary. It is therefore best treated as informal wording unless a particular project or tool defines it more specifically. [claim_solidity_types]
+Solidity has defined constructs and types, including contracts, structs, mappings, arrays, and other types. “Object” is not a dedicated Solidity type in that vocabulary. It is therefore best treated as informal wording unless a particular project or tool defines it more specifically. [source](<https://docs.soliditylang.org/en/latest/types.html>)
 
 The phrase can point to different things. A developer might call a deployed contract an “object” by analogy with an instance in an object-oriented language. Someone else might use “object” to mean a value containing several fields, which Solidity represents with a struct. In application code outside the blockchain, “object” may refer to a software-language construct that interacts with a contract.
 
@@ -26,17 +26,17 @@ These meanings are not interchangeable. A contract has executable functions and 
 
 ## Solidity contracts and contract instances
 
-A Solidity contract is a program with executable functions and persistent data. On Ethereum, a contract’s code and data are associated with a specific blockchain address. [claim_contract_state_functions] [claim_eth_code_state_address]
+A Solidity contract is a program with executable functions and persistent data. On Ethereum, a contract’s code and data are associated with a specific blockchain address. [source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>) [source](<https://ethereum.org/developers/docs/smart-contracts/>)
 
 It is useful to distinguish the contract’s source declaration from a deployed instance. The declaration describes the contract’s code; a deployed instance is the code and state associated with an address on the network. In casual conversation, a developer may call that instance an “object,” but “contract instance” or “deployed contract” is more precise Solidity and Ethereum terminology.
 
-The analogy to a class and object in a class-based language has limits. It can help convey that a contract declaration describes behavior and that a particular deployed contract exists at an address. But it should not imply that a Solidity contract instance is simply an in-memory object in an application. Ethereum contract functions are invoked through transaction requests, and the contract’s persistent state is part of blockchain state. [claim_eth_smart_contracts]
+The analogy to a class and object in a class-based language has limits. It can help convey that a contract declaration describes behavior and that a particular deployed contract exists at an address. But it should not imply that a Solidity contract instance is simply an in-memory object in an application. Ethereum contract functions are invoked through transaction requests, and the contract’s persistent state is part of blockchain state. [source](<https://ethereum.org/developers/docs/intro-to-ethereum/>)
 
-Contracts can also call or reuse other contracts through public interfaces. This is often described as composability. It means that contracts can interact, not that Solidity has a general-purpose “object” construct. Each dependency brings its own behavior and assumptions, so describing the specific contracts and interfaces involved is clearer than referring to them collectively as objects. [claim_contract_composability]
+Contracts can also call or reuse other contracts through public interfaces. This is often described as composability. It means that contracts can interact, not that Solidity has a general-purpose “object” construct. Each dependency brings its own behavior and assumptions, so describing the specific contracts and interfaces involved is clearer than referring to them collectively as objects. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)
 
 ## How structs differ from objects
 
-A `struct` is a Solidity user-defined type for grouping related data fields. For example, a struct can represent a record with several named values. The struct definition supplies that data shape; it is not itself a deployed contract with an address and executable contract functions. Solidity’s type system distinguishes structs from contracts and other types. [claim_solidity_types]
+A `struct` is a Solidity user-defined type for grouping related data fields. For example, a struct can represent a record with several named values. The struct definition supplies that data shape; it is not itself a deployed contract with an address and executable contract functions. Solidity’s type system distinguishes structs from contracts and other types. [source](<https://docs.soliditylang.org/en/latest/types.html>)
 
 This is different from the common meaning of “object” in class-based programming, where an object may combine data with methods. Solidity code can define functions in a contract that read or modify struct data, but the struct is still the data type; the functions belong to the contract. Referring to a struct as an “object” may be understandable informally, but it blurs the distinction between data and the code that operates on it.
 

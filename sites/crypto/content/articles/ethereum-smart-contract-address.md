@@ -18,7 +18,7 @@ An Ethereum smart contract address identifies a contract account on the Ethereum
 
 ## What an Ethereum smart contract address identifies
 
-A smart contract is code and data deployed through cryptographically signed transactions on a blockchain network. On Ethereum, a smart contract contains code in its functions and data in its state at a specific blockchain address. The address therefore identifies the on-chain location associated with that contract, while the code and state describe what is at that location and how it behaves. Account and execution models can differ across networks, so this explanation is specific to Ethereum. [claim_nist_contract_definition] [claim_eth_code_state_address]
+A smart contract is code and data deployed through cryptographically signed transactions on a blockchain network. On Ethereum, a smart contract contains code in its functions and data in its state at a specific blockchain address. The address therefore identifies the on-chain location associated with that contract, while the code and state describe what is at that location and how it behaves. Account and execution models can differ across networks, so this explanation is specific to Ethereum. [source](<https://csrc.nist.gov/glossary/term/Smart_contract>) [source](<https://ethereum.org/developers/docs/smart-contracts/>)
 
 An address is not the same thing as the contract’s source code. Source code is the human-readable program; an address points to the deployed contract account. Nor is the address the same as a website or decentralized application (dApp) interface that may present information or actions involving a contract. The address by itself does not describe how such an interface works or establish that it is connected to the contract a reader intends to inspect.
 
@@ -28,7 +28,7 @@ The network context matters. A string presented as an address should be interpre
 
 An Ethereum address can be associated with different kinds of accounts. A contract account has code and state at its address. An externally owned account is controlled through a private key, whereas a contract’s behavior is determined by its deployed code and current state. These are different control models; seeing an address alone does not tell you who operates a contract, who maintains it, or who has authority over any associated system.
 
-The word “contract” can also mislead. In this technical context, it refers to deployed code and data. Code called a smart contract is not necessarily a legally enforceable agreement merely because it is called a contract. That distinction is general and does not determine the legal status of any particular arrangement. [claim_767742f581e1bebdf4b2]
+The word “contract” can also mislead. In this technical context, it refers to deployed code and data. Code called a smart contract is not necessarily a legally enforceable agreement merely because it is called a contract. That distinction is general and does not determine the legal status of any particular arrangement. [source](<https://ethereum.org/developers/docs/smart-contracts>)
 
 A public address is an identifier, not a complete account of responsibility. Do not infer from the address alone that a named organization controls the code, that a particular person owns or operates the application, or that a project will maintain the contract. Those conclusions require evidence beyond the address itself.
 
@@ -38,7 +38,7 @@ Start by confirming which network the reference is meant to describe. Then inspe
 
 Next, compare the address with a reference established independently of the page, message, or interface that prompted the check. A familiar project name or similar-looking address is not enough to establish a match. The comparison should be exact and should retain the network context. If the reference cannot be independently confirmed, the address’s identity remains uncertain.
 
-Explorers and other verification tools show evidence that readers must interpret. A displayed source-code match, for example, may help relate published source to deployed code, but it does not show that the code behaves as a reader expects. The OWASP Smart Contract Security Verification Standard is a structured framework for designing, building, and testing EVM-based smart contracts and decentralized applications; it is an assessment framework, not a guarantee about a particular address. [claim_owasp_verification]
+Explorers and other verification tools show evidence that readers must interpret. A displayed source-code match, for example, may help relate published source to deployed code, but it does not show that the code behaves as a reader expects. The OWASP Smart Contract Security Verification Standard is a structured framework for designing, building, and testing EVM-based smart contracts and decentralized applications; it is an assessment framework, not a guarantee about a particular address. [source](<https://owasp.org/projects/smart-contract-security-verification-standard>)
 
 Keep the conclusion narrow: an address-based check may help establish what network location you are examining and what information is displayed for it. It does not, by itself, establish the identity of every person or organization associated with the project, or settle questions about the contract’s purpose or operation.
 

@@ -18,11 +18,11 @@ A Python application can interact with a smart contract by connecting to a block
 
 ## What a Python Web3 API does in a dapp
 
-A decentralized application, or dapp, combines a smart contract running on a decentralized network with a user-facing interface. Its wider application stack can also include client libraries, wallets, data indexing, storage, and other off-chain services. Python can run in the application layer and coordinate requests; calling a contract does not make the Python code part of that contract. [claim_dapp_frontend_contract] [claim_web3_broader_stack]
+A decentralized application, or dapp, combines a smart contract running on a decentralized network with a user-facing interface. Its wider application stack can also include client libraries, wallets, data indexing, storage, and other off-chain services. Python can run in the application layer and coordinate requests; calling a contract does not make the Python code part of that contract. [source](<https://ethereum.org/developers/docs/dapps/>) [source](<https://ethereum.org/developers/docs/ethereum-stack/>)
 
-For an Ethereum integration, JSON-RPC is a method interface through which applications can read blockchain data and send transactions by connecting to a node. A Python Web3 client is an application-side means of making requests through such an interface. It is not the node or the blockchain, and it does not itself define the contract’s behavior. [claim_rpc_node_interface]
+For an Ethereum integration, JSON-RPC is a method interface through which applications can read blockchain data and send transactions by connecting to a node. A Python Web3 client is an application-side means of making requests through such an interface. It is not the node or the blockchain, and it does not itself define the contract’s behavior. [source](<https://ethereum.org/developers/docs/apis/json-rpc/>)
 
-The central operational distinction is between reading and changing state. A read asks a node for data or a contract-function result in the queried chain state. A state-changing interaction is requested through a transaction. An Ethereum user account can invoke a deployed contract function by submitting a transaction to the contract. [claim_rpc_node_interface] [claim_eth_transaction_invocation]
+The central operational distinction is between reading and changing state. A read asks a node for data or a contract-function result in the queried chain state. A state-changing interaction is requested through a transaction. An Ethereum user account can invoke a deployed contract function by submitting a transaction to the contract. [source](<https://ethereum.org/developers/docs/apis/json-rpc/>) [source](<https://ethereum.org/developers/docs/smart-contracts/>)
 
 This distinction affects how an application should handle results. A read response is information obtained through the configured endpoint; a transaction request asks the network to act. Keep those paths separate in code and user-facing status messages so that “data returned,” “transaction submitted,” and “action completed” are not treated as equivalent events.
 
@@ -30,7 +30,7 @@ This distinction affects how an application should handle results. A read respon
 
 Before implementing calls, identify the target network, RPC endpoint, contract address, and ABI. Also decide how the application will obtain authorization if it needs to request a state change. These are separate inputs and responsibilities: the endpoint connects the application to a node, the address identifies the target contract on the intended network, and the ABI describes the application-to-contract interface.
 
-The ABI, or application binary interface, specifies how contract function selectors, arguments, return values, errors, and events are encoded between an application and an EVM contract. A contract object created by a Python client depends on that interface information to form requests and interpret responses. Use an ABI that matches the deployed contract interface and the network address; an ABI copied from another contract or paired with an address on a different network does not establish that the intended contract is being queried. [claim_rpc_node_interface]
+The ABI, or application binary interface, specifies how contract function selectors, arguments, return values, errors, and events are encoded between an application and an EVM contract. A contract object created by a Python client depends on that interface information to form requests and interpret responses. Use an ABI that matches the deployed contract interface and the network address; an ABI copied from another contract or paired with an address on a different network does not establish that the intended contract is being queried. [source](<https://ethereum.org/developers/docs/apis/json-rpc/>)
 
 Choose a Python client by consulting its current official documentation for installation instructions, API syntax, and supported network behavior. The evidence available for this guide does not establish a specific package, version, command, or provider’s network support. Therefore, the code below is deliberately pseudocode rather than a claim about a particular library’s syntax:
 
@@ -42,7 +42,7 @@ contract = client.contract(address=contract_address, abi=contract_abi)
 
 Keep endpoint and network configuration outside the interaction logic, and check the values when the application starts or switches environments. Avoid placing credentials in source code or logs. This is an operational precaution, not a claim that any particular configuration method makes an integration secure.
 
-The RPC provider interface and wallet should not be conflated. An EIP-1193 provider, for example, is a request-and-event interface through which an application accesses Ethereum via a client, while the wallet separately manages keys and signing. In a Python application, use the signing method appropriate to the system and keep private-key handling separate from ordinary RPC requests. [claim_provider_wallet_boundary]
+The RPC provider interface and wallet should not be conflated. An EIP-1193 provider, for example, is a request-and-event interface through which an application accesses Ethereum via a client, while the wallet separately manages keys and signing. In a Python application, use the signing method appropriate to the system and keep private-key handling separate from ordinary RPC requests. [source](<https://eips.ethereum.org/EIPS/eip-1193>)
 
 ## Read smart-contract data from Python
 
@@ -53,7 +53,7 @@ A typical read workflow is to connect to the intended node, construct a contract
 value = contract.functions.some_read_method(arguments).call()
 ```
 
-A returned value should be checked against the application’s expectations. Confirm the contract address and network first, then validate the result’s type, shape, and meaning before using it downstream. The ABI governs how arguments and results are encoded between the application and contract, while the RPC interface is how the application communicates with the node. Neither fact alone proves that the application selected the correct deployment or interpreted the returned data appropriately. [claim_rpc_node_interface]
+A returned value should be checked against the application’s expectations. Confirm the contract address and network first, then validate the result’s type, shape, and meaning before using it downstream. The ABI governs how arguments and results are encoded between the application and contract, while the RPC interface is how the application communicates with the node. Neither fact alone proves that the application selected the correct deployment or interpreted the returned data appropriately. [source](<https://ethereum.org/developers/docs/apis/json-rpc/>)
 
 Treat a read as tied to the network state queried by the configured endpoint. If an application relies on a value to display a status or guide a later action, make the network and contract assumptions explicit in the application flow. Handle an unavailable response, encoding problem, or unexpected result as an error rather than silently substituting a value that looks valid.
 
@@ -61,7 +61,7 @@ For diagnosis, separate connection problems from contract-interface problems. A 
 
 ## Prepare and submit a state-changing transaction
 
-A state-changing path adds authorization and network submission to the contract interaction. First confirm the intended network, deployed contract address, function, and arguments. Then prepare a transaction using the chosen client’s documented interface and arrange for the appropriate wallet or signing mechanism to authorize it. The user account’s transaction invokes the function; the RPC interface connects the application to a node; the wallet separately manages signing. [claim_eth_transaction_invocation] [claim_rpc_node_interface] [claim_provider_wallet_boundary]
+A state-changing path adds authorization and network submission to the contract interaction. First confirm the intended network, deployed contract address, function, and arguments. Then prepare a transaction using the chosen client’s documented interface and arrange for the appropriate wallet or signing mechanism to authorize it. The user account’s transaction invokes the function; the RPC interface connects the application to a node; the wallet separately manages signing. [source](<https://ethereum.org/developers/docs/smart-contracts/>) [source](<https://ethereum.org/developers/docs/apis/json-rpc/>) [source](<https://eips.ethereum.org/EIPS/eip-1193>)
 
 ```python
 # Illustrative pseudocode, not tested library-specific code.
@@ -74,7 +74,7 @@ submission_result = client.send_signed_transaction(signed)
 
 The method names and required transaction options above are placeholders. Consult the current documentation for the selected client and network before implementing them. The evidence available here does not establish a universal Python call sequence, fee calculation, gas-estimation method, confirmation interval, or provider behavior.
 
-Before authorization, give the user or operator a reviewable summary of the operation: network, destination contract, function, and arguments. This is an application-side check, not a protocol guarantee. Keep signing material out of ordinary source files and logs, and distinguish the signing process from sending the signed request through an RPC interface. The provider interface does not replace the wallet’s separate key-management and signing role. [claim_provider_wallet_boundary]
+Before authorization, give the user or operator a reviewable summary of the operation: network, destination contract, function, and arguments. This is an application-side check, not a protocol guarantee. Keep signing material out of ordinary source files and logs, and distinguish the signing process from sending the signed request through an RPC interface. The provider interface does not replace the wallet’s separate key-management and signing role. [source](<https://eips.ethereum.org/EIPS/eip-1193>)
 
 Do not report a transaction as complete merely because the application sent a request or received a submission response. Track the transaction identifier if available and use the relevant network interface to inspect what happened. Network-specific transaction status and application settlement rules are outside the evidence available for this guide, so verify the meaning of any returned status against the selected client and network documentation.
 
@@ -96,7 +96,7 @@ Design error handling to preserve the difference between a failed request, an un
 
 Log only the operational information needed to investigate failures, such as the operation type, selected network, contract address, and a transaction identifier when one exists. Do not include signing material. When configuration changes, recheck the network and address together; retaining an old address while changing the endpoint can direct requests to an unintended deployment.
 
-A maintainable Python-to-contract integration makes responsibility boundaries visible: Python coordinates requests and application logic, the RPC interface connects it to a node, the wallet handles keys and signing separately, and the contract supplies the on-chain functions being called. Keeping those roles distinct makes it easier to validate reads, review transaction intent, and diagnose failures without treating any one component as a guarantee for the complete dapp. [claim_web3_broader_stack] [claim_rpc_node_interface] [claim_provider_wallet_boundary] [claim_eth_transaction_invocation]
+A maintainable Python-to-contract integration makes responsibility boundaries visible: Python coordinates requests and application logic, the RPC interface connects it to a node, the wallet handles keys and signing separately, and the contract supplies the on-chain functions being called. Keeping those roles distinct makes it easier to validate reads, review transaction intent, and diagnose failures without treating any one component as a guarantee for the complete dapp. [source](<https://ethereum.org/developers/docs/ethereum-stack/>) [source](<https://ethereum.org/developers/docs/apis/json-rpc/>) [source](<https://eips.ethereum.org/EIPS/eip-1193>) [source](<https://ethereum.org/developers/docs/smart-contracts/>)
 
 ## Sources and references
 

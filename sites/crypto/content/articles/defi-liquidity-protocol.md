@@ -22,13 +22,13 @@ A DeFi liquidity protocol is a set of software components and rules that organiz
 
 A protocol should also be distinguished from the people and applications around it. A liquidity provider supplies assets; a user or application may initiate an action involving them; and the protocol’s rules determine how its components handle that action. The interface through which someone interacts is not itself the protocol’s entire liquidity mechanism.
 
-For example, a Uniswap liquidity pool is a pairing of tokens held in a smart contract and used for swaps on a decentralized exchange. That example illustrates one pool-based design; it is not a definition of every liquidity protocol. [claim_pool_pairing]
+For example, a Uniswap liquidity pool is a pairing of tokens held in a smart contract and used for swaps on a decentralized exchange. That example illustrates one pool-based design; it is not a definition of every liquidity protocol. [source](<https://support.uniswap.org/hc/en-us/articles/8829880740109-What-is-a-liquidity-pool>)
 
 ## Core components and liquidity functions
 
-In a pool-based design, a pool holds the assets used for the relevant activity. Liquidity providers contribute assets to pools and can receive a share of trading fees, while also bearing inventory and adverse-selection risk. The pool formulas, fee tiers, price ranges, and allocation of losses vary by protocol and position. [claim_bis_lp_loss]
+In a pool-based design, a pool holds the assets used for the relevant activity. Liquidity providers contribute assets to pools and can receive a share of trading fees, while also bearing inventory and adverse-selection risk. The pool formulas, fee tiers, price ranges, and allocation of losses vary by protocol and position. [source](<https://www.bis.org/publications/trading-defi-era-automated-market-maker>)
 
-A provider’s position can also change in value relative to holding the contributed assets when pool prices move. Fees may or may not offset that difference, and the outcome depends on the pool design, price path, range, fees, timing, and withdrawal state. This describes a possible exposure, not a prediction about any particular position or a complete risk assessment. [claim_bis_lp_loss]
+A provider’s position can also change in value relative to holding the contributed assets when pool prices move. Fees may or may not offset that difference, and the outcome depends on the pool design, price path, range, fees, timing, and withdrawal state. This describes a possible exposure, not a prediction about any particular position or a complete risk assessment. [source](<https://www.bis.org/publications/trading-defi-era-automated-market-maker>)
 
 These details should not be generalized beyond the design they describe. Some protocols may organize liquidity or transactions differently; the category name alone does not show whether a system uses token-pair pools, supports swaps, or distributes fees. To understand a specific implementation, identify the assets and contracts involved and determine what function its rules actually provide.
 
@@ -36,7 +36,7 @@ These details should not be generalized beyond the design they describe. Some pr
 
 A liquidity protocol can perform its function on one blockchain without being cross-chain. When activity spans separate networks, an additional interoperability system may coordinate some part of that activity. This coordination is separate from the liquidity rules themselves; a protocol does not become cross-chain simply because it provides liquidity.
 
-One documented model is the Across intent lifecycle: relayers provide funds on the destination chain before later reimbursement, while periodic rebalancing is used to keep chain pools sufficiently funded. This is an example of one cross-chain liquidity model, not a universal protocol design. Other bridges may use different approaches, so the example should not be treated as a general description of all cross-chain coordination. [claim_crosschain_relayer_liquidity]
+One documented model is the Across intent lifecycle: relayers provide funds on the destination chain before later reimbursement, while periodic rebalancing is used to keep chain pools sufficiently funded. This is an example of one cross-chain liquidity model, not a universal protocol design. Other bridges may use different approaches, so the example should not be treated as a general description of all cross-chain coordination. [source](<https://docs.across.to/guides/concepts/intent-lifecycle>)
 
 When reviewing an architecture, separate three questions: where liquidity is held, which contracts or applications use it, and what system coordinates activity that spans networks. Then establish which components must act for the cross-network operation to proceed. The label “DeFi liquidity protocol” by itself does not answer these implementation questions or establish that assets are shared across networks.
 
@@ -44,9 +44,9 @@ A protocol's liquidity rules are distinct from the assets in a pair; see [how a 
 
 ## Risks and design questions to evaluate
 
-Risk depends on the specific protocol and activity. For pool providers, the value of contributed assets can change relative to holding them, and fee income may or may not offset that change. The result depends on design and operating conditions, so the general category does not establish a particular outcome. [claim_bis_lp_loss]
+Risk depends on the specific protocol and activity. For pool providers, the value of contributed assets can change relative to holding them, and fee income may or may not offset that change. The result depends on design and operating conditions, so the general category does not establish a particular outcome. [source](<https://www.bis.org/publications/trading-defi-era-automated-market-maker>)
 
-Cross-chain use adds a coordination dependency when another system is involved. In the Across example, relayers supply destination-chain funds before reimbursement and pools are periodically rebalanced. Those steps belong to that documented system’s lifecycle; they are not properties of every liquidity protocol or every cross-chain arrangement. [claim_crosschain_relayer_liquidity]
+Cross-chain use adds a coordination dependency when another system is involved. In the Across example, relayers supply destination-chain funds before reimbursement and pools are periodically rebalanced. Those steps belong to that documented system’s lifecycle; they are not properties of every liquidity protocol or every cross-chain arrangement. [source](<https://docs.across.to/guides/concepts/intent-lifecycle>)
 
 A practical technical review should identify the exact liquidity design and any separate coordination system, then examine their respective assumptions. The evidence here supports selected examples, not a security conclusion about a particular implementation. A category label alone cannot establish that an arrangement is secure or that it will complete as expected.
 

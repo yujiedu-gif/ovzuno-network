@@ -18,7 +18,7 @@ A blockchain can run smart contracts when its protocol defines how programs exec
 
 ## What makes a blockchain capable of running smart contracts?
 
-A blockchain is a database shared across networked computers. Blocks cryptographically reference earlier blocks, while nodes use consensus to agree on the network’s state. A smart-contract-capable network adds protocol rules for executing programs and incorporating their state changes into that shared record. **[claim_blockchain_shared_database]**
+A blockchain is a database shared across networked computers. Blocks cryptographically reference earlier blocks, while nodes use consensus to agree on the network’s state. A smart-contract-capable network adds protocol rules for executing programs and incorporating their state changes into that shared record. **[source](<https://ethereum.org/developers/docs/intro-to-ethereum/>)**
 
 The distinction is between recording an instruction and defining what the network does with it. A transaction may request a program action; the network’s execution rules determine how that action is interpreted, and its validation process determines whether the resulting state change is accepted. The application depends on those rules being consistent across the participants that maintain the network.
 
@@ -30,7 +30,7 @@ Nodes are the network participants that run protocol software. In a smart-contra
 
 A useful comparison begins by asking what the network executes, how it represents state, and which software components perform each task. Programming-language support matters because it affects how a program is expressed and connected to the network, but a language name alone does not establish which features, interfaces, or operating assumptions the network supports.
 
-Architecture can be described in terms of four functions: execution, settlement, consensus, and data availability. The modular model separates these functions conceptually, allowing specialized layers to perform them; this is a way to analyze architecture, not a claim that every network implements four physically separate layers. **[claim_four_functions]**
+Architecture can be described in terms of four functions: execution, settlement, consensus, and data availability. The modular model separates these functions conceptually, allowing specialized layers to perform them; this is a way to analyze architecture, not a claim that every network implements four physically separate layers. **[source](<https://docs.celestia.org/learn/celestia-101/data-availability/>)**
 
 This distinction helps keep comparisons precise. One design may combine functions that another assigns to separate components. The meaningful question is what each component is responsible for and how the overall system connects them. Avoid assuming that a network’s use of modular terminology proves that its execution or security responsibilities are split in a particular way.
 
@@ -38,7 +38,7 @@ Transaction ordering and shared state also shape execution. Applications may dep
 
 ## How consensus and state support applications
 
-Consensus is the process by which network participants agree on blocks and the continuing chain. In a blockchain, that agreement provides the shared context in which accepted activity updates state. The details differ by system, so a comparison should identify the network’s own validation and consensus rules rather than infer them from another chain’s design. **[claim_blockchain_shared_database]**
+Consensus is the process by which network participants agree on blocks and the continuing chain. In a blockchain, that agreement provides the shared context in which accepted activity updates state. The details differ by system, so a comparison should identify the network’s own validation and consensus rules rather than infer them from another chain’s design. **[source](<https://ethereum.org/developers/docs/intro-to-ethereum/>)**
 
 For application analysis, separate three steps: a user or service initiates a request, the network processes activity under its execution rules, and participants agree on which state is accepted. This framing prevents a common mistake: treating a submitted request, an application’s displayed result, and an agreed network state as interchangeable.
 
@@ -46,11 +46,11 @@ Consensus does not establish that application logic is correct or that its input
 
 ## What smart contracts enable—and what they do not
 
-Contracts can automate rules using on-chain state and information available through the network’s execution environment. They can also depend on facts or services outside that environment. An oracle is one mechanism for connecting off-chain data or services to on-chain contract logic; using one introduces a dependency on how that external information is supplied. **[claim_oracle_bridge]**
+Contracts can automate rules using on-chain state and information available through the network’s execution environment. They can also depend on facts or services outside that environment. An oracle is one mechanism for connecting off-chain data or services to on-chain contract logic; using one introduces a dependency on how that external information is supplied. **[source](<https://docs.chain.link/getting-started/conceptual-overview>)**
 
 That boundary matters when an application appears to act on external events. A contract does not independently observe every fact about the outside world simply because it is deployed on a blockchain. The application’s design must account for the source and delivery of external information, and readers should not interpret on-chain execution as proof that an input was accurate, complete, or available.
 
-Privacy designs illustrate another capability distinction. A zero-knowledge privacy application can separate private witness data and off-chain proof generation from a public commitment and an on-chain verifier that checks the proof. This is a particular architecture, not a general promise that smart contracts keep application data private; the proof system and surrounding design remain important. **[claim_private_proof_public_verify]**
+Privacy designs illustrate another capability distinction. A zero-knowledge privacy application can separate private witness data and off-chain proof generation from a public commitment and an on-chain verifier that checks the proof. This is a particular architecture, not a general promise that smart contracts keep application data private; the proof system and surrounding design remain important. **[source](<https://ethereum.org/latest/privacy-apps-on-ethereum/>)**
 
 Likewise, protocol execution does not automatically supply an easy-to-use interface, reliable supporting services, or a particular legal effect. Those are separate application and operating questions. Evaluate what the contract does, what information it relies on, and what supporting components are necessary before drawing conclusions about the user-facing application.
 
@@ -60,7 +60,7 @@ Start with the application’s required behavior, then map each requirement to t
 
 Next, identify which performance or cost questions need current, network-specific evidence. Execution capacity, transaction costs, congestion, and finality cannot be responsibly compared from the broad fact that two networks support smart contracts. The available evidence here does not establish values or rankings for those factors, so they should be checked against current documentation for the exact network and operating conditions under consideration.
 
-Also distinguish protocol properties from operational dependencies. Network client diversity, for example, concerns how much the network depends on a single software codebase: multiple independently maintained clients can reduce that dependence and the network-wide impact of a bug or attack against a dominant implementation. The existence of multiple clients alone does not show how widely they are used. **[claim_eth_client_diversity]**
+Also distinguish protocol properties from operational dependencies. Network client diversity, for example, concerns how much the network depends on a single software codebase: multiple independently maintained clients can reduce that dependence and the network-wide impact of a bug or attack against a dominant implementation. The existence of multiple clients alone does not show how widely they are used. **[source](<https://ethereum.org/developers/docs/nodes-and-clients/client-diversity/>)**
 
 For an application, examine its complete dependency path: execution and validation, data inputs, interfaces, and any external services it needs. Verify which component performs each function and what happens if a dependency is unavailable or provides unsuitable data. Do not infer security, recovery, availability, compliance, or legal status from programmability alone; those claims require evidence specific to the system and context.
 

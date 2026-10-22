@@ -22,7 +22,7 @@ In a market conversation, “exit liquidity” refers to the buyers or demand in
 
 The phrase often carries a critical tone. Calling buyers someone’s “exit liquidity” can suggest that they are enabling an earlier holder to sell. That is an interpretation of the participants’ roles, not a technical property of the asset or a special kind of transaction.
 
-It is useful to keep this expression separate from a technical description of a trading mechanism. For instance, an automated market maker (AMM) is a trading design that can use liquidity pools. In the Uniswap v2 constant-product example, a pool holds reserves of a token pair for swaps, and liquidity-provider shares represent contributions to those reserves. That mechanism is a specific example of pool-based trading; it does not define the colloquial phrase “exit liquidity.” [claim_pool_pairing] [claim_bis_amm_liquidity]
+It is useful to keep this expression separate from a technical description of a trading mechanism. For instance, an automated market maker (AMM) is a trading design that can use liquidity pools. In the Uniswap v2 constant-product example, a pool holds reserves of a token pair for swaps, and liquidity-provider shares represent contributions to those reserves. That mechanism is a specific example of pool-based trading; it does not define the colloquial phrase “exit liquidity.” [source](<https://support.uniswap.org/hc/en-us/articles/8829880740109-What-is-a-liquidity-pool>) [source](<https://www.bis.org/publ/work1227.pdf>)
 
 The distinction matters because similar words can refer to different things. In the slang phrase, the focus is on buyers and the story being told about a holder’s sale. In a description of an AMM, the focus is on a pool’s assets and the mechanism used to execute swaps. One does not establish the other.
 
@@ -38,7 +38,7 @@ For readers, the practical distinction is between description and interpretation
 
 ## Exit liquidity versus cross-chain liquidity
 
-“Exit liquidity” refers to buyers or demand in a market context. It is not a mechanism for transferring assets or liquidity between blockchains. Cross-chain liquidity refers to liquidity accessible across blockchain networks, a separate interoperability topic. In the narrower pool example, liquidity providers contribute assets to a pool; that still describes a trading arrangement, not the slang phrase or a cross-chain transfer system. [claim_bis_amm_liquidity]
+“Exit liquidity” refers to buyers or demand in a market context. It is not a mechanism for transferring assets or liquidity between blockchains. Cross-chain liquidity refers to liquidity accessible across blockchain networks, a separate interoperability topic. In the narrower pool example, liquidity providers contribute assets to a pool; that still describes a trading arrangement, not the slang phrase or a cross-chain transfer system. [source](<https://www.bis.org/publ/work1227.pdf>)
 
 The word “liquidity” can make these phrases sound more closely related than they are. In “exit liquidity,” the focus is on buyers who may take the other side of a holder’s sale. In cross-chain discussions, the focus is on liquidity available across distinct blockchain networks. The shared word does not make the market expression a technical bridge feature.
 

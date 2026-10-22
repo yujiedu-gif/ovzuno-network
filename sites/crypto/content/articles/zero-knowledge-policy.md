@@ -18,9 +18,9 @@ For blockchain builders, **zero-knowledge policy** is best understood as a descr
 
 ## What zero-knowledge policy means
 
-A policy is a set of criteria governing whether an action is allowed or accepted in a workflow. In a blockchain context, those criteria might be checked before a transaction, application action, or state update is accepted. Who may submit an action, who may validate it, and who may read related information are separate permissions that a system can assign differently; permissionless and permissioned participation describe different access models, not a particular proof technique. (claim_permission_models)
+A policy is a set of criteria governing whether an action is allowed or accepted in a workflow. In a blockchain context, those criteria might be checked before a transaction, application action, or state update is accepted. Who may submit an action, who may validate it, and who may read related information are separate permissions that a system can assign differently; permissionless and permissioned participation describe different access models, not a particular proof technique. ([source](<https://nvlpubs.nist.gov/nistpubs/ir/2018/nist.ir.8202.pdf>))
 
-A zero-knowledge proof is a cryptographic mechanism that can separate private witness data and off-chain proof generation from a public commitment and an on-chain verifier that checks the proof. (claim_private_proof_public_verify) The **witness** is the private information used to support a claim. The verifier checks a proof against a specified statement; the proof does not define which statement the application should require.
+A zero-knowledge proof is a cryptographic mechanism that can separate private witness data and off-chain proof generation from a public commitment and an on-chain verifier that checks the proof. ([source](<https://ethereum.org/latest/privacy-apps-on-ethereum/>)) The **witness** is the private information used to support a claim. The verifier checks a proof against a specified statement; the proof does not define which statement the application should require.
 
 So “zero-knowledge policy” is a useful descriptive phrase for the combination of policy conditions and proof-based verification. It should not be read as the name of one universal standard or as a guarantee that every detail of a system remains private.
 
@@ -28,9 +28,9 @@ So “zero-knowledge policy” is a useful descriptive phrase for the combinatio
 
 A policy identifies a condition the system is intended to enforce. An implementation must then express that condition in a form its application or verifier can evaluate. A proof can provide evidence for a particular statement, but the system’s surrounding rules determine what that statement means for the workflow and what happens after verification.
 
-For example, a validity-rollup model updates its canonical rollup state after a base-layer verifier accepts a cryptographic validity proof for a proposed off-chain state transition. (claim_validity_proof) This describes a verification role, not a general policy decision: a proof’s acceptance does not by itself establish that a policy is appropriate, complete, or legally sufficient.
+For example, a validity-rollup model updates its canonical rollup state after a base-layer verifier accepts a cryptographic validity proof for a proposed off-chain state transition. ([source](<https://ethereum.org/developers/docs/scaling/zk-rollups/>)) This describes a verification role, not a general policy decision: a proof’s acceptance does not by itself establish that a policy is appropriate, complete, or legally sufficient.
 
-Privacy also has boundaries. In a zero-knowledge privacy application, private witness data and off-chain proof generation can be separated from a public commitment and an on-chain verifier. (claim_private_proof_public_verify) That pattern does not establish that all related information is hidden. A design still needs to consider what its public statement, application outputs, and surrounding workflow reveal; the proof mechanism alone does not answer those questions.
+Privacy also has boundaries. In a zero-knowledge privacy application, private witness data and off-chain proof generation can be separated from a public commitment and an on-chain verifier. ([source](<https://ethereum.org/latest/privacy-apps-on-ethereum/>)) That pattern does not establish that all related information is hidden. A design still needs to consider what its public statement, application outputs, and surrounding workflow reveal; the proof mechanism alone does not answer those questions.
 
 ## Examples of policy conditions
 
@@ -38,7 +38,7 @@ Consider a hypothetical access rule: an action is allowed only if the user belon
 
 A second hypothetical rule might require a value to meet a threshold. A proof could be designed to establish that condition without revealing the underlying value, if the system’s statement and proof design support that use. The example does not establish legal compliance, nor does the phrase “zero-knowledge policy” confirm that any particular implementation can verify the condition.
 
-For either example, builders should specify what the system intends to keep private and what may remain visible. A public commitment and a verifier are part of the described privacy-application pattern, so privacy should not be treated as equivalent to making the entire workflow invisible. (claim_private_proof_public_verify)
+For either example, builders should specify what the system intends to keep private and what may remain visible. A public commitment and a verifier are part of the described privacy-application pattern, so privacy should not be treated as equivalent to making the entire workflow invisible. ([source](<https://ethereum.org/latest/privacy-apps-on-ethereum/>))
 
 ## Design questions for blockchain builders
 
@@ -46,9 +46,9 @@ Before treating a proof as evidence of policy enforcement, clarify the boundary 
 
 - **Who defines and verifies the condition?** Identify which application or protocol component sets the rule and which verifier checks the proof. Do not assume that a proof system chooses the policy.
 - **What exactly is being proven?** Write down the statement the verifier accepts. Confirm that it matches the intended condition rather than a broader claim.
-- **What is exposed?** Map the witness, proof, public commitment, verifier result, and other workflow information. A system that uses a public verifier does not, on that fact alone, establish that every related detail is private. (claim_private_proof_public_verify)
+- **What is exposed?** Map the witness, proof, public commitment, verifier result, and other workflow information. A system that uses a public verifier does not, on that fact alone, establish that every related detail is private. ([source](<https://ethereum.org/latest/privacy-apps-on-ethereum/>))
 - **What happens when the check fails or the rule changes?** Document the application’s response and how the relevant policy version is identified. The allowed evidence does not specify a universal method for policy updates or failure handling; these are implementation questions.
-- **What assumptions remain?** For an Ethereum smart contract, off-chain facts are not directly available to the contract without an oracle or transaction mechanism. (claim_eth_oracle_boundary) If a policy depends on such a fact, builders must identify how it enters the workflow rather than assuming the proof supplies it automatically.
+- **What assumptions remain?** For an Ethereum smart contract, off-chain facts are not directly available to the contract without an oracle or transaction mechanism. ([source](<https://ethereum.org/developers/docs/smart-contracts/>)) If a policy depends on such a fact, builders must identify how it enters the workflow rather than assuming the proof supplies it automatically.
 
 These questions help distinguish evidence about a condition from decisions about access, policy ownership, and application behavior.
 

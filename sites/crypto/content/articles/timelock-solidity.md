@@ -20,7 +20,7 @@ A Solidity timelock delays an operation by recording it as pending and requiring
 
 A timelock is a contract-level control that places a waiting condition between authorizing an operation and carrying it out. In a typical design, a caller schedules an operation, the contract records information needed to identify it and determine when it is eligible, and a later call attempts execution. Some designs also allow cancellation. The precise states and permissions are implementation-specific; the term “timelock” alone does not specify them.
 
-On Ethereum, a smart contract has code and data at an on-chain address. Functions can be invoked through transactions, and the contract’s persistent state can record information between calls. A timelock uses this general code-and-state model to represent pending operations and check whether execution is permitted. [claim_eth_contract_state] [claim_eth_transaction_invocation]
+On Ethereum, a smart contract has code and data at an on-chain address. Functions can be invoked through transactions, and the contract’s persistent state can record information between calls. A timelock uses this general code-and-state model to represent pending operations and check whether execution is permitted. [source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>) [source](<https://ethereum.org/developers/docs/smart-contracts/>)
 
 The key distinction is between delaying an operation and evaluating its merits. A timer can restrict when a code path runs, but it does not determine whether the parameters are appropriate, whether the called code behaves as intended, or whether another path can perform the same action sooner. Those questions require examining the implementation and the surrounding contracts.
 
@@ -37,7 +37,7 @@ This lifecycle makes it easier to spot incomplete designs. For example, scheduli
 
 ## Authorization, timing, and state design
 
-Authorization determines who controls each part of the lifecycle. List the accounts or roles that may schedule, execute, cancel, and change timelock settings, then trace where each permission is enforced. Role-based access control can assign named roles and separate administration of role grants and revocations; that structure also means the authority to administer roles is itself part of the review. [claim_role_administration]
+Authorization determines who controls each part of the lifecycle. List the accounts or roles that may schedule, execute, cancel, and change timelock settings, then trace where each permission is enforced. Role-based access control can assign named roles and separate administration of role grants and revocations; that structure also means the authority to administer roles is itself part of the review. [source](<https://docs.openzeppelin.com/contracts/5.x/access-control>)
 
 Pay particular attention to configuration changes. If an administrator can change a delay, alter permissions, or replace the route used for execution, those powers may change the protection offered to pending operations. Review whether changes affect operations already scheduled, and whether the implementation requires those changes to pass through the same delayed path. The answer must come from the specific contract’s state transitions, not from the label attached to an admin role.
 
@@ -47,9 +47,9 @@ For timing, read the exact condition that changes an operation from pending to e
 
 ## Security review limits and common failure modes
 
-Start by searching for alternate ways to perform the protected action. Trace every function that can change the same sensitive state or call the same target, including administrative configuration paths and composed contracts. Solidity contracts can call or reuse independent on-chain components through public interfaces, so the behavior of a timelocked operation may depend on contracts beyond the timelock itself. Each dependency adds behavior, permission, availability, upgrade, and economic assumptions to the caller’s system. [claim_contract_composability]
+Start by searching for alternate ways to perform the protected action. Trace every function that can change the same sensitive state or call the same target, including administrative configuration paths and composed contracts. Solidity contracts can call or reuse independent on-chain components through public interfaces, so the behavior of a timelocked operation may depend on contracts beyond the timelock itself. Each dependency adds behavior, permission, availability, upgrade, and economic assumptions to the caller’s system. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)
 
-Then examine external calls. A contract call can hand execution control to another contract before the original operation has finished, which is why state ordering and callback behavior deserve attention. The checks-effects-interactions pattern reduces a class of reentrancy risk by validating conditions, recording internal state changes, and only then interacting externally. It is a mitigation pattern, not a proof that arbitrary contract code is safe. [claim_checks_effects_interactions]
+Then examine external calls. A contract call can hand execution control to another contract before the original operation has finished, which is why state ordering and callback behavior deserve attention. The checks-effects-interactions pattern reduces a class of reentrancy risk by validating conditions, recording internal state changes, and only then interacting externally. It is a mitigation pattern, not a proof that arbitrary contract code is safe. [source](<https://docs.soliditylang.org/_/downloads/en/latest/pdf/>)
 
 A focused review checklist is:
 

@@ -18,7 +18,7 @@ A Solidity interface contract is a type declaration that describes functions and
 
 ## What a Solidity interface contract represents
 
-A Solidity interface describes a contract boundary: the callable functions and event information that another piece of code expects to interact with. A deployed Ethereum contract has persistent state and executable functions at an on-chain address, and it can emit events for applications to process. An interface can describe selected functions and events from that surface without containing the target’s state or executable logic. [claim_eth_contract_state]
+A Solidity interface describes a contract boundary: the callable functions and event information that another piece of code expects to interact with. A deployed Ethereum contract has persistent state and executable functions at an on-chain address, and it can emit events for applications to process. An interface can describe selected functions and events from that surface without containing the target’s state or executable logic. [source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>)
 
 The practical value is that the caller can express an expectation in Solidity’s type system. Instead of handling an address alone, the caller can refer to a named function, its input types, and its expected return type. The interface makes that expectation visible in source code and gives the compiler a description to use when forming the call.
 
@@ -52,9 +52,9 @@ contract ReaderClient {
 
 `IValueReader(target)` gives the caller a typed reference for this interaction. It does not deploy an interface contract, move code to the address, or change the target. The next expression invokes the function as declared by the interface and treats the result as a `uint256`.
 
-The interface signature also matters for the call’s representation. The Solidity ABI defines how function selectors and arguments are encoded between applications and EVM contracts, along with how return values, errors, and events are encoded. The interface and the deployed contract’s callable surface therefore need compatible encodings for the intended interaction. [claim_solidity_abi]
+The interface signature also matters for the call’s representation. The Solidity ABI defines how function selectors and arguments are encoded between applications and EVM contracts, along with how return values, errors, and events are encoded. The interface and the deployed contract’s callable surface therefore need compatible encodings for the intended interaction. [source](<https://docs.soliditylang.org/en/latest/abi-spec.html>)
 
-A function call written in a contract is not the same thing as a user’s top-level transaction. A user account can invoke a smart-contract function by submitting a transaction to the deployed contract. [claim_eth_transaction_invocation] In either situation, the interface is a description used by the caller; it does not choose the target address or supply the function’s implementation.
+A function call written in a contract is not the same thing as a user’s top-level transaction. A user account can invoke a smart-contract function by submitting a transaction to the deployed contract. [source](<https://ethereum.org/developers/docs/smart-contracts/>) In either situation, the interface is a description used by the caller; it does not choose the target address or supply the function’s implementation.
 
 The return declaration shapes how the caller handles the response, but it should not be mistaken for proof that the response is accurate or meaningful. The interface says what type the caller expects. It does not establish the target’s internal logic or the meaning of its returned value.
 
@@ -66,13 +66,13 @@ This relationship has two distinct uses. A contract author can use an interface 
 
 A compiler can check declarations within the source it compiles. That is a source-level compatibility check, not a guarantee about an arbitrary external address supplied later. The interface does not verify that the address points to the intended implementation or that the implementation’s behavior matches the caller’s assumptions.
 
-This pattern is one part of smart-contract composition: contracts can call or reuse independent on-chain components through public interfaces. Each such dependency adds behavior and assumptions to the calling system. [claim_composability_dependencies] An interface can make the boundary explicit, but it cannot remove the dependency or supply facts about the target that are not represented in the declaration.
+This pattern is one part of smart-contract composition: contracts can call or reuse independent on-chain components through public interfaces. Each such dependency adds behavior and assumptions to the calling system. [source](<https://ethereum.org/developers/docs/smart-contracts/composability/>) An interface can make the boundary explicit, but it cannot remove the dependency or supply facts about the target that are not represented in the declaration.
 
 ## Call failures and practical limits
 
 A typed call can still fail. The target may not provide a compatible function, or execution may fail while the call is being handled. Even when the call completes and data is returned, the interface alone does not prove that the result is correct or that the target acted as expected. The declaration governs the caller’s expectations; it is not a guarantee of execution success or target quality.
 
-When integrating with a known contract, compare the interface declarations with the callable surface intended at the target address. Check that the interface and target use compatible ABI encodings, since the ABI governs how function selectors, arguments, return values, errors, and events are represented. [claim_solidity_abi] A mismatch can make an otherwise well-typed source call fail to match the intended interaction.
+When integrating with a known contract, compare the interface declarations with the callable surface intended at the target address. Check that the interface and target use compatible ABI encodings, since the ABI governs how function selectors, arguments, return values, errors, and events are represented. [source](<https://docs.soliditylang.org/en/latest/abi-spec.html>) A mismatch can make an otherwise well-typed source call fail to match the intended interaction.
 
 Keep the compile-time and runtime questions separate. At compile time, ask whether the caller’s code uses the interface consistently. At the call boundary, ask whether the intended address and deployed code correspond to that declaration. A successful type check answers the first kind of question; it does not independently answer the second.
 

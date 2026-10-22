@@ -18,7 +18,7 @@ For Solidity developers and smart-contract reviewers, **solidity-coverage npm** 
 
 ## What solidity-coverage npm refers to
 
-A smart contract is code and data deployed through cryptographically signed transactions on a blockchain network. Solidity is one language used to write contracts for compatible execution environments; a test-coverage package is a separate development tool, not part of the language or the deployed contract itself. [claim_nist_contract_definition]
+A smart contract is code and data deployed through cryptographically signed transactions on a blockchain network. Solidity is one language used to write contracts for compatible execution environments; a test-coverage package is a separate development tool, not part of the language or the deployed contract itself. [source](<https://csrc.nist.gov/glossary/term/Smart_contract>)
 
 In general, code coverage describes which portions of a program are executed when tests run. In a Solidity project, a coverage tool is intended to help a developer see whether the test suite reaches contract code. The result can guide review toward code paths that tests may not exercise.
 
@@ -36,7 +36,7 @@ The evidence available for this article does not verify current installation com
 
 A coverage result can indicate that tests executed certain code, according to the tool’s measurement method. It cannot establish that tests checked the right outcomes. Code can execute while assertions fail to examine important results, boundary conditions, or interactions. Conversely, a test suite may intentionally focus on particular behaviors, so a coverage figure requires context rather than a universal interpretation.
 
-Coverage also does not prove that contract logic is correct, that every possible state has been tested, or that vulnerabilities are absent. A verification framework such as the OWASP Smart Contract Security Verification Standard provides a structured approach to designing, building, and testing EVM-based contracts and decentralized applications; it is a broader verification framework, not a substitute for understanding what a particular coverage measurement records. [claim_owasp_verification]
+Coverage also does not prove that contract logic is correct, that every possible state has been tested, or that vulnerabilities are absent. A verification framework such as the OWASP Smart Contract Security Verification Standard provides a structured approach to designing, building, and testing EVM-based contracts and decentralized applications; it is a broader verification framework, not a substitute for understanding what a particular coverage measurement records. [source](<https://owasp.org/projects/smart-contract-security-verification-standard>)
 
 For that reason, do not treat a high percentage as a safety threshold or certification. The meaning of any metric depends on what the tool counts and how the project’s tests are structured. Since the evidence available here does not establish solidity-coverage npm’s current metric definitions or report format, this article does not assign meanings to particular numbers or labels.
 
@@ -44,7 +44,7 @@ For that reason, do not treat a high percentage as a safety threshold or certifi
 
 Use coverage as one input to review, alongside examination of test quality and the contract’s intended behavior. A test can reach a line without adequately checking its effects; coverage alone does not resolve that gap. Reviewers should ask whether tests examine relevant outcomes and whether important behavior remains untested, rather than relying on a single percentage.
 
-Security conclusions require evidence beyond a coverage report. The OWASP verification framework is one structured resource for organizing contract and application verification, but its cited description does not make a particular package report a security assessment. [claim_owasp_verification] A bug bounty, where one is offered, is a defined reporting and reward process intended to encourage responsible disclosure by external researchers; it complements rather than replaces secure design, testing, independent review, monitoring, and incident response. [claim_bug_bounty_role]
+Security conclusions require evidence beyond a coverage report. The OWASP verification framework is one structured resource for organizing contract and application verification, but its cited description does not make a particular package report a security assessment. [source](<https://owasp.org/projects/smart-contract-security-verification-standard>) A bug bounty, where one is offered, is a defined reporting and reward process intended to encourage responsible disclosure by external researchers; it complements rather than replaces secure design, testing, independent review, monitoring, and incident response. [source](<https://ethereum.org/developers/docs/smart-contracts/security/>)
 
 In short, solidity-coverage npm is relevant as a test-execution measurement tool for Solidity projects. It can help locate code that tests may not reach. To judge what its output means in a particular project, verify the package’s current documentation and interpret the report alongside the tests and other review evidence—not as proof of correctness or security.
 

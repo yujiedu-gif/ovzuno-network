@@ -22,11 +22,11 @@ A label such as “smart contracts 2.0” suggests a newer or expanded way of th
 
 The distinction matters in technical discussions. A broad label can describe an idea, a proposed direction, or a particular project’s framing. Those uses are not interchangeable: a description of a possible capability does not show that a system implements it, while a project-specific meaning does not establish a definition for the wider field.
 
-For context, Ethereum’s documentation describes decentralized applications as combining a smart contract running on a decentralized network with a frontend user interface. That is one ecosystem’s architectural framing, not a definition of “smart contracts 2.0” (claim_web3_ethereum_dapps). The term should therefore be interpreted from its own source rather than inferred from the word “2.0.”
+For context, Ethereum’s documentation describes decentralized applications as combining a smart contract running on a decentralized network with a frontend user interface. That is one ecosystem’s architectural framing, not a definition of “smart contracts 2.0” ([source](<https://ethereum.org/developers/docs/web2-vs-web3/>)). The term should therefore be interpreted from its own source rather than inferred from the word “2.0.”
 
 ## How smart contracts 2.0 is contrasted with conventional smart contracts
 
-A conventional smart contract can be understood in a specific deployment context: deployment uses an Ethereum transaction containing compiled contract bytecode and constructor data, consumes gas, and creates a contract at a new address after successful inclusion (claim_contract_deployment_transaction). This describes a deployment mechanism, not every aspect of contract behavior, and it does not define a first generation that “2.0” necessarily replaces.
+A conventional smart contract can be understood in a specific deployment context: deployment uses an Ethereum transaction containing compiled contract bytecode and constructor data, consumes gas, and creates a contract at a new address after successful inclusion ([source](<https://ethereum.org/developers/docs/smart-contracts/deploying/>)). This describes a deployment mechanism, not every aspect of contract behavior, and it does not define a first generation that “2.0” necessarily replaces.
 
 In discussions using the “2.0” label, the contrast may be about adding or emphasizing capabilities beyond that familiar model. But without a source-specific definition, it is not possible to say that all such discussions mean expanded programmability, interoperability, automation, or any other single feature. There is no basis here for a universal generation boundary separating “conventional” contracts from “2.0” contracts.
 
@@ -34,7 +34,7 @@ A useful reading habit is to replace the label with the exact claim being made. 
 
 ## Capabilities the label may refer to
 
-Some technical designs do describe capabilities that go beyond processing only public onchain information. For example, a zero-knowledge privacy application can separate private witness data and offchain proof generation from a public commitment and an onchain verifier that checks the proof (claim_private_proof_public_verify). This is a documented architectural pattern—not evidence that every system described as “smart contracts 2.0” uses zero-knowledge proofs, or that all such systems provide the same privacy properties.
+Some technical designs do describe capabilities that go beyond processing only public onchain information. For example, a zero-knowledge privacy application can separate private witness data and offchain proof generation from a public commitment and an onchain verifier that checks the proof ([source](<https://ethereum.org/latest/privacy-apps-on-ethereum/>)). This is a documented architectural pattern—not evidence that every system described as “smart contracts 2.0” uses zero-knowledge proofs, or that all such systems provide the same privacy properties.
 
 Likewise, other proposals may discuss different forms of interaction or automation. The label alone cannot establish whether those are concepts, specifications, or deployed features. To determine what is actually present, seek an implementation’s technical documentation and identify what runs onchain, what happens outside the chain, and what dependencies the design introduces.
 
@@ -44,7 +44,7 @@ The evidence for a capability should also match its scope. A documented pattern 
 
 “Smart contracts 2.0” does not, on its own, prove that a system is more secure, autonomous, scalable, or interoperable. It also does not identify a particular blockchain, programming language, protocol, or compliance status. Those are separate claims that require evidence about the specific system and the relevant property.
 
-Even seemingly simple comparisons can be misleading without qualification. For example, proof-of-work finality is described as probabilistic because simultaneous valid blocks can create temporary forks, with later blocks increasing confidence in one history (claim_eth_pow_finality). That statement concerns proof-of-work finality; it is not a general measure of whether a contract is “2.0,” nor proof that a contract feature makes an entire application more reliable.
+Even seemingly simple comparisons can be misleading without qualification. For example, proof-of-work finality is described as probabilistic because simultaneous valid blocks can create temporary forks, with later blocks increasing confidence in one history ([source](<https://ethereum.org/developers/docs/consensus-mechanisms/pow>)). That statement concerns proof-of-work finality; it is not a general measure of whether a contract is “2.0,” nor proof that a contract feature makes an entire application more reliable.
 
 The same caution applies to words such as “advanced,” “autonomous,” or “next-generation.” Unless the source defines the terms and documents the relevant architecture, they are descriptions—not technical guarantees.
 

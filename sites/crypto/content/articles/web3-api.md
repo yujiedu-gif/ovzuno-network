@@ -14,11 +14,11 @@ owned_question: "How should a developer choose and integrate a Web3 API for a de
 risk_level: "medium"
 ---
 
-A Web3 API integration should begin with the dApp’s specific blockchain reads and actions, not with a provider choice. Developers should map the networks and data the application needs, select an access pattern suited to those needs, and make request failures and data freshness visible. An API is only one component of a dApp’s broader stack; it does not by itself establish that the application is decentralized, secure, or reliable in every situation. (claim_web3_broader_stack; claim_dapp_frontend_contract)
+A Web3 API integration should begin with the dApp’s specific blockchain reads and actions, not with a provider choice. Developers should map the networks and data the application needs, select an access pattern suited to those needs, and make request failures and data freshness visible. An API is only one component of a dApp’s broader stack; it does not by itself establish that the application is decentralized, secure, or reliable in every situation. ([source](<https://ethereum.org/developers/docs/ethereum-stack/>); [source](<https://ethereum.org/developers/docs/dapps/>))
 
 ## Map the dApp’s blockchain requirements
 
-A decentralized application, or dApp, can combine a smart contract running on a decentralized network with a frontend user interface. Its broader stack may also include blockchain nodes, client libraries, wallets, data indexing, storage, and other off-chain services. A Web3 API integration connects application code to some part of this stack; it does not collapse those components into one system. (claim_dapp_frontend_contract; claim_web3_broader_stack)
+A decentralized application, or dApp, can combine a smart contract running on a decentralized network with a frontend user interface. Its broader stack may also include blockchain nodes, client libraries, wallets, data indexing, storage, and other off-chain services. A Web3 API integration connects application code to some part of this stack; it does not collapse those components into one system. ([source](<https://ethereum.org/developers/docs/dapps/>); [source](<https://ethereum.org/developers/docs/ethereum-stack/>))
 
 Before selecting an access pattern, inventory the application’s required operations. For each feature, note the network, the contract or records involved, and whether the application needs to read information or initiate an action. A display that reads contract state and a user action that invokes contract code are separate requirements. A dApp may also need historical records or application-shaped data, which can call for a different access path than a basic read.
 
@@ -26,9 +26,9 @@ Record the expected result for each request: what data the feature needs, how it
 
 ## Choose a Web3 API access pattern
 
-A node interface can expose protocol-oriented information such as blocks, transactions, receipts, state queries, and contract logs. Ethereum JSON-RPC is one example of this kind of interface. It provides a way for applications to request blockchain information and submit transactions through a node, but its protocol-level records are not automatically a universal application data model. (claim_rpc_raw_records)
+A node interface can expose protocol-oriented information such as blocks, transactions, receipts, state queries, and contract logs. Ethereum JSON-RPC is one example of this kind of interface. It provides a way for applications to request blockchain information and submit transactions through a node, but its protocol-level records are not automatically a universal application data model. ([source](<https://ethereum.org/developers/docs/apis/json-rpc/>))
 
-An application-specific indexing layer is a distinct pattern. The broader dApp stack may include indexing alongside nodes, contracts, and other off-chain services. An indexed view can be useful when the application needs information organized for a particular feature, but developers should identify which component supplies each result rather than treating every API as interchangeable. (claim_web3_broader_stack)
+An application-specific indexing layer is a distinct pattern. The broader dApp stack may include indexing alongside nodes, contracts, and other off-chain services. An indexed view can be useful when the application needs information organized for a particular feature, but developers should identify which component supplies each result rather than treating every API as interchangeable. ([source](<https://ethereum.org/developers/docs/ethereum-stack/>))
 
 Use a decision checklist before committing to a pattern:
 
@@ -38,7 +38,7 @@ Use a decision checklist before committing to a pattern:
 - **Access conditions:** What authentication, request limits, and response or error formats does the service document?
 - **Failure behavior:** If the access path cannot provide the required information, can the app safely show a limited result or defer the action?
 
-“Web3” itself has no single rigid definition and is commonly used as a broad term for a user-owned, decentralized vision of the internet. Treat the label as context, not as a technical guarantee. An application may use only some elements of that vision and can still rely on centralized providers or other off-chain services for parts of its operation. (claim_web3_not_rigid; claim_web3_broader_stack; claim_web3_foundation_scope)
+“Web3” itself has no single rigid definition and is commonly used as a broad term for a user-owned, decentralized vision of the internet. Treat the label as context, not as a technical guarantee. An application may use only some elements of that vision and can still rely on centralized providers or other off-chain services for parts of its operation. ([source](<https://ethereum.org/web3/>); [source](<https://ethereum.org/developers/docs/ethereum-stack/>); [source](<https://web3.foundation/manifesto>))
 
 ## Connect the application and validate requests
 
@@ -56,13 +56,13 @@ Plan explicit handling for failed or unusable requests. For example, the applica
 
 Set retry behavior deliberately, especially for actions that may change state. A failed or delayed response does not by itself tell the application what happened to an action already submitted. Before repeating it, check its status through a suitable documented path. Avoid promising that retries will produce exactly one outcome unless the specific system’s behavior supports that conclusion.
 
-Also decide how the application treats information from different stack components. A node interface may expose protocol-oriented records, while other off-chain services can supply indexed or application-organized information. Specify which source the feature uses, how it responds when information is unavailable, and whether the user should be warned that a displayed result may not meet the feature’s freshness requirement. (claim_rpc_raw_records; claim_web3_broader_stack)
+Also decide how the application treats information from different stack components. A node interface may expose protocol-oriented records, while other off-chain services can supply indexed or application-organized information. Specify which source the feature uses, how it responds when information is unavailable, and whether the user should be warned that a displayed result may not meet the feature’s freshness requirement. ([source](<https://ethereum.org/developers/docs/apis/json-rpc/>); [source](<https://ethereum.org/developers/docs/ethereum-stack/>))
 
 For any user-facing action, define what status the application will display while it is pending and what evidence it requires before presenting the outcome as complete. The appropriate rule depends on the network and application. Do not assume one status or confirmation policy applies to every chain, endpoint, or use case.
 
 ## Review security and production readiness
 
-Treat access credentials as a separate operational concern when an integration uses them. Identify where credentials are stored, which parts of the application can access them, and what restrictions the service documents. An API connection alone does not prove that credentials are protected or that the overall dApp is secure. Evaluate the integration and the application’s other components separately. (claim_web3_broader_stack)
+Treat access credentials as a separate operational concern when an integration uses them. Identify where credentials are stored, which parts of the application can access them, and what restrictions the service documents. An API connection alone does not prove that credentials are protected or that the overall dApp is secure. Evaluate the integration and the application’s other components separately. ([source](<https://ethereum.org/developers/docs/ethereum-stack/>))
 
 Before release, review these points:
 
@@ -74,7 +74,7 @@ Before release, review these points:
 - The application has a stated approach for unavailable or potentially stale data and does not imply certainty where it lacks confirmation.
 - Any security, availability, recovery, fee, or compliance statement is supported by current evidence for the particular service and context rather than inferred from general API behavior.
 
-A Web3 API integration is one piece of a dApp, alongside components such as its frontend, contracts, nodes, wallet interactions, and any indexing or off-chain services it uses. The practical task is to match the access pattern to the application’s actual needs, verify each connection and response, and decide how the interface behaves when information or actions cannot be confirmed. These checks help define the integration’s limits; they do not turn an API into a guarantee about the entire application. (claim_web3_broader_stack; claim_dapp_frontend_contract)
+A Web3 API integration is one piece of a dApp, alongside components such as its frontend, contracts, nodes, wallet interactions, and any indexing or off-chain services it uses. The practical task is to match the access pattern to the application’s actual needs, verify each connection and response, and decide how the interface behaves when information or actions cannot be confirmed. These checks help define the integration’s limits; they do not turn an API into a guarantee about the entire application. ([source](<https://ethereum.org/developers/docs/ethereum-stack/>); [source](<https://ethereum.org/developers/docs/dapps/>))
 
 ## Sources and references
 

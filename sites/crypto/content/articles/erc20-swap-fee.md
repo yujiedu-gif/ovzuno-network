@@ -18,13 +18,13 @@ An ERC-20 swap fee is not necessarily one charge. A transaction may involve a bl
 
 ## What an ERC-20 swap fee can include
 
-ERC-20 defines a common token interface for balances, direct transfers, and approvals that let another address spend up to an authorized amount. It does not set a universal swap fee or determine how an application routes a trade. The costs and displayed figures depend on the particular transaction and interface. [claim_erc20_ledger_interface]
+ERC-20 defines a common token interface for balances, direct transfers, and approvals that let another address spend up to an authorized amount. It does not set a universal swap fee or determine how an application routes a trade. The costs and displayed figures depend on the particular transaction and interface. [source](<https://eips.ethereum.org/EIPS/eip-20>)
 
 A useful review separates three categories:
 
 - **Network execution cost:** the amount shown for processing the transaction on the selected blockchain. It is distinct from a charge specific to the swap application. The available evidence here does not provide a gas formula or live rate, so use the transaction-specific estimate shown by the wallet or interface rather than assuming a fixed amount.
 - **Application or protocol charge:** an additional charge that an application may disclose, or that may be reflected in its quote. The evidence does not establish that every application charges one, or how any particular application calculates it. Check the interface’s labels and terms instead of assuming a universal fee structure.
-- **Liquidity and price impact:** effects on the exchange result when a trade uses available pool inventory. These can change the amount received without being an extra, separately billed line item. In an automated market maker (AMM), liquidity providers contribute assets to pools and may receive a share of trading fees while bearing inventory and adverse-selection risk. Pool formulas, fee tiers, price ranges, and loss allocation vary by protocol and position. [claim_bis_amm_liquidity]
+- **Liquidity and price impact:** effects on the exchange result when a trade uses available pool inventory. These can change the amount received without being an extra, separately billed line item. In an automated market maker (AMM), liquidity providers contribute assets to pools and may receive a share of trading fees while bearing inventory and adverse-selection risk. Pool formulas, fee tiers, price ranges, and loss allocation vary by protocol and position. [source](<https://www.bis.org/publ/work1227.pdf>)
 
 These categories should not be conflated. An explicit charge is an amount the interface identifies as due. Price impact is an effect on the exchange result, not automatically a separate fee. The quoted output can reflect the trade’s interaction with liquidity even when the interface does not show that effect as its own charge.
 
@@ -32,7 +32,7 @@ These categories should not be conflated. An explicit charge is an amount the in
 
 Start with the transaction preview and identify the amount it labels as a network or execution cost. Then look for other charges identified as application or protocol fees. Record each value and its denomination. A cost in ETH and a charge in a token such as USDC are not directly additive as raw numbers; unless the interface provides a clear conversion basis, keep them listed separately.
 
-ERC-20 includes an approval mechanism, but the standard alone does not say whether a given swap flow needs a separate approval transaction. If the wallet shows an approval step, review it as a separate transaction and do not assume its cost is included in the swap preview. The evidence available here does not establish when a specific application requires approval or what that step costs; the transaction details shown for the particular flow are the relevant input. [claim_erc20_ledger_interface]
+ERC-20 includes an approval mechanism, but the standard alone does not say whether a given swap flow needs a separate approval transaction. If the wallet shows an approval step, review it as a separate transaction and do not assume its cost is included in the swap preview. The evidence available here does not establish when a specific application requires approval or what that step costs; the transaction details shown for the particular flow are the relevant input. [source](<https://eips.ethereum.org/EIPS/eip-20>)
 
 The expected token output is another separate item. It describes what the quote anticipates the swap will deliver, rather than a charge to add to network gas. A smaller output may reflect liquidity or price impact; do not label it as a separately billed fee unless the interface identifies one.
 
@@ -54,9 +54,9 @@ This framework is a way to organize the displayed inputs, not a live calculation
 
 ## Why swap costs vary between transactions
 
-The transaction’s requirements and the network conditions at the time of submission can affect the displayed execution estimate. Swap-specific charges, when present, depend on the application or protocol terms. The assets and route can also affect the expected exchange result because pools differ in their formulas, fees, assets, price ranges, and accounting. A model for one pool therefore should not be treated as a rule for every AMM. [claim_bis_amm_liquidity]
+The transaction’s requirements and the network conditions at the time of submission can affect the displayed execution estimate. Swap-specific charges, when present, depend on the application or protocol terms. The assets and route can also affect the expected exchange result because pools differ in their formulas, fees, assets, price ranges, and accounting. A model for one pool therefore should not be treated as a rule for every AMM. [source](<https://www.bis.org/publ/work1227.pdf>)
 
-The interface is another part of the review. DEX interface guidance calls for clear communication of token identity, allowances, quoted outputs, slippage, price impact, network fees, and transaction state. This is guidance about what an interface should communicate; it does not prove that a particular quote is complete or that the underlying contracts or assets are safe. [claim_eth_dex_interface_safety]
+The interface is another part of the review. DEX interface guidance calls for clear communication of token identity, allowances, quoted outputs, slippage, price impact, network fees, and transaction state. This is guidance about what an interface should communicate; it does not prove that a particular quote is complete or that the underlying contracts or assets are safe. [source](<https://ethereum.org/developers/docs/design-and-ux/dex-design-best-practice/>)
 
 Consequently, two previews should not be compared by looking only at a single number labeled “fee.” Check what that number includes, whether another charge is already folded into it, which units are used, and how the expected output is presented. If the interface does not make these distinctions clear, the available information may not support a reliable total-cost comparison.
 

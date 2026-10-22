@@ -18,7 +18,7 @@ risk_level: "medium"
 
 ## What “Polygon zero knowledge” can refer to
 
-A zero-knowledge proof is a cryptographic proof that can allow a verifier to check a claim without receiving the underlying private witness data. In a privacy application, for example, proof generation may take place off-chain while a public commitment and an on-chain verifier are used to check the proof. That describes a possible use of the technique, not a claim about a particular Polygon network. [claim_private_proof_public_verify]
+A zero-knowledge proof is a cryptographic proof that can allow a verifier to check a claim without receiving the underlying private witness data. In a privacy application, for example, proof generation may take place off-chain while a public commitment and an on-chain verifier are used to check the proof. That describes a possible use of the technique, not a claim about a particular Polygon network. [source](<https://ethereum.org/latest/privacy-apps-on-ethereum/>)
 
 In scaling discussions, the phrase may instead refer to a system that uses a validity proof to support proposed changes to a rollup’s state. A rollup, in this context, is a scaling design in which execution and state storage occur off the base layer, while a proof or other record is submitted for verification or settlement. The phrase “Polygon zero knowledge” alone does not establish that a named system is a rollup, which proof design it uses, or where its data and verification occur.
 
@@ -26,13 +26,13 @@ To evaluate a specific claim, first record the exact network or project name and
 
 ## How proofs fit into Polygon-associated scaling
 
-A validity-rollup model provides a useful, carefully bounded example of the proof role. In that model, a proposed off-chain state transition is accompanied by a cryptographic validity proof. A verifier contract on the base layer accepts the transition after accepting the proof. The proof therefore supports verification of the proposed state change; it does not, by itself, describe every part of the system. [claim_validity_proof]
+A validity-rollup model provides a useful, carefully bounded example of the proof role. In that model, a proposed off-chain state transition is accompanied by a cryptographic validity proof. A verifier contract on the base layer accepts the transition after accepting the proof. The proof therefore supports verification of the proposed state change; it does not, by itself, describe every part of the system. [source](<https://ethereum.org/developers/docs/scaling/zk-rollups/>)
 
 For a Polygon-associated system, readers should verify whether this model applies before using it as an explanation. If it does, the next questions are what computation occurs off-chain, what the proof attests to, where verification occurs, and what the system publishes or relies on for data availability and settlement. Those roles are system-specific; the evidence available here does not answer them for a Polygon implementation.
 
 It also helps to separate the proof’s role from the rest of the workflow. The proof may support acceptance of a proposed state transition, but the system still has to specify how transactions are executed, how relevant information is handled, and how the resulting state is recognized. A claim about one of these steps should not be treated as a claim about all the others. For example, documentation that describes a verifier does not, without more, establish where transaction data is available or which parties can change system controls.
 
-This separation clarifies why proof technology and scaling outcomes are different claims. A proof can be part of a design for validating state transitions, but the word “zero knowledge” does not establish transaction capacity, latency, cost, or the system’s complete security properties. The scaling goal commonly framed as increasing transaction speed and throughput without sacrificing decentralization or security is a design objective, not a universal result or score. [claim_scaling_three_goals]
+This separation clarifies why proof technology and scaling outcomes are different claims. A proof can be part of a design for validating state transitions, but the word “zero knowledge” does not establish transaction capacity, latency, cost, or the system’s complete security properties. The scaling goal commonly framed as increasing transaction speed and throughput without sacrificing decentralization or security is a design objective, not a universal result or score. [source](<https://ethereum.org/developers/docs/scaling/>)
 
 ## Distinguish systems by architecture, not label
 
@@ -44,7 +44,7 @@ When documentation describes a Polygon-associated system, trace its architecture
 - **Settlement:** which system records or recognizes the resulting state and under what conditions.
 - **Dependencies and controls:** which components are on-chain or off-chain, and what assumptions, administrative controls, or upgrade processes the documentation specifies.
 
-These are questions to investigate, not properties that can be inferred from a shared name. Evidence that an Ethereum Layer 2 derives some security from Ethereum’s Layer 1, for example, applies to that class of Ethereum system and depends on its proof, data-availability, settlement, governance, and exit mechanisms. It does not establish the security model of a Polygon-associated system. [claim_l2_derives_l1_security]
+These are questions to investigate, not properties that can be inferred from a shared name. Evidence that an Ethereum Layer 2 derives some security from Ethereum’s Layer 1, for example, applies to that class of Ethereum system and depends on its proof, data-availability, settlement, governance, and exit mechanisms. It does not establish the security model of a Polygon-associated system. [source](<https://ethereum.org/developers/docs/scaling/>)
 
 A practical comparison should therefore use system-specific documents and keep each claim attached to the system, version, and conditions described. If a document explains proof verification but not data availability or upgrades, do not treat its silence as evidence that those components have no assumptions or controls. Similarly, terminology in a project description is not a substitute for a technical account of the architecture. A useful explanation should make clear which layer or component performs each function and what the documentation leaves unspecified.
 

@@ -18,7 +18,7 @@ A Solidity contract factory is a smart contract designed to create other contrac
 
 ## What a Solidity contract factory does
 
-A factory is a contract whose behavior includes creating other contracts. The factory is the creator; each contract it creates is a separate instance with its own address and behavior. On Ethereum, a contract contains persistent state and executable functions at an on-chain address, and it can emit events for applications to process. **[claim_contract_state_functions]**
+A factory is a contract whose behavior includes creating other contracts. The factory is the creator; each contract it creates is a separate instance with its own address and behavior. On Ethereum, a contract contains persistent state and executable functions at an on-chain address, and it can emit events for applications to process. **[source](<https://ethereum.org/developers/docs/smart-contracts/anatomy/>)**
 
 The factory pattern describes an architecture, not a required standard interface. A factory might centralize creation so that instances receive consistent inputs or follow shared rules. It might also keep a registry of created addresses or emit events that an application can process. These are design options: the name “factory” alone does not establish which, if any, a particular contract implements.
 
@@ -26,7 +26,7 @@ This distinction matters when an application needs to find or use an instance. A
 
 ## How a contract factory creates an instance
 
-A typical conceptual flow begins when a user or application requests creation by calling a factory function. On Ethereum, a user account can invoke a smart-contract function by submitting a transaction to the deployed contract. **[claim_eth_transaction_invocation]** The factory then follows its programmed logic: it may validate supplied values, choose which contract code to create, and pass constructor inputs into the creation process.
+A typical conceptual flow begins when a user or application requests creation by calling a factory function. On Ethereum, a user account can invoke a smart-contract function by submitting a transaction to the deployed contract. **[source](<https://ethereum.org/developers/docs/smart-contracts/>)** The factory then follows its programmed logic: it may validate supplied values, choose which contract code to create, and pass constructor inputs into the creation process.
 
 If the creation succeeds, the new contract has an address. Depending on its implementation, the factory can return that address to the caller, save it in contract state, emit an event, or use multiple approaches. The factory is not required to perform all of these actions. An application relying on one should verify that the factory actually implements it and that the application uses the correct interface and network address.
 
@@ -54,9 +54,9 @@ Begin with authority and scope. Determine who can request creation, select the c
 
 Next, examine initialization and ownership assignment. Confirm that each created instance receives the intended constructor values and that any later setup occurs under the expected authority. Review the factory and target contract together. Factory logic may pass incorrect inputs even when the target contract behaves as written, while sound factory logic does not make flawed target code safe.
 
-Review dependencies and external interactions as well. Smart-contract composability allows contracts to call or reuse independent on-chain components through public interfaces, but each dependency brings behavior, upgrade, permission, availability, and economic assumptions. **[claim_contract_composability]** Identify the components the factory or its instances rely on and what the design assumes about them.
+Review dependencies and external interactions as well. Smart-contract composability allows contracts to call or reuse independent on-chain components through public interfaces, but each dependency brings behavior, upgrade, permission, availability, and economic assumptions. **[source](<https://ethereum.org/developers/docs/smart-contracts/composability/>)** Identify the components the factory or its instances rely on and what the design assumes about them.
 
-Where a factory makes external contract calls, consider whether control can pass to another contract before internal state updates are complete. Solidity’s checks-effects-interactions pattern orders logic by checking conditions, recording internal state changes, and only then interacting externally. It reduces a class of reentrancy risk, but does not make arbitrary contract code safe. **[claim_checks_effects_interactions]** Treat it as one review consideration, not a substitute for examining the complete call path.
+Where a factory makes external contract calls, consider whether control can pass to another contract before internal state updates are complete. Solidity’s checks-effects-interactions pattern orders logic by checking conditions, recording internal state changes, and only then interacting externally. It reduces a class of reentrancy risk, but does not make arbitrary contract code safe. **[source](<https://docs.soliditylang.org/_/downloads/en/latest/pdf/>)** Treat it as one review consideration, not a substitute for examining the complete call path.
 
 Finally, inspect how creation outcomes are communicated and handled. If the factory records addresses or emits events, determine what applications rely on and how they distinguish successful creation from failure. A registry or event can aid discovery, but should not be confused with a remedy for a faulty instance. Do not infer that a factory provides a recovery mechanism, or that created contracts can be changed later, merely because they were created through one.
 
@@ -64,7 +64,7 @@ Finally, inspect how creation outcomes are communicated and handled. If the fact
 
 A factory may be useful when repeated creation through shared rules or a consistent instance-discovery path is an actual system requirement. For infrequent or straightforward creation, compare the factory’s added code, configuration, and tracking responsibilities with direct deployment. The decision should follow from the system’s creation and discovery needs rather than an assumption that the pattern is inherently safer or more efficient.
 
-Before relying on a factory, verify its creation behavior against the compiler and network documentation relevant to the project. Review the factory, each contract type it can create, constructor inputs, authority boundaries, dependency assumptions, and the application’s address-discovery method. If the design uses upgradeable contracts, initializer discipline and compatible storage layout across implementations require separate attention; those constraints do not describe every factory. **[claim_upgrade_constraints]**
+Before relying on a factory, verify its creation behavior against the compiler and network documentation relevant to the project. Review the factory, each contract type it can create, constructor inputs, authority boundaries, dependency assumptions, and the application’s address-discovery method. If the design uses upgradeable contracts, initializer discipline and compatible storage layout across implementations require separate attention; those constraints do not describe every factory. **[source](<https://docs.openzeppelin.com/upgrades-plugins/writing-upgradeable>)**
 
 The key question is whether shared creation rules or instance tracking justify the added architecture. A factory can organize how contracts are created, but its behavior and the contracts it produces still need to be understood and reviewed on their own terms.
 

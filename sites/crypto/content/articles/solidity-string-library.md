@@ -14,15 +14,15 @@ owned_question: "What is a Solidity string library, what operations can it provi
 risk_level: "medium"
 ---
 
-A Solidity string library is a reusable set of functions for working with text values in Solidity contracts. It can offer operations such as comparison, concatenation, or conversion, but the exact features and behavior depend on that library and the project’s compiler version. Solidity’s `string` type is the text value being handled; it is not itself a collection of built-in text-manipulation functions. [claim_nist_contract_definition]
+A Solidity string library is a reusable set of functions for working with text values in Solidity contracts. It can offer operations such as comparison, concatenation, or conversion, but the exact features and behavior depend on that library and the project’s compiler version. Solidity’s `string` type is the text value being handled; it is not itself a collection of built-in text-manipulation functions. [source](<https://csrc.nist.gov/glossary/term/Smart_contract>)
 
 ## What a Solidity string library is
 
-A smart contract is code and data deployed through cryptographically signed transactions on a blockchain network. In that setting, a library is a way to package reusable functions for contract code. A string library focuses those functions on Solidity values of type `string`, rather than defining a new text type or a universal set of operations. [claim_nist_contract_definition]
+A smart contract is code and data deployed through cryptographically signed transactions on a blockchain network. In that setting, a library is a way to package reusable functions for contract code. A string library focuses those functions on Solidity values of type `string`, rather than defining a new text type or a universal set of operations. [source](<https://csrc.nist.gov/glossary/term/Smart_contract>)
 
 The distinction matters because a string value and the tools used to process it are separate things. A contract can store or receive text without providing every operation a developer might expect from a general-purpose programming language. A library supplies only the functions included in its implementation; a different library may expose a different set or handle the same task differently.
 
-A library is also not the same as the contract’s application interface. The Solidity ABI specifies how applications encode and decode function selectors, arguments, return values, errors, and events when interacting with EVM contracts. A library’s internal text operations are implementation details unless exposed through a contract interface. [claim_solidity_abi]
+A library is also not the same as the contract’s application interface. The Solidity ABI specifies how applications encode and decode function selectors, arguments, return values, errors, and events when interacting with EVM contracts. A library’s internal text operations are implementation details unless exposed through a contract interface. [source](<https://docs.soliditylang.org/en/latest/abi-spec.html>)
 
 ## Why string operations often need utilities
 
@@ -30,7 +30,7 @@ Text handling can require more than holding a value. Contract logic may need to 
 
 The relevant distinction is between the operation a contract needs and the particular implementation used to perform it. For example, a comparison function might be useful when contract logic must distinguish exact text values. Whether a specific library provides that function, how it defines equality, and what inputs it accepts must be checked in its documentation and source. The evidence available here does not establish the behavior of any named string library.
 
-Version matters too. Solidity is statically typed, and its language behavior should be evaluated against the compiler version selected for a project. A utility’s compatibility and behavior cannot be inferred merely from the phrase “Solidity string library”; consult the applicable compiler documentation and the library’s version-specific materials before relying on an operation. [claim_nist_code_state_definition]
+Version matters too. Solidity is statically typed, and its language behavior should be evaluated against the compiler version selected for a project. A utility’s compatibility and behavior cannot be inferred merely from the phrase “Solidity string library”; consult the applicable compiler documentation and the library’s version-specific materials before relying on an operation. [source](<https://csrc.nist.gov/glossary/term/Smart_contract>)
 
 ## Common operations and their limitations
 
@@ -53,7 +53,7 @@ Check compiler compatibility and data handling before integration. Confirm the S
 
 Consider where text processing belongs. If a value must affect on-chain contract behavior, the contract needs a defined way to receive and process it. If the text is only needed for an off-chain display or workflow, developers can assess whether processing it outside the contract meets the application’s requirements. The choice depends on the contract’s intended behavior; the evidence here does not establish a general cost or performance advantage for either location.
 
-Finally, assess the quality and scope of any security review. The OWASP Smart Contract Security Verification Standard provides a structured framework for designing, building, and testing EVM-based smart contracts and decentralized applications, but its currently published version is early and it should be supplemented with project-specific threat modeling and review. A reference to a framework or to a library’s claimed review is not, by itself, proof that the particular code and its use in a contract are safe. [claim_owasp_verification]
+Finally, assess the quality and scope of any security review. The OWASP Smart Contract Security Verification Standard provides a structured framework for designing, building, and testing EVM-based smart contracts and decentralized applications, but its currently published version is early and it should be supplemented with project-specific threat modeling and review. A reference to a framework or to a library’s claimed review is not, by itself, proof that the particular code and its use in a contract are safe. [source](<https://owasp.org/projects/smart-contract-security-verification-standard>)
 
 ## Choosing an approach for a contract
 
