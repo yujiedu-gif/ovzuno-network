@@ -31,10 +31,28 @@ for site in root aiinfra crypto workplace; do
       failed=1
     fi
   else
-    if find "$output" -name '*.html' -type f -print0 | xargs -0 grep -l 'name=robots content="noindex,follow,noarchive"' | grep -q .; then
-      echo "Published site still contains noindex meta: $site" >&2
-      failed=1
-    fi
+    while IFS= read -r -d '' file; do
+      if ! grep -q 'name=robots content="noindex,follow,noarchive"' "$file"; then
+        continue
+      fi
+      relative="${file#"$output"/}"
+      if [[ "$relative" != articles/*/index.html ]]; then
+        echo "Published site has unexpected noindex meta: $file" >&2
+        failed=1
+        continue
+      fi
+      slug="${relative#articles/}"
+      slug="${slug%/index.html}"
+      source="$repo_dir/sites/$site/content/articles/$slug.md"
+      if [[ ! -f "$source" ]] || ! grep -q '^noindex: true$' "$source"; then
+        echo "Published page is noindex without an explicit page flag: $file" >&2
+        failed=1
+      fi
+      if grep -q "https://$site.ovzuno.com/articles/$slug/" "$output/sitemap.xml"; then
+        echo "Noindex page appears in sitemap: $file" >&2
+        failed=1
+      fi
+    done < <(find "$output" -name '*.html' -type f -print0)
     if grep -qi 'X-Robots-Tag:.*noindex' "$output/_headers"; then
       echo "Published site still contains noindex header: $site" >&2
       failed=1
