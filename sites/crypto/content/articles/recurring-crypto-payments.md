@@ -34,8 +34,6 @@ These models distribute responsibility differently. With payer-initiated request
 
 A programmable contract can govern state transitions, but it should not be confused with a general-purpose recurring-payment service. For example, an educational escrow model holds buyer and seller deposits until a buyer confirms receipt, then releases funds according to the contract’s state transitions; that example does not establish that the contract can determine whether a physical item arrived. The broader design lesson is that programmed rules can act on the conditions supplied to them, while external events and user decisions may require separate mechanisms. [claim_escrow_state_machine]
 
-For the related implementation boundary, see [Crypto Subscription Payments: How Recurring Billing Works](/articles/crypto-subscription-payments/).
-
 ## What a repeat-payment flow depends on
 
 A useful design separates the payment rule from the execution path. First define the destination and the amount: is each payment a fixed amount, or must it be calculated from some changing input? Then define the cadence and due-time policy. Finally, specify whether each due event creates a request for the payer or triggers an already authorized execution attempt. Without those choices, “recurring” does not say what the system should do.
