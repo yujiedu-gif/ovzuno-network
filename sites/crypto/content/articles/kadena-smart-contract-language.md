@@ -32,6 +32,8 @@ It is also useful to distinguish contract invocation from language semantics. In
 
 Once a contract interacts with other components, the application’s behavior is no longer explained by the language alone. A dependency may have its own permissions, upgrade process, availability conditions, or economic assumptions. A developer assessing a proposed Pact application should identify these connections and examine the relevant documentation for each one.
 
+For the related question, see [Kadena smart contract: how Pact code works on the network](/articles/kadena-smart-contract/).
+
 ## Pact concepts developers should recognize
 
 A reader evaluating Pact will encounter language-specific terminology in its reference materials. The available evidence for this article does not verify Pact’s current syntax, types, modules, capabilities, or version-specific semantics. It would therefore be misleading to supply definitions for those features or borrow definitions from another programming language.

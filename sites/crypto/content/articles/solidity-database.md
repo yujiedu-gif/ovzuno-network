@@ -32,6 +32,8 @@ This is a difference in control and operating model, not a claim that one approa
 
 Nor should “on-chain” be treated as synonymous with confidential. The provided evidence does not establish confidentiality for contract state. If information must remain private, that requirement needs separate technical assessment rather than an assumption based on using a contract.
 
+For the related question, see [Smart Contract Database: Meaning, State, and Storage](/articles/smart-contract-database/).
+
 ## Choosing what belongs on-chain
 
 Start by asking whether a value must be checked or changed according to shared contract rules. If contract execution needs to consult that value to determine a state transition, it may be relevant to contract state. If it is only needed for display, search, or other application functions, the fact that it is useful to an application does not itself mean it belongs in contract storage.

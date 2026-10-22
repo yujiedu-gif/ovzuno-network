@@ -34,6 +34,8 @@ For an actual Pact contract, separate the question “What does the language per
 
 The allowed evidence for this article does not include current Kadena technical documentation establishing Pact syntax, supported execution behavior, or version-specific guarantees. This is a real boundary, not a reason to infer details from Solidity, Ethereum, or generic blockchain descriptions. Anyone examining a Kadena implementation should confirm those claims against current official technical materials and the implementation itself.
 
+For the related question, see [Kadena Smart Contract Language: What Is Pact?](/articles/kadena-smart-contract-language/).
+
 ## How contract execution relates to the network
 
 Conceptually, a user or application submits an interaction intended to invoke contract logic. The network’s applicable rules determine how that request is evaluated and whether a resulting state change is recorded. This is a high-level way to frame the relationship between an interaction, code, and network state; it does not specify Kadena’s transaction format, execution stages, consensus behavior, or guarantees.

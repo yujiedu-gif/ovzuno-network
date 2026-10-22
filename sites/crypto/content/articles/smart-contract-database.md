@@ -42,6 +42,8 @@ The same caution applies to blockchain-backed storage. The phrase “smart contr
 
 An application can also use contract state alongside an off-chain database. The contract may hold values that its logic needs to act on, while an application’s separate data system can organize information for its own uses. The existence of one does not establish that the other is unnecessary. Each system has its own data model and operating responsibilities.
 
+For the related question, see [Solidity database: what the term means for smart-contract data](/articles/solidity-database/).
+
 ## What belongs on-chain—and what may not
 
 A useful design question is whether a piece of information must be governed directly by contract execution. If it does not need to affect contract behavior, it may not need to be part of contract state. This is a decision about the application’s requirements; the term “smart contract database” does not answer it.

@@ -36,6 +36,8 @@ Network fees belong in a separate category. In Ethereum, deployment consumes gas
 
 Keep optional operating work separate from the initial deployment transaction. If it is included in a broader project budget, label it distinctly and state its own scope; do not represent it as part of the contract-creation fee. The wider application stack may contain offchain services, but the presence of those components does not establish their price or availability. (claim_web3_broader_stack)
 
+For the related question, see [Smart contract cost: a framework for estimating project expenses](/articles/smart-contract-cost/).
+
 ## Estimate the deployment transaction fee
 
 A useful transaction-fee estimate begins with a specific deployment transaction, not a generic contract label. Identify the target network and the intended compiled bytecode and constructor data. Deployment uses those transaction contents to create a contract at a new address after successful inclusion, so an estimate should match the artifact and constructor inputs planned for release. If either changes, the transaction being estimated changes too. (claim_contract_deployment_transaction)

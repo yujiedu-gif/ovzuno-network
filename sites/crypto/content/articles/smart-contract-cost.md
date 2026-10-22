@@ -50,6 +50,8 @@ Also specify what happens after deployment. Identify the people or services resp
 
 Keep service and contract responsibilities distinct. The contract is one application component, while a decentralized application may also rely on a frontend and other off-chain services. [claim_dapp_frontend_contract] [claim_web3_broader_stack] An estimate that omits those components should say so explicitly, rather than implying that the contract budget covers them.
 
+For the related question, see [Cost of deploying smart contract: a practical estimation guide](/articles/cost-of-deploying-smart-contract/).
+
 ## Build a transparent estimate and check its assumptions
 
 Create a table with one row per work item and columns for scope, quantity or effort assumption, rate or other cost basis, evidence, owner, and uncertainty. Separate development, testing and review, deployment, and ongoing operations so readers can see which costs are one-time and which depend on continuing arrangements. If a cost input is not yet supported, label it as unresolved instead of filling the gap with a market average.
