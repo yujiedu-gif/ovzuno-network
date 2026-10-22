@@ -30,9 +30,7 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="{{ "brand/favicon.svg" | relURL }}" type="image/svg+xml">
-<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
-<link rel="icon" href="{{ "brand/png/favicon-48.png" | relURL }}" type="image/png" sizes="48x48">
+<link rel="icon" href="{{ "favicon.ico" | relURL }}">
 {{ if and .IsHome (eq .Site.Params.siteKey "root") }}<link rel="preload" as="image" href="{{ "images/ovzuno-hero-datacenter.jpg" | relURL }}" fetchpriority="high">{{ end }}
 {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}">
