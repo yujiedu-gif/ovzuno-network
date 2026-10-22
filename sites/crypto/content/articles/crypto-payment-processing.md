@@ -46,7 +46,7 @@ A **service provider** may perform some functions on behalf of a business, but n
 
 It is also useful to keep protocol events distinct from business events. A signed instruction is not a business’s confirmation that an order is paid. Network inclusion is not necessarily the same as the business’s internal settlement status. A business’s accounting entry, in turn, does not change the transaction’s protocol history.
 
-For the related implementation boundary, see [Crypto Payment Processor for Business: Roles and Selection Criteria](/articles/crypto-payment-processor-for-business/).
+For the related processor role and its operational boundary, see the existing [crypto payment processor overview](/articles/crypto-payment-processor/).
 
 ## What can change the operational outcome
 
