@@ -24,6 +24,8 @@ A wallet is involved in authorizing or sending a transaction, while a blockchain
 
 This distinction matters when a payment appears in an account or dashboard. A business needs to know whether a status means a transaction was detected, included, or has met the business’s own settlement conditions. A payment being broadcast is not enough by itself to fulfill an order; the merchant’s configured settlement conditions still apply. [claim_broadcast_not_settlement]
 
+For the related implementation boundary, see [Crypto Payment Processing: How a Transaction Moves from Initiation to Settlement](/articles/crypto-payment-processing/).
+
 ## How a business payment moves from checkout to settlement
 
 A typical operational map starts with checkout presenting payment instructions, followed by the customer initiating a transaction. A service may then detect activity associated with those instructions and report a status to the business. The exact sequence, terminology, and responsibility split are service-specific; the available evidence does not establish a universal processor lifecycle or confirmation policy.
