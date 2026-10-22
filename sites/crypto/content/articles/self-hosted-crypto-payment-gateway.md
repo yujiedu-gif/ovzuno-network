@@ -42,7 +42,7 @@ Operational planning should cover software maintenance, access management, backu
 
 Payment records also need reconciliation. The business should decide how gateway observations correspond to its own order records, how exceptions are surfaced, and who resolves mismatches. Notifications should be treated as inputs to a controlled process, not as unquestioned proof of settlement. The integration should handle the documented states it may receive and avoid fulfilling an order merely because a notification arrived.
 
-For the related implementation boundary, see [White label crypto payment gateway: model, roles, and due diligence](/articles/white-label-crypto-payment-gateway/).
+For the related branding and provider boundary, see the existing [white-label cryptocurrency payment gateway overview](/articles/white-label-cryptocurrency-payment-gateway/).
 
 ## Security, custody, and recovery questions
 
