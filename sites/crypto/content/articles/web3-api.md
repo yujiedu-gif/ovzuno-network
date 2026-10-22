@@ -83,3 +83,6 @@ A Web3 API integration is one piece of a dApp, alongside components such as its 
 - [Web3 Foundation Manifesto](https://web3.foundation/manifesto) — Web3 Foundation; retrieved 2026-10-19.
 - [Technical introduction to dapps](https://ethereum.org/developers/docs/dapps/) — ethereum.org; retrieved 2026-10-19.
 - [What is Web3 and why is it important?](https://ethereum.org/web3/) — ethereum.org; retrieved 2026-10-19.
+- [Interacting with smart contracts](https://ethereum.org/developers/docs/smart-contracts/interacting/) — ethereum.org; retrieved 2026-10-22.
+- [Data and analytics](https://ethereum.org/developers/docs/data-and-analytics/) — ethereum.org; retrieved 2026-10-22.
+- [Decentralized Storage](https://ethereum.org/developers/docs/storage/) — ethereum.org; retrieved 2026-10-22.

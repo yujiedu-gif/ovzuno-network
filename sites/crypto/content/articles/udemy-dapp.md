@@ -78,3 +78,6 @@ If the course does not make its scope clear, ask what is covered before assuming
 - [OWASP Smart Contract Security Verification Standard](https://owasp.org/projects/smart-contract-security-verification-standard) — OWASP Foundation; retrieved 2026-10-19.
 - [Introduction to smart contracts](https://ethereum.org/developers/docs/smart-contracts/) — ethereum.org; retrieved 2026-10-19.
 - [Smart contract - Glossary](https://csrc.nist.gov/glossary/term/Smart_contract) — National Institute of Standards and Technology; retrieved 2026-10-19.
+- [Interacting with smart contracts](https://ethereum.org/developers/docs/smart-contracts/interacting/) — ethereum.org; retrieved 2026-10-22.
+- [Data and analytics](https://ethereum.org/developers/docs/data-and-analytics/) — ethereum.org; retrieved 2026-10-22.
+- [Decentralized Storage](https://ethereum.org/developers/docs/storage/) — ethereum.org; retrieved 2026-10-22.

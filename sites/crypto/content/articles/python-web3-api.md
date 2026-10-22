@@ -105,3 +105,6 @@ A maintainable Python-to-contract integration makes responsibility boundaries vi
 - [Introduction to the Ethereum stack](https://ethereum.org/developers/docs/ethereum-stack/) — ethereum.org; retrieved 2026-10-19.
 - [EIP-1193: Ethereum Provider JavaScript API](https://eips.ethereum.org/EIPS/eip-1193) — Ethereum Improvement Proposals; retrieved 2026-10-19.
 - [Technical introduction to dapps](https://ethereum.org/developers/docs/dapps/) — ethereum.org; retrieved 2026-10-19.
+- [Interacting with smart contracts](https://ethereum.org/developers/docs/smart-contracts/interacting/) — ethereum.org; retrieved 2026-10-22.
+- [Data and analytics](https://ethereum.org/developers/docs/data-and-analytics/) — ethereum.org; retrieved 2026-10-22.
+- [Decentralized Storage](https://ethereum.org/developers/docs/storage/) — ethereum.org; retrieved 2026-10-22.

@@ -80,3 +80,7 @@ The final budget should show project effort and assurance work separately from n
 - [Deploying Smart Contracts](https://ethereum.org/developers/docs/smart-contracts/deploying/) — ethereum.org; retrieved 2026-10-19.
 - [Introduction to the Ethereum stack](https://ethereum.org/developers/docs/ethereum-stack/) — ethereum.org; retrieved 2026-10-19.
 - [Smart contract security](https://ethereum.org/developers/docs/smart-contracts/security/) — ethereum.org; retrieved 2026-10-19.
+- [Technical introduction to dapps](https://ethereum.org/developers/docs/dapps/) — ethereum.org; retrieved 2026-10-22.
+- [Interacting with smart contracts](https://ethereum.org/developers/docs/smart-contracts/interacting/) — ethereum.org; retrieved 2026-10-22.
+- [Data and analytics](https://ethereum.org/developers/docs/data-and-analytics/) — ethereum.org; retrieved 2026-10-22.
+- [Decentralized Storage](https://ethereum.org/developers/docs/storage/) — ethereum.org; retrieved 2026-10-22.
