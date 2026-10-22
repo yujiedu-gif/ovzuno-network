@@ -1,7 +1,7 @@
 {{ with .Params.admin_publication_id }}<meta name="website-admin-publication" content="{{ . }}">{{ end }}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{{ if .Site.Params.prelaunch }}<meta name=robots content="noindex,follow,noarchive">{{ end }}
+{{ if or .Site.Params.prelaunch .Params.noindex }}<meta name=robots content="noindex,follow,noarchive">{{ end }}
 {{- $canonical := .Permalink -}}
 {{- $articlePaginator := false -}}
 {{- if and site.Params.articlePagination .IsSection (eq .Section "articles") -}}
