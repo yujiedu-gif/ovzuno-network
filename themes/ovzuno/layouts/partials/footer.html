@@ -5,7 +5,7 @@
         {{ partial "logo.html" (dict "compact" false) }}
       </a>
       <p>{{ .Site.Params.footerStatement }}</p>
-      {{ if ne .Site.Params.siteKey "root" }}<a class="network-link" href="https://ovzuno.com/publications/">An OvZuno publication</a>{{ end }}
+      {{ if ne .Site.Params.siteKey "root" }}<a class="network-link" href="https://ovzuno.com/publications/"{{ if eq .Site.Params.siteKey "crypto" }} rel="nofollow noopener noreferrer"{{ end }}>An OvZuno publication</a>{{ end }}
     </section>
 
     {{ if eq .Site.Params.siteKey "root" }}
