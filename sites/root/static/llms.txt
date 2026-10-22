@@ -11,5 +11,4 @@ Editorial standards: https://ovzuno.com/editorial-standards/
 Publication disclosure: https://ovzuno.com/publication-disclosure/
 Contact: editor@ovzuno.com
 
-Status: pre-launch; pages are not intended for search indexing.
-
+Status: the OvZuno main site and Crypto publication are open for search indexing; AI Infrastructure and Workplace remain in development.
