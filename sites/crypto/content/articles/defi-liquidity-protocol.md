@@ -40,6 +40,8 @@ One documented model is the Across intent lifecycle: relayers provide funds on t
 
 When reviewing an architecture, separate three questions: where liquidity is held, which contracts or applications use it, and what system coordinates activity that spans networks. Then establish which components must act for the cross-network operation to proceed. The label “DeFi liquidity protocol” by itself does not answer these implementation questions or establish that assets are shared across networks.
 
+A protocol's liquidity rules are distinct from the assets in a pair; see [how a crypto liquidity pair fits a cross-chain exchange](/articles/liquidity-pair-crypto/) for the asset and inventory side of this design.
+
 ## Risks and design questions to evaluate
 
 Risk depends on the specific protocol and activity. For pool providers, the value of contributed assets can change relative to holding them, and fee income may or may not offset that change. The result depends on design and operating conditions, so the general category does not establish a particular outcome. [claim_bis_lp_loss]

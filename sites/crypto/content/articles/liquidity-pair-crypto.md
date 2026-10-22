@@ -36,6 +36,8 @@ The useful way to read a cross-chain description is to separate three questions:
 
 The term “cross-chain” does not by itself specify custody, routing, settlement, or timing. Those details depend on the system. A description that names a pair but says little about the mechanism connecting the networks leaves important parts of the exchange path unspecified.
 
+A pair names the assets, while protocol rules govern how liquidity is supplied and used; see [the role of a DeFi liquidity protocol](/articles/defi-liquidity-protocol/) for that separate layer.
+
 ## Liquidity pairs versus bridges and messaging
 
 A liquidity pair describes assets available for exchange in a market or pool. A bridge is a separate mechanism that coordinates activity between blockchain environments. Bridge patterns can include lock-and-mint, burn-and-mint, or atomic-swap and liquidity-network mechanisms. Which approach applies—and how its accounting or redemption works—depends on the bridge design. [claim_bridge_asset_mechanisms]
